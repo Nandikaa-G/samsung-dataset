@@ -1,0 +1,405 @@
+{
+  "bank_records": [
+    {
+      "account_number": "1001001",
+      "account_holder": "John Doe",
+      "balance": 5000.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5000.0}
+      ]
+    },
+    {
+      "account_number": "1001002",
+      "account_holder": "Jane Smith",
+      "balance": 7500.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7500.0}
+      ]
+    },
+    {
+      "account_number": "1001003",
+      "account_holder": "Robert Johnson",
+      "balance": 3200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 3200.0}
+      ]
+    },
+    {
+      "account_number": "1001004",
+      "account_holder": "Emily Davis",
+      "balance": 8900.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8900.0}
+      ]
+    },
+    {
+      "account_number": "1001005",
+      "account_holder": "Michael Brown",
+      "balance": 4500.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4500.0}
+      ]
+    },
+    {
+      "account_number": "1001006",
+      "account_holder": "Olivia White",
+      "balance": 6000.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6000.0}
+      ]
+    },
+    {
+      "account_number": "1001007",
+      "account_holder": "Daniel Harris",
+      "balance": 8200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8200.0}
+      ]
+    },
+    {
+      "account_number": "1001008",
+      "account_holder": "Sophia Miller",
+      "balance": 3700.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 3700.0}
+      ]
+    },
+    {
+      "account_number": "1001009",
+      "account_holder": "William Wilson",
+      "balance": 9500.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 9500.0}
+      ]
+    },
+    {
+      "account_number": "1001010",
+      "account_holder": "Mia Anderson",
+      "balance": 6800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6800.0}
+      ]
+    },
+    {
+      "account_number": "1001011",
+      "account_holder": "Ethan Jackson",
+      "balance": 5500.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5500.0}
+      ]
+    },
+    {
+      "account_number": "1001012",
+      "account_holder": "Ava Moore",
+      "balance": 4300.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4300.0}
+      ]
+    },
+    {
+      "account_number": "1001013",
+      "account_holder": "Noah Parker",
+      "balance": 7800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7800.0}
+      ]
+    },
+    {
+      "account_number": "1001014",
+      "account_holder": "Emma Taylor",
+      "balance": 5100.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5100.0}
+      ]
+    },
+    {
+      "account_number": "1001015",
+      "account_holder": "James Hall",
+      "balance": 8900.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8900.0}
+      ]
+    },
+    {
+      "account_number": "1001016",
+      "account_holder": "Isabella Adams",
+      "balance": 6700.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6700.0}
+      ]
+    },
+    {
+      "account_number": "1001017",
+      "account_holder": "Liam Turner",
+      "balance": 7400.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7400.0}
+      ]
+    },
+    {
+      "account_number": "1001018",
+      "account_holder": "Grace Hill",
+      "balance": 3200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 3200.0}
+      ]
+    },
+    {
+      "account_number": "1001019",
+      "account_holder": "Lucas Brooks",
+      "balance": 6000.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6000.0}
+      ]
+    },
+    {
+      "account_number": "1001020",
+      "account_holder": "Avery Coleman",
+      "balance": 4800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4800.0}
+      ]
+    },
+    {
+      "account_number": "1001021",
+      "account_holder": "Jackson Baker",
+      "balance": 7100.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7100.0}
+      ]
+    },
+    {
+      "account_number": "1001022",
+      "account_holder": "Aria Wood",
+      "balance": 5400.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5400.0}
+      ]
+    },
+    {
+      "account_number": "1001023",
+      "account_holder": "Logan Rivera",
+      "balance": 8800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8800.0}
+      ]
+    },
+    {
+      "account_number": "1001024",
+      "account_holder": "Ella Sanders",
+      "balance": 4200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4200.0}
+      ]
+    },
+    {
+      "account_number": "1001025",
+      "account_holder": "Carter Brooks",
+      "balance": 9400.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 9400.0}
+      ]
+    },
+    {
+      "account_number": "1001026",
+      "account_holder": "Stella Davis",
+      "balance": 5900.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5900.0}
+      ]
+    },
+    {
+      "account_number": "1001027",
+      "account_holder": "Elijah Bennett",
+      "balance": 7800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7800.0}
+      ]
+    },
+    {
+      "account_number": "1001028",
+      "account_holder": "Hazel Moore",
+      "balance": 3600.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 3600.0}
+      ]
+    },
+    {
+      "account_number": "1001029",
+      "account_holder": "Gabriel Thompson",
+      "balance": 8300.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8300.0}
+      ]
+    },
+    {
+      "account_number": "1001030",
+      "account_holder": "Piper Rogers",
+      "balance": 6900.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6900.0}
+      ]
+    },
+    {
+      "account_number": "1001031",
+      "account_holder": "Gavin Foster",
+      "balance": 4700.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4700.0}
+      ]
+    },
+    {
+      "account_number": "1001032",
+      "account_holder": "Lily Bryant",
+      "balance": 7100.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7100.0}
+      ]
+    },
+    {
+      "account_number": "1001033",
+      "account_holder": "Owen Reed",
+      "balance": 5600.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5600.0}
+      ]
+    },
+    {
+      "account_number": "1001034",
+      "account_holder": "Natalie Hunter",
+      "balance": 6400.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6400.0}
+      ]
+    },
+    {
+      "account_number": "1001035",
+      "account_holder": "Maxwell Griffin",
+      "balance": 8800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8800.0}
+      ]
+    },
+    {
+      "account_number": "1001036",
+      "account_holder": "Sophie Murphy",
+      "balance": 5000.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5000.0}
+      ]
+    },
+    {
+      "account_number": "1001037",
+      "account_holder": "Mason Lopez",
+      "balance": 4200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4200.0}
+      ]
+    },
+    {
+      "account_number": "1001038",
+      "account_holder": "Madison Campbell",
+      "balance": 7600.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7600.0}
+      ]
+    },
+    {
+      "account_number": "1001039",
+      "account_holder": "Henry Wood",
+      "balance": 5900.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5900.0}
+      ]
+    },
+    {
+      "account_number": "1001040",
+      "account_holder": "Aubrey Martinez",
+      "balance": 6700.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6700.0}
+      ]
+    },
+    {
+      "account_number": "1001041",
+      "account_holder": "Eliana Perez",
+      "balance": 4800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4800.0}
+      ]
+    },
+    {
+      "account_number": "1001042",
+      "account_holder": "Nolan Turner",
+      "balance": 8900.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8900.0}
+      ]
+    },
+    {
+      "account_number": "1001043",
+      "account_holder": "Scarlett Foster",
+      "balance": 3200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 3200.0}
+      ]
+    },
+    {
+      "account_number": "1001044",
+      "account_holder": "Gavin Bryant",
+      "balance": 6000.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6000.0}
+      ]
+    },
+    {
+      "account_number": "1001045",
+      "account_holder": "Lila Mitchell",
+      "balance": 7100.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 7100.0}
+      ]
+    },
+    {
+      "account_number": "1001046",
+      "account_holder": "Ethan Shaw",
+      "balance": 5400.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5400.0}
+      ]
+    },
+    {
+      "account_number": "1001047",
+      "account_holder": "Natalie Hunter",
+      "balance": 6700.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 6700.0}
+      ]
+    },
+    {
+      "account_number": "1001048",
+      "account_holder": "Maxwell Griffin",
+      "balance": 8800.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 8800.0}
+      ]
+    },
+    {
+      "account_number": "1001049",
+      "account_holder": "Sophie Murphy",
+      "balance": 5000.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 5000.0}
+      ]
+    },
+    {
+      "account_number": "1001050",
+      "account_holder": "Mason Lopez",
+      "balance": 4200.0,
+      "transactions": [
+        {"date": "2023-01-01", "description": "Opening Balance", "amount": 4200.0}
+      ]
+    }
+  ]
+}
+
