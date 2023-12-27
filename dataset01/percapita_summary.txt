@@ -1,0 +1,4 @@
+The dataset includes information on 50 cities, with populations ranging from 120,000 in Windsor Hills to 1,000,000 in Metropolis.
+In terms of population, the average across all cities is approximately 284,600, with a total population of around 14,230,000.
+Per capita income varies among the cities, with Mountainville having the highest at $60,000 and Riverside the lowest at $48,000. On average, the per capita income is approximately $54,200, resulting in a total combined income of around $2,710,000,000 for all cities.
+Metropolis stands out with the highest total income of $45,000,000,000, while Windsor Hills has the lowest at $6,000,000,000. The average total income for all cities is approximately $16,310,000,000, summing up to a staggering total combined income of around $815,500,000,000.

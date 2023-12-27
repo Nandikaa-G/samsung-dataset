@@ -1,0 +1,7 @@
+The maximum per capita GDP is $55,000 in CountryI.
+The minimum per capita GDP is $45,000 in CountryD and CountryAJ.
+The average per capita GDP across all countries is approximately $50,340.
+The total per capita GDP across all countries is $2,517,000,000.
+The maximum percentage increase in per capita GDP is 17.78% in CountryAK, CountryAS, and CountryAW.
+The maximum percentage decrease in per capita GDP is -16.36% in CountryJ.
+The average percentage change in per capita GDP is 2.79%.

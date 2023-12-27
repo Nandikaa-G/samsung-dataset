@@ -1,0 +1,492 @@
+{
+  "cricket_statistics": [
+    {
+      "player_id": 1,
+      "player_name": "Virat Kohli",
+      "team": "India",
+      "batting_average": 53.96,
+      "bowling_average": 0,
+      "total_runs": 7240
+    },
+    {
+      "player_id": 2,
+      "player_name": "Steve Smith",
+      "team": "Australia",
+      "batting_average": 62.84,
+      "bowling_average": 30.62,
+      "total_runs": 7540
+    },
+    {
+      "player_id": 3,
+      "player_name": "Kane Williamson",
+      "team": "New Zealand",
+      "batting_average": 53.38,
+      "bowling_average": 37.52,
+      "total_runs": 6152
+    },
+    {
+      "player_id": 4,
+      "player_name": "Joe Root",
+      "team": "England",
+      "batting_average": 49.39,
+      "bowling_average": 48.48,
+      "total_runs": 7599
+    },
+    {
+      "player_id": 5,
+      "player_name": "Babar Azam",
+      "team": "Pakistan",
+      "batting_average": 45.12,
+      "bowling_average": 0,
+      "total_runs": 2645
+    },
+    {
+      "player_id": 6,
+      "player_name": "David Warner",
+      "team": "Australia",
+      "batting_average": 48.09,
+      "bowling_average": 35.68,
+      "total_runs": 7244
+    },
+    {
+      "player_id": 7,
+      "player_name": "Kagiso Rabada",
+      "team": "South Africa",
+      "batting_average": 14.26,
+      "bowling_average": 22.95,
+      "total_runs": 576
+    },
+    {
+      "player_id": 8,
+      "player_name": "Jasprit Bumrah",
+      "team": "India",
+      "batting_average": 6.84,
+      "bowling_average": 21.38,
+      "total_runs": 48
+    },
+    {
+      "player_id": 9,
+      "player_name": "Kusal Mendis",
+      "team": "Sri Lanka",
+      "batting_average": 34.74,
+      "bowling_average": 0,
+      "total_runs": 2745
+    },
+    {
+      "player_id": 10,
+      "player_name": "Mitchell Starc",
+      "team": "Australia",
+      "batting_average": 20.78,
+      "bowling_average": 26.97,
+      "total_runs": 1512
+    },
+    {
+      "player_id": 11,
+      "player_name": "Shakib Al Hasan",
+      "team": "Bangladesh",
+      "batting_average": 39.4,
+      "bowling_average": 32.04,
+      "total_runs": 3865
+    },
+    {
+      "player_id": 12,
+      "player_name": "Ross Taylor",
+      "team": "New Zealand",
+      "batting_average": 44.12,
+      "bowling_average": 38.56,
+      "total_runs": 7363
+    },
+    {
+      "player_id": 13,
+      "player_name": "Marnus Labuschagne",
+      "team": "Australia",
+      "batting_average": 63.43,
+      "bowling_average": 31.83,
+      "total_runs": 1693
+    },
+    {
+      "player_id": 14,
+      "player_name": "Chris Woakes",
+      "team": "England",
+      "batting_average": 28.07,
+      "bowling_average": 30.75,
+      "total_runs": 2060
+    },
+    {
+      "player_id": 15,
+      "player_name": "Mohammad Amir",
+      "team": "Pakistan",
+      "batting_average": 11.43,
+      "bowling_average": 30.82,
+      "total_runs": 440
+    },
+    {
+      "player_id": 16,
+      "player_name": "Angelo Mathews",
+      "team": "Sri Lanka",
+      "batting_average": 44.52,
+      "bowling_average": 52.62,
+      "total_runs": 5996
+    },
+    {
+      "player_id": 17,
+      "player_name": "Ravichandran Ashwin",
+      "team": "India",
+      "batting_average": 28.1,
+      "bowling_average": 25.56,
+      "total_runs": 2845
+    },
+    {
+      "player_id": 18,
+      "player_name": "Faf du Plessis",
+      "team": "South Africa",
+      "batting_average": 40.02,
+      "bowling_average": 33.73,
+      "total_runs": 4163
+    },
+    {
+      "player_id": 19,
+      "player_name": "Tom Latham",
+      "team": "New Zealand",
+      "batting_average": 42.98,
+      "bowling_average": 0,
+      "total_runs": 3059
+    },
+    {
+      "player_id": 20,
+      "player_name": "Jason Holder",
+      "team": "West Indies",
+      "batting_average": 31.89,
+      "bowling_average": 27.41,
+      "total_runs": 1914
+    },
+    {
+      "player_id": 21,
+      "player_name": "Quinton de Kock",
+      "team": "South Africa",
+      "batting_average": 38.62,
+      "bowling_average": 0,
+      "total_runs": 2842
+    },
+    {
+      "player_id": 22,
+      "player_name": "Yasir Shah",
+      "team": "Pakistan",
+      "batting_average": 13.68,
+      "bowling_average": 29.44,
+      "total_runs": 632
+    },
+    {
+      "player_id": 23,
+      "player_name": "Jonny Bairstow",
+      "team": "England",
+      "batting_average": 35.42,
+      "bowling_average": 0,
+      "total_runs": 4035
+    },
+    {
+      "player_id": 24,
+      "player_name": "Pat Cummins",
+      "team": "Australia",
+      "batting_average": 17.3,
+      "bowling_average": 22.02,
+      "total_runs": 770
+    },
+    {
+      "player_id": 25,
+      "player_name": "Shai Hope",
+      "team": "West Indies",
+      "batting_average": 27.23,
+      "bowling_average": 0,
+      "total_runs": 1493
+    },
+{
+      "player_id": 26,
+      "player_name": "Tamim Iqbal",
+      "team": "Bangladesh",
+      "batting_average": 39.68,
+      "bowling_average": 0,
+      "total_runs": 7662
+    },
+    {
+      "player_id": 27,
+      "player_name": "Dimuth Karunaratne",
+      "team": "Sri Lanka",
+      "batting_average": 36.46,
+      "bowling_average": 0,
+      "total_runs": 4584
+    },
+    {
+      "player_id": 28,
+      "player_name": "Ben Stokes",
+      "team": "England",
+      "batting_average": 37.84,
+      "bowling_average": 32.68,
+      "total_runs": 4742
+    },
+    {
+      "player_id": 29,
+      "player_name": "Cheteshwar Pujara",
+      "team": "India",
+      "batting_average": 47.12,
+      "bowling_average": 0,
+      "total_runs": 6193
+    },
+    {
+      "player_id": 30,
+      "player_name": "Ellyse Perry",
+      "team": "Australia",
+      "batting_average": 79.6,
+      "bowling_average": 24.63,
+      "total_runs": 2512
+    },
+    {
+      "player_id": 31,
+      "player_name": "Rohit Sharma",
+      "team": "India",
+      "batting_average": 46.54,
+      "bowling_average": 32.71,
+      "total_runs": 7544
+    },
+    {
+      "player_id": 32,
+      "player_name": "Moeen Ali",
+      "team": "England",
+      "batting_average": 28.97,
+      "bowling_average": 36.59,
+      "total_runs": 2884
+    },
+    {
+      "player_id": 33,
+      "player_name": "Kraigg Brathwaite",
+      "team": "West Indies",
+      "batting_average": 33.41,
+      "bowling_average": 40.14,
+      "total_runs": 3404
+    },
+    {
+      "player_id": 34,
+      "player_name": "Ajinkya Rahane",
+      "team": "India",
+      "batting_average": 42.84,
+      "bowling_average": 0,
+      "total_runs": 4471
+    },
+    {
+      "player_id": 35,
+      "player_name": "Kemar Roach",
+      "team": "West Indies",
+      "batting_average": 12.55,
+      "bowling_average": 27.84,
+      "total_runs": 311
+    },
+    {
+      "player_id": 36,
+      "player_name": "Dean Elgar",
+      "team": "South Africa",
+      "batting_average": 39.79,
+      "bowling_average": 0,
+      "total_runs": 4763
+    },
+    {
+      "player_id": 37,
+      "player_name": "Neil Wagner",
+      "team": "New Zealand",
+      "batting_average": 13.39,
+      "bowling_average": 26.63,
+      "total_runs": 387
+    },
+    {
+      "player_id": 38,
+      "player_name": "Jos Buttler",
+      "team": "England",
+      "batting_average": 31.56,
+      "bowling_average": 0,
+      "total_runs": 3154
+    },
+    {
+      "player_id": 39,
+      "player_name": "Dale Steyn",
+      "team": "South Africa",
+      "batting_average": 13.11,
+      "bowling_average": 22.95,
+      "total_runs": 1189
+    },
+    {
+      "player_id": 40,
+      "player_name": "Mohammed Shami",
+      "team": "India",
+      "batting_average": 18.5,
+      "bowling_average": 27.21,
+      "total_runs": 466
+    },
+    {
+      "player_id": 41,
+      "player_name": "Shikhar Dhawan",
+      "team": "India",
+      "batting_average": 45.28,
+      "bowling_average": 0,
+      "total_runs": 2315
+    },
+    {
+      "player_id": 42,
+      "player_name": "Nathan Lyon",
+      "team": "Australia",
+      "batting_average": 13.05,
+      "bowling_average": 31.76,
+      "total_runs": 784
+    },
+    {
+      "player_id": 43,
+      "player_name": "Rishabh Pant",
+      "team": "India",
+      "batting_average": 44.35,
+      "bowling_average": 0,
+      "total_runs": 1652
+    },
+    {
+      "player_id": 44,
+      "player_name": "Mohammad Abbas",
+      "team": "Pakistan",
+      "batting_average": 4.5,
+      "bowling_average": 21.45,
+      "total_runs": 63
+    },
+    {
+      "player_id": 45,
+      "player_name": "Tom Curran",
+      "team": "England",
+      "batting_average": 17.25,
+      "bowling_average": 33.6,
+      "total_runs": 289
+    },
+    {
+      "player_id": 46,
+      "player_name": "Haris Sohail",
+      "team": "Pakistan",
+      "batting_average": 28.2,
+      "bowling_average": 0,
+      "total_runs": 1288
+    },
+    {
+      "player_id": 47,
+      "player_name": "Kyle Jamieson",
+      "team": "New Zealand",
+      "batting_average": 35.63,
+      "bowling_average": 14.3,
+      "total_runs": 474
+    },
+    {
+      "player_id": 48,
+      "player_name": "Usman Khawaja",
+      "team": "Australia",
+      "batting_average": 42.6,
+      "bowling_average": 0,
+      "total_runs": 2887
+    },
+    {
+      "player_id": 49,
+      "player_name": "Roston Chase",
+      "team": "West Indies",
+      "batting_average": 31.41,
+      "bowling_average": 42.66,
+      "total_runs": 1340
+    },
+    {
+      "player_id": 50,
+      "player_name": "Shaheen Afridi",
+      "team": "Pakistan",
+      "batting_average": 6.5,
+      "bowling_average": 24.33,
+      "total_runs": 78
+    },
+    {
+      "player_id": 51,
+      "player_name": "Mushfiqur Rahim",
+      "team": "Bangladesh",
+      "batting_average": 37.87,
+      "bowling_average": 0,
+      "total_runs": 4415
+    },
+    {
+      "player_id": 52,
+      "player_name": "Lungi Ngidi",
+      "team": "South Africa",
+      "batting_average": 14.9,
+      "bowling_average": 24.27,
+      "total_runs": 80
+    },
+    {
+      "player_id": 53,
+      "player_name": "Hanuma Vihari",
+      "team": "India",
+      "batting_average": 32.18,
+      "bowling_average": 28.6,
+      "total_runs": 624
+    },
+    {
+      "player_id": 54,
+      "player_name": "Chris Gayle",
+      "team": "West Indies",
+      "batting_average": 42.18,
+      "bowling_average": 42.64,
+      "total_runs": 7215
+    },
+    {
+      "player_id": 55,
+      "player_name": "Kusal Perera",
+      "team": "Sri Lanka",
+      "batting_average": 34.71,
+      "bowling_average": 0,
+      "total_runs": 2439
+    },
+    {
+      "player_id": 56,
+      "player_name": "Tim Southee",
+      "team": "New Zealand",
+      "batting_average": 16.13,
+      "bowling_average": 28.56,
+      "total_runs": 1087
+    },
+    {
+      "player_id": 57,
+      "player_name": "Mohammad Nabi",
+      "team": "Afghanistan",
+      "batting_average": 37.5,
+      "bowling_average": 37.75,
+      "total_runs": 1214
+    },
+    {
+      "player_id": 58,
+      "player_name": "Nicholas Pooran",
+      "team": "West Indies",
+      "batting_average": 32.5,
+      "bowling_average": 0,
+      "total_runs": 1214
+    },
+    {
+      "player_id": 59,
+      "player_name": "Duanne Olivier",
+      "team": "South Africa",
+      "batting_average": 12,
+      "bowling_average": 22.88,
+      "total_runs": 73
+    },
+    {
+      "player_id": 60,
+      "player_name": "Shadab Khan",
+      "team": "Pakistan",
+      "batting_average": 30.5,
+      "bowling_average": 28.2,
+      "total_runs": 606
+    },
+    {
+      "player_id": 61,
+      "player_name": "Liam Livingstone",
+      "team": "England",
+      "batting_average": 22.33,
+      "bowling_average": 46,
+      "total_runs": 124
+    }
+  ]
+}
