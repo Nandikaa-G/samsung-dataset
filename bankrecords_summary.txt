@@ -1,0 +1,5 @@
+The provided bank records consist of information for 50 accounts.
+The average balance across all accounts is $7,362.0, with a total combined balance of $368,100.0.
+The account with the maximum balance belongs to William Wilson (Account Number: 1001009) with a balance of $9,500.0.
+The account with the minimum balance belongs to Grace Hill (Account Number: 1001018) with a balance of $3,200.0.
+The common details for all accounts include an opening transaction date of 2023-01-01 and a description of "Opening Balance."
