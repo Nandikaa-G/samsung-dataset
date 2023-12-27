@@ -1,0 +1,89 @@
+Math:
+
+Number of students: 20
+Grades: A - 9, B - 6, C - 5
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+English:
+
+Number of students: 20
+Grades: A - 9, B - 7, C - 4
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Science:
+
+Number of students: 20
+Grades: A - 8, B - 6, C - 6
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+History:
+
+Number of students: 20
+Grades: A - 8, B - 6, C - 6
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Spanish:
+
+Number of students: 20
+Grades: A - 8, B - 7, C - 5
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Art:
+
+Number of students: 20
+Grades: A - 8, B - 7, C - 5
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Biology:
+
+Number of students: 20
+Grades: A - 7, B - 7, C - 6
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Physical Education:
+
+Number of students: 20
+Grades: A - 7, B - 6, C - 7
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Chemistry:
+
+Number of students: 20
+Grades: A - 7, B - 7, C - 6
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+French:
+
+Number of students: 20
+Grades: A - 7, B - 7, C - 6
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Music:
+
+Number of students: 20
+Grades: A - 7, B - 7, C - 6
+Average grade: B
+Maximum grade: A
+Minimum grade: C
+Now, let's calculate the overall statistics:
+
+Overall Grade Distribution:
+
+A - 79 students
+B - 76 students
+C - 75 students
+Overall Average Grade: B
+
+Overall Maximum Grade: A
+
+Overall Minimum Grade: C
