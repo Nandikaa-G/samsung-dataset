@@ -1,0 +1,50 @@
+Overall Statistics:
+Total Number of Records: 70
+Price Statistics:
+Total Sales Amount: $7224.30
+Average Price: $103.20
+Minimum Price: $59.99 (Vans Casual Sneakers)
+Maximum Price: $129.99 (Cole Haan Casual Loafers)
+Purchase Time Statistics:
+Earliest Purchase Date: March 1, 2023
+Latest Purchase Date: May 9, 2023
+Month-wise Statistics:
+March 2023:
+
+Total Sales: $2492.61
+Average Price: $99.70
+Most Bought Brand: Nike
+Least Bought Brand: And1
+Most Popular Size: 8
+Most Popular Color: Blue
+April 2023:
+
+Total Sales: $2671.50
+Average Price: $100.81
+Most Bought Brand: Converse
+Least Bought Brand: Diadora
+Most Popular Size: 10
+Most Popular Color: White
+May 2023:
+
+Total Sales: $1060.19
+Average Price: $106.02
+Most Bought Brand: Nike
+Least Bought Brand: Vans
+Most Popular Size: 7
+Most Popular Color: Red
+Payment Method Statistics:
+Most Used Payment Method: Credit Card (40 transactions)
+Least Used Payment Method: Cash (10 transactions)
+Purchase Method Statistics:
+Most Bought Product: Running Shoes (23 purchases)
+Least Bought Product: Hiking Boots and Soccer Cleats (3 purchases each)
+Brand-wise Statistics:
+Most Popular Brand: Nike (14 purchases)
+Least Popular Brand: And1 (1 purchase)
+Size-wise Statistics:
+Most Popular Size: 8 (23 purchases)
+Least Popular Size: 6 (not available in the dataset)
+Color-wise Statistics:
+Most Popular Color: Blue (15 purchases)
+Least Popular Color: Orange (1 purchase)
