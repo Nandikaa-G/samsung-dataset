@@ -1,0 +1,352 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "Metropolis",
+    "population": 1000000,
+    "per_capita_income": 45000,
+    "total_income": 45000000000
+  },
+  {
+    "city_id": 2,
+    "city_name": "Harborview",
+    "population": 750000,
+    "per_capita_income": 52000,
+    "total_income": 39000000000
+  },
+  {
+    "city_id": 3,
+    "city_name": "Mountainville",
+    "population": 500000,
+    "per_capita_income": 60000,
+    "total_income": 30000000000
+  },
+  {
+    "city_id": 4,
+    "city_name": "Riverside",
+    "population": 300000,
+    "per_capita_income": 48000,
+    "total_income": 14400000000
+  },
+  {
+    "city_id": 5,
+    "city_name": "Greenfield",
+    "population": 200000,
+    "per_capita_income": 55000,
+    "total_income": 11000000000
+  },
+  {
+    "city_id": 6,
+    "city_name": "Sunset Springs",
+    "population": 450000,
+    "per_capita_income": 51000,
+    "total_income": 22950000000
+  },
+  {
+    "city_id": 7,
+    "city_name": "Harmony Haven",
+    "population": 600000,
+    "per_capita_income": 58000,
+    "total_income": 34800000000
+  },
+  {
+    "city_id": 8,
+    "city_name": "Pinecrest",
+    "population": 350000,
+    "per_capita_income": 49000,
+    "total_income": 17150000000
+  },
+  {
+    "city_id": 9,
+    "city_name": "Oceanview",
+    "population": 180000,
+    "per_capita_income": 57000,
+    "total_income": 10260000000
+  },
+  {
+    "city_id": 10,
+    "city_name": "Silverlake",
+    "population": 400000,
+    "per_capita_income": 53000,
+    "total_income": 21200000000
+  },
+  {
+    "city_id": 11,
+    "city_name": "Skyline City",
+    "population": 280000,
+    "per_capita_income": 52000,
+    "total_income": 14560000000
+  },
+  {
+    "city_id": 12,
+    "city_name": "Springfield",
+    "population": 320000,
+    "per_capita_income": 54000,
+    "total_income": 17280000000
+  },
+  {
+    "city_id": 13,
+    "city_name": "Maplewood",
+    "population": 250000,
+    "per_capita_income": 59000,
+    "total_income": 14750000000
+  },
+  {
+    "city_id": 14,
+    "city_name": "Brookside",
+    "population": 150000,
+    "per_capita_income": 51000,
+    "total_income": 7650000000
+  },
+  {
+    "city_id": 15,
+    "city_name": "Roseville",
+    "population": 220000,
+    "per_capita_income": 56000,
+    "total_income": 12320000000
+  },
+  {
+    "city_id": 16,
+    "city_name": "Windsor Hills",
+    "population": 120000,
+    "per_capita_income": 50000,
+    "total_income": 6000000000
+  },
+  {
+    "city_id": 17,
+    "city_name": "Lakeview",
+    "population": 270000,
+    "per_capita_income": 53000,
+    "total_income": 14310000000
+  },
+  {
+    "city_id": 18,
+    "city_name": "Hilltop",
+    "population": 160000,
+    "per_capita_income": 49000,
+    "total_income": 7840000000
+  },
+  {
+    "city_id": 19,
+    "city_name": "Evergreen",
+    "population": 300000,
+    "per_capita_income": 55000,
+    "total_income": 16500000000
+  },
+  {
+    "city_id": 20,
+    "city_name": "Meadowlands",
+    "population": 350000,
+    "per_capita_income": 51000,
+    "total_income": 17850000000
+  },
+  {
+    "city_id": 21,
+    "city_name": "Woodland Heights",
+    "population": 180000,
+    "per_capita_income": 58000,
+    "total_income": 10440000000
+  },
+  {
+    "city_id": 22,
+    "city_name": "Cascade City",
+    "population": 240000,
+    "per_capita_income": 56000,
+    "total_income": 13440000000
+  },
+  {
+    "city_id": 23,
+    "city_name": "Stonebridge",
+    "population": 400000,
+    "per_capita_income": 52000,
+    "total_income": 20800000000
+  },
+  {
+    "city_id": 24,
+    "city_name": "Highland Park",
+    "population": 280000,
+    "per_capita_income": 54000,
+    "total_income": 15120000000
+  },
+  {
+    "city_id": 25,
+    "city_name": "Grandview",
+    "population": 200000,
+    "per_capita_income": 57000,
+    "total_income": 11400000000
+  },
+  {
+    "city_id": 26,
+    "city_name": "Oceanfront",
+    "population": 220000,
+    "per_capita_income": 54000,
+    "total_income": 11880000000
+  },
+  {
+    "city_id": 27,
+    "city_name": "Haven Hills",
+    "population": 260000,
+    "per_capita_income": 52000,
+    "total_income": 13520000000
+  },
+  {
+    "city_id": 28,
+    "city_name": "Cascade Falls",
+    "population": 180000,
+    "per_capita_income": 59000,
+    "total_income": 10620000000
+  },
+  {
+    "city_id": 29,
+    "city_name": "Silver Springs",
+    "population": 130000,
+    "per_capita_income": 51000,
+    "total_income": 6630000000
+  },
+  {
+    "city_id": 30,
+    "city_name": "Palm Harbor",
+    "population": 300000,
+    "per_capita_income": 58000,
+    "total_income": 17400000000
+  },
+  {
+    "city_id": 31,
+    "city_name": "Whitewater",
+    "population": 250000,
+    "per_capita_income": 56000,
+    "total_income": 14000000000
+  },
+  {
+    "city_id": 32,
+    "city_name": "Lighthouse Bay",
+    "population": 320000,
+    "per_capita_income": 54000,
+    "total_income": 17280000000
+  },
+  {
+    "city_id": 33,
+    "city_name": "Emerald City",
+    "population": 190000,
+    "per_capita_income": 57000,
+    "total_income": 10830000000
+  },
+  {
+    "city_id": 34,
+    "city_name": "Blue Ridge",
+    "population": 150000,
+    "per_capita_income": 52000,
+    "total_income": 7800000000
+  },
+  {
+    "city_id": 35,
+    "city_name": "Golden Gate",
+    "population": 280000,
+    "per_capita_income": 55000,
+    "total_income": 15400000000
+  },
+  {
+    "city_id": 36,
+    "city_name": "Crimson Valley",
+    "population": 200000,
+    "per_capita_income": 53000,
+    "total_income": 10600000000
+  },
+  {
+    "city_id": 37,
+    "city_name": "Majestic Heights",
+    "population": 350000,
+    "per_capita_income": 51000,
+    "total_income": 17850000000
+  },
+  {
+    "city_id": 38,
+    "city_name": "Aurora Springs",
+    "population": 240000,
+    "per_capita_income": 58000,
+    "total_income": 13920000000
+  },
+  {
+    "city_id": 39,
+    "city_name": "Coral Cove",
+    "population": 170000,
+    "per_capita_income": 56000,
+    "total_income": 9520000000
+  },
+  {
+    "city_id": 40,
+    "city_name": "Valley Vista",
+    "population": 220000,
+    "per_capita_income": 54000,
+    "total_income": 11880000000
+  },
+  {
+    "city_id": 41,
+    "city_name": "Sapphire Shores",
+    "population": 260000,
+    "per_capita_income": 52000,
+    "total_income": 13520000000
+  },
+  {
+    "city_id": 42,
+    "city_name": "Royal Heights",
+    "population": 180000,
+    "per_capita_income": 59000,
+    "total_income": 10620000000
+  },
+  {
+    "city_id": 43,
+    "city_name": "Marina Bay",
+    "population": 130000,
+    "per_capita_income": 51000,
+    "total_income": 6630000000
+  },
+  {
+    "city_id": 44,
+    "city_name": "Sunset Ridge",
+    "population": 300000,
+    "per_capita_income": 58000,
+    "total_income": 17400000000
+  },
+  {
+    "city_id": 45,
+    "city_name": "Cottonwood Creek",
+    "population": 250000,
+    "per_capita_income": 56000,
+    "total_income": 14000000000
+  },
+  {
+    "city_id": 46,
+    "city_name": "Aspen Grove",
+    "population": 320000,
+    "per_capita_income": 54000,
+    "total_income": 17280000000
+  },
+  {
+    "city_id": 47,
+    "city_name": "Sierra Vista",
+    "population": 190000,
+    "per_capita_income": 57000,
+    "total_income": 10830000000
+  },
+  {
+    "city_id": 48,
+    "city_name": "Willowbrook",
+    "population": 150000,
+    "per_capita_income": 52000,
+    "total_income": 7800000000
+  },
+  {
+    "city_id": 49,
+    "city_name": "Mountain Shadows",
+    "population": 280000,
+    "per_capita_income": 55000,
+    "total_income": 15400000000
+  },
+  {
+    "city_id": 50,
+    "city_name": "Crystal Springs",
+    "population": 200000,
+    "per_capita_income": 53000,
+    "total_income": 10600000000
+  }
+]
