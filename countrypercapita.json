@@ -1,0 +1,304 @@
+{
+  "country_gdp_data": [
+    {
+      "country_id": 1,
+      "country_name": "CountryA",
+      "per_capita_gdp": 50000,
+      "percentage_change": 0
+    },
+    {
+      "country_id": 2,
+      "country_name": "CountryB",
+      "per_capita_gdp": 48000,
+      "percentage_change": -4
+    },
+    {
+      "country_id": 3,
+      "country_name": "CountryC",
+      "per_capita_gdp": 52000,
+      "percentage_change": 8.33
+    },
+    {
+      "country_id": 4,
+      "country_name": "CountryD",
+      "per_capita_gdp": 45000,
+      "percentage_change": -13.46
+    },
+    {
+      "country_id": 5,
+      "country_name": "CountryE",
+      "per_capita_gdp": 49000,
+      "percentage_change": 8.89
+    },
+    {
+      "country_id": 6,
+      "country_name": "CountryF",
+      "per_capita_gdp": 51000,
+      "percentage_change": 4.08
+    },
+    {
+      "country_id": 7,
+      "country_name": "CountryG",
+      "per_capita_gdp": 53000,
+      "percentage_change": 3.92
+    },
+    {
+      "country_id": 8,
+      "country_name": "CountryH",
+      "per_capita_gdp": 47000,
+      "percentage_change": -11.32
+    },
+    {
+      "country_id": 9,
+      "country_name": "CountryI",
+      "per_capita_gdp": 55000,
+      "percentage_change": 17.02
+    },
+    {
+      "country_id": 10,
+      "country_name": "CountryJ",
+      "per_capita_gdp": 46000,
+      "percentage_change": -16.36
+    },
+    {
+      "country_id": 11,
+      "country_name": "CountryK",
+      "per_capita_gdp": 48000,
+      "percentage_change": 4.35
+    },
+    {
+      "country_id": 12,
+      "country_name": "CountryL",
+      "per_capita_gdp": 51000,
+      "percentage_change": 6.25
+    },
+    {
+      "country_id": 13,
+      "country_name": "CountryM",
+      "per_capita_gdp": 54000,
+      "percentage_change": 5.88
+    },
+    {
+      "country_id": 14,
+      "country_name": "CountryN",
+      "per_capita_gdp": 49000,
+      "percentage_change": -9.26
+    },
+    {
+      "country_id": 15,
+      "country_name": "CountryO",
+      "per_capita_gdp": 52000,
+      "percentage_change": 6.12
+    },
+    {
+      "country_id": 16,
+      "country_name": "CountryP",
+      "per_capita_gdp": 47000,
+      "percentage_change": -9.62
+    },
+    {
+      "country_id": 17,
+      "country_name": "CountryQ",
+      "per_capita_gdp": 50000,
+      "percentage_change": 6.38
+    },
+    {
+      "country_id": 18,
+      "country_name": "CountryR",
+      "per_capita_gdp": 45000,
+      "percentage_change": -10
+    },
+    {
+      "country_id": 19,
+      "country_name": "CountryS",
+      "per_capita_gdp": 53000,
+      "percentage_change": 17.78
+    },
+    {
+      "country_id": 20,
+      "country_name": "CountryT",
+      "per_capita_gdp": 51000,
+      "percentage_change": -3.77
+    },
+    {
+      "country_id": 21,
+      "country_name": "CountryU",
+      "per_capita_gdp": 48000,
+      "percentage_change": -5.88
+    },
+    {
+      "country_id": 22,
+      "country_name": "CountryV",
+      "per_capita_gdp": 52000,
+      "percentage_change": 8.33
+    },
+    {
+      "country_id": 23,
+      "country_name": "CountryW",
+      "per_capita_gdp": 54000,
+      "percentage_change": 3.85
+    },
+    {
+      "country_id": 24,
+      "country_name": "CountryX",
+      "per_capita_gdp": 47000,
+      "percentage_change": -12.96
+    },
+    {
+      "country_id": 25,
+      "country_name": "CountryY",
+      "per_capita_gdp": 55000,
+      "percentage_change": 17.02
+    },
+    {
+      "country_id": 26,
+      "country_name": "CountryZ",
+      "per_capita_gdp": 53000,
+      "percentage_change": -3.64
+    },
+    {
+      "country_id": 27,
+      "country_name": "CountryAA",
+      "per_capita_gdp": 51000,
+      "percentage_change": -3.77
+    },
+    {
+      "country_id": 28,
+      "country_name": "CountryAB",
+      "per_capita_gdp": 54000,
+      "percentage_change": 5.88
+    },
+    {
+      "country_id": 29,
+      "country_name": "CountryAC",
+      "per_capita_gdp": 49000,
+      "percentage_change": -9.26
+    },
+    {
+      "country_id": 30,
+      "country_name": "CountryAD",
+      "per_capita_gdp": 50000,
+      "percentage_change": 2.04
+    },
+    {
+      "country_id": 31,
+      "country_name": "CountryAE",
+      "per_capita_gdp": 48000,
+      "percentage_change": -4
+    },
+    {
+      "country_id": 32,
+      "country_name": "CountryAF",
+      "per_capita_gdp": 52000,
+      "percentage_change": 8.33
+    },
+    {
+      "country_id": 33,
+      "country_name": "CountryAG",
+      "per_capita_gdp": 54000,
+      "percentage_change": 3.85
+    },
+    {
+      "country_id": 34,
+      "country_name": "CountryAH",
+      "per_capita_gdp": 47000,
+      "percentage_change": -12.96
+    },
+    {
+      "country_id": 35,
+      "country_name": "CountryAI",
+      "per_capita_gdp": 50000,
+      "percentage_change": 6.38
+    },
+    {
+      "country_id": 36,
+      "country_name": "CountryAJ",
+      "per_capita_gdp": 45000,
+      "percentage_change": -10
+    },
+    {
+      "country_id": 37,
+      "country_name": "CountryAK",
+      "per_capita_gdp": 53000,
+      "percentage_change": 17.78
+    },
+    {
+      "country_id": 38,
+      "country_name": "CountryAL",
+      "per_capita_gdp": 51000,
+      "percentage_change": -3.77
+    },
+    {
+      "country_id": 39,
+      "country_name": "CountryAM",
+      "per_capita_gdp": 48000,
+      "percentage_change": -5.88
+    },
+    {
+      "country_id": 40,
+      "country_name": "CountryAN",
+      "per_capita_gdp": 52000,
+      "percentage_change": 8.33
+    },
+    {
+      "country_id": 41,
+      "country_name": "CountryAO",
+      "per_capita_gdp": 54000,
+      "percentage_change": 3.85
+    },
+    {
+      "country_id": 42,
+      "country_name": "CountryAP",
+      "per_capita_gdp": 47000,
+      "percentage_change": -12.96
+    },
+    {
+      "country_id": 43,
+      "country_name": "CountryAQ",
+      "per_capita_gdp": 50000,
+      "percentage_change": 6.38
+    },
+    {
+      "country_id": 44,
+      "country_name": "CountryAR",
+      "per_capita_gdp": 45000,
+      "percentage_change": -10
+    },
+    {
+      "country_id": 45,
+      "country_name": "CountryAS",
+      "per_capita_gdp": 53000,
+      "percentage_change": 17.78
+    },
+    {
+      "country_id": 46,
+      "country_name": "CountryAT",
+      "per_capita_gdp": 51000,
+      "percentage_change": -3.77
+    },
+    {
+      "country_id": 47,
+      "country_name": "CountryAU",
+      "per_capita_gdp": 48000,
+      "percentage_change": -5.88
+    },
+    {
+      "country_id": 48,
+      "country_name": "CountryAV",
+      "per_capita_gdp": 52000,
+      "percentage_change": 8.33
+    },
+    {
+      "country_id": 49,
+      "country_name": "CountryAW",
+      "per_capita_gdp": 54000,
+      "percentage_change": 3.85
+    },
+    {
+      "country_id": 50,
+      "country_name": "CountryAX",
+      "per_capita_gdp": 47000,
+      "percentage_change": -12.96
+    }
+  ]
+}
