@@ -1,0 +1,90 @@
+Team-wise Batting Statistics:
+
+India:
+Total Runs: 21,672
+Batting Average: 40.26
+Australia:
+Total Runs: 22,404
+Batting Average: 41.34
+New Zealand:
+Total Runs: 14,295
+Batting Average: 35.74
+England:
+Total Runs: 21,555
+Batting Average: 39.19
+Pakistan:
+Total Runs: 12,480
+Batting Average: 30.39
+South Africa:
+Total Runs: 11,729
+Batting Average: 31.77
+Sri Lanka:
+Total Runs: 11,827
+Batting Average: 33.79
+West Indies:
+Total Runs: 18,272
+Batting Average: 34.39
+Bangladesh:
+Total Runs: 8,015
+Batting Average: 27.63
+Afghanistan:
+Total Runs: 1,214
+Batting Average: 37.5
+Team-wise Bowling Statistics:
+
+India:
+Total Wickets: 60
+Bowling Average: 27.93
+Australia:
+Total Wickets: 107
+Bowling Average: 26.89
+New Zealand:
+Total Wickets: 62
+Bowling Average: 30.17
+England:
+Total Wickets: 92
+Bowling Average: 30.29
+Pakistan:
+Total Wickets: 24
+Bowling Average: 25.94
+South Africa:
+Total Wickets: 48
+Bowling Average: 31.16
+Sri Lanka:
+Total Wickets: 15
+Bowling Average: 37.75
+West Indies:
+Total Wickets: 47
+Bowling Average: 32.21
+Bangladesh:
+Total Wickets: 32
+Bowling Average: 32.73
+Afghanistan:
+Total Wickets: 4
+Bowling Average: 37.75
+Team-wise Overall Statistics:
+
+Total Runs (All Teams): 141,828
+Total Wickets (All Teams): 411
+Average Runs (All Teams): 22,354.67
+Average Wickets (All Teams): 68.5
+Teams with Highest Batting Average:
+
+Australia (41.34)
+India (40.26)
+England (39.19)
+Teams with Lowest Batting Average:
+
+Afghanistan (37.5)
+Sri Lanka (33.79)
+West Indies (34.39)
+Teams with Highest Bowling Average:
+
+Sri Lanka (37.75)
+Afghanistan (37.75)
+West Indies (32.21)
+Teams with Lowest Bowling Average:
+
+Australia (26.89)
+Pakistan (25.94)
+England (30.29)
