@@ -1,0 +1,555 @@
+[
+  {
+    "stationName": "Sunshine Gas Station",
+    "location": "123 Main St, Cityville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1234567890"
+  },
+  {
+    "stationName": "Green Fuel Hub",
+    "location": "456 Elm St, Townville",
+    "fuelTypes": ["Premium", "Electric"],
+    "hours": "Mon-Sat: 6am-10pm, Sun: 8am-8pm",
+    "contact": "+0987654321"
+  },
+  {
+    "stationName": "EcoFuel Depot",
+    "location": "789 Maple Ave, Villagetown",
+    "fuelTypes": ["Biofuel", "Regular"],
+    "hours": "Daily: 7am-9pm",
+    "contact": "+1122334455"
+  },
+  {
+    "stationName": "CountryFuel Stop",
+    "location": "Highway 20, Ruralville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-8pm",
+    "contact": "+1122334455"
+  },
+  {
+    "stationName": "HighwayHaven Fuels",
+    "location": "Interstate 95, Exit 15, Metropolis",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+9876543210"
+  },
+  {
+    "stationName": "CityFuel Plaza",
+    "location": "Downtown Avenue, Urbanville",
+    "fuelTypes": ["Premium", "Electric"],
+    "hours": "Mon-Fri: 7am-10pm, Sat: 8am-9pm, Sun: 9am-7pm",
+    "contact": "+5556667777"
+  },
+  {
+    "stationName": "QuickStop Fuel",
+    "location": "123 Speedway Blvd, Velocity City",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223333"
+  }
+]
+[
+  {
+    "stationName": "MetroFuel",
+    "location": "10 Downtown Rd, Metroville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1234567891"
+  },
+  {
+    "stationName": "Golden Pump",
+    "location": "45 Silver St, Goldtown",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "24/7",
+    "contact": "+0987654322"
+  },
+  {
+    "stationName": "Urban Gas Spot",
+    "location": "789 Elm Ave, City Central",
+    "fuelTypes": ["Unleaded", "Electric"],
+    "hours": "Mon-Sat: 6am-11pm, Sun: 8am-9pm",
+    "contact": "+1122334456"
+  },
+  {
+    "stationName": "Valley Fuel Station",
+    "location": "120 Mountain View, Valley City",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1122334457"
+  },
+  {
+    "stationName": "Coastal Gas Point",
+    "location": "22 Ocean Dr, Beachside",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-9pm",
+    "contact": "+9876543211"
+  },
+  {
+    "stationName": "Forest Fuel Hub",
+    "location": "50 Pine St, Woodville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Fri: 7am-9pm, Sat-Sun: 8am-8pm",
+    "contact": "+5556667778"
+  },
+  {
+    "stationName": "Harbor Gas Station",
+    "location": "15 Dock Rd, Seaview",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223334"
+  },
+  {
+    "stationName": "Skyline Fuel Point",
+    "location": "75 High St, Heights City",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 6am-10pm, Sun: 9am-7pm",
+    "contact": "+1112223335"
+  },
+  {
+    "stationName": "Plains Gas Stop",
+    "location": "30 Meadow Ln, Flatland",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1112223336"
+  },
+  {
+    "stationName": "Riverside Fuel Depot",
+    "location": "40 River Rd, Riverside",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+1112223337"
+  }
+]
+[
+  {
+    "stationName": "Sunrise Fuel",
+    "location": "5 Morning Ave, Dawnville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 6am-9pm",
+    "contact": "+1234567892"
+  },
+  {
+    "stationName": "Twilight Gas Stop",
+    "location": "8 Dusk Dr, Twilight City",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sun: 24/7",
+    "contact": "+0987654323"
+  },
+  {
+    "stationName": "Meadow Fuel Point",
+    "location": "12 Grassland Rd, Meadowville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 8am-8pm",
+    "contact": "+1122334458"
+  },
+  {
+    "stationName": "Desert Oasis Fuel",
+    "location": "16 Sand Ave, Dune City",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-9pm",
+    "contact": "+1122334459"
+  },
+  {
+    "stationName": "Mountain Top Gas",
+    "location": "20 Summit Rd, Peakville",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+9876543212"
+  },
+  {
+    "stationName": "Island Fuel Depot",
+    "location": "24 Beach Rd, Islandview",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Fri: 8am-8pm, Sat-Sun: 9am-7pm",
+    "contact": "+5556667779"
+  },
+  {
+    "stationName": "Rainforest Fuel",
+    "location": "28 Jungle St, Rainville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223338"
+  },
+  {
+    "stationName": "Urban Oasis Fuel",
+    "location": "32 Park Ave, Green City",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 9am-8pm",
+    "contact": "+1112223339"
+  },
+  {
+    "stationName": "Valley View Fuel",
+    "location": "36 Valley Rd, Valleyville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 6am-9pm",
+    "contact": "+1112223340"
+  },
+  {
+    "stationName": "Horizon Fuel",
+    "location": "40 Horizon Ave, Sunset City",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1112223341"
+  }
+]
+[
+  {
+    "stationName": "Central Fuel Point",
+    "location": "44 Hub St, Centerville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1234567893"
+  },
+  {
+    "stationName": "Parkside Gas",
+    "location": "48 Grove Ave, Parkville",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "24/7",
+    "contact": "+0987654324"
+  },
+  {
+    "stationName": "Lakefront Fuel Depot",
+    "location": "52 Lakeside Rd, Waterfront",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sat: 6am-11pm, Sun: 8am-9pm",
+    "contact": "+1122334460"
+  },
+  {
+    "stationName": "Canyon Gas Spot",
+    "location": "56 Ridge St, Canyonville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1122334461"
+  },
+  {
+    "stationName": "Skyview Fuel",
+    "location": "60 Heights Ave, Skyline City",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+9876543213"
+  },
+  {
+    "stationName": "Meadowbrook Fuel",
+    "location": "64 Meadow Dr, Brookville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Fri: 7am-9pm, Sat-Sun: 8am-8pm",
+    "contact": "+5556667780"
+  },
+  {
+    "stationName": "Harborfront Gas",
+    "location": "68 Harbor Ln, Portview",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223342"
+  },
+  {
+    "stationName": "Ridgeview Fuel",
+    "location": "72 Ridge Rd, Ridgeville",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 9am-7pm",
+    "contact": "+1112223343"
+  },
+  {
+    "stationName": "Westside Gas",
+    "location": "76 West St, Westville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1112223344"
+  },
+  {
+    "stationName": "Eastend Fuel",
+    "location": "80 East Ave, Eastville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+1112223345"
+  }
+]
+[
+  {
+    "stationName": "Northway Fuel",
+    "location": "84 North St, Northville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1234567894"
+  },
+  {
+    "stationName": "Southside Gas",
+    "location": "88 South Ave, Southville",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "24/7",
+    "contact": "+0987654325"
+  },
+  {
+    "stationName": "Elevated Fuel Point",
+    "location": "92 Hilltop Rd, Summit City",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sat: 6am-11pm, Sun: 8am-9pm",
+    "contact": "+1122334462"
+  },
+  {
+    "stationName": "Lighthouse Gas",
+    "location": "96 Beacon Ln, Beaconville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1122334463"
+  },
+  {
+    "stationName": "Seaside Fuel Depot",
+    "location": "100 Shore Rd, Coastal City",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+9876543214"
+  },
+  {
+    "stationName": "Valley Fuel Station",
+    "location": "104 Valley Ave, Valleytown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Fri: 7am-9pm, Sat-Sun: 8am-8pm",
+    "contact": "+5556667781"
+  },
+  {
+    "stationName": "Sunset Gas Spot",
+    "location": "108 Sunset Dr, Sundown City",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223346"
+  },
+  {
+    "stationName": "Riverside Fuel Hub",
+    "location": "112 River Rd, Rivertown",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 9am-7pm",
+    "contact": "+1112223347"
+  },
+  {
+    "stationName": "Forestside Gas",
+    "location": "116 Forest St, Forestville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1112223348"
+  },
+  {
+    "stationName": "Cityscape Fuel",
+    "location": "120 City Ave, Cityscape",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+1112223349"
+  }
+]
+[
+  {
+    "stationName": "Golden Gate Fuel",
+    "location": "124 Bridge St, Gateway City",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1234567895"
+  },
+  {
+    "stationName": "Mountaintop Gas",
+    "location": "128 Peak Ave, Summitville",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "24/7",
+    "contact": "+0987654326"
+  },
+  {
+    "stationName": "Oceanview Fuel Point",
+    "location": "132 Coastal Rd, Seaview",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sat: 6am-11pm, Sun: 8am-9pm",
+    "contact": "+1122334464"
+  },
+  {
+    "stationName": "Highland Gas",
+    "location": "136 Mountain Dr, Highlandtown",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1122334465"
+  },
+  {
+    "stationName": "Palm Beach Fuel",
+    "location": "140 Palm St, Beachtown",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+9876543215"
+  },
+  {
+    "stationName": "Woodland Fuel Depot",
+    "location": "144 Forest Rd, Woodlandville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Fri: 7am-9pm, Sat-Sun: 8am-8pm",
+    "contact": "+5556667782"
+  },
+  {
+    "stationName": "Bayfront Gas Spot",
+    "location": "148 Bay Ln, Bayview",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223350"
+  },
+  {
+    "stationName": "Meadowside Fuel",
+    "location": "152 Meadow Ave, Meadowville",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 9am-7pm",
+    "contact": "+1112223351"
+  },
+  {
+    "stationName": "Countryside Gas",
+    "location": "156 Country St, Countrysidetown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1112223352"
+  },
+  {
+    "stationName": "Metropolis Fuel",
+    "location": "160 City Rd, Metropolistown",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+1112223353"
+  }
+]
+[
+  {
+    "stationName": "Sunset Strip Fuel",
+    "location": "164 Sunset Blvd, Sunsetville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1234567896"
+  },
+  {
+    "stationName": "Lakeside Gas",
+    "location": "168 Lakeview Dr, Laketown",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "24/7",
+    "contact": "+0987654327"
+  },
+  {
+    "stationName": "Parkway Fuel Point",
+    "location": "172 Park St, Parkville",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sat: 6am-11pm, Sun: 8am-9pm",
+    "contact": "+1122334466"
+  },
+  {
+    "stationName": "Rivershore Gas",
+    "location": "176 River Ave, Rivershore",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1122334467"
+  },
+  {
+    "stationName": "Highway Fuel Depot",
+    "location": "180 Highway Rd, Highwaytown",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+9876543216"
+  },
+  {
+    "stationName": "Hilltop Gas",
+    "location": "184 Hillside Dr, Hilltown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Fri: 7am-9pm, Sat-Sun: 8am-8pm",
+    "contact": "+5556667783"
+  },
+  {
+    "stationName": "Oceanfront Fuel Spot",
+    "location": "188 Ocean Rd, Oceantown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223354"
+  },
+  {
+    "stationName": "Mountainview Gas",
+    "location": "192 Mountain Ave, Mountainview",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 9am-7pm",
+    "contact": "+1112223355"
+  },
+  {
+    "stationName": "Greenfield Fuel",
+    "location": "196 Green St, Greentown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1112223356"
+  },
+  {
+    "stationName": "Citycenter Gas",
+    "location": "200 City Blvd, Citycentertown",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+1112223357"
+  }
+]
+[
+  {
+    "stationName": "Bayside Fuel",
+    "location": "204 Bayview St, Bayside",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sun: 7am-10pm",
+    "contact": "+1234567897"
+  },
+  {
+    "stationName": "Orchard Gas",
+    "location": "208 Apple Ave, Orchardville",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "24/7",
+    "contact": "+0987654328"
+  },
+  {
+    "stationName": "Meadowland Fuel Point",
+    "location": "212 Meadow St, Meadowland",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Sat: 6am-11pm, Sun: 8am-9pm",
+    "contact": "+1122334468"
+  },
+  {
+    "stationName": "Cliffside Gas",
+    "location": "216 Cliff Rd, Cliffville",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1122334469"
+  },
+  {
+    "stationName": "Valley Fuel Depot",
+    "location": "220 Valley Ave, Valleytown",
+    "fuelTypes": ["Unleaded", "Premium"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+9876543217"
+  },
+  {
+    "stationName": "Riverview Gas",
+    "location": "224 River St, Rivertown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Mon-Fri: 7am-9pm, Sat-Sun: 8am-8pm",
+    "contact": "+5556667784"
+  },
+  {
+    "stationName": "Lakeshore Fuel Spot",
+    "location": "228 Lake Rd, Laketown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "24/7",
+    "contact": "+1112223358"
+  },
+  {
+    "stationName": "Hillside Gas",
+    "location": "232 Hill St, Hilltown",
+    "fuelTypes": ["Premium", "Diesel"],
+    "hours": "Mon-Sat: 7am-10pm, Sun: 9am-7pm",
+    "contact": "+1112223359"
+  },
+  {
+    "stationName": "Pinecrest Fuel",
+    "location": "236 Pine Ave, Pinetown",
+    "fuelTypes": ["Unleaded", "Diesel"],
+    "hours": "Daily: 7am-8pm",
+    "contact": "+1112223360"
+  },
+  {
+    "stationName": "Harborside Gas",
+    "location": "240 Harbor St, Harbortown",
+    "fuelTypes": ["Regular", "Diesel"],
+    "hours": "Mon-Sun: 6am-10pm",
+    "contact": "+1112223361"
+  }
+]
