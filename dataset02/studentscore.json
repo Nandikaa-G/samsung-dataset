@@ -1,0 +1,505 @@
+[
+  {
+    "studentID": "S001",
+    "name": "John Doe",
+    "mathScore": 85,
+    "scienceScore": 78,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S002",
+    "name": "Jane Smith",
+    "mathScore": 92,
+    "scienceScore": 88,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S003",
+    "name": "Robert Johnson",
+    "mathScore": 78,
+    "scienceScore": 84,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S004",
+    "name": "Emily Brown",
+    "mathScore": 90,
+    "scienceScore": 92,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S005",
+    "name": "Michael Lee",
+    "mathScore": 86,
+    "scienceScore": 79,
+    "historyScore": 91
+  },
+  {
+    "studentID": "S006",
+    "name": "Sarah Wilson",
+    "mathScore": 88,
+    "scienceScore": 90,
+    "historyScore": 84
+  },
+  {
+    "studentID": "S007",
+    "name": "William Davis",
+    "mathScore": 79,
+    "scienceScore": 82,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S008",
+    "name": "Laura Miller",
+    "mathScore": 93,
+    "scienceScore": 91,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S009",
+    "name": "James Wilson",
+    "mathScore": 87,
+    "scienceScore": 85,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S010",
+    "name": "Emma Johnson",
+    "mathScore": 91,
+    "scienceScore": 89,
+    "historyScore": 88
+  }
+]
+[
+  {
+    "studentID": "S011",
+    "name": "Daniel Thompson",
+    "mathScore": 84,
+    "scienceScore": 87,
+    "historyScore": 83
+  },
+  {
+    "studentID": "S012",
+    "name": "Olivia Harris",
+    "mathScore": 89,
+    "scienceScore": 92,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S013",
+    "name": "Andrew Clark",
+    "mathScore": 82,
+    "scienceScore": 80,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S014",
+    "name": "Sophia Taylor",
+    "mathScore": 91,
+    "scienceScore": 93,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S015",
+    "name": "Ethan White",
+    "mathScore": 88,
+    "scienceScore": 85,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S016",
+    "name": "Isabella Martinez",
+    "mathScore": 90,
+    "scienceScore": 91,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S017",
+    "name": "Benjamin Adams",
+    "mathScore": 86,
+    "scienceScore": 84,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S018",
+    "name": "Mia Garcia",
+    "mathScore": 92,
+    "scienceScore": 89,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S019",
+    "name": "Jacob Lewis",
+    "mathScore": 85,
+    "scienceScore": 83,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S020",
+    "name": "Ava King",
+    "mathScore": 89,
+    "scienceScore": 90,
+    "historyScore": 86
+  }
+]
+[
+  {
+    "studentID": "S021",
+    "name": "Liam Parker",
+    "mathScore": 87,
+    "scienceScore": 84,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S022",
+    "name": "Charlotte Nelson",
+    "mathScore": 90,
+    "scienceScore": 91,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S023",
+    "name": "Henry Scott",
+    "mathScore": 86,
+    "scienceScore": 83,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S024",
+    "name": "Amelia Jones",
+    "mathScore": 91,
+    "scienceScore": 92,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S025",
+    "name": "Noah Brown",
+    "mathScore": 88,
+    "scienceScore": 85,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S026",
+    "name": "Ella Adams",
+    "mathScore": 92,
+    "scienceScore": 90,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S027",
+    "name": "Jameson Kim",
+    "mathScore": 85,
+    "scienceScore": 82,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S028",
+    "name": "Scarlett Lee",
+    "mathScore": 89,
+    "scienceScore": 91,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S029",
+    "name": "Lucas Wright",
+    "mathScore": 84,
+    "scienceScore": 86,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S030",
+    "name": "Grace Mitchell",
+    "mathScore": 90,
+    "scienceScore": 89,
+    "historyScore": 87
+  }
+]
+[
+  {
+    "studentID": "S031",
+    "name": "Logan Ramirez",
+    "mathScore": 87,
+    "scienceScore": 88,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S032",
+    "name": "Zoe Foster",
+    "mathScore": 89,
+    "scienceScore": 90,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S033",
+    "name": "Aiden Parker",
+    "mathScore": 85,
+    "scienceScore": 84,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S034",
+    "name": "Hannah Bennett",
+    "mathScore": 91,
+    "scienceScore": 92,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S035",
+    "name": "Mason Cooper",
+    "mathScore": 88,
+    "scienceScore": 85,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S036",
+    "name": "Lily Brooks",
+    "mathScore": 92,
+    "scienceScore": 91,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S037",
+    "name": "Elijah Gray",
+    "mathScore": 86,
+    "scienceScore": 83,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S038",
+    "name": "Aria Watson",
+    "mathScore": 90,
+    "scienceScore": 89,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S039",
+    "name": "Carter Kelly",
+    "mathScore": 84,
+    "scienceScore": 86,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S040",
+    "name": "Nora Simmons",
+    "mathScore": 91,
+    "scienceScore": 90,
+    "historyScore": 88
+  }
+]
+[
+  {
+    "studentID": "S041",
+    "name": "Jackson Reed",
+    "mathScore": 87,
+    "scienceScore": 88,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S042",
+    "name": "Madison Hughes",
+    "mathScore": 89,
+    "scienceScore": 90,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S043",
+    "name": "Ethan Stewart",
+    "mathScore": 85,
+    "scienceScore": 84,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S044",
+    "name": "Chloe Rivera",
+    "mathScore": 91,
+    "scienceScore": 92,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S045",
+    "name": "Liam Evans",
+    "mathScore": 88,
+    "scienceScore": 85,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S046",
+    "name": "Avery Foster",
+    "mathScore": 92,
+    "scienceScore": 91,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S047",
+    "name": "Mason Wallace",
+    "mathScore": 86,
+    "scienceScore": 83,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S048",
+    "name": "Sophia Ward",
+    "mathScore": 90,
+    "scienceScore": 89,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S049",
+    "name": "Oliver Simmons",
+    "mathScore": 84,
+    "scienceScore": 86,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S050",
+    "name": "Emma Brooks",
+    "mathScore": 91,
+    "scienceScore": 90,
+    "historyScore": 88
+  }
+]
+[
+  {
+    "studentID": "S051",
+    "name": "William Johnson",
+    "mathScore": 87,
+    "scienceScore": 88,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S052",
+    "name": "Abigail Turner",
+    "mathScore": 89,
+    "scienceScore": 90,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S053",
+    "name": "Alexander Murphy",
+    "mathScore": 85,
+    "scienceScore": 84,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S054",
+    "name": "Isabella Green",
+    "mathScore": 91,
+    "scienceScore": 92,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S055",
+    "name": "Elijah Clark",
+    "mathScore": 88,
+    "scienceScore": 85,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S056",
+    "name": "Grace Hall",
+    "mathScore": 92,
+    "scienceScore": 91,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S057",
+    "name": "Michael Adams",
+    "mathScore": 86,
+    "scienceScore": 83,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S058",
+    "name": "Charlotte White",
+    "mathScore": 90,
+    "scienceScore": 89,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S059",
+    "name": "Daniel Smith",
+    "mathScore": 84,
+    "scienceScore": 86,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S060",
+    "name": "Sophia Davis",
+    "mathScore": 91,
+    "scienceScore": 90,
+    "historyScore": 88
+  }
+]
+[
+  {
+    "studentID": "S061",
+    "name": "Ryan Thompson",
+    "mathScore": 87,
+    "scienceScore": 88,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S062",
+    "name": "Natalie Wright",
+    "mathScore": 89,
+    "scienceScore": 90,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S063",
+    "name": "Lucas Harris",
+    "mathScore": 85,
+    "scienceScore": 84,
+    "historyScore": 89
+  },
+  {
+    "studentID": "S064",
+    "name": "Samantha Roberts",
+    "mathScore": 91,
+    "scienceScore": 92,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S065",
+    "name": "Ethan Wilson",
+    "mathScore": 88,
+    "scienceScore": 85,
+    "historyScore": 90
+  },
+  {
+    "studentID": "S066",
+    "name": "Olivia Martinez",
+    "mathScore": 92,
+    "scienceScore": 91,
+    "historyScore": 86
+  },
+  {
+    "studentID": "S067",
+    "name": "Aiden Davis",
+    "mathScore": 86,
+    "scienceScore": 83,
+    "historyScore": 88
+  },
+  {
+    "studentID": "S068",
+    "name": "Ava Johnson",
+    "mathScore": 90,
+    "scienceScore": 89,
+    "historyScore": 87
+  },
+  {
+    "studentID": "S069",
+    "name": "Logan Brown",
+    "mathScore": 84,
+    "scienceScore": 86,
+    "historyScore": 85
+  },
+  {
+    "studentID": "S070",
+    "name": "Mia Lee",
+    "mathScore": 91,
+    "scienceScore": 90,
+    "historyScore": 88
+  }
+]
+
