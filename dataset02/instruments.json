@@ -1,0 +1,448 @@
+{
+  "instruments": [
+    {
+      "name": "Piano",
+      "type": "Keyboard",
+      "origin": "Italy",
+      "description": "Versatile instrument with 88 keys, capable of producing a wide range of tones and dynamics."
+    },
+    {
+      "name": "Guitar",
+      "type": "Stringed",
+      "origin": "Spain",
+      "description": "Popular string instrument with a versatile range, commonly used in various genres like rock, folk, and classical."
+    },
+    {
+      "name": "Violin",
+      "type": "Stringed",
+      "origin": "Italy",
+      "description": "Smallest and highest-pitched member of the violin family, known for its rich sound and expressive capabilities."
+    },
+    {
+      "name": "Drums",
+      "type": "Percussion",
+      "origin": "Ancient civilizations",
+      "description": "Collection of membranophone instruments producing sound by striking with sticks or hands, forming the rhythmic foundation in many genres."
+    },
+    {
+      "name": "Flute",
+      "type": "Woodwind",
+      "origin": "Various cultures",
+      "description": "Melodic instrument producing sound through the flow of air across an opening, commonly found in orchestras and ensembles."
+    },
+    {
+      "name": "Trumpet",
+      "type": "Brass",
+      "origin": "Ancient civilizations",
+      "description": "Brass instrument with a bright, powerful sound, often used in orchestras, jazz bands, and various other musical settings."
+    },
+    {
+      "name": "Cello",
+      "type": "Stringed",
+      "origin": "Italy",
+      "description": "Larger member of the violin family, producing deep, rich tones; commonly used in classical ensembles and solo performances."
+    },
+    {
+      "name": "Sitar",
+      "type": "Stringed",
+      "origin": "India",
+      "description": "Traditional Indian stringed instrument with a unique resonating chamber, known for its complex tuning and intricate melodies."
+    },
+    {
+      "name": "Harmonica",
+      "type": "Wind",
+      "origin": "Europe",
+      "description": "Small, handheld wind instrument with reeds, allowing for melodies and chords to be played by exhaling and inhaling."
+    },
+    {
+      "name": "Accordion",
+      "type": "Keyboard",
+      "origin": "Europe",
+      "description": "Portable instrument with a keyboard and bellows, producing sound by pressing keys and expanding/contracting the bellows."
+    }
+  ]
+}
+{
+  "instruments": [
+    {
+      "name": "Banjo",
+      "type": "Stringed",
+      "origin": "Africa (with American adaptations)",
+      "description": "Stringed instrument with a circular body and a distinctive twangy sound, commonly associated with bluegrass and folk music."
+    },
+    {
+      "name": "Harp",
+      "type": "Stringed",
+      "origin": "Ancient civilizations",
+      "description": "Elegant stringed instrument with multiple strings, producing a soothing and ethereal sound often associated with classical music."
+    },
+    {
+      "name": "Trombone",
+      "type": "Brass",
+      "origin": "Europe",
+      "description": "Brass instrument with a slide mechanism, allowing for a wide range of pitches and expressive playing, prominent in orchestras and jazz bands."
+    },
+    {
+      "name": "Djembe",
+      "type": "Percussion",
+      "origin": "West Africa",
+      "description": "Hand drum shaped like a large goblet, played with bare hands, producing a variety of tones; essential in West African music and global percussion ensembles."
+    },
+    {
+      "name": "Clarinet",
+      "type": "Woodwind",
+      "origin": "Europe",
+      "description": "Woodwind instrument with a single reed mouthpiece, known for its warm, expressive tone and versatility across classical, jazz, and other genres."
+    },
+    {
+      "name": "Xylophone",
+      "type": "Percussion",
+      "origin": "Southeast Asia",
+      "description": "Percussion instrument consisting of wooden bars struck by mallets, producing bright, resonant tones; used in orchestras and various ensembles."
+    },
+    {
+      "name": "Double Bass",
+      "type": "Stringed",
+      "origin": "Europe",
+      "description": "Largest and lowest-pitched member of the string family, providing the foundational bass sound in orchestras, jazz combos, and other ensembles."
+    },
+    {
+      "name": "Bagpipes",
+      "type": "Wind",
+      "origin": "Various cultures",
+      "description": "Traditional wind instrument with a bag, drones, and chanter, producing a distinctive sound; iconic in Scottish, Irish, and other folk traditions."
+    },
+    {
+      "name": "Oboe",
+      "type": "Woodwind",
+      "origin": "Europe",
+      "description": "Woodwind instrument with a double reed, known for its penetrating and expressive sound, frequently featured in orchestras and chamber music."
+    },
+    {
+      "name": "Mandolin",
+      "type": "Stringed",
+      "origin": "Italy",
+      "description": "Small stringed instrument with a rounded body and double strings, producing bright tones; commonly used in folk, bluegrass, and classical genres."
+    }
+  ]
+}
+{
+  "instruments": [
+    {
+      "name": "Accordion",
+      "type": "Keyboard",
+      "origin": "Europe",
+      "description": "Portable instrument with a keyboard and bellows, producing sound by pressing keys and expanding/contracting the bellows."
+    },
+    {
+      "name": "Tuba",
+      "type": "Brass",
+      "origin": "Germany",
+      "description": "Large brass instrument known for its deep, resonant sound, often used in orchestras, brass bands, and classical ensembles."
+    },
+    {
+      "name": "Tabla",
+      "type": "Percussion",
+      "origin": "India",
+      "description": "Pair of hand drums central to North Indian classical music, featuring a combination of tonal and rhythmic elements."
+    },
+    {
+      "name": "Saxophone",
+      "type": "Woodwind",
+      "origin": "Belgium",
+      "description": "Versatile woodwind instrument with a single reed mouthpiece, widely used in jazz, classical, and popular music genres."
+    },
+    {
+      "name": "Didgeridoo",
+      "type": "Wind",
+      "origin": "Australia",
+      "description": "Traditional wind instrument of Indigenous Australians, producing a distinctive drone sound through continuous circular breathing."
+    },
+    {
+      "name": "Cymbals",
+      "type": "Percussion",
+      "origin": "Ancient civilizations",
+      "description": "Pair of metal discs struck together or individually, used to produce shimmering and crashing sounds in various musical contexts."
+    },
+    {
+      "name": "Harp",
+      "type": "Stringed",
+      "origin": "Ancient civilizations",
+      "description": "Elegant stringed instrument with multiple strings, producing a soothing and ethereal sound often associated with classical music."
+    },
+    {
+      "name": "Ukulele",
+      "type": "Stringed",
+      "origin": "Hawaii",
+      "description": "Small, four-stringed instrument related to the guitar, known for its bright, cheerful sound and popularity in Hawaiian music."
+    },
+    {
+      "name": "Baglama",
+      "type": "Stringed",
+      "origin": "Turkey",
+      "description": "Stringed instrument with a long neck and pear-shaped body, essential in Turkish folk music and various Middle Eastern genres."
+    },
+    {
+      "name": "Marimba",
+      "type": "Percussion",
+      "origin": "Central America",
+      "description": "Percussion instrument with wooden bars and resonators, producing a warm, resonant sound; prevalent in Latin American and contemporary music."
+    }
+  ]
+}
+{
+  "instruments": [
+    {
+      "name": "Balalaika",
+      "type": "Stringed",
+      "origin": "Russia",
+      "description": "Three-stringed instrument with a triangular body, commonly used in Russian folk music."
+    },
+    {
+      "name": "Bongo",
+      "type": "Percussion",
+      "origin": "Cuba",
+      "description": "Pair of small drums, one larger than the other, played with the hands and fingers in Afro-Cuban and Latin music."
+    },
+    {
+      "name": "Koto",
+      "type": "Stringed",
+      "origin": "Japan",
+      "description": "Traditional Japanese stringed instrument with movable bridges, producing a delicate and resonant sound."
+    },
+    {
+      "name": "Sitar",
+      "type": "Stringed",
+      "origin": "India",
+      "description": "Plucked stringed instrument with a long neck and resonating gourd, central to North Indian classical music."
+    },
+    {
+      "name": "Guzheng",
+      "type": "Stringed",
+      "origin": "China",
+      "description": "Chinese plucked zither with a history spanning over 2,500 years, known for its resonant sound and intricate playing techniques."
+    },
+    {
+      "name": "Cajón",
+      "type": "Percussion",
+      "origin": "Peru",
+      "description": "Box-shaped percussion instrument played by slapping the front or rear faces, widely used in flamenco and various musical styles."
+    },
+    {
+      "name": "Dulcimer",
+      "type": "Stringed",
+      "origin": "Various cultures",
+      "description": "Stringed instrument with a trapezoidal or hourglass body, played by striking or plucking the strings."
+    },
+    {
+      "name": "Shakuhachi",
+      "type": "Wind",
+      "origin": "Japan",
+      "description": "Japanese end-blown flute traditionally made of bamboo, characterized by its hauntingly beautiful sound."
+    },
+    {
+      "name": "Tambourine",
+      "type": "Percussion",
+      "origin": "Ancient civilizations",
+      "description": "Small, handheld percussion instrument with pairs of metal jingles, played by shaking, striking, or tapping."
+    },
+    {
+      "name": "Nyckelharpa",
+      "type": "Stringed",
+      "origin": "Sweden",
+      "description": "Swedish stringed instrument with keys or tangents, producing a unique sound and used in traditional Scandinavian music."
+    }
+  ]
+}
+{
+  "instruments": [
+    {
+      "name": "Theremin",
+      "type": "Electronic",
+      "origin": "Russia",
+      "description": "Electronic instrument controlled without physical contact, producing eerie and otherworldly sounds through hand movements."
+    },
+    {
+      "name": "Zither",
+      "type": "Stringed",
+      "origin": "Various cultures",
+      "description": "Stringed instrument with a flat soundboard and strings stretched across it, played by strumming or plucking."
+    },
+    {
+      "name": "Tubular Bells",
+      "type": "Percussion",
+      "origin": "Various cultures",
+      "description": "Set of tuned percussion tubes, producing a ringing and resonant sound when struck with mallets."
+    },
+    {
+      "name": "Angklung",
+      "type": "Percussion",
+      "origin": "Indonesia",
+      "description": "Traditional bamboo instrument comprising multiple tubes, producing sounds when shaken to create melodies."
+    },
+    {
+      "name": "Oud",
+      "type": "Stringed",
+      "origin": "Middle East",
+      "description": "Stringed instrument with a pear-shaped body and a short neck, integral to Middle Eastern, North African, and Mediterranean music."
+    },
+    {
+      "name": "Cimbalom",
+      "type": "Percussion",
+      "origin": "Hungary",
+      "description": "Large, trapezoidal stringed instrument played with mallets, producing resonant and shimmering tones."
+    },
+    {
+      "name": "Jew's Harp",
+      "type": "Wind",
+      "origin": "Various cultures",
+      "description": "Small instrument held between the teeth and played by plucking a reed or metal tongue to produce twanging sounds."
+    },
+    {
+      "name": "Dholak",
+      "type": "Percussion",
+      "origin": "India",
+      "description": "Two-headed drum played with hands, widely used in traditional Indian music, folk, and festive celebrations."
+    },
+    {
+      "name": "Kalimba",
+      "type": "Percussion",
+      "origin": "Africa",
+      "description": "Thumb piano with metal tines mounted on a wooden board, played by plucking to produce melodic tones."
+    },
+    {
+      "name": "Kantele",
+      "type": "Stringed",
+      "origin": "Finland",
+      "description": "Finnish plucked string instrument with a wooden soundboard and multiple strings, used in traditional Finnish folklore."
+    }
+  ]
+}
+{
+  "instruments": [
+    {
+      "name": "Saz",
+      "type": "Stringed",
+      "origin": "Turkey",
+      "description": "Long-necked lute with a deep round back, commonly used in Turkish, Azerbaijani, and Persian music traditions."
+    },
+    {
+      "name": "Charango",
+      "type": "Stringed",
+      "origin": "South America",
+      "description": "Small Andean stringed instrument, traditionally made from an armadillo shell, with five pairs of strings."
+    },
+    {
+      "name": "Pipa",
+      "type": "Stringed",
+      "origin": "China",
+      "description": "Chinese plucked string instrument with a pear-shaped body and a history dating back over two thousand years."
+    },
+    {
+      "name": "Sitar",
+      "type": "Stringed",
+      "origin": "India",
+      "description": "Iconic Indian stringed instrument with a resonating gourd, long neck, and a varying number of strings."
+    },
+    {
+      "name": "Hurdy-gurdy",
+      "type": "Stringed",
+      "origin": "Europe",
+      "description": "String instrument with a hand-cranked wheel, producing sound as strings are bowed or struck."
+    },
+    {
+      "name": "Clavinet",
+      "type": "Keyboard",
+      "origin": "Germany",
+      "description": "Electric keyboard instrument known for its distinctive sound, produced by striking metal strings with small rubber-tipped hammers."
+    },
+    {
+      "name": "Sarod",
+      "type": "Stringed",
+      "origin": "India",
+      "description": "Classical Indian stringed instrument, similar to the sitar but without frets, producing a resonant and rich tone."
+    },
+    {
+      "name": "Cajón",
+      "type": "Percussion",
+      "origin": "Peru",
+      "description": "Box-shaped percussion instrument played by slapping the front or rear faces, originating from Afro-Peruvian music."
+    },
+    {
+      "name": "Shamisen",
+      "type": "Stringed",
+      "origin": "Japan",
+      "description": "Japanese three-stringed instrument with a long neck and a square body, used in various traditional Japanese music genres."
+    },
+    {
+      "name": "Daf",
+      "type": "Percussion",
+      "origin": "Persia",
+      "description": "Circular frame drum with metal ringlets attached inside the frame, producing a rich and resonant sound."
+    }
+  ]
+}
+{
+  "instruments": [
+    {
+      "name": "Gamelan",
+      "type": "Percussion",
+      "origin": "Indonesia",
+      "description": "Traditional ensemble of percussion instruments, primarily made up of metallophones, gongs, and drums, central to Indonesian music."
+    },
+    {
+      "name": "Bansuri",
+      "type": "Wind",
+      "origin": "India",
+      "description": "Bamboo flute commonly used in Indian classical music, known for its mellow and meditative sound."
+    },
+    {
+      "name": "Bagpipes",
+      "type": "Wind",
+      "origin": "Various cultures",
+      "description": "Wind instrument with a bag and multiple reeds, producing a continuous sound, particularly associated with Scottish and Irish traditions."
+    },
+    {
+      "name": "Dizi",
+      "type": "Wind",
+      "origin": "China",
+      "description": "Chinese transverse flute made of bamboo, featuring a unique buzzing membrane known as a mo."
+    },
+    {
+      "name": "Bouzouki",
+      "type": "Stringed",
+      "origin": "Greece",
+      "description": "Long-necked stringed instrument with a pear-shaped body, widely used in Greek folk music and contemporary genres."
+    },
+    {
+      "name": "Koto",
+      "type": "Stringed",
+      "origin": "Japan",
+      "description": "Traditional Japanese stringed instrument with 13 strings, played using finger picks to produce a delicate and resonant sound."
+    },
+    {
+      "name": "Tabla",
+      "type": "Percussion",
+      "origin": "India",
+      "description": "Pair of drums used in North Indian classical music, consisting of a small wooden drum (dayan) and a larger metal one (bayan)."
+    },
+    {
+      "name": "Accordion",
+      "type": "Keyboard",
+      "origin": "Europe",
+      "description": "Portable instrument with bellows and a keyboard, producing sound by pressing buttons or keys and expanding/contracting the bellows."
+    },
+    {
+      "name": "Didgeridoo",
+      "type": "Wind",
+      "origin": "Australia",
+      "description": "Traditional wind instrument of Indigenous Australians, producing a deep drone sound through continuous circular breathing."
+    },
+    {
+      "name": "Cittern",
+      "type": "Stringed",
+      "origin": "Europe",
+      "description": "Stringed instrument with a flat back and wire strings, historically popular in European folk music and Renaissance compositions."
+    }
+  ]
+}
