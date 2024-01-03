@@ -1,0 +1,20 @@
+1.Find the temperature for atlanta:
+From the provided datasets, the temperature for Atlanta is 52 degrees Fahrenheit.
+
+2.Find the places which has less than 5 celcius:
+Beijing: 5°C
+Seoul: 3°C
+These are the locations with temperatures less than 5°C from the datasets you provided.
+
+3.Find the places with more than 40 celcius:
+From the datasets you provided, there are no places with temperatures exceeding 40°C.
+
+4.What is the temperature in celcius in toronto:
+To find the temperature in Celsius for Toronto, let's first check the provided data:
+
+Toronto: 40°F
+
+To convert Fahrenheit to Celsius, you can use the formula:
+Temperature in Celsius for Toronto=4.44 (rounded to two decimal places)
+
+So, the temperature in Celsius for Toronto is approximately= 4.44∘C
