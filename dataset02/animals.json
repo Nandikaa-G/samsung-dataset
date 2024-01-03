@@ -1,0 +1,518 @@
+{
+  "animals": [
+    {
+      "name": "African Elephant",
+      "scientific_name": "Loxodonta africana",
+      "habitat": "African savannas and forests",
+      "diet": "Herbivore - primarily eats grasses, fruits, and bark",
+      "description": "The largest land animal, characterized by its long trunk, large ears, and tusks."
+    },
+    {
+      "name": "Great White Shark",
+      "scientific_name": "Carcharodon carcharias",
+      "habitat": "Coastal waters of major oceans",
+      "diet": "Carnivore - feeds on seals, fish, and other marine animals",
+      "description": "One of the most feared predators of the ocean, known for its powerful jaws and streamlined body."
+    },
+    {
+      "name": "Peregrine Falcon",
+      "scientific_name": "Falco peregrinus",
+      "habitat": "Wide-ranging habitats from tundras to cities",
+      "diet": "Carnivore - primarily preys on birds in mid-flight",
+      "description": "The fastest bird in the world, known for its high-speed dives when hunting."
+    },
+    {
+      "name": "Giant Panda",
+      "scientific_name": "Ailuropoda melanoleuca",
+      "habitat": "Mountain ranges of central China",
+      "diet": "Herbivore - mainly consumes bamboo",
+      "description": "Symbol of wildlife conservation, characterized by its black-and-white fur pattern and bamboo diet."
+    },
+    {
+      "name": "Blue Whale",
+      "scientific_name": "Balaenoptera musculus",
+      "habitat": "Oceans worldwide",
+      "diet": "Carnivore - primarily consumes krill",
+      "description": "The largest animal ever known to have existed, distinguished by its immense size and deep blue coloration."
+    },
+    {
+      "name": "Komodo Dragon",
+      "scientific_name": "Varanus komodoensis",
+      "habitat": "Islands of Indonesia",
+      "diet": "Carnivore - hunts various animals including deer, birds, and water buffalo",
+      "description": "The world's largest lizard, known for its powerful bite and venomous saliva."
+    },
+    {
+      "name": "Snow Leopard",
+      "scientific_name": "Panthera uncia",
+      "habitat": "Mountain ranges of Central and South Asia",
+      "diet": "Carnivore - preys on Himalayan blue sheep, ibex, and other small mammals",
+      "description": "Elusive and endangered big cat adapted to cold, rugged mountain environments."
+    },
+    {
+      "name": "Red Kangaroo",
+      "scientific_name": "Macropus rufus",
+      "habitat": "Grasslands and deserts of Australia",
+      "diet": "Herbivore - primarily grazes on grasses",
+      "description": "The largest kangaroo species, known for its powerful hind legs and distinctive hopping movement."
+    },
+    {
+      "name": "Emperor Penguin",
+      "scientific_name": "Aptenodytes forsteri",
+      "habitat": "Antarctic ice and surrounding waters",
+      "diet": "Carnivore - feeds on fish, krill, and squid",
+      "description": "The largest penguin species, notable for its endurance in the harsh Antarctic environment."
+    },
+    {
+      "name": "Giraffe",
+      "scientific_name": "Giraffa camelopardalis",
+      "habitat": "Savannas of Africa",
+      "diet": "Herbivore - primarily eats leaves and buds from trees",
+      "description": "Tallest living terrestrial animal, recognized by its long neck, patterned coat, and distinctively shaped horns."
+    }
+  ]
+}
+{
+  "animals": [
+    {
+      "name": "Bengal Tiger",
+      "scientific_name": "Panthera tigris tigris",
+      "habitat": "Forests of India, Bangladesh, Nepal, and Bhutan",
+      "diet": "Carnivore - hunts various prey including deer and wild boar",
+      "description": "One of the largest tiger subspecies, known for its striking orange coat with dark stripes."
+    },
+    {
+      "name": "Orangutan",
+      "scientific_name": "Pongo pygmaeus",
+      "habitat": "Rainforests of Borneo and Sumatra",
+      "diet": "Primarily frugivore - consumes fruits, leaves, and insects",
+      "description": "Great ape species characterized by its reddish-brown fur and highly intelligent nature."
+    },
+    {
+      "name": "Humpback Whale",
+      "scientific_name": "Megaptera novaeangliae",
+      "habitat": "Oceans worldwide, migrating between feeding and breeding grounds",
+      "diet": "Carnivore - feeds on krill, small fish, and plankton",
+      "description": "Large marine mammal known for its acrobatic behavior, especially during breaching."
+    },
+    {
+      "name": "Cheetah",
+      "scientific_name": "Acinonyx jubatus",
+      "habitat": "Grasslands and open plains of Africa",
+      "diet": "Carnivore - fastest land animal, primarily hunts small to medium-sized ungulates",
+      "description": "Sleek and slender big cat, recognized for its incredible speed and spotted coat."
+    },
+    {
+      "name": "Polar Bear",
+      "scientific_name": "Ursus maritimus",
+      "habitat": "Arctic sea ice, coastlines, and islands",
+      "diet": "Carnivore - primarily feeds on seals",
+      "description": "Largest land carnivore, adapted to cold environments with its thick fur and layer of blubber."
+    },
+    {
+      "name": "Anaconda",
+      "scientific_name": "Eunectes",
+      "habitat": "Tropical rainforests and swamps of South America",
+      "diet": "Carnivore - ambush predator that primarily hunts aquatic prey",
+      "description": "One of the largest snakes in the world, known for its impressive size and constricting abilities."
+    },
+    {
+      "name": "Manta Ray",
+      "scientific_name": "Manta birostris",
+      "habitat": "Tropical and subtropical waters worldwide",
+      "diet": "Filter feeder - consumes plankton and small fish",
+      "description": "Giant ray species known for its large size, graceful movements, and distinctive cephalic fins."
+    },
+    {
+      "name": "Koala",
+      "scientific_name": "Phascolarctos cinereus",
+      "habitat": "Eucalyptus forests of eastern Australia",
+      "diet": "Herbivore - primarily eats eucalyptus leaves",
+      "description": "Marsupial species known for its tree-dwelling habits, pouch for young, and distinct nose."
+    },
+    {
+      "name": "African Lion",
+      "scientific_name": "Panthera leo",
+      "habitat": "Savannas and grasslands of sub-Saharan Africa",
+      "diet": "Carnivore - apex predator, hunts a variety of prey including antelopes and zebras",
+      "description": "Large carnivorous feline, symbolizing strength and majesty in African ecosystems."
+    },
+    {
+      "name": "Red Fox",
+      "scientific_name": "Vulpes vulpes",
+      "habitat": "Various habitats including forests, grasslands, and urban areas",
+      "diet": "Omnivore - opportunistic feeder consuming small mammals, birds, fruits, and insects",
+      "description": "Adaptable and widespread fox species, known for its cunning behavior and distinctive red coat."
+    }
+  ]
+}
+{
+  "animals": [
+    {
+      "name": "Gorilla",
+      "scientific_name": "Gorilla gorilla",
+      "habitat": "Forests of Central Africa",
+      "diet": "Primarily herbivore - consumes leaves, fruits, and stems",
+      "description": "Largest living primate, characterized by its powerful build and calm demeanor."
+    },
+    {
+      "name": "Galápagos Giant Tortoise",
+      "scientific_name": "Chelonoidis nigra",
+      "habitat": "Galápagos Islands, Ecuador",
+      "diet": "Herbivore - grazes on grasses, cacti, and fruits",
+      "description": "Long-lived and iconic tortoise species, symbolizing the unique biodiversity of the Galápagos Islands."
+    },
+    {
+      "name": "Snowy Owl",
+      "scientific_name": "Bubo scandiacus",
+      "habitat": "Arctic regions of North America and Eurasia",
+      "diet": "Carnivore - preys on lemmings, rodents, and birds",
+      "description": "Large owl species known for its striking white plumage, adaptation to cold climates, and piercing yellow eyes."
+    },
+    {
+      "name": "Red Panda",
+      "scientific_name": "Ailurus fulgens",
+      "habitat": "Himalayan foothills of Nepal, India, and China",
+      "diet": "Herbivore - primarily consumes bamboo leaves and shoots",
+      "description": "Small arboreal mammal, known for its reddish-brown fur, bushy tail, and bamboo diet."
+    },
+    {
+      "name": "Manatee",
+      "scientific_name": "Trichechus",
+      "habitat": "Shallow, slow-moving rivers, estuaries, and coastal waters",
+      "diet": "Herbivore - feeds on aquatic plants",
+      "description": "Large aquatic mammal, often referred to as 'sea cows', known for their gentle nature and herbivorous diet."
+    },
+    {
+      "name": "Komodo Dragon",
+      "scientific_name": "Varanus komodoensis",
+      "habitat": "Islands of Komodo, Rinca, Flores, and Gili Motang in Indonesia",
+      "diet": "Carnivore - hunts various prey including deer, pigs, and birds",
+      "description": "Largest living species of lizard, known for its formidable size, sharp teeth, and venomous bite."
+    },
+    {
+      "name": "Siberian Tiger",
+      "scientific_name": "Panthera tigris altaica",
+      "habitat": "Forests of eastern Russia",
+      "diet": "Carnivore - hunts large ungulates like deer and wild boar",
+      "description": "Subspecies of tiger adapted to cold climates, characterized by its thick fur and powerful build."
+    },
+    {
+      "name": "Wallaby",
+      "scientific_name": "Macropodidae family",
+      "habitat": "Various habitats including forests, grasslands, and deserts of Australia and nearby islands",
+      "diet": "Herbivore - grazes on grasses and plants",
+      "description": "Marsupial similar to kangaroos but smaller in size, known for its hopping locomotion and pouch for young."
+    },
+    {
+      "name": "Arctic Fox",
+      "scientific_name": "Vulpes lagopus",
+      "habitat": "Arctic regions of the Northern Hemisphere",
+      "diet": "Omnivore - consumes small mammals, birds, eggs, and berries",
+      "description": "Adapted to cold environments with its thick fur coat, known for its seasonal color change from white to gray/brown."
+    },
+    {
+      "name": "Ocelot",
+      "scientific_name": "Leopardus pardalis",
+      "habitat": "Forests, grasslands, and scrublands of South America, Central America, and Mexico",
+      "diet": "Carnivore - preys on small mammals, birds, and reptiles",
+      "description": "Wild cat species with a beautiful spotted coat, recognized for its agility and nocturnal hunting behavior."
+    }
+  ]
+}
+{
+  "animals": [
+    {
+      "name": "African Wild Dog",
+      "scientific_name": "Lycaon pictus",
+      "habitat": "Sub-Saharan Africa",
+      "diet": "Carnivore - primarily hunts antelopes and other small mammals",
+      "description": "Highly social canid species, known for its distinctive coat patterns and cooperative hunting behavior."
+    },
+    {
+      "name": "Toucan",
+      "scientific_name": "Ramphastidae family",
+      "habitat": "Rainforests of Central and South America",
+      "diet": "Frugivore - consumes fruits, insects, and small reptiles",
+      "description": "Colorful bird species with a large, distinctive beak, known for its vibrant plumage and fruit-eating habits."
+    },
+    {
+      "name": "Pangolin",
+      "scientific_name": "Manis",
+      "habitat": "Tropical regions of Africa and Asia",
+      "diet": "Insectivore - feeds mainly on ants and termites",
+      "description": "Unique mammal species covered in scales, known for its protective curling behavior and endangered status."
+    },
+    {
+      "name": "Galápagos Marine Iguana",
+      "scientific_name": "Amblyrhynchus cristatus",
+      "habitat": "Galápagos Islands, Ecuador",
+      "diet": "Herbivore - primarily eats algae and seaweed",
+      "description": "Only marine iguana species in the world, adapted to foraging underwater and sunbathing on rocks."
+    },
+    {
+      "name": "Platypus",
+      "scientific_name": "Ornithorhynchus anatinus",
+      "habitat": "Eastern Australia, including freshwater rivers and streams",
+      "diet": "Carnivore - feeds on aquatic invertebrates",
+      "description": "Egg-laying mammal with a duck-bill, beaver-like tail, and venomous spurs, representing a fascinating evolutionary anomaly."
+    },
+    {
+      "name": "Mandrill",
+      "scientific_name": "Mandrillus sphinx",
+      "habitat": "Rainforests of central Africa",
+      "diet": "Omnivore - consumes fruits, seeds, insects, and small vertebrates",
+      "description": "Colorful primate species, recognized for its striking facial colors, social structure, and prominent canines."
+    },
+    {
+      "name": "Hyacinth Macaw",
+      "scientific_name": "Anodorhynchus hyacinthinus",
+      "habitat": "Pantanal region of South America",
+      "diet": "Herbivore - feeds on nuts, fruits, and seeds",
+      "description": "Largest macaw species, known for its vibrant blue feathers, powerful beak, and endangered status."
+    },
+    {
+      "name": "Giant Anteater",
+      "scientific_name": "Myrmecophaga tridactyla",
+      "habitat": "Grasslands, savannas, and forests of Central and South America",
+      "diet": "Insectivore - primarily eats ants and termites",
+      "description": "Large anteater species with a long snout and tongue, adapted for specialized insect-eating behavior."
+    },
+    {
+      "name": "Leafcutter Ant",
+      "scientific_name": "Atta",
+      "habitat": "Tropical forests of Central and South America",
+      "diet": "Herbivore - cultivates fungus on leaf fragments",
+      "description": "Highly organized ant species known for its impressive leaf-cutting and fungus-farming behaviors."
+    },
+    {
+      "name": "Fennec Fox",
+      "scientific_name": "Vulpes zerda",
+      "habitat": "Desert regions of North Africa",
+      "diet": "Omnivore - consumes insects, small mammals, and plants",
+      "description": "Small fox species with large ears, adapted for heat regulation in desert environments."
+    }
+  ]
+}
+{
+  "animals": [
+    {
+      "name": "Axolotl",
+      "scientific_name": "Ambystoma mexicanum",
+      "habitat": "Xochimilco lake complex in Mexico",
+      "diet": "Carnivore - primarily consumes worms, insects, and small fish",
+      "description": "Unique salamander species known for its regenerative abilities, external gills, and neotenic features."
+    },
+    {
+      "name": "Narwhal",
+      "scientific_name": "Monodon monoceros",
+      "habitat": "Arctic waters near Canada, Greenland, and Russia",
+      "diet": "Carnivore - feeds on fish, squid, and shrimp",
+      "description": "Whale species recognized for its long, spiral tusk, which is actually an elongated tooth."
+    },
+    {
+      "name": "Sloth",
+      "scientific_name": "Folivora",
+      "habitat": "Rainforests of Central and South America",
+      "diet": "Herbivore - primarily consumes leaves, shoots, and fruits",
+      "description": "Slow-moving mammal known for its relaxed pace, arboreal habitat, and unique metabolic adaptations."
+    },
+    {
+      "name": "Cassowary",
+      "scientific_name": "Casuarius",
+      "habitat": "Tropical forests of New Guinea and northern Australia",
+      "diet": "Omnivore - feeds on fruits, insects, small animals, and even carrion",
+      "description": "Large, flightless bird species with a distinct casque atop its head, known for its powerful legs and potential danger."
+    },
+    {
+      "name": "Tarsier",
+      "scientific_name": "Tarsius",
+      "habitat": "Islands of Southeast Asia",
+      "diet": "Carnivore - primarily eats insects",
+      "description": "Small primate species with enormous eyes, known for its unique locomotion, and excellent nocturnal vision."
+    },
+    {
+      "name": "Dhole",
+      "scientific_name": "Cuon alpinus",
+      "habitat": "Forests and grasslands of Asia",
+      "diet": "Carnivore - hunts in packs, preying on deer, wild boar, and other mammals",
+      "description": "Wild dog species, recognized for its social behavior, distinctive vocalizations, and cooperative hunting strategies."
+    },
+    {
+      "name": "Okapi",
+      "scientific_name": "Okapia johnstoni",
+      "habitat": "Ituri rainforest of the Democratic Republic of Congo",
+      "diet": "Herbivore - feeds on leaves, grasses, and fruits",
+      "description": "Giraffe-relative species known for its striped legs, velvet-like fur, and secretive nature."
+    },
+    {
+      "name": "Proboscis Monkey",
+      "scientific_name": "Nasalis larvatus",
+      "habitat": "Mangrove forests and riverine areas of Borneo",
+      "diet": "Primarily herbivore - consumes leaves, fruits, and seeds",
+      "description": "Monkey species with a distinctive large nose, known for its unique appearance, social structure, and jumping ability."
+    },
+    {
+      "name": "Quokka",
+      "scientific_name": "Setonix brachyurus",
+      "habitat": "Rottnest Island and nearby mainland in Western Australia",
+      "diet": "Herbivore - primarily feeds on grasses, leaves, and succulent plants",
+      "description": "Marsupial species known for its friendly appearance, smiling facial expression, and affinity for human interaction."
+    },
+    {
+      "name": "Capybara",
+      "scientific_name": "Hydrochoerus hydrochaeris",
+      "habitat": "Wetlands, grasslands, and forests of South America",
+      "diet": "Herbivore - grazes on grasses and aquatic plants",
+      "description": "Largest living rodent species, recognized for its semi-aquatic lifestyle, social behavior, and grazing habits."
+    }
+  ]
+}
+{
+  "animals": [
+    {
+      "name": "Pika",
+      "scientific_name": "Ochotona",
+      "habitat": "Rocky mountainous regions of Asia, North America, and parts of Europe",
+      "diet": "Herbivore - mainly eats grasses, herbs, and other alpine plants",
+      "description": "Small mammal related to rabbits and hares, known for its distinctive calls, burrowing behavior, and adaptation to cold climates."
+    },
+    {
+      "name": "Peacock",
+      "scientific_name": "Pavo cristatus",
+      "habitat": "Forests and grasslands of India and Sri Lanka",
+      "diet": "Omnivore - feeds on insects, plants, and small creatures",
+      "description": "Colorful bird species with elaborate tail feathers, recognized for its vibrant plumage, courtship displays, and symbolic significance."
+    },
+    {
+      "name": "Elephant Seal",
+      "scientific_name": "Mirounga",
+      "habitat": "Subantarctic and Antarctic regions",
+      "diet": "Carnivore - primarily feeds on fish, squid, and crustaceans",
+      "description": "Large marine mammal species known for its immense size, impressive diving abilities, and distinctively protruding proboscis."
+    },
+    {
+      "name": "Moose",
+      "scientific_name": "Alces alces",
+      "habitat": "Forests of North America, Europe, and Asia",
+      "diet": "Herbivore - consumes aquatic plants, shrubs, and trees",
+      "description": "Largest extant species in the deer family, recognized for its imposing antlers, herbivorous diet, and preference for cold climates."
+    },
+    {
+      "name": "Cockatoo",
+      "scientific_name": "Cacatuidae family",
+      "habitat": "Rainforests, woodlands, and grasslands of Australia and nearby regions",
+      "diet": "Omnivore - feeds on seeds, fruits, insects, and small creatures",
+      "description": "Bird species with a distinct crest, known for its loud vocalizations, social behavior, and varied plumage."
+    },
+    {
+      "name": "Sable Antelope",
+      "scientific_name": "Hippotragus niger",
+      "habitat": "Grasslands and savannas of eastern and southern Africa",
+      "diet": "Herbivore - primarily grazes on grasses and leaves",
+      "description": "Large antelope species with impressive curved horns, recognized for its agility, social structure, and adaptation to open habitats."
+    },
+    {
+      "name": "Red Panda",
+      "scientific_name": "Ailurus fulgens",
+      "habitat": "Himalayan forests of Nepal, India, and China",
+      "diet": "Primarily herbivore - feeds on bamboo leaves, fruits, and insects",
+      "description": "Tree-dwelling mammal with a raccoon-like appearance, known for its bushy tail, arboreal habits, and endangered status."
+    },
+    {
+      "name": "Snow Leopard",
+      "scientific_name": "Panthera uncia",
+      "habitat": "Mountain ranges of Central and South Asia",
+      "diet": "Carnivore - preys on blue sheep, ibex, and other mountainous species",
+      "description": "Elusive big cat species adapted to cold, rugged terrain, known for its beautiful fur pattern and stealthy hunting abilities."
+    },
+    {
+      "name": "Jaguarundi",
+      "scientific_name": "Puma yagouaroundi",
+      "habitat": "Forests, shrublands, and grasslands of Central and South America",
+      "diet": "Carnivore - primarily feeds on small mammals, birds, and reptiles",
+      "description": "Wild cat species with a unique appearance, known for its slender build, short legs, and adaptable nature."
+    },
+    {
+      "name": "Gharial",
+      "scientific_name": "Gavialis gangeticus",
+      "habitat": "Rivers of the northern Indian subcontinent",
+      "diet": "Carnivore - primarily eats fish",
+      "description": "Critically endangered crocodilian species known for its long, narrow snout, adapted for catching fish, and distinctively elongated jaw."
+    }
+  ]
+}
+{
+  "animals": [
+    {
+      "name": "Binturong",
+      "scientific_name": "Arctictis binturong",
+      "habitat": "Forests of Southeast Asia",
+      "diet": "Omnivore - consumes fruits, insects, and small vertebrates",
+      "description": "Mammal with a bear-cat appearance, known for its prehensile tail, nocturnal habits, and distinct scent reminiscent of popcorn."
+    },
+    {
+      "name": "Sun Bear",
+      "scientific_name": "Helarctos malayanus",
+      "habitat": "Tropical forests of Southeast Asia",
+      "diet": "Omnivore - primarily feeds on fruits, insects, and honey",
+      "description": "Smallest bear species, recognized for its sleek fur, golden crescent chest mark, and arboreal foraging habits."
+    },
+    {
+      "name": "Wolverine",
+      "scientific_name": "Gulo gulo",
+      "habitat": "Northern forests and tundra regions of North America, Europe, and Asia",
+      "diet": "Omnivore - scavenges and hunts small mammals, birds, and carrion",
+      "description": "Strongest member of the weasel family, known for its robust build, endurance, and tenacious nature."
+    },
+    {
+      "name": "Golden Eagle",
+      "scientific_name": "Aquila chrysaetos",
+      "habitat": "Mountainous regions, open landscapes, and tundras of the Northern Hemisphere",
+      "diet": "Carnivore - primarily hunts small to medium-sized mammals and birds",
+      "description": "Powerful bird of prey, recognized for its majestic appearance, agility in flight, and keen eyesight."
+    },
+    {
+      "name": "Fossa",
+      "scientific_name": "Cryptoprocta ferox",
+      "habitat": "Forests of Madagascar",
+      "diet": "Carnivore - preys on lemurs, birds, and other small animals",
+      "description": "Carnivore related to the mongoose family, known for its elongated body, semi-retractable claws, and arboreal hunting skills."
+    },
+    {
+      "name": "Aye-Aye",
+      "scientific_name": "Daubentonia madagascariensis",
+      "habitat": "Rainforests of Madagascar",
+      "diet": "Omnivore - primarily feeds on grubs, insects, and fruits",
+      "description": "Nocturnal primate species with a unique appearance, featuring a long middle finger used for tapping and extracting insect larvae."
+    },
+    {
+      "name": "Black Mamba",
+      "scientific_name": "Dendroaspis polylepis",
+      "habitat": "Savannas and rocky areas of sub-Saharan Africa",
+      "diet": "Carnivore - preys on small mammals, birds, and occasionally other snakes",
+      "description": "Highly venomous snake species, recognized for its agility, speed, and potentially deadly neurotoxic venom."
+    },
+    {
+      "name": "Numbat",
+      "scientific_name": "Myrmecobius fasciatus",
+      "habitat": "Woodlands of Western Australia",
+      "diet": "Insectivore - primarily consumes termites",
+      "description": "Marsupial species with a slender body, banded fur pattern, and specialized long tongue for extracting termites from logs and soil."
+    },
+    {
+      "name": "Frigatebird",
+      "scientific_name": "Fregata",
+      "habitat": "Tropical and subtropical oceans worldwide",
+      "diet": "Carnivore - primarily feeds on fish and squid",
+      "description": "Seabird species known for its striking appearance, impressive wingspan, and ability to stay airborne for extended periods."
+    },
+    {
+      "name": "Pangolin",
+      "scientific_name": "Manis",
+      "habitat": "Various habitats in Africa and Asia",
+      "diet": "Insectivore - feeds on ants and termites",
+      "description": "Unique mammal covered in protective scales, known for its specialized diet, nocturnal habits, and endangered status due to illegal wildlife trade."
+    }
+  ]
+}
