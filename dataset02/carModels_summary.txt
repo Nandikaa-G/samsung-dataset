@@ -1,0 +1,10 @@
+ Yaris, Corolla, Golf and Leaf are hatchback models.
+Year of manufacturing of cars span from 2018 to 2022
+Mazda, Toyota, Nissan, and Subaru predominantly manufacture cars from Japan.
+ BMW, Audi, Mercedes, Porsche, and Volkswagen produce cars in Germany.
+Mazda3, Charger, A6, Civic run on petrol.
+Sorento, X5, Grand Cherokee, Q5 run on diesel.
+Mazda3, Charger, Sorento, X5 feature automatic transmission.
+Ecosport is an SUV runs on petrol.
+Audi A3 has an automatic gear transmission model.
+F-Pace is manufactured by Jaguar.
