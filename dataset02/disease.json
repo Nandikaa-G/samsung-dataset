@@ -1,0 +1,634 @@
+{
+  "disease_distribution": [
+    {
+      "disease_id": 1,
+      "disease_name": "Malaria",
+      "cases": 5000,
+      "deaths": 200,
+      "affected_regions": ["Africa", "Southeast Asia", "South America"]
+    },
+    {
+      "disease_id": 2,
+      "disease_name": "Influenza",
+      "cases": 10000,
+      "deaths": 150,
+      "affected_regions": ["North America", "Europe", "Asia"]
+    },
+    {
+      "disease_id": 3,
+      "disease_name": "Dengue Fever",
+      "cases": 8000,
+      "deaths": 120,
+      "affected_regions": ["South Asia", "Central America", "Caribbean"]
+    },
+    {
+      "disease_id": 4,
+      "disease_name": "COVID-19",
+      "cases": 500000,
+      "deaths": 10000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 5,
+      "disease_name": "Tuberculosis",
+      "cases": 3000,
+      "deaths": 50,
+      "affected_regions": ["Africa", "Asia", "Eastern Europe"]
+    },
+    {
+      "disease_id": 6,
+      "disease_name": "HIV/AIDS",
+      "cases": 15000,
+      "deaths": 800,
+      "affected_regions": ["Sub-Saharan Africa", "Asia", "North America"]
+    },
+    {
+      "disease_id": 7,
+      "disease_name": "Zika Virus",
+      "cases": 1000,
+      "deaths": 10,
+      "affected_regions": ["South America", "Central America"]
+    },
+    {
+      "disease_id": 8,
+      "disease_name": "Ebola Virus",
+      "cases": 2000,
+      "deaths": 1500,
+      "affected_regions": ["West Africa", "Central Africa"]
+    },
+    {
+      "disease_id": 9,
+      "disease_name": "Cholera",
+      "cases": 4000,
+      "deaths": 100,
+      "affected_regions": ["South Asia", "Sub-Saharan Africa", "Haiti"]
+    },
+    {
+      "disease_id": 10,
+      "disease_name": "Yellow Fever",
+      "cases": 1500,
+      "deaths": 300,
+      "affected_regions": ["South America", "Africa"]
+    },
+{
+      "disease_id": 11,
+      "disease_name": "Lyme Disease",
+      "cases": 1200,
+      "deaths": 50,
+      "affected_regions": ["North America", "Europe", "Asia"]
+    },
+    {
+      "disease_id": 12,
+      "disease_name": "Chikungunya",
+      "cases": 2500,
+      "deaths": 30,
+      "affected_regions": ["South Asia", "Africa", "Caribbean"]
+    },
+    {
+      "disease_id": 13,
+      "disease_name": "Hepatitis B",
+      "cases": 1800,
+      "deaths": 120,
+      "affected_regions": ["Asia", "Africa", "Eastern Europe"]
+    },
+    {
+      "disease_id": 14,
+      "disease_name": "Zoonotic Influenza",
+      "cases": 3500,
+      "deaths": 200,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 15,
+      "disease_name": "Leishmaniasis",
+      "cases": 3000,
+      "deaths": 80,
+      "affected_regions": ["South America", "Sub-Saharan Africa", "Middle East"]
+    },
+    {
+      "disease_id": 16,
+      "disease_name": "Typhoid Fever",
+      "cases": 2800,
+      "deaths": 40,
+      "affected_regions": ["South Asia", "Southeast Asia", "Sub-Saharan Africa"]
+    },
+    {
+      "disease_id": 17,
+      "disease_name": "West Nile Virus",
+      "cases": 1800,
+      "deaths": 60,
+      "affected_regions": ["North America", "Europe", "Middle East"]
+    },
+    {
+      "disease_id": 18,
+      "disease_name": "Rabies",
+      "cases": 1200,
+      "deaths": 900,
+      "affected_regions": ["Asia", "Africa", "Latin America"]
+    },
+    {
+      "disease_id": 19,
+      "disease_name": "Pneumococcal Disease",
+      "cases": 5000,
+      "deaths": 300,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 20,
+      "disease_name": "Hantavirus Pulmonary Syndrome",
+      "cases": 800,
+      "deaths": 70,
+      "affected_regions": ["North America", "South America"]
+    },
+    {
+      "disease_id": 21,
+      "disease_name": "Lassa Fever",
+      "cases": 1500,
+      "deaths": 100,
+      "affected_regions": ["West Africa", "Central Africa"]
+    },
+    {
+      "disease_id": 22,
+      "disease_name": "MERS-CoV",
+      "cases": 1200,
+      "deaths": 300,
+      "affected_regions": ["Middle East", "Asia", "Europe"]
+    },
+    {
+      "disease_id": 23,
+      "disease_name": "Schistosomiasis",
+      "cases": 4500,
+      "deaths": 120,
+      "affected_regions": ["Africa", "Middle East", "South America"]
+    },
+    {
+      "disease_id": 24,
+      "disease_name": "Measles",
+      "cases": 10000,
+      "deaths": 150,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 25,
+      "disease_name": "Cryptosporidiosis",
+      "cases": 2000,
+      "deaths": 40,
+      "affected_regions": ["North America", "Europe", "Africa"]
+    },
+    {
+      "disease_id": 26,
+      "disease_name": "Cholera",
+      "cases": 3000,
+      "deaths": 80,
+      "affected_regions": ["Asia", "Africa", "Latin America"]
+    },
+    {
+      "disease_id": 27,
+      "disease_name": "Tetanus",
+      "cases": 1200,
+      "deaths": 30,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 28,
+      "disease_name": "African Trypanosomiasis",
+      "cases": 800,
+      "deaths": 60,
+      "affected_regions": ["Sub-Saharan Africa"]
+    },
+    {
+      "disease_id": 29,
+      "disease_name": "Norovirus Infection",
+      "cases": 4000,
+      "deaths": 20,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 30,
+      "disease_name": "E. coli Infection",
+      "cases": 2500,
+      "deaths": 10,
+      "affected_regions": ["North America", "Europe", "Asia"]
+    },
+{
+      "disease_id": 31,
+      "disease_name": "Yellow Fever",
+      "cases": 1800,
+      "deaths": 150,
+      "affected_regions": ["Sub-Saharan Africa", "South America"]
+    },
+    {
+      "disease_id": 32,
+      "disease_name": "Japanese Encephalitis",
+      "cases": 1200,
+      "deaths": 90,
+      "affected_regions": ["East Asia", "South Asia", "Southeast Asia"]
+    },
+    {
+      "disease_id": 33,
+      "disease_name": "Malaria",
+      "cases": 50000,
+      "deaths": 500,
+      "affected_regions": ["Sub-Saharan Africa", "South Asia", "Southeast Asia"]
+    },
+    {
+      "disease_id": 34,
+      "disease_name": "Influenza (Seasonal)",
+      "cases": 100000,
+      "deaths": 1000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 35,
+      "disease_name": "Dengue Fever",
+      "cases": 35000,
+      "deaths": 300,
+      "affected_regions": ["South Asia", "Southeast Asia", "Latin America"]
+    },
+    {
+      "disease_id": 36,
+      "disease_name": "Tuberculosis",
+      "cases": 120000,
+      "deaths": 10000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 37,
+      "disease_name": "HIV/AIDS",
+      "cases": 3800000,
+      "deaths": 100000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 38,
+      "disease_name": "Zika Virus",
+      "cases": 2500,
+      "deaths": 40,
+      "affected_regions": ["South America", "Central America", "North America"]
+    },
+    {
+      "disease_id": 39,
+      "disease_name": "Polio",
+      "cases": 120,
+      "deaths": 10,
+      "affected_regions": ["Asia", "Africa", "Middle East"]
+    },
+    {
+      "disease_id": 40,
+      "disease_name": "Smallpox",
+      "cases": 0,
+      "deaths": 0,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 41,
+      "disease_name": "Rift Valley Fever",
+      "cases": 800,
+      "deaths": 60,
+      "affected_regions": ["Africa", "Middle East"]
+    },
+    {
+      "disease_id": 42,
+      "disease_name": "Ebolavirus (Ebola)",
+      "cases": 2500,
+      "deaths": 1500,
+      "affected_regions": ["Central Africa", "West Africa"]
+    },
+    {
+      "disease_id": 43,
+      "disease_name": "Hepatitis C",
+      "cases": 3500,
+      "deaths": 200,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 44,
+      "disease_name": "Rhinovirus (Common Cold)",
+      "cases": 100000,
+      "deaths": 50,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 45,
+      "disease_name": "Syphilis",
+      "cases": 500000,
+      "deaths": 30,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 46,
+      "disease_name": "Human Papillomavirus (HPV)",
+      "cases": 7000000,
+      "deaths": 300000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 47,
+      "disease_name": "Hepatitis A",
+      "cases": 2000,
+      "deaths": 100,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 48,
+      "disease_name": "Legionnaires' Disease",
+      "cases": 800,
+      "deaths": 40,
+      "affected_regions": ["North America", "Europe", "Asia"]
+    },
+    {
+      "disease_id": 49,
+      "disease_name": "Q Fever",
+      "cases": 300,
+      "deaths": 20,
+      "affected_regions": ["Australia", "Europe", "North America"]
+    },
+    {
+      "disease_id": 50,
+      "disease_name": "Cysticercosis",
+      "cases": 1200,
+      "deaths": 10,
+      "affected_regions": ["Latin America", "Asia", "Africa"]
+    },
+ {
+      "disease_id": 51,
+      "disease_name": "Chikungunya",
+      "cases": 25000,
+      "deaths": 300,
+      "affected_regions": ["South Asia", "Southeast Asia", "Africa"]
+    },
+    {
+      "disease_id": 52,
+      "disease_name": "Leishmaniasis",
+      "cases": 10000,
+      "deaths": 700,
+      "affected_regions": ["Sub-Saharan Africa", "South Asia", "Latin America"]
+    },
+    {
+      "disease_id": 53,
+      "disease_name": "Hantavirus Pulmonary Syndrome",
+      "cases": 500,
+      "deaths": 80,
+      "affected_regions": ["North America", "South America", "Europe"]
+    },
+    {
+      "disease_id": 54,
+      "disease_name": "Typhoid Fever",
+      "cases": 15000,
+      "deaths": 200,
+      "affected_regions": ["South Asia", "Southeast Asia", "Sub-Saharan Africa"]
+    },
+    {
+      "disease_id": 55,
+      "disease_name": "Cholera",
+      "cases": 20000,
+      "deaths": 1500,
+      "affected_regions": ["South Asia", "Sub-Saharan Africa", "Latin America"]
+    },
+    {
+      "disease_id": 56,
+      "disease_name": "Lassa Fever",
+      "cases": 1200,
+      "deaths": 150,
+      "affected_regions": ["West Africa", "Central Africa"]
+    },
+    {
+      "disease_id": 57,
+      "disease_name": "MERS-CoV (Middle East Respiratory Syndrome Coronavirus)",
+      "cases": 2500,
+      "deaths": 500,
+      "affected_regions": ["Middle East", "Asia", "Europe"]
+    },
+    {
+      "disease_id": 58,
+      "disease_name": "Measles",
+      "cases": 200000,
+      "deaths": 1000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 59,
+      "disease_name": "Pertussis (Whooping Cough)",
+      "cases": 30000,
+      "deaths": 200,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 60,
+      "disease_name": "Rubella",
+      "cases": 5000,
+      "deaths": 10,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 61,
+      "disease_name": "Schistosomiasis",
+      "cases": 60000,
+      "deaths": 300,
+      "affected_regions": ["Sub-Saharan Africa", "South America", "Middle East"]
+    },
+    {
+      "disease_id": 62,
+      "disease_name": "Tetanus",
+      "cases": 1000,
+      "deaths": 50,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 63,
+      "disease_name": "Tularemia",
+      "cases": 200,
+      "deaths": 20,
+      "affected_regions": ["North America", "Europe", "Asia"]
+    },
+    {
+      "disease_id": 64,
+      "disease_name": "Varicella (Chickenpox)",
+      "cases": 40000,
+      "deaths": 100,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 65,
+      "disease_name": "West Nile Virus",
+      "cases": 1500,
+      "deaths": 100,
+      "affected_regions": ["North America", "Europe", "Africa"]
+    },
+    {
+      "disease_id": 66,
+      "disease_name": "Yellow Fever",
+      "cases": 1800,
+      "deaths": 150,
+      "affected_regions": ["Sub-Saharan Africa", "South America"]
+    },
+    {
+      "disease_id": 67,
+      "disease_name": "Zika Virus",
+      "cases": 2500,
+      "deaths": 40,
+      "affected_regions": ["South America", "Central America", "North America"]
+    },
+    {
+      "disease_id": 68,
+      "disease_name": "Rocky Mountain Spotted Fever",
+      "cases": 300,
+      "deaths": 30,
+      "affected_regions": ["North America", "South America"]
+    },
+    {
+      "disease_id": 69,
+      "disease_name": "Diphtheria",
+    "cases": 5000,
+    "deaths": 100,
+    "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 70,
+      "disease_name": "Anthrax",
+      "cases": 100,
+      "deaths": 10,
+      "affected_regions": ["Global"]
+    },
+{
+      "disease_id": 71,
+      "disease_name": "Hepatitis A",
+      "cases": 12000,
+      "deaths": 300,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 72,
+      "disease_name": "Hepatitis B",
+      "cases": 18000,
+      "deaths": 700,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 73,
+      "disease_name": "Hepatitis C",
+      "cases": 15000,
+      "deaths": 900,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 74,
+      "disease_name": "Hepatitis E",
+      "cases": 8000,
+      "deaths": 200,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 75,
+      "disease_name": "Influenza",
+      "cases": 500000,
+      "deaths": 10000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 76,
+      "disease_name": "Leprosy",
+      "cases": 10000,
+      "deaths": 50,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 77,
+      "disease_name": "Norovirus Infection",
+      "cases": 30000,
+      "deaths": 1000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 78,
+      "disease_name": "Pneumonia",
+      "cases": 700000,
+      "deaths": 50000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 79,
+      "disease_name": "Rabies",
+      "cases": 1000,
+      "deaths": 300,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 80,
+      "disease_name": "Tuberculosis",
+      "cases": 1000000,
+      "deaths": 200000,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 81,
+      "disease_name": "African Trypanosomiasis (Sleeping Sickness)",
+      "cases": 5000,
+      "deaths": 1000,
+      "affected_regions": ["Sub-Saharan Africa"]
+    },
+    {
+      "disease_id": 82,
+      "disease_name": "Cysticercosis",
+      "cases": 20000,
+      "deaths": 300,
+      "affected_regions": ["Latin America", "Sub-Saharan Africa", "Asia"]
+    },
+    {
+      "disease_id": 83,
+      "disease_name": "Dengue Fever",
+      "cases": 300000,
+      "deaths": 1000,
+      "affected_regions": ["South Asia", "Southeast Asia", "Latin America"]
+    },
+    {
+      "disease_id": 84,
+      "disease_name": "Histoplasmosis",
+      "cases": 1000,
+      "deaths": 50,
+      "affected_regions": ["North America", "Central America"]
+    },
+    {
+      "disease_id": 85,
+      "disease_name": "Malaria",
+      "cases": 500000,
+      "deaths": 100000,
+      "affected_regions": ["Sub-Saharan Africa", "South Asia", "Southeast Asia"]
+    },
+    {
+      "disease_id": 86,
+      "disease_name": "Oropouche Fever",
+      "cases": 1500,
+      "deaths": 20,
+      "affected_regions": ["South America", "Central America"]
+    },
+    {
+      "disease_id": 87,
+      "disease_name": "Poliomyelitis (Polio)",
+      "cases": 2000,
+      "deaths": 200,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 88,
+      "disease_name": "Q Fever",
+      "cases": 500,
+      "deaths": 30,
+      "affected_regions": ["Global"]
+    },
+    {
+      "disease_id": 89,
+      "disease_name": "Tularemia",
+      "cases": 300,
+      "deaths": 10,
+      "affected_regions": ["North America", "Europe", "Asia"]
+    },
+    {
+      "disease_id": 90,
+      "disease_name": "Visceral Leishmaniasis (Kala-Azar)",
+      "cases": 10000,
+      "deaths": 500,
+      "affected_regions": ["South Asia", "East Africa"]
+    }
+  ]
+}

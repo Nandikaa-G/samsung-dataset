@@ -1,0 +1,45 @@
+Total Number of Diseases:
+
+There are 90 diseases in the dataset.
+Category-wise Distribution:
+
+Infectious Diseases: 70
+Viral Diseases: 20
+Overall Statistics:
+
+Total Cases: 9,276,300
+Total Deaths: 448,880
+Diseases with Highest Cases:
+
+HIV/AIDS: 3,800,000 cases
+Influenza: 500,000 cases
+Tuberculosis: 1,000,000 cases
+Diseases with Highest Deaths:
+
+HIV/AIDS: 100,000 deaths
+Tuberculosis: 200,000 deaths
+Influenza: 10,000 deaths
+Regions Most Affected:
+
+Sub-Saharan Africa: 27 diseases
+Asia: 26 diseases
+Global: 22 diseases
+Deadliest Diseases (Highest Death Rate):
+
+Ebola Virus: 1,500 deaths out of 2,000 cases
+Hepatitis C: 200 deaths out of 3,500 cases
+Rabies: 900 deaths out of 1,200 cases
+Diseases with Lowest Cases and Deaths:
+
+Smallpox: 0 cases and 0 deaths
+Q Fever: 300 cases and 30 deaths
+Tularemia: 300 cases and 10 deaths
+Global Impact:
+
+Diseases affecting the entire globe: 17
+Regional Impact:
+
+Diseases specific to Africa: 15
+Diseases specific to Asia: 16
+Diseases specific to North America: 10
+Diseases specific to South America: 12
