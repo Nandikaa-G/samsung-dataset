@@ -1,0 +1,454 @@
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Truffle Risotto",
+      "cuisine_type": "Italian",
+      "ingredients": ["Arborio rice", "Parmesan cheese", "Truffle oil", "Vegetable broth", "Shallots"],
+      "preparation_method": "Slow-cook Arborio rice with vegetable broth, shallots, and finish with Parmesan and a drizzle of truffle oil."
+    },
+    {
+      "dish_name": "Beef Wellington",
+      "cuisine_type": "British",
+      "ingredients": ["Beef tenderloin", "Puff pastry", "Duxelles (mushroom mix)", "Prosciutto", "Egg wash"],
+      "preparation_method": "Seal beef tenderloin with duxelles and prosciutto, wrap in puff pastry, brush with egg wash, and bake until golden."
+    },
+    {
+      "dish_name": "Sushi Platter",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Sushi rice", "Fresh fish (salmon, tuna)", "Nori seaweed", "Wasabi", "Pickled ginger"],
+      "preparation_method": "Prepare sushi rice, slice fresh fish, and assemble nigiri and rolls with nori, wasabi, and pickled ginger."
+    },
+    {
+      "dish_name": "Coq au Vin",
+      "cuisine_type": "French",
+      "ingredients": ["Chicken thighs", "Red wine", "Pearl onions", "Mushrooms", "Bacon lardons"],
+      "preparation_method": "Marinate chicken in red wine, then simmer with pearl onions, mushrooms, and bacon lardons until tender."
+    },
+    {
+      "dish_name": "Paella",
+      "cuisine_type": "Spanish",
+      "ingredients": ["Rice", "Chicken", "Chorizo", "Shrimp", "Bell peppers", "Saffron"],
+      "preparation_method": "Sauté chicken, chorizo, and bell peppers, add rice, shrimp, and saffron-infused broth, and simmer until rice is cooked."
+    },
+    {
+      "dish_name": "Lobster Thermidor",
+      "cuisine_type": "French",
+      "ingredients": ["Lobster tails", "Cream", "Brandy", "Egg yolks", "Parmesan cheese"],
+      "preparation_method": "Prepare lobster meat in a creamy sauce with brandy, top with a mixture of egg yolks and Parmesan, then broil until golden."
+    },
+    {
+      "dish_name": "Tandoori Chicken",
+      "cuisine_type": "Indian",
+      "ingredients": ["Chicken legs", "Yogurt", "Tandoori spices", "Lemon juice", "Ginger-garlic paste"],
+      "preparation_method": "Marinate chicken in a mixture of yogurt, tandoori spices, lemon juice, and ginger-garlic paste, then grill until charred and cooked."
+    },
+    {
+      "dish_name": "Gnocchi with Gorgonzola Sauce",
+      "cuisine_type": "Italian",
+      "ingredients": ["Potatoes", "Flour", "Gorgonzola cheese", "Butter", "Heavy cream"],
+      "preparation_method": "Boil potatoes, mash, and mix with flour to make gnocchi. Prepare a creamy gorgonzola sauce with butter and heavy cream, then toss with cooked gnocchi."
+    },
+    {
+      "dish_name": "Miso Glazed Black Cod",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Black cod", "Miso paste", "Mirin", "Sake", "Sugar"],
+      "preparation_method": "Marinate black cod in a mixture of miso paste, mirin, sake, and sugar, then broil until the glaze caramelizes."
+    },
+    {
+      "dish_name": "Peking Duck",
+      "cuisine_type": "Chinese",
+      "ingredients": ["Duck", "Hoisin sauce", "Pancakes", "Cucumber", "Spring onions"],
+      "preparation_method": "Roast whole duck until crispy, serve with hoisin sauce, pancakes, sliced cucumber, and spring onions."
+    }
+  ]
+}
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Ratatouille",
+      "cuisine_type": "French",
+      "ingredients": ["Eggplant", "Zucchini", "Tomatoes", "Bell peppers", "Onions", "Garlic"],
+      "preparation_method": "Sauté vegetables separately, then combine and simmer with herbs until flavors meld."
+    },
+    {
+      "dish_name": "Osso Buco",
+      "cuisine_type": "Italian",
+      "ingredients": ["Veal shanks", "Tomatoes", "Wine", "Carrots", "Celery", "Gremolata"],
+      "preparation_method": "Brown veal shanks, then braise with tomatoes, wine, carrots, and celery until tender. Garnish with gremolata."
+    },
+    {
+      "dish_name": "Bouillabaisse",
+      "cuisine_type": "French",
+      "ingredients": ["Assorted fish", "Shellfish", "Fennel", "Saffron", "Tomatoes", "Potatoes"],
+      "preparation_method": "Prepare a fish broth with fennel, saffron, and tomatoes, then simmer assorted fish and shellfish in the broth."
+    },
+    {
+      "dish_name": "Szechuan Beef",
+      "cuisine_type": "Chinese",
+      "ingredients": ["Beef strips", "Szechuan peppercorns", "Garlic", "Ginger", "Soy sauce", "Green onions"],
+      "preparation_method": "Stir-fry beef strips with Szechuan peppercorns, garlic, ginger, soy sauce, and finish with sliced green onions."
+    },
+    {
+      "dish_name": "Lamb Tagine",
+      "cuisine_type": "Moroccan",
+      "ingredients": ["Lamb", "Apricots", "Almonds", "Cinnamon", "Cumin", "Couscous"],
+      "preparation_method": "Slow-cook lamb with apricots, almonds, and spices until tender. Serve with fluffy couscous."
+    },
+    {
+      "dish_name": "Chicken Cordon Bleu",
+      "cuisine_type": "French",
+      "ingredients": ["Chicken breasts", "Ham", "Swiss cheese", "Breadcrumbs", "Eggs", "Butter"],
+      "preparation_method": "Stuff chicken breasts with ham and Swiss cheese, bread and fry until golden, then bake until cooked through."
+    },
+    {
+      "dish_name": "Thai Green Curry",
+      "cuisine_type": "Thai",
+      "ingredients": ["Chicken", "Coconut milk", "Green curry paste", "Bamboo shoots", "Thai basil", "Lime leaves"],
+      "preparation_method": "Simmer chicken in a coconut milk-based green curry paste, bamboo shoots, Thai basil, and lime leaves."
+    },
+    {
+      "dish_name": "Pork Belly Bao",
+      "cuisine_type": "Chinese",
+      "ingredients": ["Pork belly", "Steamed buns", "Hoisin sauce", "Cucumber", "Pickled radish"],
+      "preparation_method": "Slow-roast pork belly until crispy, serve in steamed buns with hoisin sauce, cucumber, and pickled radish."
+    },
+    {
+      "dish_name": "Gazpacho",
+      "cuisine_type": "Spanish",
+      "ingredients": ["Tomatoes", "Cucumbers", "Bell peppers", "Onions", "Garlic", "Olive oil"],
+      "preparation_method": "Blend tomatoes, cucumbers, bell peppers, onions, garlic, and olive oil until smooth, chill before serving."
+    },
+    {
+      "dish_name": "Biryani",
+      "cuisine_type": "Indian",
+      "ingredients": ["Basmati rice", "Chicken", "Yogurt", "Saffron", "Spices", "Fried onions"],
+      "preparation_method": "Layer basmati rice with marinated chicken, saffron-infused milk, and fried onions, then bake until the flavors meld."
+    }
+  ]
+}
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Ceviche",
+      "cuisine_type": "Peruvian",
+      "ingredients": ["Fresh fish", "Lime juice", "Red onions", "Cilantro", "Chili peppers"],
+      "preparation_method": "Marinate fresh fish in lime juice, mix with red onions, cilantro, and chili peppers, then serve chilled."
+    },
+    {
+      "dish_name": "Tiramisu",
+      "cuisine_type": "Italian",
+      "ingredients": ["Ladyfingers", "Mascarpone", "Espresso", "Cocoa powder", "Rum"],
+      "preparation_method": "Layer soaked ladyfingers with mascarpone cream, espresso, and a hint of rum, then dust with cocoa powder."
+    },
+    {
+      "dish_name": "Duck Confit",
+      "cuisine_type": "French",
+      "ingredients": ["Duck legs", "Duck fat", "Garlic", "Thyme", "Salt"],
+      "preparation_method": "Slow-cook duck legs in duck fat with garlic and thyme until tender, then crisp the skin before serving."
+    },
+    {
+      "dish_name": "Ramen",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Ramen noodles", "Pork broth", "Chashu pork", "Soft-boiled egg", "Seaweed", "Green onions"],
+      "preparation_method": "Prepare ramen noodles in a rich pork broth, top with chashu pork, soft-boiled egg, seaweed, and sliced green onions."
+    },
+    {
+      "dish_name": "Goulash",
+      "cuisine_type": "Hungarian",
+      "ingredients": ["Beef", "Onions", "Bell peppers", "Tomatoes", "Paprika", "Potatoes"],
+      "preparation_method": "Stew beef with onions, bell peppers, tomatoes, and paprika until tender, then add potatoes to simmer until cooked."
+    },
+    {
+      "dish_name": "Moussaka",
+      "cuisine_type": "Greek",
+      "ingredients": ["Eggplant", "Ground lamb", "Tomatoes", "Bechamel sauce", "Garlic", "Onions"],
+      "preparation_method": "Layer eggplant with seasoned ground lamb, tomatoes, and bechamel sauce, then bake until golden and bubbly."
+    },
+    {
+      "dish_name": "Pad Thai",
+      "cuisine_type": "Thai",
+      "ingredients": ["Rice noodles", "Shrimp", "Tofu", "Bean sprouts", "Peanuts", "Tamarind sauce"],
+      "preparation_method": "Stir-fry rice noodles with shrimp, tofu, bean sprouts, peanuts, and tamarind sauce until well combined."
+    },
+    {
+      "dish_name": "Cassoulet",
+      "cuisine_type": "French",
+      "ingredients": ["White beans", "Duck confit", "Sausages", "Pork belly", "Garlic", "Breadcrumbs"],
+      "preparation_method": "Slow-cook white beans with duck confit, sausages, and pork belly, top with breadcrumbs and bake until crispy."
+    },
+    {
+      "dish_name": "Baklava",
+      "cuisine_type": "Middle Eastern",
+      "ingredients": ["Phyllo dough", "Walnuts", "Honey", "Butter", "Cinnamon"],
+      "preparation_method": "Layer phyllo dough with a mixture of walnuts, honey, and cinnamon, bake until golden, then drizzle with honey."
+    },
+    {
+      "dish_name": "Sushi Sashimi",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Fresh fish", "Wasabi", "Soy sauce", "Pickled ginger"],
+      "preparation_method": "Slice fresh fish thinly, serve with wasabi, soy sauce, and pickled ginger for a classic sushi experience."
+    }
+  ]
+}
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Fondue",
+      "cuisine_type": "Swiss",
+      "ingredients": ["Gruyère cheese", "Emmental cheese", "White wine", "Garlic", "Kirsch"],
+      "preparation_method": "Melt Gruyère and Emmental cheese with white wine, garlic, and a splash of Kirsch for dipping bread and veggies."
+    },
+    {
+      "dish_name": "Sashimi Platter",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Tuna", "Salmon", "Yellowtail", "Soy sauce", "Wasabi", "Pickled radish"],
+      "preparation_method": "Slice tuna, salmon, and yellowtail thinly, serve with soy sauce, wasabi, and pickled radish."
+    },
+    {
+      "dish_name": "Croque Monsieur",
+      "cuisine_type": "French",
+      "ingredients": ["Ham", "Gruyère cheese", "Béchamel sauce", "Bread", "Butter"],
+      "preparation_method": "Layer ham and Gruyère cheese between slices of bread, top with béchamel sauce, and grill until golden."
+    },
+    {
+      "dish_name": "Pho",
+      "cuisine_type": "Vietnamese",
+      "ingredients": ["Beef broth", "Rice noodles", "Beef slices", "Bean sprouts", "Thai basil", "Lime"],
+      "preparation_method": "Simmer beef broth, serve with rice noodles, beef slices, bean sprouts, Thai basil, and lime wedges."
+    },
+    {
+      "dish_name": "Chateaubriand Steak",
+      "cuisine_type": "French",
+      "ingredients": ["Beef tenderloin", "Butter", "Shallots", "Red wine", "Thyme"],
+      "preparation_method": "Pan-sear beef tenderloin, finish with a buttery shallot and red wine reduction, garnished with thyme."
+    },
+    {
+      "dish_name": "Bouillabaisse",
+      "cuisine_type": "French",
+      "ingredients": ["Assorted fish", "Shellfish", "Fennel", "Saffron", "Tomatoes", "Garlic"],
+      "preparation_method": "Prepare a rich seafood broth with fennel, saffron, and tomatoes, then simmer assorted fish and shellfish."
+    },
+    {
+      "dish_name": "Kobe Beef Burger",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Kobe beef patty", "Brioche bun", "Lettuce", "Tomato", "Onion", "Special sauce"],
+      "preparation_method": "Grill a Kobe beef patty, serve on a brioche bun with lettuce, tomato, onion, and a special sauce."
+    },
+    {
+      "dish_name": "Tarte Tatin",
+      "cuisine_type": "French",
+      "ingredients": ["Apples", "Puff pastry", "Butter", "Sugar", "Vanilla"],
+      "preparation_method": "Caramelize apples in butter and sugar, top with puff pastry, bake, and invert for a delightful apple dessert."
+    },
+    {
+      "dish_name": "Rack of Lamb",
+      "cuisine_type": "Various",
+      "ingredients": ["Rack of lamb", "Rosemary", "Garlic", "Olive oil", "Mint jelly"],
+      "preparation_method": "Roast rack of lamb with rosemary, garlic, and olive oil, serve with a side of mint jelly."
+    },
+    {
+      "dish_name": "Gnocchi with Pesto",
+      "cuisine_type": "Italian",
+      "ingredients": ["Potatoes", "Flour", "Basil", "Pine nuts", "Garlic", "Parmesan"],
+      "preparation_method": "Prepare potato gnocchi, toss with basil pesto made from basil, pine nuts, garlic, and Parmesan."
+    }
+  ]
+}
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Caviar on Blinis",
+      "cuisine_type": "Russian",
+      "ingredients": ["Beluga caviar", "Blinis", "Crème fraîche", "Chives", "Lemon"],
+      "preparation_method": "Serve Beluga caviar atop small blinis with a dollop of crème fraîche, garnished with chives and a squeeze of lemon."
+    },
+    {
+      "dish_name": "Moules Marinières",
+      "cuisine_type": "French",
+      "ingredients": ["Mussels", "White wine", "Shallots", "Garlic", "Parsley", "Butter"],
+      "preparation_method": "Simmer mussels in a white wine broth flavored with shallots, garlic, parsley, and butter until they open."
+    },
+    {
+      "dish_name": "Spanakopita",
+      "cuisine_type": "Greek",
+      "ingredients": ["Spinach", "Feta cheese", "Phyllo dough", "Onions", "Dill", "Olive oil"],
+      "preparation_method": "Layer spinach and feta mixture between phyllo dough sheets, bake until golden, crispy, and delicious."
+    },
+    {
+      "dish_name": "Sukiyaki",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Thinly sliced beef", "Tofu", "Noodles", "Shiitake mushrooms", "Soy sauce", "Sugar"],
+      "preparation_method": "Cook thinly sliced beef, tofu, noodles, and shiitake mushrooms in a sweet soy sauce-based broth."
+    },
+    {
+      "dish_name": "Chicken Tikka Masala",
+      "cuisine_type": "Indian",
+      "ingredients": ["Chicken", "Yogurt", "Tomato sauce", "Garam masala", "Cream", "Cilantro"],
+      "preparation_method": "Marinate chicken in yogurt and spices, grill, then simmer in a tomato and cream-based sauce with garam masala."
+    },
+    {
+      "dish_name": "Escargot",
+      "cuisine_type": "French",
+      "ingredients": ["Snails", "Garlic butter", "Parsley", "Shallots", "White wine", "Baguette"],
+      "preparation_method": "Cook snails in garlic butter with parsley, shallots, and white wine, serve in shells with a side of toasted baguette."
+    },
+    {
+      "dish_name": "Peking Duck",
+      "cuisine_type": "Chinese",
+      "ingredients": ["Duck", "Hoisin sauce", "Cucumber", "Spring onions", "Pancakes"],
+      "preparation_method": "Roast duck until crispy, serve with hoisin sauce, sliced cucumber, spring onions, and thin pancakes for wrapping."
+    },
+    {
+      "dish_name": "Lobster Thermidor",
+      "cuisine_type": "French",
+      "ingredients": ["Lobster", "Cream", "Brandy", "Mustard", "Parmesan", "Egg yolks"],
+      "preparation_method": "Cook lobster in a creamy sauce with brandy, mustard, and Parmesan, top with a mixture of egg yolks, then broil until golden."
+    },
+    {
+      "dish_name": "Tournedos Rossini",
+      "cuisine_type": "French",
+      "ingredients": ["Beef fillet", "Foie gras", "Truffles", "Madeira sauce", "Butter", "Bread"],
+      "preparation_method": "Pan-sear beef fillet, top with foie gras and truffles, serve with a rich Madeira sauce, and a slice of toasted bread."
+    },
+    {
+      "dish_name": "Bulgogi",
+      "cuisine_type": "Korean",
+      "ingredients": ["Thinly sliced beef", "Soy sauce", "Sugar", "Garlic", "Sesame oil", "Rice"],
+      "preparation_method": "Marinate thinly sliced beef in a mixture of soy sauce, sugar, garlic, and sesame oil, then grill or stir-fry until tender."
+    },
+    {
+      "dish_name": "Ravioli with Sage Butter",
+      "cuisine_type": "Italian",
+      "ingredients": ["Ravioli", "Butter", "Sage", "Parmesan cheese", "Nutmeg", "Ricotta"],
+      "preparation_method": "Serve homemade ravioli with a simple sauce of melted butter, sage, Parmesan cheese, and a hint of nutmeg."
+    }
+  ]
+}
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Beef Wellington",
+      "cuisine_type": "British",
+      "ingredients": ["Beef fillet", "Mushrooms", "Puff pastry", "Duxelles", "Prosciutto", "Egg wash"],
+      "preparation_method": "Seal beef fillet with duxelles and prosciutto, wrap in puff pastry, brush with egg wash, and bake until golden."
+    },
+    {
+      "dish_name": "Cassoulet",
+      "cuisine_type": "French",
+      "ingredients": ["White beans", "Duck confit", "Sausages", "Pork belly", "Garlic", "Tomatoes"],
+      "preparation_method": "Slow-cook white beans with duck confit, sausages, pork belly, garlic, and tomatoes until flavors meld."
+    },
+    {
+      "dish_name": "Tandoori Chicken",
+      "cuisine_type": "Indian",
+      "ingredients": ["Chicken", "Yogurt", "Tandoori spices", "Ginger", "Garlic", "Lemon juice"],
+      "preparation_method": "Marinate chicken in yogurt, tandoori spices, ginger, garlic, and lemon juice, then grill or bake until tender."
+    },
+    {
+      "dish_name": "Fettuccine Alfredo",
+      "cuisine_type": "Italian",
+      "ingredients": ["Fettuccine pasta", "Heavy cream", "Parmesan cheese", "Butter", "Salt", "Pepper"],
+      "preparation_method": "Cook fettuccine pasta, toss with a creamy sauce made from heavy cream, Parmesan cheese, butter, salt, and pepper."
+    },
+    {
+      "dish_name": "Goulash",
+      "cuisine_type": "Hungarian",
+      "ingredients": ["Beef", "Onions", "Bell peppers", "Tomatoes", "Paprika", "Potatoes"],
+      "preparation_method": "Stew beef with onions, bell peppers, tomatoes, and paprika, serve with potatoes for a hearty meal."
+    },
+    {
+      "dish_name": "Mole Poblano",
+      "cuisine_type": "Mexican",
+      "ingredients": ["Chicken", "Chocolate", "Chilies", "Nuts", "Spices", "Tortillas"],
+      "preparation_method": "Simmer chicken in a rich sauce made from chocolate, chilies, nuts, and spices, serve with tortillas."
+    },
+    {
+      "dish_name": "Ratatouille",
+      "cuisine_type": "French",
+      "ingredients": ["Eggplant", "Zucchini", "Bell peppers", "Tomatoes", "Onions", "Garlic"],
+      "preparation_method": "Sauté vegetables like eggplant, zucchini, bell peppers, tomatoes, onions, and garlic until tender and flavors meld."
+    },
+    {
+      "dish_name": "Paella",
+      "cuisine_type": "Spanish",
+      "ingredients": ["Rice", "Chicken", "Rabbit", "Saffron", "Peas", "Bell peppers"],
+      "preparation_method": "Cook rice with chicken, rabbit, saffron, peas, and bell peppers in a wide shallow pan for a flavorful dish."
+    },
+    {
+      "dish_name": "Borscht",
+      "cuisine_type": "Russian",
+      "ingredients": ["Beets", "Cabbage", "Potatoes", "Beef broth", "Sour cream", "Dill"],
+      "preparation_method": "Simmer beets, cabbage, potatoes, and beef broth, garnish with a dollop of sour cream and dill."
+    },
+    {
+      "dish_name": "Ceviche",
+      "cuisine_type": "Peruvian",
+      "ingredients": ["Fresh fish", "Lime juice", "Red onions", "Cilantro", "Chilies", "Sweet potatoes"],
+      "preparation_method": "Marinate fresh fish in lime juice, mix with red onions, cilantro, chilies, and serve with sweet potatoes."
+    }
+  ]
+}
+{
+  "gourmet_dishes": [
+    {
+      "dish_name": "Sushi Platter",
+      "cuisine_type": "Japanese",
+      "ingredients": ["Sashimi-grade fish", "Sushi rice", "Nori", "Wasabi", "Soy sauce", "Pickled ginger"],
+      "preparation_method": "Artfully arrange sashimi-grade fish on sushi rice, wrap with nori, serve with wasabi, soy sauce, and pickled ginger."
+    },
+    {
+      "dish_name": "Lobster Bisque",
+      "cuisine_type": "French",
+      "ingredients": ["Lobster", "Heavy cream", "Tomatoes", "Onions", "Carrots", "Brandy"],
+      "preparation_method": "Simmer lobster, tomatoes, onions, carrots, and brandy, then blend with heavy cream for a luxurious soup."
+    },
+    {
+      "dish_name": "Gnocchi with Gorgonzola Sauce",
+      "cuisine_type": "Italian",
+      "ingredients": ["Potatoes", "Flour", "Gorgonzola cheese", "Butter", "Walnuts", "Sage"],
+      "preparation_method": "Prepare soft potato gnocchi, toss in a creamy gorgonzola sauce, garnish with butter-toasted walnuts and sage."
+    },
+    {
+      "dish_name": "Chateaubriand Steak",
+      "cuisine_type": "French",
+      "ingredients": ["Beef tenderloin", "Red wine", "Shallots", "Butter", "Thyme", "Garlic"],
+      "preparation_method": "Pan-sear beef tenderloin, deglaze with red wine, and finish with a buttery shallot, thyme, and garlic reduction."
+    },
+    {
+      "dish_name": "Dim Sum Selection",
+      "cuisine_type": "Chinese",
+      "ingredients": ["Pork", "Shrimp", "Mushrooms", "Water chestnuts", "Spring onions", "Dough wrappers"],
+      "preparation_method": "Steam a selection of dumplings filled with pork, shrimp, mushrooms, water chestnuts, and spring onions."
+    },
+    {
+      "dish_name": "Cordon Bleu",
+      "cuisine_type": "French",
+      "ingredients": ["Chicken breast", "Ham", "Gruyère cheese", "Breadcrumbs", "Eggs", "Dijon mustard"],
+      "preparation_method": "Stuff chicken breast with ham and Gruyère cheese, coat in breadcrumbs, and pan-fry until golden and crispy."
+    },
+    {
+      "dish_name": "Kofta Kebabs",
+      "cuisine_type": "Middle Eastern",
+      "ingredients": ["Ground lamb", "Onions", "Spices", "Parsley", "Yogurt", "Cucumber"],
+      "preparation_method": "Mix ground lamb with onions, spices, and parsley, shape into kebabs, grill, and serve with yogurt-cucumber sauce."
+    },
+    {
+      "dish_name": "Pierogi",
+      "cuisine_type": "Polish",
+      "ingredients": ["Potatoes", "Cheese", "Onions", "Dough", "Sour cream", "Bacon bits"],
+      "preparation_method": "Fill dough pockets with a mixture of potatoes, cheese, and onions, boil until cooked, and serve with sour cream and bacon bits."
+    },
+    {
+      "dish_name": "Tiramisu",
+      "cuisine_type": "Italian",
+      "ingredients": ["Ladyfingers", "Mascarpone cheese", "Coffee", "Cocoa powder", "Eggs", "Sugar"],
+      "preparation_method": "Layer soaked ladyfingers and mascarpone cheese mixture, dust with cocoa powder, and chill for a classic Italian dessert."
+    },
+    {
+      "dish_name": "Moussaka",
+      "cuisine_type": "Greek",
+      "ingredients": ["Eggplant", "Ground lamb", "Tomatoes", "Bechamel sauce", "Onions", "Garlic"],
+      "preparation_method": "Layer eggplant slices with seasoned ground lamb, tomatoes, and top with creamy béchamel sauce, bake until golden."
+    }
+  ]
+}
