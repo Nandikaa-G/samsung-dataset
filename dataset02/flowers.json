@@ -1,0 +1,541 @@
+[
+    {
+        "name": "Rose",
+        "scientific_name": "Rosa",
+        "color": "Red",
+        "origin": "Asia",
+        "uses": ["Decoration", "Perfume", "Medicine"]
+    },
+    {
+        "name": "Tulip",
+        "scientific_name": "Tulipa",
+        "color": "Various",
+        "origin": "Central Asia, Turkey",
+        "uses": ["Decoration", "Gardening"]
+    },
+    {
+        "name": "Sunflower",
+        "scientific_name": "Helianthus annuus",
+        "color": "Yellow",
+        "origin": "North America",
+        "uses": ["Oil production", "Decoration", "Food source"]
+    },
+    {
+        "name": "Lily",
+        "scientific_name": "Lilium",
+        "color": "White, Pink, Yellow, Orange",
+        "origin": "Temperate Northern Hemisphere",
+        "uses": ["Decoration", "Religious ceremonies"]
+    },
+    {
+        "name": "Daisy",
+        "scientific_name": "Bellis perennis",
+        "color": "White, Pink",
+        "origin": "Europe, Western Asia, North Africa",
+        "uses": ["Decoration", "Medicine", "Edible flowers"]
+    }
+]
+[
+    {
+        "name": "Orchid",
+        "scientific_name": "Orchidaceae",
+        "color": "Various",
+        "origin": "Tropical regions",
+        "uses": ["Decoration", "Perfume", "Medicine"]
+    },
+    {
+        "name": "Carnation",
+        "scientific_name": "Dianthus caryophyllus",
+        "color": "Red, Pink, White",
+        "origin": "Mediterranean region",
+        "uses": ["Decoration", "Cut flowers", "Essential oils"]
+    },
+    {
+        "name": "Daffodil",
+        "scientific_name": "Narcissus",
+        "color": "Yellow",
+        "origin": "Europe, North Africa, West Asia",
+        "uses": ["Decoration", "Gardening", "Symbol of hope"]
+    },
+    {
+        "name": "Cherry Blossom",
+        "scientific_name": "Prunus serrulata",
+        "color": "Pink",
+        "origin": "East Asia",
+        "uses": ["Decoration", "Cultural symbol", "Celebrations"]
+    },
+    {
+        "name": "Hydrangea",
+        "scientific_name": "Hydrangea",
+        "color": "Blue, Pink, Purple",
+        "origin": "Asia, Americas",
+        "uses": ["Decoration", "Gardening", "Floral arrangements"]
+    },
+    {
+        "name": "Lavender",
+        "scientific_name": "Lavandula",
+        "color": "Purple",
+        "origin": "Mediterranean region",
+        "uses": ["Aromatherapy", "Decoration", "Culinary"]
+    },
+    {
+        "name": "Peony",
+        "scientific_name": "Paeonia",
+        "color": "Pink, White, Red",
+        "origin": "Asia, Europe, Western North America",
+        "uses": ["Decoration", "Weddings", "Medicine"]
+    },
+    {
+        "name": "Magnolia",
+        "scientific_name": "Magnolia",
+        "color": "White, Pink",
+        "origin": "North and South America, Southeast Asia",
+        "uses": ["Decoration", "Gardening", "Medicine"]
+    },
+    {
+        "name": "Poppy",
+        "scientific_name": "Papaver",
+        "color": "Red, Pink, Orange",
+        "origin": "Various regions",
+        "uses": ["Decoration", "Medicine", "Symbol of remembrance"]
+    },
+    {
+        "name": "Iris",
+        "scientific_name": "Iris",
+        "color": "Purple, Blue, Yellow",
+        "origin": "Europe, Asia, North America",
+        "uses": ["Decoration", "Gardening", "Symbolism"]
+    }
+]
+[
+    {
+        "name": "Freesia",
+        "scientific_name": "Freesia",
+        "color": "Various",
+        "origin": "South Africa",
+        "uses": ["Decoration", "Fragrance", "Floral arrangements"]
+    },
+    {
+        "name": "Gerbera Daisy",
+        "scientific_name": "Gerbera jamesonii",
+        "color": "Various",
+        "origin": "Africa, Asia, South America",
+        "uses": ["Decoration", "Cut flowers", "Floral arrangements"]
+    },
+    {
+        "name": "Anthurium",
+        "scientific_name": "Anthurium",
+        "color": "Red, Pink",
+        "origin": "Tropical Americas",
+        "uses": ["Decoration", "Floral arrangements", "Houseplants"]
+    },
+    {
+        "name": "Bird of Paradise",
+        "scientific_name": "Strelitzia reginae",
+        "color": "Orange, Blue",
+        "origin": "South Africa",
+        "uses": ["Decoration", "Floral arrangements", "Tropical gardens"]
+    },
+    {
+        "name": "Zinnia",
+        "scientific_name": "Zinnia",
+        "color": "Various",
+        "origin": "North and South America",
+        "uses": ["Decoration", "Gardening", "Cut flowers"]
+    },
+    {
+        "name": "Cosmos",
+        "scientific_name": "Cosmos",
+        "color": "Pink, White, Red",
+        "origin": "Mexico",
+        "uses": ["Decoration", "Gardening", "Attracting pollinators"]
+    },
+    {
+        "name": "Snapdragon",
+        "scientific_name": "Antirrhinum majus",
+        "color": "Various",
+        "origin": "Mediterranean region",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Dahlia",
+        "scientific_name": "Dahlia",
+        "color": "Various",
+        "origin": "Mexico, Central America",
+        "uses": ["Decoration", "Gardening", "Cut flowers"]
+    },
+    {
+        "name": "Amaryllis",
+        "scientific_name": "Hippeastrum",
+        "color": "Red, White",
+        "origin": "South America, Caribbean",
+        "uses": ["Decoration", "Indoor plants", "Cut flowers"]
+    },
+    {
+        "name": "Crocus",
+        "scientific_name": "Crocus",
+        "color": "Purple, Yellow",
+        "origin": "Europe, Asia",
+        "uses": ["Decoration", "Gardening", "Early spring bloom"]
+    }
+]
+[
+    {
+        "name": "Gladiolus",
+        "scientific_name": "Gladiolus",
+        "color": "Various",
+        "origin": "South Africa, Mediterranean region",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Hibiscus",
+        "scientific_name": "Hibiscus",
+        "color": "Red, Pink, Yellow",
+        "origin": "Tropical and subtropical regions",
+        "uses": ["Decoration", "Medicine", "Tea"]
+    },
+    {
+        "name": "Fuchsia",
+        "scientific_name": "Fuchsia",
+        "color": "Pink, Purple",
+        "origin": "Central and South America",
+        "uses": ["Decoration", "Gardening", "Hanging baskets"]
+    },
+    {
+        "name": "Mimosa",
+        "scientific_name": "Acacia dealbata",
+        "color": "Yellow",
+        "origin": "Australia",
+        "uses": ["Decoration", "Fragrance", "Tannin production"]
+    },
+    {
+        "name": "Narcissus",
+        "scientific_name": "Narcissus",
+        "color": "Yellow, White",
+        "origin": "Mediterranean region, Asia",
+        "uses": ["Decoration", "Gardening", "Spring blooms"]
+    },
+    {
+        "name": "Pansy",
+        "scientific_name": "Viola tricolor",
+        "color": "Various",
+        "origin": "Europe, Asia",
+        "uses": ["Decoration", "Gardening", "Cool-season bedding plants"]
+    },
+    {
+        "name": "Ranunculus",
+        "scientific_name": "Ranunculus",
+        "color": "Various",
+        "origin": "Asia, Europe, North America",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Verbena",
+        "scientific_name": "Verbena",
+        "color": "Various",
+        "origin": "Americas, Europe, Asia",
+        "uses": ["Decoration", "Gardening", "Attracting pollinators"]
+    },
+    {
+        "name": "Stock",
+        "scientific_name": "Matthiola",
+        "color": "Various",
+        "origin": "Mediterranean region",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Sweet Pea",
+        "scientific_name": "Lathyrus odoratus",
+        "color": "Various",
+        "origin": "Mediterranean region",
+        "uses": ["Decoration", "Cut flowers", "Fragrance"]
+    }
+]
+[
+    {
+        "name": "Statice",
+        "scientific_name": "Limonium",
+        "color": "Blue, Purple, Pink",
+        "origin": "Europe, Asia, North America",
+        "uses": ["Decoration", "Dried flowers", "Cut flowers"]
+    },
+    {
+        "name": "Alstroemeria",
+        "scientific_name": "Alstroemeria",
+        "color": "Various",
+        "origin": "South America",
+        "uses": ["Decoration", "Cut flowers", "Floral arrangements"]
+    },
+    {
+        "name": "Begonia",
+        "scientific_name": "Begonia",
+        "color": "Various",
+        "origin": "Tropical and subtropical regions",
+        "uses": ["Decoration", "Gardening", "Indoor plants"]
+    },
+    {
+        "name": "Calendula",
+        "scientific_name": "Calendula officinalis",
+        "color": "Orange, Yellow",
+        "origin": "Mediterranean region",
+        "uses": ["Decoration", "Medicine", "Culinary uses"]
+    },
+    {
+        "name": "Camellia",
+        "scientific_name": "Camellia",
+        "color": "White, Pink, Red",
+        "origin": "Asia",
+        "uses": ["Decoration", "Tea production", "Gardening"]
+    },
+    {
+        "name": "Clematis",
+        "scientific_name": "Clematis",
+        "color": "Various",
+        "origin": "Europe, Asia, North America",
+        "uses": ["Decoration", "Gardening", "Climbing plants"]
+    },
+    {
+        "name": "Delphinium",
+        "scientific_name": "Delphinium",
+        "color": "Blue, Purple, White",
+        "origin": "Northern Hemisphere",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Foxglove",
+        "scientific_name": "Digitalis purpurea",
+        "color": "Pink, Purple",
+        "origin": "Europe, Western Asia",
+        "uses": ["Decoration", "Medicine", "Gardening"]
+    },
+    {
+        "name": "Gypsophila",
+        "scientific_name": "Gypsophila",
+        "color": "White",
+        "origin": "Europe, Asia",
+        "uses": ["Decoration", "Floral arrangements", "Gardening"]
+    },
+    {
+        "name": "Heliotrope",
+        "scientific_name": "Heliotropium",
+        "color": "Purple, Blue",
+        "origin": "South America",
+        "uses": ["Decoration", "Fragrance", "Medicine"]
+    }
+]
+[
+    {
+        "name": "Hyacinth",
+        "scientific_name": "Hyacinthus",
+        "color": "Blue, Pink, White",
+        "origin": "Mediterranean region, Middle East",
+        "uses": ["Decoration", "Fragrance", "Spring gardens"]
+    },
+    {
+        "name": "Iceland Poppy",
+        "scientific_name": "Papaver nudicaule",
+        "color": "Yellow, Orange, White",
+        "origin": "Arctic regions, North America, Europe",
+        "uses": ["Decoration", "Cut flowers", "Cold-hardy gardens"]
+    },
+    {
+        "name": "Jasmine",
+        "scientific_name": "Jasminum",
+        "color": "White, Yellow",
+        "origin": "Tropical and warm temperate regions",
+        "uses": ["Decoration", "Fragrance", "Tea production"]
+    },
+    {
+        "name": "Kalanchoe",
+        "scientific_name": "Kalanchoe",
+        "color": "Various",
+        "origin": "Madagascar, tropical Africa, Asia",
+        "uses": ["Decoration", "Indoor plants", "Floral arrangements"]
+    },
+    {
+        "name": "Larkspur",
+        "scientific_name": "Consolida",
+        "color": "Blue, Pink, White",
+        "origin": "Europe, Asia, North America",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Marigold",
+        "scientific_name": "Tagetes",
+        "color": "Yellow, Orange",
+        "origin": "Americas, Africa",
+        "uses": ["Decoration", "Gardening", "Companion planting"]
+    },
+    {
+        "name": "Nasturtium",
+        "scientific_name": "Tropaeolum",
+        "color": "Orange, Yellow, Red",
+        "origin": "Central and South America",
+        "uses": ["Decoration", "Edible flowers", "Gardening"]
+    },
+    {
+        "name": "Oxalis",
+        "scientific_name": "Oxalis",
+        "color": "White, Pink, Purple",
+        "origin": "South America, Central America",
+        "uses": ["Decoration", "Gardening", "Edible plant"]
+    },
+    {
+        "name": "Petunia",
+        "scientific_name": "Petunia",
+        "color": "Various",
+        "origin": "South America",
+        "uses": ["Decoration", "Gardening", "Hanging baskets"]
+    },
+    {
+        "name": "Queen Anne's Lace",
+        "scientific_name": "Daucus carota",
+        "color": "White",
+        "origin": "Europe, Asia",
+        "uses": ["Decoration", "Cut flowers", "Wildflower gardens"]
+    }
+]
+[
+    {
+        "name": "Roses of Sharon",
+        "scientific_name": "Hibiscus syriacus",
+        "color": "Various",
+        "origin": "Asia",
+        "uses": ["Decoration", "Gardening", "Shrub borders"]
+    },
+    {
+        "name": "Salvia",
+        "scientific_name": "Salvia",
+        "color": "Blue, Purple, Red",
+        "origin": "Americas, Europe, Asia",
+        "uses": ["Decoration", "Medicine", "Attracting pollinators"]
+    },
+    {
+        "name": "Tuberose",
+        "scientific_name": "Polianthes tuberosa",
+        "color": "White",
+        "origin": "Mexico",
+        "uses": ["Decoration", "Fragrance", "Perfumes"]
+    },
+    {
+        "name": "Umbrella Plant",
+        "scientific_name": "Cyperus alternifolius",
+        "color": "Green",
+        "origin": "Madagascar",
+        "uses": ["Decoration", "Indoor plants", "Pond edges"]
+    },
+    {
+        "name": "Violet",
+        "scientific_name": "Viola",
+        "color": "Purple, Blue, White",
+        "origin": "Northern Hemisphere",
+        "uses": ["Decoration", "Gardening", "Edible flowers"]
+    },
+    {
+        "name": "Wisteria",
+        "scientific_name": "Wisteria",
+        "color": "Purple, White",
+        "origin": "Asia, North America",
+        "uses": ["Decoration", "Gardening", "Climbing plants"]
+    },
+    {
+        "name": "Xeranthemum",
+        "scientific_name": "Xeranthemum annuum",
+        "color": "Purple, Pink",
+        "origin": "Mediterranean region",
+        "uses": ["Decoration", "Dried flowers", "Cut flowers"]
+    },
+    {
+        "name": "Yarrow",
+        "scientific_name": "Achillea millefolium",
+        "color": "White, Yellow, Pink",
+        "origin": "Northern Hemisphere",
+        "uses": ["Decoration", "Medicine", "Gardening"]
+    },
+    {
+        "name": "Zephyranthes",
+        "scientific_name": "Zephyranthes",
+        "color": "Pink, White, Yellow",
+        "origin": "Americas",
+        "uses": ["Decoration", "Gardening", "Rain lily"]
+    },
+    {
+        "name": "Aster",
+        "scientific_name": "Aster",
+        "color": "Blue, Purple, Pink",
+        "origin": "Europe, Asia, North America",
+        "uses": ["Decoration", "Gardening", "Cut flowers"]
+    }
+]
+[
+    {
+        "name": "Bougainvillea",
+        "scientific_name": "Bougainvillea",
+        "color": "Pink, Purple, Red",
+        "origin": "South America",
+        "uses": ["Decoration", "Climbing plants", "Gardening"]
+    },
+    {
+        "name": "Canna Lily",
+        "scientific_name": "Canna",
+        "color": "Red, Yellow, Pink",
+        "origin": "Tropical and subtropical regions",
+        "uses": ["Decoration", "Gardening", "Water gardens"]
+    },
+    {
+        "name": "Dianthus",
+        "scientific_name": "Dianthus",
+        "color": "Various",
+        "origin": "Europe, Asia",
+        "uses": ["Decoration", "Cut flowers", "Gardening"]
+    },
+    {
+        "name": "Echinacea",
+        "scientific_name": "Echinacea",
+        "color": "Purple, Pink",
+        "origin": "North America",
+        "uses": ["Decoration", "Medicine", "Gardening"]
+    },
+    {
+        "name": "Fritillaria",
+        "scientific_name": "Fritillaria",
+        "color": "Purple, Yellow",
+        "origin": "Eurasia, North America",
+        "uses": ["Decoration", "Gardening", "Bulb plants"]
+    },
+    {
+        "name": "Geranium",
+        "scientific_name": "Pelargonium",
+        "color": "Red, Pink, White",
+        "origin": "South Africa",
+        "uses": ["Decoration", "Gardening", "Indoor plants"]
+    },
+    {
+        "name": "Hollyhock",
+        "scientific_name": "Alcea",
+        "color": "Various",
+        "origin": "Europe, Asia",
+        "uses": ["Decoration", "Gardening", "Tall borders"]
+    },
+    {
+        "name": "Impatiens",
+        "scientific_name": "Impatiens walleriana",
+        "color": "Various",
+        "origin": "Tropical and subtropical regions",
+        "uses": ["Decoration", "Shade gardens", "Hanging baskets"]
+    },
+    {
+        "name": "Jasmine",
+        "scientific_name": "Jasminum",
+        "color": "White, Yellow",
+        "origin": "Tropical and warm temperate regions",
+        "uses": ["Decoration", "Fragrance", "Tea production"]
+    },
+    {
+        "name": "Kniphofia",
+        "scientific_name": "Kniphofia",
+        "color": "Red, Yellow, Orange",
+        "origin": "Africa",
+        "uses": ["Decoration", "Gardening", "Perennial borders"]
+    }
+]
