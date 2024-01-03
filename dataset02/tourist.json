@@ -1,0 +1,564 @@
+{
+  "tourist_spots": [
+    {
+      "spot_id": 1,
+      "spot_name": "Taj Mahal",
+      "location": "Agra, Uttar Pradesh",
+      "description": "A stunning white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "category": "Historical Monument"
+    },
+    {
+      "spot_id": 2,
+      "spot_name": "Jaipur City Palace",
+      "location": "Jaipur, Rajasthan",
+      "description": "A magnificent palace complex with beautiful courtyards, gardens, and museums showcasing royal artifacts.",
+      "category": "Historical Palace"
+    },
+    {
+      "spot_id": 3,
+      "spot_name": "Goa Beaches",
+      "location": "Goa",
+      "description": "Famous for its pristine beaches like Baga, Calangute, and Anjuna, offering a vibrant nightlife and water sports.",
+      "category": "Beach Destination"
+    },
+    {
+      "spot_id": 4,
+      "spot_name": "Kerala Backwaters",
+      "location": "Kochi, Kerala",
+      "description": "A network of interconnected canals, rivers, and lakes with houseboat cruises, lush green landscapes, and rich biodiversity.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 5,
+      "spot_name": "Varanasi Ghats",
+      "location": "Varanasi, Uttar Pradesh",
+      "description": "Situated along the sacred Ganges River, known for its spiritual significance, ancient temples, and vibrant cultural scene.",
+      "category": "Spiritual Destination"
+    },
+    {
+      "spot_id": 6,
+      "spot_name": "Mysore Palace",
+      "location": "Mysuru, Karnataka",
+      "description": "A grand royal palace with Indo-Saracenic architecture, intricate interiors, and beautiful gardens.",
+      "category": "Historical Palace"
+    },
+    {
+      "spot_id": 7,
+      "spot_name": "Rishikesh and Haridwar",
+      "location": "Uttarakhand",
+      "description": "Known for yoga and spiritual retreats, along the Ganges, with temples, ashrams, and the famous Ganga Aarti.",
+      "category": "Spiritual Destination"
+    },
+    {
+      "spot_id": 8,
+      "spot_name": "Ajanta and Ellora Caves",
+      "location": "Aurangabad, Maharashtra",
+      "description": "Ancient rock-cut caves showcasing Buddhist, Hindu, and Jain sculptures and artistry.",
+      "category": "Historical Monument"
+    },
+    {
+      "spot_id": 9,
+      "spot_name": "Jaisalmer Fort",
+      "location": "Jaisalmer, Rajasthan",
+      "description": "A massive sandstone fort with intricate architecture, offering panoramic views of the Golden City.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 10,
+      "spot_name": "Hampi Ruins",
+      "location": "Hampi, Karnataka",
+      "description": "A UNESCO World Heritage Site with ancient temples, ruins, and a unique landscape.",
+      "category": "Archaeological Site"
+    },
+    {
+      "spot_id": 11,
+      "spot_name": "Darjeeling Tea Gardens",
+      "location": "Darjeeling, West Bengal",
+      "description": "Scenic tea plantations with stunning views of the Himalayas, offering a peaceful retreat.",
+      "category": "Scenic Beauty"
+    },
+    {
+      "spot_id": 12,
+      "spot_name": "Khajuraho Temples",
+      "location": "Khajuraho, Madhya Pradesh",
+      "description": "Group of intricately carved ancient temples known for their explicit sculptures and architectural beauty.",
+      "category": "Historical Temple Complex"
+    },
+    {
+      "spot_id": 13,
+      "spot_name": "Andaman and Nicobar Islands",
+      "location": "Port Blair",
+      "description": "A tropical paradise with pristine beaches, coral reefs, and diverse marine life.",
+      "category": "Island Getaway"
+    },
+    {
+      "spot_id": 14,
+      "spot_name": "Kanyakumari",
+      "location": "Tamil Nadu",
+      "description": "Southernmost tip of India known for its confluence of three oceans, Vivekananda Rock Memorial, and beautiful sunsets.",
+      "category": "Landmark"
+    },
+    {
+      "spot_id": 15,
+      "spot_name": "Sundarbans National Park",
+      "location": "West Bengal",
+      "description": "The largest mangrove forest in the world, home to the Bengal tiger and diverse wildlife.",
+      "category": "Wildlife Sanctuary"
+    },
+    {
+      "spot_id": 16,
+      "spot_name": "Ajmer Sharif Dargah",
+      "location": "Ajmer, Rajasthan",
+      "description": "A Sufi shrine dedicated to Moinuddin Chishti, attracting pilgrims from different faiths.",
+      "category": "Spiritual Destination"
+    },
+    {
+      "spot_id": 17,
+      "spot_name": "Leh-Ladakh",
+      "location": "Jammu and Kashmir",
+      "description": "A high-altitude desert region with stunning landscapes, monasteries, and adventure activities.",
+      "category": "Adventure Destination"
+    },
+    {
+      "spot_id": 18,
+      "spot_name": "Munnar",
+      "location": "Kerala",
+      "description": "Hill station surrounded by tea gardens, lush greenery, and picturesque landscapes.",
+      "category": "Hill Station"
+    },
+    {
+      "spot_id": 19,
+      "spot_name": "Konark Sun Temple",
+      "location": "Konark, Odisha",
+      "description": "A UNESCO World Heritage Site featuring a magnificent temple dedicated to the sun god, Surya.",
+      "category": "Historical Temple"
+    },
+    {
+      "spot_id": 20,
+      "spot_name": "Rann of Kutch",
+      "location": "Gujarat",
+      "description": "White salt desert landscapes, vibrant culture, and the famous Rann Utsav celebration.",
+      "category": "Unique Landscape"
+    },
+{
+      "spot_id": 21,
+      "spot_name": "Qutub Minar",
+      "location": "New Delhi",
+      "description": "An iconic minaret and UNESCO World Heritage Site, showcasing Indo-Islamic architecture and historical significance.",
+      "category": "Historical Monument"
+    },
+    {
+      "spot_id": 22,
+      "spot_name": "Amber Fort",
+      "location": "Jaipur, Rajasthan",
+      "description": "A majestic fort perched on a hill, known for its intricate architecture, stunning views, and Sheesh Mahal.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 23,
+      "spot_name": "Rann Utsav",
+      "location": "Kutch, Gujarat",
+      "description": "A vibrant cultural festival celebrated in the Rann of Kutch, featuring folk dances, music, and handicrafts.",
+      "category": "Cultural Festival"
+    },
+    {
+      "spot_id": 24,
+      "spot_name": "Valley of Flowers",
+      "location": "Uttarakhand",
+      "description": "A mesmerizing valley in the Himalayas with a diverse range of alpine flowers, making it a UNESCO World Heritage Site.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 25,
+      "spot_name": "Ellis Bridge",
+      "location": "Ahmedabad, Gujarat",
+      "description": "A historic bridge over the Sabarmati River, offering scenic views and connecting different parts of the city.",
+      "category": "Historical Bridge"
+    },
+    {
+      "spot_id": 26,
+      "spot_name": "Mehrangarh Fort",
+      "location": "Jodhpur, Rajasthan",
+      "description": "One of the largest forts in India, known for its formidable structure, museum, and panoramic views of Jodhpur.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 27,
+      "spot_name": "Jim Corbett National Park",
+      "location": "Uttarakhand",
+      "description": "India's oldest national park, famous for its diverse wildlife, including Bengal tigers, elephants, and exotic birds.",
+      "category": "Wildlife Sanctuary"
+    },
+    {
+      "spot_id": 28,
+      "spot_name": "Golden Temple",
+      "location": "Amritsar, Punjab",
+      "description": "The holiest Sikh shrine, adorned with gold and surrounded by the Amrit Sarovar, symbolizing purity and spirituality.",
+      "category": "Religious Site"
+    },
+    {
+      "spot_id": 29,
+      "spot_name": "Chittorgarh Fort",
+      "location": "Chittorgarh, Rajasthan",
+      "description": "A massive fort with a rich history, including tales of Rajput valor, palaces, and intricate architecture.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 30,
+      "spot_name": "Magnetic Hill",
+      "location": "Leh, Ladakh",
+      "description": "A gravity-defying hill where vehicles appear to move uphill on their own, creating an intriguing optical illusion.",
+      "category": "Natural Phenomenon"
+    },
+    {
+      "spot_id": 31,
+      "spot_name": "Hawa Mahal",
+      "location": "Jaipur, Rajasthan",
+      "description": "The 'Palace of Winds,' known for its unique honeycomb-like facade, allowing royal women to observe street festivities.",
+      "category": "Architectural Marvel"
+    },
+    {
+      "spot_id": 32,
+      "spot_name": "Dudhsagar Waterfalls",
+      "location": "Goa-Karnataka Border",
+      "description": "A majestic four-tiered waterfall amidst lush greenery, known for its scenic beauty and accessibility by train.",
+      "category": "Waterfall"
+    },
+    {
+      "spot_id": 33,
+      "spot_name": "Badami Cave Temples",
+      "location": "Badami, Karnataka",
+      "description": "A complex of rock-cut caves with stunning sculptures and architecture, representing Hindu and Jain art.",
+      "category": "Historical Temple Complex"
+    },
+    {
+      "spot_id": 34,
+      "spot_name": "Nubra Valley",
+      "location": "Ladakh, Jammu and Kashmir",
+      "description": "A high-altitude cold desert valley with breathtaking landscapes, monasteries, and the Shyok River.",
+      "category": "Scenic Beauty"
+    },
+    {
+      "spot_id": 35,
+      "spot_name": "Rajgir",
+      "location": "Bihar",
+      "description": "An ancient city with historical and religious significance, known for the Griddhakuta Hill and hot springs.",
+      "category": "Historical Site"
+    },
+    {
+      "spot_id": 36,
+      "spot_name": "Pangong Lake",
+      "location": "Ladakh, Jammu and Kashmir",
+      "description": "A mesmerizing high-altitude lake with ever-changing colors, surrounded by snow-capped mountains.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 37,
+      "spot_name": "Dharamshala",
+      "location": "Himachal Pradesh",
+      "description": "A picturesque hill station known for its Tibetan culture, monasteries, and the residence of the Dalai Lama.",
+      "category": "Hill Station"
+    },
+    {
+      "spot_id": 38,
+      "spot_name": "Elephanta Caves",
+      "location": "Mumbai, Maharashtra",
+      "description": "Ancient rock-cut caves on Elephanta Island, dedicated to Lord Shiva, showcasing intricate sculptures.",
+      "category": "Historical Cave Complex"
+    },
+    {
+      "spot_id": 39,
+      "spot_name": "Lepakshi Temple",
+      "location": "Andhra Pradesh",
+      "description": "A 16th-century temple known for its Veerabhadra Temple and the famous Hanging Pillar.",
+      "category": "Historical Temple"
+    },
+    {
+      "spot_id": 40,
+      "spot_name": "Dhanushkodi",
+      "location": "Tamil Nadu",
+      "description": "A ghost town at the southern tip of Rameswaram island, known for its pristine beaches and the Ram Setu myth.",
+      "category": "Historical Site"
+    },
+{
+      "spot_id": 41,
+      "spot_name": "Jaisalmer Fort",
+      "location": "Jaisalmer, Rajasthan",
+      "description": "A magnificent sandstone fort in the heart of the Thar Desert, known for its intricate architecture and panoramic views.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 42,
+      "spot_name": "Athirapally Falls",
+      "location": "Kerala",
+      "description": "A stunning waterfall surrounded by lush greenery, often referred to as the 'Niagara of India.'",
+      "category": "Waterfall"
+    },
+    {
+      "spot_id": 43,
+      "spot_name": "Dzukou Valley",
+      "location": "Nagaland-Manipur Border",
+      "description": "A picturesque valley known for its seasonal flowers, trekking trails, and the serene Japfu Peak.",
+      "category": "Scenic Beauty"
+    },
+    {
+      "spot_id": 44,
+      "spot_name": "Konark Sun Temple",
+      "location": "Odisha",
+      "description": "A UNESCO World Heritage Site, showcasing exquisite Odishan architecture dedicated to the Sun God.",
+      "category": "Historical Temple"
+    },
+    {
+      "spot_id": 45,
+      "spot_name": "Gurudongmar Lake",
+      "location": "Sikkim",
+      "description": "One of the highest lakes in the world, surrounded by snow-capped mountains and pristine landscapes.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 46,
+      "spot_name": "Nalanda University Ruins",
+      "location": "Bihar",
+      "description": "The archaeological remains of an ancient center of learning, reflecting India's intellectual history.",
+      "category": "Historical Site"
+    },
+    {
+      "spot_id": 47,
+      "spot_name": "Dolphin's Nose",
+      "location": "Vizag, Andhra Pradesh",
+      "description": "A unique rock formation overlooking the Bay of Bengal, offering breathtaking panoramic views.",
+      "category": "Natural Formation"
+    },
+    {
+      "spot_id": 48,
+      "spot_name": "Jog Falls",
+      "location": "Karnataka",
+      "description": "One of the highest plunge waterfalls in India, surrounded by lush greenery and rocky landscapes.",
+      "category": "Waterfall"
+    },
+    {
+      "spot_id": 49,
+      "spot_name": "Khajuraho Group of Monuments",
+      "location": "Madhya Pradesh",
+      "description": "A UNESCO World Heritage Site, renowned for its intricately carved temples depicting human emotions and life.",
+      "category": "Historical Temple Complex"
+    },
+    {
+      "spot_id": 50,
+      "spot_name": "Taj Mahal",
+      "location": "Agra, Uttar Pradesh",
+      "description": "An iconic symbol of love and a UNESCO World Heritage Site, known for its white marble architecture and gardens.",
+      "category": "Historical Monument"
+    },
+    {
+      "spot_id": 51,
+      "spot_name": "Namdapha National Park",
+      "location": "Arunachal Pradesh",
+      "description": "India's largest national park, home to diverse flora, fauna, and the endangered snow leopard.",
+      "category": "Wildlife Sanctuary"
+    },
+    {
+      "spot_id": 52,
+      "spot_name": "Brihadeeswarar Temple",
+      "location": "Thanjavur, Tamil Nadu",
+      "description": "A UNESCO World Heritage Site, featuring a grand Chola temple dedicated to Lord Shiva.",
+      "category": "Historical Temple"
+    },
+    {
+      "spot_id": 53,
+      "spot_name": "Kanha National Park",
+      "location": "Madhya Pradesh",
+      "description": "A renowned tiger reserve with dense forests, meadows, and diverse wildlife, including the Barasingha deer.",
+      "category": "Wildlife Sanctuary"
+    },
+    {
+      "spot_id": 54,
+      "spot_name": "Sundarbans National Park",
+      "location": "West Bengal",
+      "description": "A UNESCO World Heritage Site, known for its mangrove forests and the Royal Bengal tigers.",
+      "category": "Wildlife Sanctuary"
+    },
+    {
+      "spot_id": 55,
+      "spot_name": "Palolem Beach",
+      "location": "Goa",
+      "description": "A pristine and scenic beach with golden sands, palm trees, and vibrant beach shacks.",
+      "category": "Beach"
+    },
+    {
+      "spot_id": 56,
+      "spot_name": "Chilika Lake",
+      "location": "Odisha",
+      "description": "India's largest coastal lagoon, providing a habitat for migratory birds and featuring the Nalabana Bird Sanctuary.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 57,
+      "spot_name": "Mysore Palace",
+      "location": "Mysuru, Karnataka",
+      "description": "A magnificent palace with Indo-Saracenic architecture, showcasing royal opulence and cultural heritage.",
+      "category": "Historical Palace"
+    },
+    {
+      "spot_id": 58,
+      "spot_name": "Tso Moriri Lake",
+      "location": "Ladakh, Jammu and Kashmir",
+      "description": "A serene high-altitude lake surrounded by barren hills and frequented by migratory birds.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 59,
+      "spot_name": "Kumbhalgarh Fort",
+      "location": "Rajsamand, Rajasthan",
+      "description": "A massive fort with the second-longest wall in the world, offering panoramic views of the Aravalli Range.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 60,
+      "spot_name": "Kaziranga National Park",
+      "location": "Assam",
+      "description": "A UNESCO World Heritage Site, known for its one-horned rhinoceros, tigers, and diverse ecosystems.",
+      "category": "Wildlife Sanctuary"
+    },
+ {
+      "spot_id": 61,
+      "spot_name": "Hampi",
+      "location": "Karnataka",
+      "description": "A UNESCO World Heritage Site, known for its ancient ruins, temples, and vibrant boulder-strewn landscapes.",
+      "category": "Historical Site"
+    },
+    {
+      "spot_id": 62,
+      "spot_name": "Valley of Flowers",
+      "location": "Uttarakhand",
+      "description": "A stunning alpine valley, adorned with a variety of colorful flowers and surrounded by snow-capped peaks.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 63,
+      "spot_name": "Rishikesh",
+      "location": "Uttarakhand",
+      "description": "A spiritual and adventure hub on the banks of the Ganges, offering yoga, rafting, and scenic landscapes.",
+      "category": "Spiritual Retreat"
+    },
+    {
+      "spot_id": 64,
+      "spot_name": "Ajanta and Ellora Caves",
+      "location": "Maharashtra",
+      "description": "UNESCO World Heritage Sites featuring ancient rock-cut caves adorned with intricate sculptures and paintings.",
+      "category": "Historical Caves"
+    },
+    {
+      "spot_id": 65,
+      "spot_name": "Kanheri Caves",
+      "location": "Mumbai, Maharashtra",
+      "description": "Buddhist caves with intricate carvings, located within the lush Sanjay Gandhi National Park.",
+      "category": "Historical Caves"
+    },
+    {
+      "spot_id": 66,
+      "spot_name": "Chittorgarh Fort",
+      "location": "Rajasthan",
+      "description": "One of the largest forts in India, known for its historical significance, temples, and imposing structures.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 67,
+      "spot_name": "Manali",
+      "location": "Himachal Pradesh",
+      "description": "A popular hill station nestled in the Himalayas, offering breathtaking landscapes, adventure sports, and a vibrant culture.",
+      "category": "Hill Station"
+    },
+    {
+      "spot_id": 68,
+      "spot_name": "Qutub Minar",
+      "location": "Delhi",
+      "description": "A UNESCO World Heritage Site, featuring the tallest brick minaret in the world, surrounded by historical structures.",
+      "category": "Historical Monument"
+    },
+    {
+      "spot_id": 69,
+      "spot_name": "Pangong Lake",
+      "location": "Ladakh, Jammu and Kashmir",
+      "description": "A mesmerizing high-altitude lake with changing colors, surrounded by barren mountains in the Himalayas.",
+      "category": "Natural Beauty"
+    },
+    {
+      "spot_id": 70,
+      "spot_name": "Meenakshi Amman Temple",
+      "location": "Madurai, Tamil Nadu",
+      "description": "An ancient temple dedicated to Goddess Meenakshi, known for its intricate architecture and vibrant sculptures.",
+      "category": "Historical Temple"
+    },
+    {
+      "spot_id": 71,
+      "spot_name": "Rann of Kutch",
+      "location": "Gujarat",
+      "description": "A vast salt marsh known for its white desert landscapes, vibrant culture, and the Rann Utsav festival.",
+      "category": "Unique Landscape"
+    },
+    {
+      "spot_id": 72,
+      "spot_name": "Halebidu",
+      "location": "Karnataka",
+      "description": "A historical site with intricately carved Hoysala temples, showcasing the rich heritage of Karnataka.",
+      "category": "Historical Temple Complex"
+    },
+    {
+      "spot_id": 73,
+      "spot_name": "Jim Corbett National Park",
+      "location": "Uttarakhand",
+      "description": "India's oldest national park, known for its diverse wildlife, including Bengal tigers and Asian elephants.",
+      "category": "Wildlife Sanctuary"
+    },
+    {
+      "spot_id": 74,
+      "spot_name": "Hogenakkal Falls",
+      "location": "Tamil Nadu",
+      "description": "A scenic waterfall on the Kaveri River, offering boat rides and surrounded by lush greenery.",
+      "category": "Waterfall"
+    },
+    {
+      "spot_id": 75,
+      "spot_name": "Sanchi Stupa",
+      "location": "Madhya Pradesh",
+      "description": "A UNESCO World Heritage Site, featuring ancient Buddhist stupas, monasteries, and intricate carvings.",
+      "category": "Historical Monument"
+    },
+    {
+      "spot_id": 76,
+      "spot_name": "Khimsar Fort",
+      "location": "Rajasthan",
+      "description": "A heritage fort offering a glimpse into Rajasthan's royal history, with unique architecture and cultural experiences.",
+      "category": "Historical Fortress"
+    },
+    {
+      "spot_id": 77,
+      "spot_name": "Puri Beach",
+      "location": "Odisha",
+      "description": "A vibrant beach known for its annual Rath Yatra festival, attracting pilgrims and tourists alike.",
+      "category": "Beach"
+    },
+    {
+      "spot_id": 78,
+      "spot_name": "Gangtok",
+      "location": "Sikkim",
+      "description": "The capital city of Sikkim, surrounded by mountains, monasteries, and a mix of cultural influences.",
+      "category": "Hill Station"
+    },
+    {
+      "spot_id": 79,
+      "spot_name": "Chota Char Dham",
+      "location": "Uttarakhand",
+      "description": "A pilgrimage circuit including Yamunotri, Gangotri, Kedarnath, and Badrinath, nestled in the Himalayas.",
+      "category": "Spiritual Pilgrimage"
+    },
+    {
+      "spot_id": 80,
+      "spot_name": "Nubra Valley",
+      "location": "Ladakh, Jammu and Kashmir",
+      "description": "A high-altitude cold desert valley known for its unique landscapes, monasteries, and Bactrian camels.",
+      "category": "Natural Beauty"
+    }
+  ]
+}
