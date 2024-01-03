@@ -1,0 +1,504 @@
+[
+  {
+    "ssid": "CityCenter_FreeWiFi",
+    "securityType": "Open",
+    "location": "City Center Mall, Ground Floor",
+    "bandwidth": "50 Mbps",
+    "provider": "CityTech Networks"
+  },
+  {
+    "ssid": "GreenPark_GuestNet",
+    "securityType": "WPA2-PSK",
+    "location": "Green Park Resort",
+    "bandwidth": "100 Mbps",
+    "provider": "ResortTech Solutions"
+  },
+  {
+    "ssid": "UniLibrary_StudentNet",
+    "securityType": "WPA3",
+    "location": "University Central Library",
+    "bandwidth": "200 Mbps",
+    "provider": "EduNet Services"
+  },
+  {
+    "ssid": "DowntownCafe_WiFi",
+    "securityType": "Open",
+    "location": "Downtown Café",
+    "bandwidth": "30 Mbps",
+    "provider": "CaféConnect"
+  },
+  {
+    "ssid": "MetroStation_WiFi",
+    "securityType": "Open",
+    "location": "Metro Station, Platform 3",
+    "bandwidth": "40 Mbps",
+    "provider": "MetroTech Communications"
+  },
+  {
+    "ssid": "AirportLounge_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "International Airport, Terminal 2",
+    "bandwidth": "300 Mbps",
+    "provider": "AeroNet Services"
+  },
+  {
+    "ssid": "SportsArena_PublicNet",
+    "securityType": "Open",
+    "location": "City Sports Arena",
+    "bandwidth": "150 Mbps",
+    "provider": "ArenaTech Networks"
+  },
+  {
+    "ssid": "CinemaHall_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Starlight Cinema, Screen 5",
+    "bandwidth": "70 Mbps",
+    "provider": "CineNet Solutions"
+  },
+  {
+    "ssid": "HotelLobby_GuestNet",
+    "securityType": "WPA3",
+    "location": "Grand Hotel, Lobby",
+    "bandwidth": "250 Mbps",
+    "provider": "HotelTech Services"
+  },
+  {
+    "ssid": "BeachResort_FreeNet",
+    "securityType": "Open",
+    "location": "Sandy Shores Resort, Beachfront",
+    "bandwidth": "120 Mbps",
+    "provider": "ResortWave Technologies"
+  }
+]
+[
+  {
+    "ssid": "TechHub_OfficeNet",
+    "securityType": "WPA2-PSK",
+    "location": "TechHub Co-working Space",
+    "bandwidth": "80 Mbps",
+    "provider": "HubTech Solutions"
+  },
+  {
+    "ssid": "ParkSquare_PublicWiFi",
+    "securityType": "Open",
+    "location": "Park Square Gardens",
+    "bandwidth": "40 Mbps",
+    "provider": "CityParks Networks"
+  },
+  {
+    "ssid": "MuseumWiFi_Guest",
+    "securityType": "WPA3",
+    "location": "National Museum of Art",
+    "bandwidth": "100 Mbps",
+    "provider": "ArtNet Services"
+  },
+  {
+    "ssid": "GymZone_FreeNet",
+    "securityType": "Open",
+    "location": "FitZone Gym",
+    "bandwidth": "20 Mbps",
+    "provider": "FitnessTech"
+  },
+  {
+    "ssid": "LocalCafeteria_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Local Bites Cafeteria",
+    "bandwidth": "50 Mbps",
+    "provider": "CaféLink Networks"
+  },
+  {
+    "ssid": "Bookstore_LoungeNet",
+    "securityType": "WPA3",
+    "location": "City Books & More",
+    "bandwidth": "60 Mbps",
+    "provider": "BookNet Technologies"
+  },
+  {
+    "ssid": "Stadium_WiFiZone",
+    "securityType": "Open",
+    "location": "City Stadium, Gate 4",
+    "bandwidth": "200 Mbps",
+    "provider": "StadiumTech Networks"
+  },
+  {
+    "ssid": "SchoolCampus_StudentNet",
+    "securityType": "WPA2-PSK",
+    "location": "City High School",
+    "bandwidth": "150 Mbps",
+    "provider": "EduTech Solutions"
+  },
+  {
+    "ssid": "ShoppingMall_WiFiSpot",
+    "securityType": "Open",
+    "location": "Mega Mall, 2nd Floor",
+    "bandwidth": "100 Mbps",
+    "provider": "MallNet Services"
+  },
+  {
+    "ssid": "Zoo_ParkWiFi",
+    "securityType": "WPA3",
+    "location": "City Zoo, Entrance",
+    "bandwidth": "70 Mbps",
+    "provider": "ZooNet Technologies"
+  }
+]
+[
+  {
+    "ssid": "Airport_WiFiLounge",
+    "securityType": "WPA2-PSK",
+    "location": "International Airport, Lounge Area",
+    "bandwidth": "300 Mbps",
+    "provider": "AeroTech Networks"
+  },
+  {
+    "ssid": "CoffeeHouse_FreeNet",
+    "securityType": "Open",
+    "location": "Urban Brew Coffee House",
+    "bandwidth": "40 Mbps",
+    "provider": "BrewNet Solutions"
+  },
+  {
+    "ssid": "ConferenceCenter_WiFi",
+    "securityType": "WPA3",
+    "location": "City Conference Center",
+    "bandwidth": "250 Mbps",
+    "provider": "ConferenceTech Services"
+  },
+  {
+    "ssid": "TechStore_GuestWiFi",
+    "securityType": "Open",
+    "location": "ElectroTech Store",
+    "bandwidth": "60 Mbps",
+    "provider": "TechShop Networks"
+  },
+  {
+    "ssid": "Library_PublicNet",
+    "securityType": "WPA2-PSK",
+    "location": "City Public Library",
+    "bandwidth": "100 Mbps",
+    "provider": "LibNet Technologies"
+  },
+  {
+    "ssid": "Hotel_RooftopNet",
+    "securityType": "WPA3",
+    "location": "Skyline Hotel, Rooftop Bar",
+    "bandwidth": "80 Mbps",
+    "provider": "SkyNet Services"
+  },
+  {
+    "ssid": "Park_WiFiZone",
+    "securityType": "Open",
+    "location": "Central Park, Fountain Area",
+    "bandwidth": "50 Mbps",
+    "provider": "ParkNet Networks"
+  },
+  {
+    "ssid": "Theater_PublicWiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Starlight Theater, Lobby",
+    "bandwidth": "70 Mbps",
+    "provider": "TheaterTech Solutions"
+  },
+  {
+    "ssid": "University_CampusNet",
+    "securityType": "WPA3",
+    "location": "Metropolitan University Campus",
+    "bandwidth": "200 Mbps",
+    "provider": "UniNet Technologies"
+  },
+  {
+    "ssid": "ShoppingCenter_WiFiSpot",
+    "securityType": "Open",
+    "location": "Fashion Central Mall, 3rd Floor",
+    "bandwidth": "150 Mbps",
+    "provider": "ShopNet Services"
+  }
+]
+[
+  {
+    "ssid": "GardenPark_FreeNet",
+    "securityType": "Open",
+    "location": "Blossom Garden Park",
+    "bandwidth": "40 Mbps",
+    "provider": "ParkNet Solutions"
+  },
+  {
+    "ssid": "FitnessCenter_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Elite Fitness Center",
+    "bandwidth": "60 Mbps",
+    "provider": "FitTech Networks"
+  },
+  {
+    "ssid": "Downtown_PlazaNet",
+    "securityType": "WPA3",
+    "location": "City Downtown Plaza",
+    "bandwidth": "80 Mbps",
+    "provider": "PlazaTech Services"
+  },
+  {
+    "ssid": "MusicVenue_WiFi",
+    "securityType": "Open",
+    "location": "Harmony Music Hall",
+    "bandwidth": "70 Mbps",
+    "provider": "HarmonyNet Networks"
+  },
+  {
+    "ssid": "ArtGallery_PublicNet",
+    "securityType": "WPA2-PSK",
+    "location": "City Art Gallery",
+    "bandwidth": "90 Mbps",
+    "provider": "ArtNet Solutions"
+  },
+  {
+    "ssid": "ConventionCenter_WiFi",
+    "securityType": "WPA3",
+    "location": "Metro Convention Center",
+    "bandwidth": "250 Mbps",
+    "provider": "ConventionTech Networks"
+  },
+  {
+    "ssid": "Residential_WiFiSpot",
+    "securityType": "Open",
+    "location": "Sunset Apartments Lobby",
+    "bandwidth": "30 Mbps",
+    "provider": "ResiNet Services"
+  },
+  {
+    "ssid": "Cinema_HallWiFi",
+    "securityType": "WPA2-PSK",
+    "location": "City Cinemas, Hall 4",
+    "bandwidth": "100 Mbps",
+    "provider": "CineTech Solutions"
+  },
+  {
+    "ssid": "SkatePark_WiFiZone",
+    "securityType": "Open",
+    "location": "Urban Skate Park",
+    "bandwidth": "50 Mbps",
+    "provider": "SkateNet Networks"
+  },
+  {
+    "ssid": "BookCafe_FreeNet",
+    "securityType": "WPA3",
+    "location": "Novel Brew Café & Bookstore",
+    "bandwidth": "120 Mbps",
+    "provider": "BookCafeNet Services"
+  }
+]
+[
+  {
+    "ssid": "AmusementPark_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Fantasy Land Park",
+    "bandwidth": "150 Mbps",
+    "provider": "ParkTech Networks"
+  },
+  {
+    "ssid": "ShoppingDistrict_FreeNet",
+    "securityType": "Open",
+    "location": "Metropolitan Shopping District",
+    "bandwidth": "80 Mbps",
+    "provider": "ShopHub Solutions"
+  },
+  {
+    "ssid": "Aquarium_WiFi",
+    "securityType": "WPA3",
+    "location": "Marine World Aquarium",
+    "bandwidth": "100 Mbps",
+    "provider": "AquaNet Services"
+  },
+  {
+    "ssid": "Stadium_VIPWiFi",
+    "securityType": "WPA2-PSK",
+    "location": "City Sports Stadium, VIP Lounge",
+    "bandwidth": "200 Mbps",
+    "provider": "StadiumTech Networks"
+  },
+  {
+    "ssid": "Library_CoWorkingNet",
+    "securityType": "WPA3",
+    "location": "City Central Library, Co-working Area",
+    "bandwidth": "120 Mbps",
+    "provider": "LibWork Solutions"
+  },
+  {
+    "ssid": "GolfCourse_ClubNet",
+    "securityType": "Open",
+    "location": "Green Meadows Golf Club",
+    "bandwidth": "70 Mbps",
+    "provider": "GolfTech Networks"
+  },
+  {
+    "ssid": "TrainStation_WiFiSpot",
+    "securityType": "WPA2-PSK",
+    "location": "Central Train Station, Platform 2",
+    "bandwidth": "90 Mbps",
+    "provider": "RailNet Services"
+  },
+  {
+    "ssid": "Hospital_WiFi",
+    "securityType": "WPA3",
+    "location": "City General Hospital, Lobby",
+    "bandwidth": "130 Mbps",
+    "provider": "HealthNet Technologies"
+  },
+  {
+    "ssid": "Convention_WiFiLounge",
+    "securityType": "Open",
+    "location": "Metro Convention Lounge",
+    "bandwidth": "60 Mbps",
+    "provider": "ConventionNet Services"
+  },
+  {
+    "ssid": "TechHub_FreeNet",
+    "securityType": "WPA2-PSK",
+    "location": "City Tech Innovation Hub",
+    "bandwidth": "110 Mbps",
+    "provider": "InnoTech Networks"
+  }
+]
+[
+  {
+    "ssid": "BeachResort_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Sunny Sands Beach Resort",
+    "bandwidth": "140 Mbps",
+    "provider": "BeachNet Solutions"
+  },
+  {
+    "ssid": "CulturalCenter_FreeNet",
+    "securityType": "Open",
+    "location": "City Cultural Center",
+    "bandwidth": "85 Mbps",
+    "provider": "CultureTech Networks"
+  },
+  {
+    "ssid": "Zoo_WiFiZone",
+    "securityType": "WPA3",
+    "location": "Metropolis Zoo",
+    "bandwidth": "105 Mbps",
+    "provider": "ZooTech Services"
+  },
+  {
+    "ssid": "SkyLounge_VIPNet",
+    "securityType": "WPA2-PSK",
+    "location": "City Skyline Lounge",
+    "bandwidth": "195 Mbps",
+    "provider": "SkylineNet Networks"
+  },
+  {
+    "ssid": "University_WiFi",
+    "securityType": "WPA3",
+    "location": "City University Campus",
+    "bandwidth": "125 Mbps",
+    "provider": "UniTech Networks"
+  },
+  {
+    "ssid": "ThemePark_FreeNet",
+    "securityType": "Open",
+    "location": "Adventure World Theme Park",
+    "bandwidth": "75 Mbps",
+    "provider": "AdventureTech Solutions"
+  },
+  {
+    "ssid": "BusTerminal_WiFiSpot",
+    "securityType": "WPA2-PSK",
+    "location": "City Central Bus Terminal",
+    "bandwidth": "95 Mbps",
+    "provider": "TransitNet Services"
+  },
+  {
+    "ssid": "Clinic_WiFi",
+    "securityType": "WPA3",
+    "location": "City Health Clinic, Reception",
+    "bandwidth": "110 Mbps",
+    "provider": "MediNet Technologies"
+  },
+  {
+    "ssid": "ArtStudio_FreeNet",
+    "securityType": "Open",
+    "location": "City Artists' Studio Collective",
+    "bandwidth": "65 Mbps",
+    "provider": "ArtistryNet Solutions"
+  },
+  {
+    "ssid": "TechCenter_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "City Tech Research Center",
+    "bandwidth": "115 Mbps",
+    "provider": "ResearchTech Networks"
+  }
+]
+[
+  {
+    "ssid": "MountainResort_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "Alpine Peaks Resort",
+    "bandwidth": "155 Mbps",
+    "provider": "PeakNet Solutions"
+  },
+  {
+    "ssid": "CinemaComplex_FreeNet",
+    "securityType": "Open",
+    "location": "Metroplex Cinema Complex",
+    "bandwidth": "90 Mbps",
+    "provider": "CineplexTech Networks"
+  },
+  {
+    "ssid": "HistoricalSite_WiFi",
+    "securityType": "WPA3",
+    "location": "City Historical Museum",
+    "bandwidth": "100 Mbps",
+    "provider": "HistoryNet Services"
+  },
+  {
+    "ssid": "Airport_LoungeNet",
+    "securityType": "WPA2-PSK",
+    "location": "City International Airport, Lounge",
+    "bandwidth": "205 Mbps",
+    "provider": "AeroLounge Networks"
+  },
+  {
+    "ssid": "CollegeCampus_WiFi",
+    "securityType": "WPA3",
+    "location": "Metropolitan College Campus",
+    "bandwidth": "130 Mbps",
+    "provider": "MetroCollegeNet Solutions"
+  },
+  {
+    "ssid": "SkatingRink_FreeNet",
+    "securityType": "Open",
+    "location": "City Ice Skating Rink",
+    "bandwidth": "80 Mbps",
+    "provider": "IceTech Networks"
+  },
+  {
+    "ssid": "FerryTerminal_WiFiSpot",
+    "securityType": "WPA2-PSK",
+    "location": "City Ferry Terminal",
+    "bandwidth": "100 Mbps",
+    "provider": "FerryNet Services"
+  },
+  {
+    "ssid": "DentalClinic_WiFi",
+    "securityType": "WPA3",
+    "location": "BrightSmiles Dental Clinic",
+    "bandwidth": "95 Mbps",
+    "provider": "DentalNet Technologies"
+  },
+  {
+    "ssid": "MusicSchool_FreeNet",
+    "securityType": "Open",
+    "location": "Harmony Music School",
+    "bandwidth": "70 Mbps",
+    "provider": "HarmonyNet Solutions"
+  },
+  {
+    "ssid": "ResearchInstitute_WiFi",
+    "securityType": "WPA2-PSK",
+    "location": "City Science Research Institute",
+    "bandwidth": "120 Mbps",
+    "provider": "ResearchInnoTech Networks"
+  }
+]
