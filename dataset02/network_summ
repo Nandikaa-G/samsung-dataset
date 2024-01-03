@@ -1,0 +1,38 @@
+1.Which Wi-Fi network is available at the City Center Mall, Ground Floor, and who is the provider?
+The Wi-Fi network available at the City Center Mall, Ground Floor is "CityCenter_FreeWiFi," provided by "CityTech Networks."
+
+2.What is the bandwidth capacity of the Wi-Fi network at the International Airport, Terminal 2?
+The bandwidth capacity of the Wi-Fi network at the International Airport, Terminal 2 is 300 Mbps.
+
+3.Which Wi-Fi network is provided by "HotelTech Services" and what is its security type?
+The Wi-Fi network provided by "HotelTech Services" is "HotelLobby_GuestNet," and its security type is WPA3.
+
+4.Where can you find the Wi-Fi network provided by "CaféConnect"?
+The Wi-Fi network provided by "CaféConnect" is available at the Downtown Café.
+
+5.Which two locations have Wi-Fi networks with a bandwidth of 250 Mbps?
+The two locations with Wi-Fi networks having a bandwidth of 250 Mbps are the City Conference Center (provided by "ConferenceTech Services") and the Grand Hotel, Lobby (provided by "HotelTech Services").
+
+6.Which Wi-Fi networks are open to users without any security protocols?
+The Wi-Fi networks that are open without any security protocols are "CityCenter_FreeWiFi," "DowntownCafe_WiFi," "SportsArena_PublicNet," "BeachResort_FreeNet," "ParkSquare_PublicWiFi," "GymZone_FreeNet," "ShoppingMall_WiFiSpot," "Park_WiFiZone," "ShoppingCenter_WiFiSpot," "Theater_PublicWiFi," "AmusementPark_WiFi," "ShoppingDistrict_FreeNet," "CinemaComplex_FreeNet," "ThemePark_FreeNet," "Residential_WiFiSpot," "ArtStudio_FreeNet," and "SkatePark_WiFiZone."
+
+7.Which provider offers the Wi-Fi network at the City Zoo, Entrance?
+The Wi-Fi network at the City Zoo, Entrance is provided by "ZooNet Technologies."
+
+8.What is the security type of the Wi-Fi network at the City Public Library?
+The security type of the Wi-Fi network at the City Public Library is WPA2-PSK.
+
+9.Which location offers the highest bandwidth among all the Wi-Fi networks listed?
+The location with the highest bandwidth is the "International Airport, Terminal 2" with a bandwidth of 300 Mbps, provided by "AeroNet Services."
+
+10.How many Wi-Fi networks in the dataset are provided by "EduNet Services"?
+There are two Wi-Fi networks provided by "EduNet Services": "UniLibrary_StudentNet" and "SchoolCampus_StudentNet."
+
+11.Which Wi-Fi network has the lowest bandwidth capacity in the dataset, and where is it located?
+The Wi-Fi network with the lowest bandwidth capacity is "GymZone_FreeNet" located at "FitZone Gym" with a bandwidth of 20 Mbps.
+
+12.List the Wi-Fi networks that have a security type of WPA3.
+The Wi-Fi networks with a security type of WPA3 are "UniLibrary_StudentNet," "MuseumWiFi_Guest," "HotelLobby_GuestNet," "Bookstore_LoungeNet," "University_CampusNet," "ConventionCenter_WiFi," "Downtown_PlazaNet," "Library_CoWorkingNet," "Hospital_WiFi," "University_WiFi," "Clinic_WiFi," and "CollegeCampus_WiFi."
+
+13.How many Wi-Fi networks are available at parks or gardens in the dataset?
+Wi-Fi networks available at parks or gardens include "ParkSquare_PublicWiFi," "Park_WiFiZone," "GardenPark_FreeNet," "Park_WiFiZone," and "GolfCourse_ClubNet," making it a total of five networks.
