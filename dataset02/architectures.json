@@ -1,0 +1,525 @@
+{
+  "architectures": [
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "height_m": 324,
+      "year_built": 1889,
+      "style": "Gustave Eiffel's structural design",
+      "description": "Iconic iron lattice tower built for the 1889 Exposition Universelle, now a global cultural icon."
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "height_m": 73,
+      "year_built": 1653,
+      "style": "Mughal architecture",
+      "description": "White marble mausoleum built by Mughal Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal."
+    },
+    {
+      "name": "Sydney Opera House",
+      "location": "Sydney, Australia",
+      "height_m": 65,
+      "year_built": 1973,
+      "style": "Expressionist modern design",
+      "description": "Famous performing arts center with distinctive sail-like shells, recognized as a UNESCO World Heritage site."
+    },
+    {
+      "name": "Great Wall of China",
+      "location": "China",
+      "length_km": 21,196,
+      "year_built": "Several periods from 7th century BC to 16th century AD",
+      "style": "Fortification walls",
+      "description": "Historical series of fortifications built to protect Chinese states and empires from invasions."
+    },
+    {
+      "name": "Burj Khalifa",
+      "location": "Dubai, UAE",
+      "height_m": 828,
+      "year_built": 2010,
+      "style": "Neo-futuristic design",
+      "description": "Tallest structure and building in the world, known for its modern architecture and engineering marvels."
+    },
+    {
+      "name": "Colosseum",
+      "location": "Rome, Italy",
+      "capacity": "50,000 to 80,000 spectators",
+      "year_built": 80 AD,
+      "style": "Roman architecture",
+      "description": "Ancient amphitheater used for gladiatorial contests and public spectacles in the Roman Empire."
+    },
+    {
+      "name": "Guggenheim Museum Bilbao",
+      "location": "Bilbao, Spain",
+      "year_built": 1997,
+      "style": "Deconstructivist architecture",
+      "description": "Contemporary art museum renowned for its innovative architecture, designed by Frank Gehry."
+    },
+    {
+      "name": "Petronas Twin Towers",
+      "location": "Kuala Lumpur, Malaysia",
+      "height_m": 452,
+      "year_built": 1998,
+      "style": "Postmodern and Islamic designs",
+      "description": "Twin skyscrapers briefly known as the tallest buildings in the world, featuring Islamic geometric patterns."
+    },
+    {
+      "name": "Parthenon",
+      "location": "Athens, Greece",
+      "year_built": 432 BC,
+      "style": "Ancient Greek architecture",
+      "description": "Doric temple dedicated to the goddess Athena, symbolizing ancient Athenian democracy and culture."
+    },
+    {
+      "name": "Fallingwater House",
+      "location": "Pennsylvania, USA",
+      "year_built": 1935,
+      "style": "Organic architecture",
+      "description": "Residence designed by Frank Lloyd Wright, integrating harmoniously with its natural surroundings."
+    }
+  ]
+}
+{
+  "architectures": [
+    {
+      "name": "Sagrada Família",
+      "location": "Barcelona, Spain",
+      "year_built": "Construction started in 1882; ongoing",
+      "style": "Modernist and Gothic styles",
+      "description": "Basilica designed by Antoni Gaudí, known for its intricate facades and ongoing construction since the late 19th century."
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Cusco Region, Peru",
+      "year_built": "Built around 1450",
+      "style": "Inca architecture",
+      "description": "Ancient Incan citadel situated high in the Andes Mountains, considered one of the New Seven Wonders of the World."
+    },
+    {
+      "name": "St. Basil's Cathedral",
+      "location": "Moscow, Russia",
+      "year_built": 1561,
+      "style": "Russian architecture",
+      "description": "Iconic Russian Orthodox cathedral on Red Square, featuring vibrant onion domes and colorful patterns."
+    },
+    {
+      "name": "Hagia Sophia",
+      "location": "Istanbul, Turkey",
+      "year_built": "First built in 537 AD",
+      "style": "Byzantine and Ottoman architecture",
+      "description": "Historical basilica turned mosque and now a museum, recognized for its massive dome and architectural significance."
+    },
+    {
+      "name": "Neuschwanstein Castle",
+      "location": "Bavaria, Germany",
+      "year_built": 1886,
+      "style": "Romanticism",
+      "description": "Fairy-tale castle built by King Ludwig II of Bavaria, inspiring the design of Disney's Sleeping Beauty Castle."
+    },
+    {
+      "name": "Pantheon",
+      "location": "Rome, Italy",
+      "year_built": "Completed around 126 AD",
+      "style": "Roman architecture",
+      "description": "Ancient Roman temple later converted into a church, known for its domed roof and oculus."
+    },
+    {
+      "name": "Buckingham Palace",
+      "location": "London, UK",
+      "year_built": "First completed in 1703; major expansions in 19th century",
+      "style": "Neoclassical and Baroque styles",
+      "description": "Official residence of the British monarch in London, featuring iconic balconies and the Changing of the Guard ceremony."
+    },
+    {
+      "name": "CN Tower",
+      "location": "Toronto, Canada",
+      "year_built": 1976,
+      "style": "Modernist and International styles",
+      "description": "Iconic communications and observation tower, formerly the world's tallest freestanding structure."
+    },
+    {
+      "name": "Forbidden City",
+      "location": "Beijing, China",
+      "year_built": "Completed in 1420",
+      "style": "Chinese imperial architecture",
+      "description": "Imperial palace complex spanning over 180 acres, representing traditional Chinese palatial architecture."
+    },
+    {
+      "name": "Empire State Building",
+      "location": "New York City, USA",
+      "year_built": 1931,
+      "style": "Art Deco",
+      "description": "Iconic skyscraper recognized as an emblem of New York City and one of the tallest buildings in the world."
+    }
+  ]
+}
+{
+  "architectures": [
+    {
+      "name": "Château de Chambord",
+      "location": "Loir-et-Cher, France",
+      "year_built": "Construction started in 1519",
+      "style": "Renaissance architecture",
+      "description": "French royal castle known for its distinctive French Renaissance architecture, featuring a double helix staircase."
+    },
+    {
+      "name": "The Shard",
+      "location": "London, UK",
+      "year_built": 2012,
+      "style": "Neo-futuristic",
+      "description": "Tallest building in the United Kingdom, characterized by its glass exterior and pyramid-like shape."
+    },
+    {
+      "name": "Potala Palace",
+      "location": "Lhasa, Tibet",
+      "year_built": "First built in 1645",
+      "style": "Tibetan architecture",
+      "description": "Historic residence of the Dalai Lama, featuring towering walls, intricate murals, and numerous Buddhist relics."
+    },
+    {
+      "name": "St. Peter's Basilica",
+      "location": "Vatican City",
+      "year_built": "Completed in 1626",
+      "style": "Renaissance and Baroque",
+      "description": "Principal and largest Catholic church in the world, renowned for its grand dome and artworks by Michelangelo and others."
+    },
+    {
+      "name": "Guggenheim Museum",
+      "location": "New York City, USA",
+      "year_built": 1959,
+      "style": "Modernist",
+      "description": "Modern art museum designed by Frank Lloyd Wright, known for its unique spiral ramp and contemporary art collections."
+    },
+    {
+      "name": "Mont Saint-Michel",
+      "location": "Normandy, France",
+      "year_built": "First established in 8th century AD",
+      "style": "Medieval architecture",
+      "description": "Island commune topped with a Gothic abbey, surrounded by medieval walls and tidal flats, offering breathtaking views."
+    },
+    {
+      "name": "The Louvre Pyramid",
+      "location": "Paris, France",
+      "year_built": 1989,
+      "style": "Modernist",
+      "description": "Glass pyramid entrance to the Louvre Museum, designed by I.M. Pei, serving as a modern landmark within historic surroundings."
+    },
+    {
+      "name": "Alhambra",
+      "location": "Granada, Spain",
+      "year_built": "Mostly constructed in 13th and 14th centuries",
+      "style": "Islamic architecture",
+      "description": "Medieval palace and fortress complex featuring intricate Islamic art, gardens, and panoramic views of Granada."
+    },
+    {
+      "name": "Casa Milà (La Pedrera)",
+      "location": "Barcelona, Spain",
+      "year_built": 1912,
+      "style": "Modernist",
+      "description": "Antoni Gaudí-designed building with undulating stone facade, known for its surreal forms and functional design."
+    },
+    {
+      "name": "Angkor Wat",
+      "location": "Siem Reap, Cambodia",
+      "year_built": "First half of 12th century",
+      "style": "Khmer architecture",
+      "description": "Largest religious monument in the world, representing the pinnacle of classical Khmer architecture and Hinduism."
+    }
+  ]
+}
+{
+  "architectures": [
+    {
+      "name": "Basilica of the Sagrada Família",
+      "location": "Barcelona, Spain",
+      "year_built": "Construction started in 1882; ongoing",
+      "style": "Modernist and Gothic Revival",
+      "description": "Masterpiece by Antoni Gaudí, renowned for its intricate facades, towering spires, and symbolic religious elements."
+    },
+    {
+      "name": "Dome of the Rock",
+      "location": "Jerusalem, Israel",
+      "year_built": "Completed in 691 AD",
+      "style": "Islamic architecture",
+      "description": "Iconic Islamic shrine with a gold dome, significant in both Islamic and Jewish traditions."
+    },
+    {
+      "name": "Cologne Cathedral",
+      "location": "Cologne, Germany",
+      "year_built": "Completed in 1880",
+      "style": "Gothic architecture",
+      "description": "Magnificent Gothic cathedral housing the Shrine of the Three Kings and known for its twin spires."
+    },
+    {
+      "name": "Tiananmen Square",
+      "location": "Beijing, China",
+      "year_built": "Founded in 1651",
+      "style": "Urban square",
+      "description": "Historic public square in the heart of Beijing, surrounded by significant buildings like the Forbidden City."
+    },
+    {
+      "name": "Museum of Islamic Art",
+      "location": "Doha, Qatar",
+      "year_built": 2008,
+      "style": "Modernist",
+      "description": "Architectural marvel designed by I.M. Pei, showcasing Islamic art spanning 1,400 years."
+    },
+    {
+      "name": "The Pantheon",
+      "location": "Rome, Italy",
+      "year_built": "Completed around 128 AD",
+      "style": "Ancient Roman architecture",
+      "description": "Well-preserved Roman temple featuring a vast dome with an oculus, now serving as a church."
+    },
+    {
+      "name": "Chichen Itza",
+      "location": "Yucatán, Mexico",
+      "year_built": "Mostly built between 600-1200 AD",
+      "style": "Mayan architecture",
+      "description": "Ancient city featuring the iconic El Castillo pyramid, reflecting Mayan astronomy and culture."
+    },
+    {
+      "name": "St. Paul's Cathedral",
+      "location": "London, UK",
+      "year_built": "Completed in 1708",
+      "style": "Baroque",
+      "description": "Iconic Anglican cathedral with a dome designed by Sir Christopher Wren, offering panoramic views of London."
+    },
+    {
+      "name": "Wat Phra Kaew",
+      "location": "Bangkok, Thailand",
+      "year_built": "Completed in 1784",
+      "style": "Thai architecture",
+      "description": "Temple within the Grand Palace complex, housing the Emerald Buddha, considered the most sacred temple in Thailand."
+    },
+    {
+      "name": "Rockefeller Center",
+      "location": "New York City, USA",
+      "year_built": "Constructed in the 1930s",
+      "style": "Art Deco",
+      "description": "Iconic Art Deco complex in Midtown Manhattan, featuring the famous Christmas tree and skating rink."
+    }
+  ]
+}
+{
+  "architectures": [
+    {
+      "name": "Palace of Versailles",
+      "location": "Versailles, France",
+      "year_built": "Completed in 1682",
+      "style": "Baroque",
+      "description": "Former royal residence renowned for its opulent interiors, sprawling gardens, and historical significance."
+    },
+    {
+      "name": "Golden Gate Bridge",
+      "location": "San Francisco, USA",
+      "year_built": 1937,
+      "style": "Art Deco",
+      "description": "Iconic suspension bridge connecting San Francisco to Marin County, recognized worldwide for its beauty and engineering."
+    },
+    {
+      "name": "Burj al Arab",
+      "location": "Dubai, UAE",
+      "year_built": 1999,
+      "style": "Neo-futuristic",
+      "description": "Luxurious sail-shaped hotel known for its iconic design, located on its own artificial island."
+    },
+    {
+      "name": "Mesa Verde Cliff Dwellings",
+      "location": "Colorado, USA",
+      "year_built": "Constructed around 1190 AD",
+      "style": "Puebloan",
+      "description": "Ancient cliffside dwellings of the Pueblo people, showcasing remarkable architectural and cultural heritage."
+    },
+    {
+      "name": "Borobudur Temple",
+      "location": "Central Java, Indonesia",
+      "year_built": "Completed in 825 AD",
+      "style": "Buddhist architecture",
+      "description": "Largest Buddhist temple in the world, featuring intricate carvings and stupas with panoramic views."
+    },
+    {
+      "name": "Hearst Castle",
+      "location": "California, USA",
+      "year_built": "Construction spanned from 1919-1947",
+      "style": "Mediterranean Revival",
+      "description": "Opulent mansion designed by Julia Morgan for newspaper magnate William Randolph Hearst, featuring diverse architectural styles."
+    },
+    {
+      "name": "Petronas Twin Towers",
+      "location": "Kuala Lumpur, Malaysia",
+      "year_built": 1998,
+      "style": "Postmodern",
+      "description": "Twin skyscrapers briefly recognized as the tallest buildings in the world, representing Malaysian aspirations and modernity."
+    },
+    {
+      "name": "Acropolis of Athens",
+      "location": "Athens, Greece",
+      "year_built": "Mostly constructed in the 5th century BC",
+      "style": "Ancient Greek",
+      "description": "Historical citadel featuring iconic structures like the Parthenon, symbolizing ancient Greek civilization and democracy."
+    },
+    {
+      "name": "Monticello",
+      "location": "Virginia, USA",
+      "year_built": "Constructed from 1768 onwards",
+      "style": "Neoclassical",
+      "description": "Estate of Thomas Jefferson, showcasing his architectural vision and serving as a reflection of early American ideals."
+    },
+    {
+      "name": "Gardens by the Bay",
+      "location": "Singapore",
+      "year_built": 2012,
+      "style": "Contemporary",
+      "description": "Futuristic botanical gardens featuring the iconic Supertree structures, blending nature with sustainable architecture."
+    }
+  ]
+}
+{
+  "architectures": [
+    {
+      "name": "Piazza San Marco",
+      "location": "Venice, Italy",
+      "year_built": "Developed over many centuries",
+      "style": "Venetian Renaissance",
+      "description": "Historic public square surrounded by significant buildings like St. Mark's Basilica, reflecting Venetian grandeur."
+    },
+    {
+      "name": "Chrysler Building",
+      "location": "New York City, USA",
+      "year_built": 1930,
+      "style": "Art Deco",
+      "description": "Iconic skyscraper with a distinctive crown, once the tallest building in the world, epitomizing Jazz Age elegance."
+    },
+    {
+      "name": "Ephesus",
+      "location": "İzmir, Turkey",
+      "year_built": "Established around 10th century BC",
+      "style": "Ancient Greek and Roman",
+      "description": "Ancient city showcasing well-preserved ruins like the Library of Celsus, representing Hellenistic and Roman architectural influences."
+    },
+    {
+      "name": "Gateway Arch",
+      "location": "St. Louis, USA",
+      "year_built": 1965,
+      "style": "Modernist",
+      "description": "Monumental arch symbolizing the westward expansion of the United States, featuring a unique stainless steel design."
+    },
+    {
+      "name": "St. Basil's Cathedral",
+      "location": "Moscow, Russia",
+      "year_built": 1561,
+      "style": "Russian Orthodox",
+      "description": "Colorful and distinctive cathedral on Red Square, representing Russian architecture and religious artistry."
+    },
+    {
+      "name": "Buckingham Palace",
+      "location": "London, UK",
+      "year_built": "Completed in 1850",
+      "style": "Neoclassical and Baroque",
+      "description": "Official residence of the British monarch, renowned for its grand facade and State Rooms."
+    },
+    {
+      "name": "Hagia Sophia",
+      "location": "Istanbul, Turkey",
+      "year_built": "Completed in 537 AD",
+      "style": "Byzantine and Ottoman",
+      "description": "Historic marvel transitioning from a cathedral to a mosque and now a museum, with a massive dome and intricate mosaics."
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "year_built": 1648,
+      "style": "Mughal",
+      "description": "White marble mausoleum reflecting Indo-Islamic architecture, built by Emperor Shah Jahan in memory of his wife."
+    },
+    {
+      "name": "Casa Batlló",
+      "location": "Barcelona, Spain",
+      "year_built": 1877,
+      "style": "Modernist",
+      "description": "Antoni Gaudí-designed masterpiece known for its whimsical facade, representing the pinnacle of Catalan Modernism."
+    },
+    {
+      "name": "Stonehenge",
+      "location": "Wiltshire, England",
+      "year_built": "Constructed around 3000 BC",
+      "style": "Prehistoric",
+      "description": "Mysterious ancient monument composed of massive standing stones, sparking intrigue about its purpose and construction."
+    }
+  ]
+}
+{
+  "architectures": [
+    {
+      "name": "The Pyramids of Giza",
+      "location": "Giza, Egypt",
+      "year_built": "Constructed around 2580–2560 BC",
+      "style": "Ancient Egyptian",
+      "description": "Iconic ancient structures, including the Great Pyramid, built as tombs for pharaohs and reflecting ancient engineering marvels."
+    },
+    {
+      "name": "The Shard",
+      "location": "London, UK",
+      "year_built": 2012,
+      "style": "Contemporary",
+      "description": "Tallest building in the UK, featuring a glass façade and offering panoramic views of London."
+    },
+    {
+      "name": "Potala Palace",
+      "location": "Lhasa, Tibet",
+      "year_built": "Constructed in the 17th century",
+      "style": "Tibetan",
+      "description": "Former residence of the Dalai Lama, symbolizing Tibetan Buddhist culture and architecture."
+    },
+    {
+      "name": "Leaning Tower of Pisa",
+      "location": "Pisa, Italy",
+      "year_built": 1372,
+      "style": "Romanesque",
+      "description": "Famous for its unintended tilt, this freestanding bell tower is a testament to historical architectural miscalculations."
+    },
+    {
+      "name": "Sagrada Família",
+      "location": "Barcelona, Spain",
+      "year_built": "Construction started in 1882; ongoing",
+      "style": "Modernist",
+      "description": "Antoni Gaudí's masterpiece, a basilica known for its unique design, intricate facades, and ongoing construction."
+    },
+    {
+      "name": "Golden Pavilion (Kinkaku-ji)",
+      "location": "Kyoto, Japan",
+      "year_built": "Reconstructed in 1955",
+      "style": "Zen Buddhist",
+      "description": "Buddhist temple renowned for its gold-leaf exterior, representing harmony between nature and architecture."
+    },
+    {
+      "name": "Sydney Opera House",
+      "location": "Sydney, Australia",
+      "year_built": 1973,
+      "style": "Expressionist",
+      "description": "Iconic performing arts center with sail-like shells, a UNESCO World Heritage site and symbol of modern Australia."
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Cusco Region, Peru",
+      "year_built": "Built around 1450",
+      "style": "Incan",
+      "description": "Ancient Incan city set high in the Andes Mountains, showcasing remarkable stone constructions and terraced landscapes."
+    },
+    {
+      "name": "Neuschwanstein Castle",
+      "location": "Bavaria, Germany",
+      "year_built": 1886,
+      "style": "Romanesque Revival",
+      "description": "Fairytale-like castle commissioned by Ludwig II, inspiring the design of Disney's Sleeping Beauty Castle."
+    },
+    {
+      "name": "Château de Chambord",
+      "location": "Loir-et-Cher, France",
+      "year_built": "Construction started in 1519",
+      "style": "Renaissance",
+      "description": "French Renaissance château with distinctive French architecture, including a central double-helix staircase."
+    }
+  ]
+}
