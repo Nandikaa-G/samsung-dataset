@@ -1,0 +1,630 @@
+{
+  "beverages": [
+    {
+      "name": "Espresso",
+      "type": "Coffee",
+      "origin": "Italy",
+      "caffeine_content_mg": 63,
+      "serving_size_ml": 30,
+      "description": "A concentrated coffee beverage brewed by forcing a small amount of nearly boiling water through finely-ground coffee beans."
+    },
+    {
+      "name": "Chai Latte",
+      "type": "Tea",
+      "origin": "India",
+      "caffeine_content_mg": 50,
+      "serving_size_ml": 240,
+      "description": "A spiced tea latte made from black tea, milk, and a blend of spices like cinnamon, cardamom, cloves, and ginger."
+    },
+    {
+      "name": "Coca-Cola",
+      "type": "Soda",
+      "origin": "USA",
+      "caffeine_content_mg": 34,
+      "serving_size_ml": 355,
+      "description": "A carbonated soft drink with a distinct sweet flavor, primarily made from carbonated water, sugar, and flavorings."
+    },
+    {
+      "name": "Mojito",
+      "type": "Cocktail",
+      "origin": "Cuba",
+      "alcohol_percentage": 20,
+      "serving_size_ml": 240,
+      "ingredients": ["White rum", "Mint", "Lime juice", "Sugar", "Soda water"],
+      "description": "A refreshing cocktail made with white rum, sugar, lime juice, soda water, and mint leaves."
+    },
+    {
+      "name": "Green Tea",
+      "type": "Tea",
+      "origin": "China",
+      "caffeine_content_mg": 25,
+      "serving_size_ml": 240,
+      "description": "A type of tea made from Camellia sinensis leaves, not fermented like black tea, giving it a lighter flavor and color."
+    },
+    {
+      "name": "Orange Juice",
+      "type": "Juice",
+      "origin": "Worldwide",
+      "vitamin_c_content_mg": 120,
+      "serving_size_ml": 240,
+      "description": "A liquid extract of the orange tree fruit, known for its high vitamin C content and refreshing taste."
+    },
+    {
+      "name": "Beer",
+      "type": "Alcoholic Beverage",
+      "origin": "Various",
+      "alcohol_percentage": 4.5,
+      "serving_size_ml": 355,
+      "description": "An alcoholic beverage typically made from fermented cereal grains, hops, yeast, and water."
+    },
+    {
+      "name": "Hot Chocolate",
+      "type": "Beverage",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 5,
+      "serving_size_ml": 240,
+      "description": "A warm beverage made from melted chocolate or cocoa powder, often mixed with milk and sugar."
+    },
+    {
+      "name": "Lemonade",
+      "type": "Juice",
+      "origin": "Worldwide",
+      "sugar_content_g": 25,
+      "serving_size_ml": 240,
+      "description": "A sweet and tangy beverage made from lemon juice, sugar, and water, served cold."
+    },
+    {
+      "name": "Wine",
+      "type": "Alcoholic Beverage",
+      "origin": "Various",
+      "alcohol_percentage": 12,
+      "serving_size_ml": 150,
+      "description": "An alcoholic beverage made from fermented grapes or other fruits, enjoyed in various flavors and colors."
+    }
+  ]
+}
+{
+  "beverages": [
+    {
+      "name": "Matcha Latte",
+      "type": "Tea",
+      "origin": "Japan",
+      "caffeine_content_mg": 70,
+      "serving_size_ml": 240,
+      "description": "A creamy beverage made from finely ground green tea powder mixed with steamed milk, offering a unique earthy flavor."
+    },
+    {
+      "name": "Smoothie",
+      "type": "Fruit Beverage",
+      "origin": "Worldwide",
+      "sugar_content_g": 30,
+      "serving_size_ml": 350,
+      "ingredients": ["Banana", "Berries", "Yogurt", "Honey"],
+      "description": "A thick beverage made from blended fruits, often combined with yogurt or milk for a creamy texture."
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "type": "Tea",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 20,
+      "serving_size_ml": 355,
+      "description": "A refreshing combination of brewed tea, lemon juice, and sugar, served chilled over ice."
+    },
+    {
+      "name": "Margarita",
+      "type": "Cocktail",
+      "origin": "Mexico",
+      "alcohol_percentage": 35,
+      "serving_size_ml": 240,
+      "ingredients": ["Tequila", "Triple sec", "Lime juice", "Salt"],
+      "description": "A popular cocktail made with tequila, lime juice, and triple sec, served in a glass rimmed with salt."
+    },
+    {
+      "name": "Coconut Water",
+      "type": "Juice",
+      "origin": "Tropical Regions",
+      "sugar_content_g": 6,
+      "serving_size_ml": 240,
+      "description": "A clear liquid extracted from green coconuts, known for its natural sweetness and hydrating properties."
+    },
+    {
+      "name": "Cappuccino",
+      "type": "Coffee",
+      "origin": "Italy",
+      "caffeine_content_mg": 120,
+      "serving_size_ml": 240,
+      "description": "A coffee-based drink with a rich espresso base, topped with steamed milk and a frothy milk foam."
+    },
+    {
+      "name": "Whiskey",
+      "type": "Alcoholic Beverage",
+      "origin": "Various",
+      "alcohol_percentage": 40,
+      "serving_size_ml": 45,
+      "description": "A distilled alcoholic beverage made from fermented grain mash, typically aged in wooden casks."
+    },
+    {
+      "name": "Rooibos Tea",
+      "type": "Tea",
+      "origin": "South Africa",
+      "caffeine_content_mg": 0,
+      "serving_size_ml": 240,
+      "description": "A caffeine-free herbal tea made from the leaves of the Aspalathus linearis plant, known for its red color and sweet taste."
+    },
+    {
+      "name": "Pina Colada",
+      "type": "Cocktail",
+      "origin": "Puerto Rico",
+      "alcohol_percentage": 12,
+      "serving_size_ml": 240,
+      "ingredients": ["Rum", "Coconut cream", "Pineapple juice"],
+      "description": "A tropical cocktail made with rum, coconut cream, and pineapple juice, often garnished with a pineapple slice."
+    },
+    {
+      "name": "Hot Toddy",
+      "type": "Cocktail",
+      "origin": "Scotland",
+      "alcohol_percentage": 10,
+      "serving_size_ml": 240,
+      "ingredients": ["Whiskey", "Honey", "Lemon juice", "Hot water"],
+      "description": "A warm drink made by mixing whiskey with honey, lemon juice, and hot water, often enjoyed during cold weather."
+    }
+  ]
+}
+{
+  "beverages": [
+    {
+      "name": "Bubble Tea",
+      "type": "Tea",
+      "origin": "Taiwan",
+      "caffeine_content_mg": 30,
+      "serving_size_ml": 500,
+      "ingredients": ["Tapioca pearls", "Milk tea", "Sweetener"],
+      "description": "A unique tea-based drink with chewy tapioca pearls, often blended with milk and sweeteners."
+    },
+    {
+      "name": "Iced Coffee",
+      "type": "Coffee",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 120,
+      "serving_size_ml": 355,
+      "description": "Chilled coffee served over ice, often sweetened and sometimes mixed with milk or cream."
+    },
+    {
+      "name": "Sangria",
+      "type": "Cocktail",
+      "origin": "Spain",
+      "alcohol_percentage": 12,
+      "serving_size_ml": 240,
+      "ingredients": ["Red wine", "Fruits", "Brandy", "Sweetener"],
+      "description": "A refreshing Spanish wine-based cocktail mixed with fruits, brandy, and sweeteners."
+    },
+    {
+      "name": "Kombucha",
+      "type": "Tea",
+      "origin": "China",
+      "caffeine_content_mg": 15,
+      "serving_size_ml": 240,
+      "description": "A fermented tea beverage known for its probiotic benefits and effervescence, often flavored with fruits or herbs."
+    },
+    {
+      "name": "Mint Julep",
+      "type": "Cocktail",
+      "origin": "USA",
+      "alcohol_percentage": 30,
+      "serving_size_ml": 240,
+      "ingredients": ["Bourbon", "Mint", "Sugar"],
+      "description": "A classic Southern cocktail made with bourbon, fresh mint leaves, and sugar, served over crushed ice."
+    },
+    {
+      "name": "Lassi",
+      "type": "Yogurt Drink",
+      "origin": "India",
+      "sugar_content_g": 20,
+      "serving_size_ml": 300,
+      "ingredients": ["Yogurt", "Water", "Sugar", "Fruits or spices"],
+      "description": "A traditional Indian drink made by blending yogurt with water and spices or fruits, offering a refreshing taste."
+    },
+    {
+      "name": "Gin and Tonic",
+      "type": "Cocktail",
+      "origin": "England",
+      "alcohol_percentage": 40,
+      "serving_size_ml": 240,
+      "ingredients": ["Gin", "Tonic water", "Lime"],
+      "description": "A simple yet classic cocktail made by combining gin with tonic water, garnished with a lime wedge."
+    },
+    {
+      "name": "Horchata",
+      "type": "Beverage",
+      "origin": "Spain & Latin America",
+      "sugar_content_g": 30,
+      "serving_size_ml": 240,
+      "description": "A sweet, milky drink made from ground almonds, sesame seeds, rice, or barley, often flavored with cinnamon."
+    },
+    {
+      "name": "Tequila Sunrise",
+      "type": "Cocktail",
+      "origin": "Mexico",
+      "alcohol_percentage": 14,
+      "serving_size_ml": 240,
+      "ingredients": ["Tequila", "Orange juice", "Grenadine"],
+      "description": "A vibrant cocktail made with tequila, orange juice, and a splash of grenadine, creating a sunrise-like gradient."
+    },
+    {
+      "name": "Earl Grey Tea",
+      "type": "Tea",
+      "origin": "China",
+      "caffeine_content_mg": 40,
+      "serving_size_ml": 240,
+      "description": "A black tea blend flavored with oil of bergamot, offering a citrusy aroma and flavor."
+    }
+  ]
+}
+{
+  "beverages": [
+    {
+      "name": "Irish Coffee",
+      "type": "Coffee",
+      "origin": "Ireland",
+      "caffeine_content_mg": 80,
+      "serving_size_ml": 240,
+      "ingredients": ["Hot coffee", "Irish whiskey", "Sugar", "Cream"],
+      "description": "A warm coffee-based cocktail made with Irish whiskey, sugar, and topped with thick cream."
+    },
+    {
+      "name": "Arnold Palmer",
+      "type": "Beverage",
+      "origin": "USA",
+      "sugar_content_g": 20,
+      "serving_size_ml": 355,
+      "ingredients": ["Iced tea", "Lemonade"],
+      "description": "A refreshing drink made from a combination of iced tea and lemonade, named after the legendary golfer."
+    },
+    {
+      "name": "Prosecco",
+      "type": "Sparkling Wine",
+      "origin": "Italy",
+      "alcohol_percentage": 11,
+      "serving_size_ml": 150,
+      "description": "A light and bubbly Italian sparkling wine, known for its fruity and floral aromas."
+    },
+    {
+      "name": "Hot Toddy",
+      "type": "Cocktail",
+      "origin": "Scotland",
+      "alcohol_percentage": 20,
+      "serving_size_ml": 240,
+      "ingredients": ["Whiskey", "Hot water", "Honey", "Lemon"],
+      "description": "A soothing beverage made with whiskey, hot water, honey, and lemon, often consumed as a remedy for colds."
+    },
+    {
+      "name": "Mai Tai",
+      "type": "Cocktail",
+      "origin": "USA",
+      "alcohol_percentage": 30,
+      "serving_size_ml": 240,
+      "ingredients": ["Rum", "Lime juice", "Orgeat syrup", "Orange liqueur"],
+      "description": "A tropical cocktail made with rum, lime juice, orgeat syrup, and orange liqueur, garnished with mint and fruit."
+    },
+    {
+      "name": "Sake",
+      "type": "Rice Wine",
+      "origin": "Japan",
+      "alcohol_percentage": 15,
+      "serving_size_ml": 180,
+      "description": "A traditional Japanese rice wine, enjoyed both warm and chilled, with various flavors and aromas."
+    },
+    {
+      "name": "Pisco Sour",
+      "type": "Cocktail",
+      "origin": "Peru",
+      "alcohol_percentage": 30,
+      "serving_size_ml": 240,
+      "ingredients": ["Pisco", "Lime juice", "Simple syrup", "Egg white"],
+      "description": "A popular Peruvian cocktail made with pisco, lime juice, simple syrup, and frothy egg white, often garnished with bitters."
+    },
+    {
+      "name": "Ginger Beer",
+      "type": "Non-Alcoholic Beverage",
+      "origin": "Worldwide",
+      "sugar_content_g": 35,
+      "serving_size_ml": 355,
+      "description": "A carbonated soft drink flavored primarily with ginger, offering a spicy and sweet taste."
+    },
+    {
+      "name": "Chai Tea",
+      "type": "Tea",
+      "origin": "India",
+      "caffeine_content_mg": 50,
+      "serving_size_ml": 240,
+      "ingredients": ["Black tea", "Spices", "Milk", "Sweetener"],
+      "description": "A spiced tea beverage made by brewing black tea with a blend of aromatic Indian spices and milk."
+    },
+    {
+      "name": "Aperol Spritz",
+      "type": "Cocktail",
+      "origin": "Italy",
+      "alcohol_percentage": 11,
+      "serving_size_ml": 240,
+      "ingredients": ["Aperol", "Prosecco", "Soda water"],
+      "description": "A vibrant Italian cocktail made with Aperol, prosecco, and a splash of soda water, served over ice."
+    }
+  ]
+}
+{
+  "beverages": [
+    {
+      "name": "Moscow Mule",
+      "type": "Cocktail",
+      "origin": "USA",
+      "alcohol_percentage": 40,
+      "serving_size_ml": 240,
+      "ingredients": ["Vodka", "Ginger beer", "Lime juice"],
+      "description": "A refreshing cocktail made with vodka, spicy ginger beer, and a splash of lime juice, traditionally served in a copper mug."
+    },
+    {
+      "name": "Tea Latte",
+      "type": "Tea",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 50,
+      "serving_size_ml": 355,
+      "ingredients": ["Steeped tea", "Steamed milk", "Sweetener"],
+      "description": "A creamy beverage combining steeped tea with steamed milk and sweeteners, available in various tea flavors."
+    },
+    {
+      "name": "Negroni",
+      "type": "Cocktail",
+      "origin": "Italy",
+      "alcohol_percentage": 25,
+      "serving_size_ml": 240,
+      "ingredients": ["Gin", "Campari", "Sweet vermouth"],
+      "description": "A classic Italian cocktail made with gin, Campari, and sweet vermouth, garnished with an orange peel."
+    },
+    {
+      "name": "Lavender Lemonade",
+      "type": "Beverage",
+      "origin": "Worldwide",
+      "sugar_content_g": 30,
+      "serving_size_ml": 355,
+      "ingredients": ["Lemon juice", "Water", "Lavender syrup"],
+      "description": "A floral twist on traditional lemonade, infused with fragrant lavender syrup for a unique and refreshing flavor."
+    },
+    {
+      "name": "Sangria",
+      "type": "Cocktail",
+      "origin": "Spain",
+      "alcohol_percentage": 12,
+      "serving_size_ml": 240,
+      "ingredients": ["Red wine", "Fruits", "Brandy", "Soda"],
+      "description": "A fruity Spanish cocktail made with red wine, mixed fruits, brandy, and a splash of soda, served chilled."
+    },
+    {
+      "name": "Matcha Latte",
+      "type": "Tea",
+      "origin": "Japan",
+      "caffeine_content_mg": 70,
+      "serving_size_ml": 355,
+      "ingredients": ["Matcha powder", "Steamed milk", "Sweetener"],
+      "description": "A vibrant green tea-based latte made by whisking high-quality matcha powder with steamed milk and sweeteners."
+    },
+    {
+      "name": "Cider",
+      "type": "Alcoholic Beverage",
+      "origin": "Worldwide",
+      "alcohol_percentage": 5,
+      "serving_size_ml": 355,
+      "description": "A fermented apple beverage, available in various styles from sweet to dry, enjoyed particularly during autumn."
+    },
+    {
+      "name": "Thai Iced Tea",
+      "type": "Tea",
+      "origin": "Thailand",
+      "caffeine_content_mg": 50,
+      "serving_size_ml": 355,
+      "ingredients": ["Black tea", "Sweetened condensed milk", "Ice"],
+      "description": "A sweet and creamy iced tea beverage made with strong black tea, sweetened condensed milk, and served over ice."
+    },
+    {
+      "name": "Bellini",
+      "type": "Cocktail",
+      "origin": "Italy",
+      "alcohol_percentage": 10,
+      "serving_size_ml": 240,
+      "ingredients": ["Prosecco", "Peach purée"],
+      "description": "A refreshing Italian cocktail made with sparkling Prosecco wine and peach purée, originating from Venice."
+    },
+    {
+      "name": "Horlicks",
+      "type": "Malted Beverage",
+      "origin": "United Kingdom",
+      "sugar_content_g": 20,
+      "serving_size_ml": 240,
+      "description": "A malted milk hot drink, rich in vitamins and minerals, known for its creamy and slightly sweet flavor."
+    }
+  ]
+}
+{
+  "beverages": [
+    {
+      "name": "Mojito",
+      "type": "Cocktail",
+      "origin": "Cuba",
+      "alcohol_percentage": 20,
+      "serving_size_ml": 240,
+      "ingredients": ["White rum", "Mint leaves", "Lime juice", "Sugar", "Soda water"],
+      "description": "A refreshing Cuban cocktail made with white rum, fresh mint leaves, lime juice, sugar, and topped with soda water."
+    },
+    {
+      "name": "Iced Matcha Latte",
+      "type": "Tea",
+      "origin": "Japan",
+      "caffeine_content_mg": 70,
+      "serving_size_ml": 355,
+      "ingredients": ["Matcha powder", "Cold milk", "Sweetener", "Ice"],
+      "description": "A chilled version of the traditional Matcha Latte, blending high-quality matcha powder with cold milk, sweetener, and ice."
+    },
+    {
+      "name": "Gin Fizz",
+      "type": "Cocktail",
+      "origin": "USA",
+      "alcohol_percentage": 20,
+      "serving_size_ml": 240,
+      "ingredients": ["Gin", "Lemon juice", "Sugar", "Soda water"],
+      "description": "A classic American cocktail made with gin, lemon juice, sugar, and soda water, served over ice."
+    },
+    {
+      "name": "Turmeric Latte (Golden Milk)",
+      "type": "Beverage",
+      "origin": "India",
+      "sugar_content_g": 15,
+      "serving_size_ml": 355,
+      "ingredients": ["Turmeric", "Milk", "Honey", "Spices"],
+      "description": "A warm and comforting drink from India, made with turmeric, milk, honey, and spices, known for its health benefits."
+    },
+    {
+      "name": "Caipirinha",
+      "type": "Cocktail",
+      "origin": "Brazil",
+      "alcohol_percentage": 35,
+      "serving_size_ml": 240,
+      "ingredients": ["Cachaça", "Lime", "Sugar"],
+      "description": "Brazil's national cocktail, made with cachaça (a distilled spirit made from sugarcane juice), muddled lime, and sugar."
+    },
+    {
+      "name": "Oolong Tea",
+      "type": "Tea",
+      "origin": "China",
+      "caffeine_content_mg": 30,
+      "serving_size_ml": 240,
+      "description": "A traditional Chinese tea variety with characteristics between green and black tea, known for its unique flavor profile."
+    },
+    {
+      "name": "Rum Punch",
+      "type": "Cocktail",
+      "origin": "Caribbean",
+      "alcohol_percentage": 25,
+      "serving_size_ml": 240,
+      "ingredients": ["Rum", "Fruit juice", "Sweetener", "Spices"],
+      "description": "A fruity Caribbean cocktail made with rum, various fruit juices, sweetener, and a touch of spices, served chilled."
+    },
+    {
+      "name": "Hot Cocoa",
+      "type": "Beverage",
+      "origin": "Worldwide",
+      "sugar_content_g": 25,
+      "serving_size_ml": 240,
+      "ingredients": ["Cocoa powder", "Milk", "Sugar", "Marshmallows (optional)"],
+      "description": "A comforting beverage made from cocoa powder, milk, and sugar, often topped with marshmallows or whipped cream."
+    },
+    {
+      "name": "Pimm's Cup",
+      "type": "Cocktail",
+      "origin": "England",
+      "alcohol_percentage": 25,
+      "serving_size_ml": 240,
+      "ingredients": ["Pimm's No. 1", "Lemonade", "Fruits", "Mint"],
+      "description": "A classic English summer cocktail made with Pimm's No. 1, lemonade, fresh fruits, and mint, served over ice."
+    },
+    {
+      "name": "Masala Chai",
+      "type": "Tea",
+      "origin": "India",
+      "caffeine_content_mg": 50,
+      "serving_size_ml": 240,
+      "ingredients": ["Black tea", "Spices", "Milk", "Sweetener"],
+      "description": "A flavorful Indian tea made with black tea leaves, aromatic spices, milk, and sweetener, offering a rich and spicy taste."
+    }
+  ]
+}
+{
+  "beverages": [
+    {
+      "name": "Sazerac",
+      "type": "Cocktail",
+      "origin": "USA",
+      "alcohol_percentage": 35,
+      "serving_size_ml": 240,
+      "ingredients": ["Rye whiskey", "Absinthe", "Sugar", "Bitters"],
+      "description": "A classic New Orleans cocktail made with rye whiskey, absinthe, sugar, and aromatic bitters, garnished with a lemon peel."
+    },
+    {
+      "name": "Rose Tea",
+      "type": "Tea",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 20,
+      "serving_size_ml": 240,
+      "description": "A fragrant tea made by infusing dried rose petals or buds, known for its delicate floral aroma and light taste."
+    },
+    {
+      "name": "Dark 'n' Stormy",
+      "type": "Cocktail",
+      "origin": "Bermuda",
+      "alcohol_percentage": 20,
+      "serving_size_ml": 240,
+      "ingredients": ["Dark rum", "Ginger beer", "Lime"],
+      "description": "A refreshing Bermudian cocktail made with dark rum, spicy ginger beer, and a squeeze of lime, served over ice."
+    },
+    {
+      "name": "Vanilla Rooibos Tea",
+      "type": "Tea",
+      "origin": "South Africa",
+      "caffeine_content_mg": 0,
+      "serving_size_ml": 240,
+      "description": "A caffeine-free herbal tea from South Africa, combining rooibos leaves with natural vanilla flavor for a smooth and sweet taste."
+    },
+    {
+      "name": "Paloma",
+      "type": "Cocktail",
+      "origin": "Mexico",
+      "alcohol_percentage": 20,
+      "serving_size_ml": 240,
+      "ingredients": ["Tequila", "Grapefruit soda", "Lime juice", "Salt"],
+      "description": "A popular Mexican cocktail made with tequila, grapefruit soda, lime juice, and a salted rim, often garnished with a lime wedge."
+    },
+    {
+      "name": "Peppermint Mocha",
+      "type": "Coffee",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 95,
+      "serving_size_ml": 355,
+      "ingredients": ["Espresso", "Steamed milk", "Peppermint syrup", "Chocolate"],
+      "description": "A festive coffee beverage combining espresso, steamed milk, peppermint syrup, and chocolate, often enjoyed during the holiday season."
+    },
+    {
+      "name": "Mimosa",
+      "type": "Cocktail",
+      "origin": "France",
+      "alcohol_percentage": 12,
+      "serving_size_ml": 240,
+      "ingredients": ["Champagne", "Orange juice"],
+      "description": "A classic French cocktail made with champagne and chilled orange juice, typically served in a tall champagne flute."
+    },
+    {
+      "name": "Chamomile Tea",
+      "type": "Tea",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 0,
+      "serving_size_ml": 240,
+      "description": "A calming herbal tea made from dried chamomile flowers, known for its soothing properties and mild, floral flavor."
+    },
+    {
+      "name": "Pisco Sour",
+      "type": "Cocktail",
+      "origin": "Peru",
+      "alcohol_percentage": 30,
+      "serving_size_ml": 240,
+      "ingredients": ["Pisco", "Lime juice", "Simple syrup", "Egg white", "Angostura bitters"],
+      "description": "A popular Peruvian cocktail made with pisco, lime juice, simple syrup, frothy egg white, and a dash of Angostura bitters."
+    },
+    {
+      "name": "Lemon Ginger Tea",
+      "type": "Tea",
+      "origin": "Worldwide",
+      "caffeine_content_mg": 10,
+      "serving_size_ml": 240,
+      "ingredients": ["Black tea", "Ginger", "Lemon", "Honey"],
+      "description": "A warming tea blend combining black tea, fresh ginger, lemon slices, and honey, offering a zesty and soothing experience."
+    }
+  ]
+}
