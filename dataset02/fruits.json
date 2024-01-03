@@ -1,0 +1,574 @@
+[
+    {
+        "fruit_name": "Apple",
+        "scientific_name": "Malus domestica",
+        "color": "Red, Green, Yellow",
+        "taste": "Sweet or tart",
+        "origin": "Central Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Banana",
+        "scientific_name": "Musa",
+        "color": "Yellow",
+        "taste": "Sweet",
+        "origin": "Southeast Asia",
+        "nutrients": ["Potassium", "Vitamin B6", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Strawberry",
+        "scientific_name": "Fragaria × ananassa",
+        "color": "Red",
+        "taste": "Sweet and slightly tart",
+        "origin": "Europe and North America",
+        "nutrients": ["Vitamin C", "Manganese", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Grapes",
+        "scientific_name": "Vitis vinifera",
+        "color": "Green, Red, Purple",
+        "taste": "Sweet or tart",
+        "origin": "Europe, Asia, North America",
+        "nutrients": ["Resveratrol", "Vitamin K", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Orange",
+        "scientific_name": "Citrus × sinensis",
+        "color": "Orange",
+        "taste": "Sweet and tangy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Pineapple",
+        "scientific_name": "Ananas comosus",
+        "color": "Yellow with green",
+        "taste": "Sweet and tangy",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Manganese", "Bromelain"]
+    },
+    {
+        "fruit_name": "Watermelon",
+        "scientific_name": "Citrullus lanatus",
+        "color": "Green with red flesh",
+        "taste": "Sweet and refreshing",
+        "origin": "Africa",
+        "nutrients": ["Vitamin C", "Potassium", "Lycopene"]
+    },
+    {
+        "fruit_name": "Cherry",
+        "scientific_name": "Prunus avium",
+        "color": "Red, Yellow, Black",
+        "taste": "Sweet or tart",
+        "origin": "Asia, Europe, North America",
+        "nutrients": ["Vitamin C", "Anthocyanins", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Mango",
+        "scientific_name": "Mangifera indica",
+        "color": "Yellow, Orange, Red",
+        "taste": "Sweet and juicy",
+        "origin": "South Asia",
+        "nutrients": ["Vitamin A", "Vitamin C", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Kiwi",
+        "scientific_name": "Actinidia deliciosa",
+        "color": "Brown with green flesh",
+        "taste": "Sweet and slightly tangy",
+        "origin": "China",
+        "nutrients": ["Vitamin C", "Vitamin K", "Dietary Fiber"]
+    }
+]
+[
+    {
+        "fruit_name": "Pear",
+        "scientific_name": "Pyrus",
+        "color": "Green, Yellow, Red",
+        "taste": "Sweet and juicy",
+        "origin": "Europe and Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Copper"]
+    },
+    {
+        "fruit_name": "Pomegranate",
+        "scientific_name": "Punica granatum",
+        "color": "Red with seeds",
+        "taste": "Sweet and tangy",
+        "origin": "Iran to Northern India",
+        "nutrients": ["Vitamin C", "Antioxidants", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Blueberry",
+        "scientific_name": "Vaccinium",
+        "color": "Blue to purple",
+        "taste": "Sweet and slightly acidic",
+        "origin": "North America",
+        "nutrients": ["Vitamin C", "Antioxidants", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Avocado",
+        "scientific_name": "Persea americana",
+        "color": "Green to black",
+        "taste": "Creamy and nutty",
+        "origin": "Central America",
+        "nutrients": ["Healthy fats", "Vitamin K", "Potassium"]
+    },
+    {
+        "fruit_name": "Raspberry",
+        "scientific_name": "Rubus idaeus",
+        "color": "Red to black",
+        "taste": "Sweet and slightly tart",
+        "origin": "Europe and northern Asia",
+        "nutrients": ["Vitamin C", "Manganese", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Cranberry",
+        "scientific_name": "Vaccinium macrocarpon",
+        "color": "Red",
+        "taste": "Tart",
+        "origin": "North America",
+        "nutrients": ["Vitamin C", "Antioxidants", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Guava",
+        "scientific_name": "Psidium guajava",
+        "color": "Green to yellow",
+        "taste": "Sweet with a hint of tartness",
+        "origin": "Central America",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Papaya",
+        "scientific_name": "Carica papaya",
+        "color": "Orange",
+        "taste": "Sweet and musky",
+        "origin": "Central America",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Blackberry",
+        "scientific_name": "Rubus fruticosus",
+        "color": "Black",
+        "taste": "Sweet and slightly tart",
+        "origin": "Europe",
+        "nutrients": ["Vitamin C", "Antioxidants", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Lychee",
+        "scientific_name": "Litchi chinensis",
+        "color": "Reddish-pink",
+        "taste": "Sweet and floral",
+        "origin": "China",
+        "nutrients": ["Vitamin C", "Copper", "Antioxidants"]
+    }
+]
+[
+    {
+        "fruit_name": "Apricot",
+        "scientific_name": "Prunus armeniaca",
+        "color": "Yellow to orange",
+        "taste": "Sweet and slightly tart",
+        "origin": "Central and East Asia",
+        "nutrients": ["Vitamin A", "Vitamin C", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Fig",
+        "scientific_name": "Ficus carica",
+        "color": "Green, Purple",
+        "taste": "Sweet and seedy",
+        "origin": "Middle East and Western Asia",
+        "nutrients": ["Dietary Fiber", "Vitamin B6", "Copper"]
+    },
+    {
+        "fruit_name": "Tangerine",
+        "scientific_name": "Citrus reticulata",
+        "color": "Orange",
+        "taste": "Sweet and tangy",
+        "origin": "China",
+        "nutrients": ["Vitamin C", "Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Kiwi",
+        "scientific_name": "Actinidia deliciosa",
+        "color": "Brown with green flesh",
+        "taste": "Sweet and tangy",
+        "origin": "China",
+        "nutrients": ["Vitamin C", "Vitamin K", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Cantaloupe",
+        "scientific_name": "Cucumis melo",
+        "color": "Orange",
+        "taste": "Sweet and juicy",
+        "origin": "Persia and Africa",
+        "nutrients": ["Vitamin A", "Vitamin C", "Potassium"]
+    },
+    {
+        "fruit_name": "Nectarine",
+        "scientific_name": "Prunus persica var. nucipersica",
+        "color": "Red, Yellow",
+        "taste": "Sweet and juicy",
+        "origin": "Central Asia",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Passion Fruit",
+        "scientific_name": "Passiflora edulis",
+        "color": "Purple or Yellow",
+        "taste": "Tart and aromatic",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Peach",
+        "scientific_name": "Prunus persica",
+        "color": "Yellow, Red",
+        "taste": "Sweet and juicy",
+        "origin": "Northwest China",
+        "nutrients": ["Vitamin C", "Vitamin A", "Potassium"]
+    },
+    {
+        "fruit_name": "Plum",
+        "scientific_name": "Prunus domestica",
+        "color": "Purple, Red, Green",
+        "taste": "Sweet and slightly tart",
+        "origin": "Europe and Asia",
+        "nutrients": ["Vitamin C", "Vitamin K", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Persimmon",
+        "scientific_name": "Diospyros kaki",
+        "color": "Orange",
+        "taste": "Sweet and slightly tangy",
+        "origin": "China",
+        "nutrients": ["Vitamin A", "Vitamin C", "Dietary Fiber"]
+    }
+]
+[
+    {
+        "fruit_name": "Starfruit",
+        "scientific_name": "Averrhoa carambola",
+        "color": "Yellow to green",
+        "taste": "Sweet and slightly tart",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Mangosteen",
+        "scientific_name": "Garcinia mangostana",
+        "color": "Purple",
+        "taste": "Sweet and tangy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Antioxidants", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Lychee",
+        "scientific_name": "Litchi chinensis",
+        "color": "Reddish-pink",
+        "taste": "Sweet and floral",
+        "origin": "China",
+        "nutrients": ["Vitamin C", "Copper", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Quince",
+        "scientific_name": "Cydonia oblonga",
+        "color": "Yellow",
+        "taste": "Tart when raw, sweet when cooked",
+        "origin": "Southwest Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Pectin"]
+    },
+    {
+        "fruit_name": "Cherimoya",
+        "scientific_name": "Annona cherimola",
+        "color": "Green with scale-like appearance",
+        "taste": "Sweet and creamy",
+        "origin": "Andes region in South America",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Durian",
+        "scientific_name": "Durio",
+        "color": "Yellow to brown",
+        "taste": "Rich and creamy with a strong odor",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Potassium", "Healthy Fats"]
+    },
+    {
+        "fruit_name": "Jackfruit",
+        "scientific_name": "Artocarpus heterophyllus",
+        "color": "Green or yellow",
+        "taste": "Sweet and fruity",
+        "origin": "South India",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Acai Berry",
+        "scientific_name": "Euterpe oleracea",
+        "color": "Purple",
+        "taste": "Tart with a hint of chocolate",
+        "origin": "Central and South America",
+        "nutrients": ["Antioxidants", "Omega Fatty Acids", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Feijoa",
+        "scientific_name": "Acca sellowiana",
+        "color": "Green",
+        "taste": "Sweet and aromatic",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Goji Berry",
+        "scientific_name": "Lycium barbarum",
+        "color": "Red",
+        "taste": "Sweet and tangy",
+        "origin": "China",
+        "nutrients": ["Antioxidants", "Vitamin C", "Dietary Fiber"]
+    }
+]
+[
+    {
+        "fruit_name": "Black Sapote",
+        "scientific_name": "Diospyros nigra",
+        "color": "Dark green to brown",
+        "taste": "Sweet and chocolatey",
+        "origin": "Central America",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Carambola",
+        "scientific_name": "Averrhoa carambola",
+        "color": "Yellow to green",
+        "taste": "Sweet and tangy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Feijoa",
+        "scientific_name": "Acca sellowiana",
+        "color": "Green",
+        "taste": "Sweet with a hint of tartness",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Pomelo",
+        "scientific_name": "Citrus maxima",
+        "color": "Green to yellow",
+        "taste": "Sweet with a hint of tartness",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Salak (Snake Fruit)",
+        "scientific_name": "Salacca zalacca",
+        "color": "Brown",
+        "taste": "Sweet and sour",
+        "origin": "Indonesia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Tamarillo",
+        "scientific_name": "Solanum betaceum",
+        "color": "Red or yellow",
+        "taste": "Tart and fruity",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Yuzu",
+        "scientific_name": "Citrus junos",
+        "color": "Green to yellow",
+        "taste": "Tart and aromatic",
+        "origin": "East Asia",
+        "nutrients": ["Vitamin C", "Antioxidants", "Essential Oils"]
+    },
+    {
+        "fruit_name": "Soursop",
+        "scientific_name": "Annona muricata",
+        "color": "Green",
+        "taste": "Sweet and creamy",
+        "origin": "Central and South America",
+        "nutrients": ["Vitamin C", "B vitamins", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Rambutan",
+        "scientific_name": "Nephelium lappaceum",
+        "color": "Red with spiky green exterior",
+        "taste": "Sweet and juicy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Pepino",
+        "scientific_name": "Solanum muricatum",
+        "color": "Yellow with purple stripes",
+        "taste": "Sweet and mild",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    }
+]
+[
+    {
+        "fruit_name": "Ugli Fruit",
+        "scientific_name": "Citrus reticulata × Citrus paradisi",
+        "color": "Greenish-yellow",
+        "taste": "Sweet with a hint of tartness",
+        "origin": "Jamaica",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Atemoya",
+        "scientific_name": "Annona squamosa × Annona cherimola",
+        "color": "Green with scale-like appearance",
+        "taste": "Sweet and creamy",
+        "origin": "Central America",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Barbados Cherry",
+        "scientific_name": "Malpighia emarginata",
+        "color": "Reddish-orange",
+        "taste": "Tart with a hint of sweetness",
+        "origin": "Caribbean and Central America",
+        "nutrients": ["Vitamin C", "Vitamin A", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Longan",
+        "scientific_name": "Dimocarpus longan",
+        "color": "Brown with translucent flesh",
+        "taste": "Sweet and juicy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Mamey Sapote",
+        "scientific_name": "Pouteria sapota",
+        "color": "Brown with orange flesh",
+        "taste": "Sweet and creamy",
+        "origin": "Central and South America",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Pawpaw",
+        "scientific_name": "Asimina triloba",
+        "color": "Green to yellow",
+        "taste": "Creamy and custard-like",
+        "origin": "Eastern United States",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Cactus Pear (Prickly Pear)",
+        "scientific_name": "Opuntia ficus-indica",
+        "color": "Red or purple",
+        "taste": "Sweet with a hint of tartness",
+        "origin": "Americas",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Surinam Cherry",
+        "scientific_name": "Eugenia uniflora",
+        "color": "Red to dark purple",
+        "taste": "Sweet and tangy",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Miracle Fruit",
+        "scientific_name": "Synsepalum dulcificum",
+        "color": "Red",
+        "taste": "Tart, but it makes sour foods taste sweet",
+        "origin": "West Africa",
+        "nutrients": ["Protein", "Dietary Fiber", "Vitamin C"]
+    },
+    {
+        "fruit_name": "Kumquat",
+        "scientific_name": "Fortunella",
+        "color": "Orange-yellow",
+        "taste": "Sweet peel with a tart pulp",
+        "origin": "East Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    }
+]
+[
+    {
+        "fruit_name": "Ackee",
+        "scientific_name": "Blighia sapida",
+        "color": "Red when ripe",
+        "taste": "Creamy and slightly nutty",
+        "origin": "West Africa",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Protein"]
+    },
+    {
+        "fruit_name": "Cherimoya",
+        "scientific_name": "Annona cherimola",
+        "color": "Green with scale-like appearance",
+        "taste": "Sweet and custard-like",
+        "origin": "Andean region of South America",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Durian",
+        "scientific_name": "Durio zibethinus",
+        "color": "Yellow or green",
+        "taste": "Creamy with a strong odor",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Potassium", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Gooseberry",
+        "scientific_name": "Ribes uva-crispa",
+        "color": "Green to yellow",
+        "taste": "Tart and tangy",
+        "origin": "Europe, Western Asia",
+        "nutrients": ["Vitamin C", "Vitamin K", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Horned Melon (Kiwano)",
+        "scientific_name": "Cucumis metuliferus",
+        "color": "Orange with spiky skin",
+        "taste": "Tart with a hint of banana and cucumber",
+        "origin": "Sub-Saharan Africa",
+        "nutrients": ["Vitamin C", "Vitamin A", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Jujube",
+        "scientific_name": "Ziziphus jujuba",
+        "color": "Red or yellow",
+        "taste": "Sweet and chewy",
+        "origin": "China",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    },
+    {
+        "fruit_name": "Loquat",
+        "scientific_name": "Eriobotrya japonica",
+        "color": "Yellow or orange",
+        "taste": "Sweet with a hint of tartness",
+        "origin": "China",
+        "nutrients": ["Vitamin A", "Vitamin C", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Mangosteen",
+        "scientific_name": "Garcinia mangostana",
+        "color": "Purple",
+        "taste": "Sweet and tangy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Antioxidants", "Dietary Fiber"]
+    },
+    {
+        "fruit_name": "Pepino Melon",
+        "scientific_name": "Solanum muricatum",
+        "color": "Yellow with purple stripes",
+        "taste": "Sweet and slightly tangy",
+        "origin": "South America",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Potassium"]
+    },
+    {
+        "fruit_name": "Rambutan",
+        "scientific_name": "Nephelium lappaceum",
+        "color": "Red with spiky green exterior",
+        "taste": "Sweet and juicy",
+        "origin": "Southeast Asia",
+        "nutrients": ["Vitamin C", "Dietary Fiber", "Antioxidants"]
+    }
+]
