@@ -1,0 +1,501 @@
+{
+  "readings": [
+    {
+      "location": "Paris",
+      "temperature": 20,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Miami",
+      "temperature": 75,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Berlin",
+      "temperature": 15,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Moscow",
+      "temperature": 273,
+      "unit": "Kelvin"
+    },
+    {
+      "location": "Tokyo",
+      "temperature": 22,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Sydney",
+      "temperature": 28,
+      "unit": "Celsius"
+    },
+    {
+      "location": "London",
+      "temperature": 10,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Dubai",
+      "temperature": 30,
+      "unit": "Celsius"
+    },
+    {
+      "location": "New York",
+      "temperature": 50,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Beijing",
+      "temperature": 5,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Los Angeles",
+      "temperature": 68,
+      "unit": "Fahrenheit"
+    }
+  ]
+}
+{
+  "readings": [
+    {
+      "location": "Paris",
+      "temperature": 20,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Miami",
+      "temperature": 75,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Berlin",
+      "temperature": 15,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Moscow",
+      "temperature": 273,
+      "unit": "Kelvin"
+    },
+    {
+      "location": "Tokyo",
+      "temperature": 22,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Sydney",
+      "temperature": 28,
+      "unit": "Celsius"
+    },
+    {
+      "location": "London",
+      "temperature": 10,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Dubai",
+      "temperature": 30,
+      "unit": "Celsius"
+    },
+    {
+      "location": "New York",
+      "temperature": 50,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Beijing",
+      "temperature": 5,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Los Angeles",
+      "temperature": 68,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Rome",
+      "temperature": 18,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Toronto",
+      "temperature": 40,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Mumbai",
+      "temperature": 32,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Chicago",
+      "temperature": 45,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Madrid",
+      "temperature": 17,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Seoul",
+      "temperature": 3,
+      "unit": "Celsius"
+    },
+    {
+      "location": "San Francisco",
+      "temperature": 60,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Shanghai",
+      "temperature": 8,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Boston",
+      "temperature": 48,
+      "unit": "Fahrenheit"
+    }
+  ]
+}
+{
+  "readings": [
+    {
+      "location": "Paris",
+      "temperature": 20,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Miami",
+      "temperature": 75,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Berlin",
+      "temperature": 15,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Moscow",
+      "temperature": 273,
+      "unit": "Kelvin"
+    },
+    {
+      "location": "Tokyo",
+      "temperature": 22,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Sydney",
+      "temperature": 28,
+      "unit": "Celsius"
+    },
+    {
+      "location": "London",
+      "temperature": 10,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Dubai",
+      "temperature": 30,
+      "unit": "Celsius"
+    },
+    {
+      "location": "New York",
+      "temperature": 50,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Beijing",
+      "temperature": 5,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Los Angeles",
+      "temperature": 68,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Rome",
+      "temperature": 18,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Toronto",
+      "temperature": 40,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Mumbai",
+      "temperature": 32,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Chicago",
+      "temperature": 45,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Madrid",
+      "temperature": 17,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Seoul",
+      "temperature": 3,
+      "unit": "Celsius"
+    },
+    {
+      "location": "San Francisco",
+      "temperature": 60,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Shanghai",
+      "temperature": 8,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Boston",
+      "temperature": 48,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Amsterdam",
+      "temperature": 12,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Mexico City",
+      "temperature": 22,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Osaka",
+      "temperature": 19,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Houston",
+      "temperature": 55,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Stockholm",
+      "temperature": 6,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Lisbon",
+      "temperature": 16,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Dallas",
+      "temperature": 50,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Hong Kong",
+      "temperature": 24,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Denver",
+      "temperature": 40,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Athens",
+      "temperature": 14,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Atlanta",
+      "temperature": 52,
+      "unit": "Fahrenheit"
+    }
+  ]
+}
+{
+  "readings": [
+    {
+      "location": "Paris",
+      "temperature": 20,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Miami",
+      "temperature": 75,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Berlin",
+      "temperature": 15,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Moscow",
+      "temperature": 273,
+      "unit": "Kelvin"
+    },
+    {
+      "location": "Tokyo",
+      "temperature": 22,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Sydney",
+      "temperature": 28,
+      "unit": "Celsius"
+    },
+    {
+      "location": "London",
+      "temperature": 10,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Dubai",
+      "temperature": 30,
+      "unit": "Celsius"
+    },
+    {
+      "location": "New York",
+      "temperature": 50,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Beijing",
+      "temperature": 5,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Los Angeles",
+      "temperature": 68,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Rome",
+      "temperature": 18,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Toronto",
+      "temperature": 40,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Mumbai",
+      "temperature": 32,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Chicago",
+      "temperature": 45,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Madrid",
+      "temperature": 17,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Seoul",
+      "temperature": 3,
+      "unit": "Celsius"
+    },
+    {
+      "location": "San Francisco",
+      "temperature": 60,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Shanghai",
+      "temperature": 8,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Boston",
+      "temperature": 48,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Amsterdam",
+      "temperature": 12,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Mexico City",
+      "temperature": 22,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Osaka",
+      "temperature": 19,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Houston",
+      "temperature": 55,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Stockholm",
+      "temperature": 6,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Lisbon",
+      "temperature": 16,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Dallas",
+      "temperature": 50,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Hong Kong",
+      "temperature": 24,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Denver",
+      "temperature": 40,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Athens",
+      "temperature": 14,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Atlanta",
+      "temperature": 52,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Dublin",
+      "temperature": 11,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Vancouver",
+      "temperature": 37,
+      "unit": "Fahrenheit"
+    },
+    {
+      "location": "Brussels",
+      "temperature": 13,
+      "unit": "Celsius"
+    },
+    {
+      "location": "Phoenix",
+      "temperature": 63,
+      "unit": "Fahrenheit"
+    }
+  ]
+}
