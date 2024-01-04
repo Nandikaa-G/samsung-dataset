@@ -1,0 +1,15 @@
+{
+  "movie_data": [
+    {"title": "Inception", "genre": "Sci-Fi", "release_year": 2010, "rating": 8.8, "box_office": 829895144},
+    {"title": "The Shawshank Redemption", "genre": "Drama", "release_year": 1994, "rating": 9.3, "box_office": 58500000},
+    {"title": "The Dark Knight", "genre": "Action", "release_year": 2008, "rating": 9.0, "box_office": 1004934033},
+    {"title": "Pulp Fiction", "genre": "Crime", "release_year": 1994, "rating": 8.9, "box_office": 213928762},
+    {"title": "Forrest Gump", "genre": "Drama", "release_year": 1994, "rating": 8.8, "box_office": 678226805},
+    {"title": "The Godfather", "genre": "Crime", "release_year": 1972, "rating": 9.2, "box_office": 246120986},
+    {"title": "The Matrix", "genre": "Action", "release_year": 1999, "rating": 8.7, "box_office": 463517383},
+    {"title": "Titanic", "genre": "Romance", "release_year": 1997, "rating": 7.8, "box_office": 2208208395},
+    {"title": "Avatar", "genre": "Sci-Fi", "release_year": 2009, "rating": 7.8, "box_office": 2847246203},
+    {"title": "Inglourious Basterds", "genre": "War", "release_year": 2009, "rating": 8.3, "box_office": 321455689}
+  ],
+ 
+}
