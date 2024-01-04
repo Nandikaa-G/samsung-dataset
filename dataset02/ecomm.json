@@ -1,0 +1,13 @@
+{"ecommerce_product_data": [
+    {"product_name": "Laptop", "category": "Electronics", "price": 1200, "customer_rating": 4.5, "availability": true},
+    {"product_name": "Running Shoes", "category": "Footwear", "price": 80, "customer_rating": 4.2, "availability": true},
+    {"product_name": "Coffee Maker", "category": "Appliances", "price": 60, "customer_rating": 4.0, "availability": false},
+    {"product_name": "Backpack", "category": "Fashion", "price": 40, "customer_rating": 4.8, "availability": true},
+    {"product_name": "Smartwatch", "category": "Electronics", "price": 150, "customer_rating": 4.6, "availability": true},
+    {"product_name": "Kitchen Blender", "category": "Appliances", "price": 90, "customer_rating": 4.1, "availability": true},
+    {"product_name": "Gaming Chair", "category": "Furniture", "price": 200, "customer_rating": 4.7, "availability": true},
+    {"product_name": "T-shirt", "category": "Fashion", "price": 20, "customer_rating": 4.3, "availability": true},
+    {"product_name": "External Hard Drive", "category": "Electronics", "price": 80, "customer_rating": 4.4, "availability": false},
+    {"product_name": "Portable Speaker", "category": "Electronics", "price": 50, "customer_rating": 4.2, "availability": true}
+  ],
+}
