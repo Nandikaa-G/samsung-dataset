@@ -1,0 +1,24 @@
+{
+  "education_data": [
+    {"school_name": "Harvard University", "enrollment": 23125, "average_gpa": 3.9, "graduation_rate": 96, "faculty-to-student_ratio": "7:1"},
+    {"school_name": "Stanford University", "enrollment": 16958, "average_gpa": 3.85, "graduation_rate": 94, "faculty-to-student_ratio": "6:1"},
+    {"school_name": "Massachusetts Institute of Technology (MIT)", "enrollment": 11574, "average_gpa": 3.95, "graduation_rate": 95, "faculty-to-student_ratio": "8:1"},
+    {"school_name": "University of Oxford", "enrollment": 23100, "average_gpa": 3.8, "graduation_rate": 98, "faculty-to-student_ratio": "9:1"},
+    {"school_name": "California Institute of Technology (Caltech)", "enrollment": 2255, "average_gpa": 3.92, "graduation_rate": 99, "faculty-to-student_ratio": "3:1"},
+    {"school_name": "Princeton University", "enrollment": 8273, "average_gpa": 3.88, "graduation_rate": 97, "faculty-to-student_ratio": "5:1"},
+    {"school_name": "University of Cambridge", "enrollment": 19350, "average_gpa": 3.82, "graduation_rate": 97, "faculty-to-student_ratio": "10:1"},
+    {"school_name": "Yale University", "enrollment": 13667, "average_gpa": 3.87, "graduation_rate": 95, "faculty-to-student_ratio": "7:1"},
+    {"school_name": "ETH Zurich - Swiss Federal Institute of Technology", "enrollment": 21000, "average_gpa": 3.91, "graduation_rate": 94, "faculty-to-student_ratio": "11:1"},
+    {"school_name": "University of Chicago", "enrollment": 17421, "average_gpa": 3.84, "graduation_rate": 93, "faculty-to-student_ratio": "6:1"},
+    {"school_name": "Columbia University", "enrollment": 31190, "average_gpa": 3.86, "graduation_rate": 95, "faculty-to-student_ratio": "8:1"},
+    {"school_name": "University of California, Berkeley", "enrollment": 42315, "average_gpa": 3.78, "graduation_rate": 91, "faculty-to-student_ratio": "18:1"},
+    {"school_name": "London School of Economics and Political Science", "enrollment": 10685, "average_gpa": 3.75, "graduation_rate": 92, "faculty-to-student_ratio": "12:1"},
+    {"school_name": "University of Tokyo", "enrollment": 28000, "average_gpa": 3.88, "graduation_rate": 94, "faculty-to-student_ratio": "9:1"},
+    {"school_name": "University of Melbourne", "enrollment": 50650, "average_gpa": 3.79, "graduation_rate": 96, "faculty-to-student_ratio": "14:1"},
+    {"school_name": "ETH Zurich - Swiss Federal Institute of Technology", "enrollment": 21000, "average_gpa": 3.91, "graduation_rate": 94, "faculty-to-student_ratio": "11:1"},
+    {"school_name": "National University of Singapore", "enrollment": 31225, "average_gpa": 3.83, "graduation_rate": 93, "faculty-to-student_ratio": "15:1"},
+    {"school_name": "University of Toronto", "enrollment": 71685, "average_gpa": 3.76, "graduation_rate": 90, "faculty-to-student_ratio": "16:1"},
+    {"school_name": "University of Sydney", "enrollment": 42900, "average_gpa": 3.80, "graduation_rate": 94, "faculty-to-student_ratio": "13:1"}
+  ],
+  "summary": "This expanded educational performance dataset encompasses an array of global institutions. 'Harvard University' remains a benchmark with 23,125 enrollments, an impressive average GPA of 3.9, a graduation rate of 96%, and a faculty-to-student ratio of 7:1. 'Stanford University' follows closely with 16,958 enrollments, an average GPA of 3.85, a graduation rate of 94%, and a favorable faculty-to-student ratio of 6:1. 'MIT' excels in academics with a high average GPA of 3.95, a graduation rate of 95%, and a faculty-to-student ratio of 8:1. 'University of Oxford' boasts a large enrollment of 23,100, a slightly lower average GPA of 3.8, an impressive graduation rate of 98%, and a faculty-to-student ratio of 9:1. 'Caltech' stands out with a small enrollment of 2,255, a stellar average GPA of 3.92, a near-perfect graduation rate of 99%, and an exceptionally low faculty-to-student ratio of 3:1. 'Princeton University,' 'University of Cambridge,' 'Yale University,' and other institutions contribute to the global academic landscape, showcasing diverse enrollment figures, average GPAs, graduation rates, and faculty-to-student ratios."
+}
