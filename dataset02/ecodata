@@ -1,0 +1,15 @@
+{
+  "economic_data": [
+    {"country": "United States", "gdp": 21.43, "unemployment_rate": 3.8, "inflation_rate": 1.2, "export_partner": "China"},
+    {"country": "China", "gdp": 14.34, "unemployment_rate": 4.1, "inflation_rate": 2.5, "export_partner": "United States"},
+    {"country": "Germany", "gdp": 4.42, "unemployment_rate": 3.0, "inflation_rate": 1.6, "export_partner": "France"},
+    {"country": "India", "gdp": 2.87, "unemployment_rate": 6.1, "inflation_rate": 3.8, "export_partner": "United States"},
+    {"country": "Japan", "gdp": 5.15, "unemployment_rate": 2.8, "inflation_rate": 0.7, "export_partner": "China"},
+    {"country": "Brazil", "gdp": 1.48, "unemployment_rate": 11.0, "inflation_rate": 3.2, "export_partner": "United States"},
+    {"country": "United Kingdom", "gdp": 2.62, "unemployment_rate": 4.5, "inflation_rate": 1.9, "export_partner": "Germany"},
+    {"country": "Russia", "gdp": 1.70, "unemployment_rate": 4.7, "inflation_rate": 2.3, "export_partner": "China"},
+    {"country": "Canada", "gdp": 1.85, "unemployment_rate": 5.8, "inflation_rate": 1.5, "export_partner": "United States"},
+    {"country": "South Africa", "gdp": 0.34, "unemployment_rate": 27.6, "inflation_rate": 4.5, "export_partner": "China"}
+  ],
+  "summary": "This global economic dataset provides insights into key indicators for various countries. The 'United States' boasts the highest GDP at $21.43 trillion, a low unemployment rate of 3.8%, and a moderate inflation rate of 1.2%. China follows with a GDP of $14.34 trillion, an unemployment rate of 4.1%, and an inflation rate of 2.5%. Germany exhibits a GDP of $4.42 trillion, a low unemployment rate of 3.0%, and an inflation rate of 1.6%, with France as a primary export partner. India's GDP is $2.87 trillion, with a higher unemployment rate of 6.1% and a significant inflation rate of 3.8%. Japan, Brazil, the United Kingdom, Russia, Canada, and South Africa each contribute to the global economic landscape with unique GDPs, unemployment rates, inflation rates, and export partnerships, reflecting the diverse economic conditions across countries."
+}
