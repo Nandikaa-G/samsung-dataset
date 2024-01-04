@@ -1,0 +1,14 @@
+{
+  "environmental_data": [
+    {"region": "Amazon Rainforest", "temperature": 27, "rainfall": 2500, "deforestation_rate": 0.5},
+    {"region": "Arctic Circle", "temperature": -15, "ice_coverage": 80, "pollution_index": 2.5},
+    {"region": "Great Barrier Reef", "temperature": 29, "coral_coverage": 70, "bleaching_events": 3},
+    {"region": "Sahara Desert", "temperature": 38, "sandstorms_per_year": 50, "vegetation_cover": 5},
+    {"region": "Himalayan Mountains", "temperature": -5, "glacier_melt_rate": 0.3, "air_quality_index": 25},
+    {"region": "Pacific Ocean", "temperature": 20, "sea_level_rise": 3, "plastic_pollution": "Moderate"},
+    {"region": "Mediterranean Sea", "temperature": 23, "salinity": 38, "overfishing_pressure": "High"},
+    {"region": "African Savanna", "temperature": 30, "wildlife_diversity": "High", "drought_frequency": "Seasonal"},
+    {"region": "Australian Outback", "temperature": 35, "bushfire_occurrences": 150, "biodiversity_index": 4.8},
+    {"region": "Antarctica", "temperature": -50, "iceberg_calving_rate": 500, "ozone_depletion": "Low"}
+  ],
+}
