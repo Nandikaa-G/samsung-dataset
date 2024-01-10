@@ -1,0 +1,39 @@
+Computer Science Department:
+Top Enrolled Course: "Introduction to Computer Science" with 120 students.
+Highest Pass Rate: "Web Development" with a pass rate of 95%.
+Highest Average Grade: "Web Development" with an average grade of "A".
+Electrical Engineering Department:
+Top Enrolled Course: "Introduction to Electrical Engineering" with 110 students.
+Highest Pass Rate: "Renewable Energy" with a pass rate of 95%.
+Highest Average Grade: "Renewable Energy" with an average grade of "A".
+Fashion Technology Department:
+Top Enrolled Course: "Introduction to Fashion Design" with 80 students.
+Highest Pass Rate: "Fashion Marketing" with a pass rate of 94%.
+Highest Average Grade: "Fashion Marketing" with an average grade of "A".
+Mechanical Engineering Department:
+Top Enrolled Course: "Introduction to Mechanical Engineering" with 120 students.
+Highest Pass Rate: "Advanced Materials" with a pass rate of 93%.
+Highest Average Grade: "Advanced Materials" with an average grade of "A".
+Science and Mathematics Department:
+Top Enrolled Course: "Calculus I" with 120 students.
+Highest Pass Rate: "Introduction to Astronomy" with a pass rate of 94%.
+Highest Average Grade: "Introduction to Astronomy" with an average grade of "A".
+Humanities Department:
+Top Enrolled Course: "Film Studies" with 110 students.
+Highest Pass Rate: "Film Studies" with a pass rate of 92%.
+Highest Average Grade: "Introduction to Linguistics" with an average grade of "A-".
+Top Enrolled Course: "Introduction to Computer Science" in the Computer Science department with 120 students.
+
+Highest Pass Rate: "Renewable Energy" in the Electrical Engineering department with a pass rate of 95%.
+
+Highest Average Grade: "Web Development" in the Computer Science department with an average grade of "A".
+
+Top Enrolled Department: Computer Science with a total enrollment of 915 students.
+
+Department with the Highest Pass Rate: Electrical Engineering with an average pass rate of 90.5%.
+
+Department with the Highest Average Grade: Fashion Technology with an average grade of 90.2%.
+
+Overall Average Pass Rate: Approximately 90.2%.
+
+Overall Average Grade: Approximately "A-" (considering letter grades)

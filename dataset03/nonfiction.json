@@ -1,0 +1,482 @@
+[
+  {
+    "book_id": "NF001",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2014,
+    "genre": "History",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF002",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "publication_year": 2018,
+    "genre": "Memoir",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF003",
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "publication_year": 2010,
+    "genre": "Science",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF004",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "publication_year": 2011,
+    "genre": "Psychology",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF005",
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "publication_year": 2018,
+    "genre": "Autobiography",
+    "rating": 4.8
+  },
+  {
+    "book_id": "NF006",
+    "title": "Sapiens: Homo Deus",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2015,
+    "genre": "History",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF007",
+    "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+    "author": "Simon Singh",
+    "publication_year": 1999,
+    "genre": "Science",
+    "rating": 4.1
+  },
+  {
+    "book_id": "NF008",
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "publication_year": 2015,
+    "genre": "Biography",
+    "rating": 4.3
+  },
+  {
+    "book_id": "NF009",
+    "title": "Sapiens: 21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2018,
+    "genre": "History",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF010",
+    "title": "The Glass Castle",
+    "author": "Jeanette Walls",
+    "publication_year": 2005,
+    "genre": "Memoir",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF011",
+    "title": "Astrophysics for Young People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "publication_year": 2019,
+    "genre": "Science",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF012",
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "author": "Charles Duhigg",
+    "publication_year": 2012,
+    "genre": "Psychology",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF013",
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "publication_year": 1947,
+    "genre": "Biography",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF014",
+    "title": "Hillbilly Elegy",
+    "author": "J.D. Vance",
+    "publication_year": 2016,
+    "genre": "Sociology",
+    "rating": 4.1
+  },
+  {
+    "book_id": "NF015",
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "publication_year": 2016,
+    "genre": "Science",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF016",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "publication_year": 1946,
+    "genre": "Psychology",
+    "rating": 4.8
+  },
+  {
+    "book_id": "NF017",
+    "title": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
+    "author": "Erik Larson",
+    "publication_year": 2011,
+    "genre": "History",
+    "rating": 4.3
+  },
+  {
+    "book_id": "NF018",
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "publication_year": 2011,
+    "genre": "Biography",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF019",
+    "title": "The Sixth Extinction: An Unnatural History",
+    "author": "Elizabeth Kolbert",
+    "publication_year": 2014,
+    "genre": "Science",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF020",
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "publication_year": 2012,
+    "genre": "Psychology",
+    "rating": 4.7
+  },
+{
+    "book_id": "NF021",
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "publication_year": 1997,
+    "genre": "History",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF022",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "publication_year": 2018,
+    "genre": "Self-Help",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF023",
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "publication_year": 2014,
+    "genre": "Psychology",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF024",
+    "title": "The Immigrant Advantage",
+    "author": "Qanta Ahmed",
+    "publication_year": 2014,
+    "genre": "Sociology",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF025",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "publication_year": 1976,
+    "genre": "Science",
+    "rating": 4.3
+  },
+  {
+    "book_id": "NF026",
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "publication_year": 2016,
+    "genre": "Memoir",
+    "rating": 4.8
+  },
+  {
+    "book_id": "NF027",
+    "title": "The Art of Thinking Clearly",
+    "author": "Rolf Dobelli",
+    "publication_year": 2011,
+    "genre": "Philosophy",
+    "rating": 4.1
+  },
+  {
+    "book_id": "NF028",
+    "title": "Eating Animals",
+    "author": "Jonathan Safran Foer",
+    "publication_year": 2009,
+    "genre": "Ethics",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF029",
+    "title": "The Emperor of All Maladies",
+    "author": "Siddhartha Mukherjee",
+    "publication_year": 2010,
+    "genre": "Science",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF030",
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "publication_year": 1989,
+    "genre": "Self-Help",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF031",
+    "title": "The Glass Universe",
+    "author": "Dava Sobel",
+    "publication_year": 2016,
+    "genre": "History",
+    "rating": 4.3
+  },
+  {
+    "book_id": "NF032",
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "publication_year": 2006,
+    "genre": "Psychology",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF033",
+    "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
+    "author": "Jonathan Haidt",
+    "publication_year": 2012,
+    "genre": "Philosophy",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF034",
+    "title": "The Soul of an Octopus",
+    "author": "Sy Montgomery",
+    "publication_year": 2015,
+    "genre": "Science",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF035",
+    "title": "Educated: A Memoir",
+    "author": "Tara Westover",
+    "publication_year": 2018,
+    "genre": "Memoir",
+    "rating": 4.8
+  },
+  {
+    "book_id": "NF036",
+    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "author": "Matthew Walker",
+    "publication_year": 2017,
+    "genre": "Science",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF037",
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "publication_year": 1997,
+    "genre": "Self-Help",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF038",
+    "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    "author": "John Carreyrou",
+    "publication_year": 2018,
+    "genre": "Business",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF039",
+    "title": "The Black Swan: The Impact of the Highly Improbable",
+    "author": "Nassim Nicholas Taleb",
+    "publication_year": 2007,
+    "genre": "Philosophy",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF040",
+    "title": "The Brain That Changes Itself",
+    "author": "Norman Doidge",
+    "publication_year": 2007,
+    "genre": "Neuroscience",
+    "rating": 4.6
+  },
+ {
+    "book_id": "NF041",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2011,
+    "genre": "History",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF042",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "publication_year": 2011,
+    "genre": "Psychology",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF043",
+    "title": "Influence: The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "publication_year": 1984,
+    "genre": "Psychology",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF044",
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "publication_year": 2011,
+    "genre": "Business",
+    "rating": 4.3
+  },
+  {
+    "book_id": "NF045",
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "publication_year": 2012,
+    "genre": "Self-Help",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF046",
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "publication_year": 2012,
+    "genre": "Psychology",
+    "rating": 4.8
+  },
+  {
+    "book_id": "NF047",
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "author": "Steven D. Levitt, Stephen J. Dubner",
+    "publication_year": 2005,
+    "genre": "Economics",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF048",
+    "title": "Drive: The Surprising Truth About What Motivates Us",
+    "author": "Daniel H. Pink",
+    "publication_year": 2009,
+    "genre": "Psychology",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF049",
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "publication_year": 2015,
+    "genre": "Biography",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF050",
+    "title": "The Big Short: Inside the Doomsday Machine",
+    "author": "Michael Lewis",
+    "publication_year": 2010,
+    "genre": "Finance",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF051",
+    "title": "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+    "author": "Simon Sinek",
+    "publication_year": 2009,
+    "genre": "Business",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF052",
+    "title": "Homo Deus: A Brief History of Tomorrow",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2015,
+    "genre": "Philosophy",
+    "rating": 4.6
+  },
+  {
+    "book_id": "NF053",
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "publication_year": 1998,
+    "genre": "Self-Help",
+    "rating": 4.2
+  },
+  {
+    "book_id": "NF054",
+    "title": "Educated: A Memoir",
+    "author": "Tara Westover",
+    "publication_year": 2018,
+    "genre": "Memoir",
+    "rating": 4.8
+  },
+  {
+    "book_id": "NF055",
+    "title": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+    "author": "Walter Isaacson",
+    "publication_year": 2014,
+    "genre": "Technology",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF056",
+    "title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "author": "Peter Thiel",
+    "publication_year": 2014,
+    "genre": "Business",
+    "rating": 4.3
+  },
+  {
+    "book_id": "NF057",
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "publication_year": 2010,
+    "genre": "Science",
+    "rating": 4.7
+  },
+  {
+    "book_id": "NF058",
+    "title": "Outliers: The Story of Success",
+    "author": "Malcolm Gladwell",
+    "publication_year": 2008,
+    "genre": "Psychology",
+    "rating": 4.5
+  },
+  {
+    "book_id": "NF059",
+    "title": "The Sixth Extinction: An Unnatural History",
+    "author": "Elizabeth Kolbert",
+    "publication_year": 2014,
+    "genre": "Science",
+    "rating": 4.4
+  },
+  {
+    "book_id": "NF060",
+    "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+    "author": "Richard H. Thaler, Cass R. Sunstein",
+    "publication_year": 2008,
+    "genre": "Economics",
+    "rating": 4.6
+  }
+]

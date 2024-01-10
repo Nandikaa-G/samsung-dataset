@@ -1,0 +1,642 @@
+[
+  {
+    "course_code": "CS101",
+    "course_name": "Introduction to Computer Science",
+    "enrollment": 120,
+    "average_grade": "B",
+    "pass_rate": 85,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS201",
+    "course_name": "Data Structures and Algorithms",
+    "enrollment": 90,
+    "average_grade": "A-",
+    "pass_rate": 92,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS301",
+    "course_name": "Database Management Systems",
+    "enrollment": 80,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS401",
+    "course_name": "Software Engineering",
+    "enrollment": 75,
+    "average_grade": "A",
+    "pass_rate": 94,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS501",
+    "course_name": "Artificial Intelligence",
+    "enrollment": 60,
+    "average_grade": "A-",
+    "pass_rate": 90,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS601",
+    "course_name": "Machine Learning",
+    "enrollment": 50,
+    "average_grade": "B+",
+    "pass_rate": 86,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS701",
+    "course_name": "Computer Networks",
+    "enrollment": 70,
+    "average_grade": "B",
+    "pass_rate": 83,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS801",
+    "course_name": "Web Development",
+    "enrollment": 85,
+    "average_grade": "A",
+    "pass_rate": 95,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS901",
+    "course_name": "Operating Systems",
+    "enrollment": 65,
+    "average_grade": "B+",
+    "pass_rate": 89,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1001",
+    "course_name": "Computer Graphics",
+    "enrollment": 55,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1101",
+    "course_name": "Cybersecurity",
+    "enrollment": 75,
+    "average_grade": "A",
+    "pass_rate": 93,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1201",
+    "course_name": "Human-Computer Interaction",
+    "enrollment": 65,
+    "average_grade": "B",
+    "pass_rate": 87,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1301",
+    "course_name": "Big Data Analytics",
+    "enrollment": 80,
+    "average_grade": "A-",
+    "pass_rate": 92,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1401",
+    "course_name": "Cloud Computing",
+    "enrollment": 70,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1501",
+    "course_name": "Software Testing",
+    "enrollment": 45,
+    "average_grade": "A",
+    "pass_rate": 94,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1601",
+    "course_name": "Computer Ethics",
+    "enrollment": 55,
+    "average_grade": "A-",
+    "pass_rate": 90,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1701",
+    "course_name": "Mobile App Development",
+    "enrollment": 60,
+    "average_grade": "B",
+    "pass_rate": 86,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1801",
+    "course_name": "Robotics",
+    "enrollment": 50,
+    "average_grade": "B+",
+    "pass_rate": 89,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS1901",
+    "course_name": "Natural Language Processing",
+    "enrollment": 65,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Computer Science"
+  },
+  {
+    "course_code": "CS2001",
+    "course_name": "Computer Vision",
+    "enrollment": 40,
+    "average_grade": "B",
+    "pass_rate": 84,
+    "department": "Computer Science"
+  },
+{
+    "course_code": "EE101",
+    "course_name": "Introduction to Electrical Engineering",
+    "enrollment": 110,
+    "average_grade": "B",
+    "pass_rate": 82,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE201",
+    "course_name": "Circuit Analysis",
+    "enrollment": 95,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE301",
+    "course_name": "Electromagnetic Fields",
+    "enrollment": 85,
+    "average_grade": "A-",
+    "pass_rate": 90,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE401",
+    "course_name": "Digital Signal Processing",
+    "enrollment": 70,
+    "average_grade": "A",
+    "pass_rate": 94,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE501",
+    "course_name": "Power Systems",
+    "enrollment": 60,
+    "average_grade": "B+",
+    "pass_rate": 86,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE601",
+    "course_name": "Control Systems",
+    "enrollment": 75,
+    "average_grade": "A-",
+    "pass_rate": 92,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE701",
+    "course_name": "Renewable Energy",
+    "enrollment": 80,
+    "average_grade": "A",
+    "pass_rate": 95,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE801",
+    "course_name": "Communication Systems",
+    "enrollment": 65,
+    "average_grade": "B",
+    "pass_rate": 83,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE901",
+    "course_name": "Microelectronics",
+    "enrollment": 55,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1001",
+    "course_name": "Digital Control Systems",
+    "enrollment": 70,
+    "average_grade": "A",
+    "pass_rate": 93,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1101",
+    "course_name": "Electrical Machines",
+    "enrollment": 90,
+    "average_grade": "B",
+    "pass_rate": 85,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1201",
+    "course_name": "VLSI Design",
+    "enrollment": 80,
+    "average_grade": "A-",
+    "pass_rate": 89,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1301",
+    "course_name": "Power Electronics",
+    "enrollment": 75,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1401",
+    "course_name": "Wireless Communications",
+    "enrollment": 65,
+    "average_grade": "A",
+    "pass_rate": 94,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1501",
+    "course_name": "Optoelectronics",
+    "enrollment": 50,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1601",
+    "course_name": "Instrumentation and Measurements",
+    "enrollment": 55,
+    "average_grade": "B",
+    "pass_rate": 87,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1701",
+    "course_name": "Embedded Systems",
+    "enrollment": 60,
+    "average_grade": "B+",
+    "pass_rate": 89,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1801",
+    "course_name": "Power System Protection",
+    "enrollment": 45,
+    "average_grade": "A-",
+    "pass_rate": 90,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE1901",
+    "course_name": "Biomedical Instrumentation",
+    "enrollment": 55,
+    "average_grade": "B",
+    "pass_rate": 84,
+    "department": "Electrical Engineering"
+  },
+  {
+    "course_code": "EE2001",
+    "course_name": "Advanced Control Systems",
+    "enrollment": 40,
+    "average_grade": "B+",
+    "pass_rate": 86,
+    "department": "Electrical Engineering"
+  },
+ {
+    "course_code": "FT101",
+    "course_name": "Introduction to Fashion Design",
+    "enrollment": 80,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Fashion Technology"
+  },
+  {
+    "course_code": "FT201",
+    "course_name": "Textile Science",
+    "enrollment": 65,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Fashion Technology"
+  },
+  {
+    "course_code": "FT301",
+    "course_name": "Apparel Construction",
+    "enrollment": 70,
+    "average_grade": "A",
+    "pass_rate": 94,
+    "department": "Fashion Technology"
+  },
+  {
+    "course_code": "FT401",
+    "course_name": "Fashion Marketing",
+    "enrollment": 55,
+    "average_grade": "B",
+    "pass_rate": 83,
+    "department": "Fashion Technology"
+  },
+  {
+    "course_code": "FT501",
+    "course_name": "Fashion Technology Trends",
+    "enrollment": 75,
+    "average_grade": "A-",
+    "pass_rate": 89,
+    "department": "Fashion Technology"
+  },
+{
+    "course_code": "ME101",
+    "course_name": "Introduction to Mechanical Engineering",
+    "enrollment": 120,
+    "average_grade": "B",
+    "pass_rate": 85,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME201",
+    "course_name": "Fluid Mechanics",
+    "enrollment": 90,
+    "average_grade": "A-",
+    "pass_rate": 92,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME301",
+    "course_name": "Thermodynamics",
+    "enrollment": 105,
+    "average_grade": "A",
+    "pass_rate": 90,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME401",
+    "course_name": "Mechanical Design",
+    "enrollment": 80,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME501",
+    "course_name": "Control Systems",
+    "enrollment": 70,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME601",
+    "course_name": "Heat Transfer",
+    "enrollment": 95,
+    "average_grade": "B+",
+    "pass_rate": 87,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME701",
+    "course_name": "Machine Learning in Mechanical Engineering",
+    "enrollment": 50,
+    "average_grade": "B",
+    "pass_rate": 84,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME801",
+    "course_name": "Advanced Materials",
+    "enrollment": 60,
+    "average_grade": "A",
+    "pass_rate": 93,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME901",
+    "course_name": "Robotics and Automation",
+    "enrollment": 75,
+    "average_grade": "A-",
+    "pass_rate": 89,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "course_code": "ME1001",
+    "course_name": "Engineering Ethics",
+    "enrollment": 85,
+    "average_grade": "B+",
+    "pass_rate": 86,
+    "department": "Mechanical Engineering"
+  },
+{
+    "course_code": "SM101",
+    "course_name": "Calculus I",
+    "enrollment": 120,
+    "average_grade": "A",
+    "pass_rate": 92,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM201",
+    "course_name": "Physics for Scientists and Engineers",
+    "enrollment": 100,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM301",
+    "course_name": "Introduction to Biology",
+    "enrollment": 90,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM401",
+    "course_name": "Statistics for Scientists",
+    "enrollment": 80,
+    "average_grade": "B",
+    "pass_rate": 87,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM501",
+    "course_name": "Chemistry Fundamentals",
+    "enrollment": 70,
+    "average_grade": "A",
+    "pass_rate": 93,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM601",
+    "course_name": "Linear Algebra",
+    "enrollment": 95,
+    "average_grade": "A-",
+    "pass_rate": 89,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM701",
+    "course_name": "Differential Equations",
+    "enrollment": 50,
+    "average_grade": "B+",
+    "pass_rate": 86,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM801",
+    "course_name": "Environmental Science",
+    "enrollment": 60,
+    "average_grade": "B",
+    "pass_rate": 85,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM901",
+    "course_name": "Advanced Topics in Mathematics",
+    "enrollment": 75,
+    "average_grade": "A-",
+    "pass_rate": 90,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM1001",
+    "course_name": "Introduction to Astronomy",
+    "enrollment": 85,
+    "average_grade": "A",
+    "pass_rate": 94,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM1101",
+    "course_name": "Quantum Mechanics",
+    "enrollment": 65,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM1201",
+    "course_name": "Mathematical Modeling",
+    "enrollment": 55,
+    "average_grade": "B+",
+    "pass_rate": 88,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM1301",
+    "course_name": "Genetics and Evolution",
+    "enrollment": 110,
+    "average_grade": "B",
+    "pass_rate": 87,
+    "department": "Science and Mathematics"
+  },
+  {
+    "course_code": "SM1401",
+    "course_name": "Computational Physics",
+    "enrollment": 75,
+    "average_grade": "A-",
+    "pass_rate": 92,
+    "department": "Science and Mathematics"
+  },
+{
+    "course_code": "HU101",
+    "course_name": "Introduction to Literature",
+    "enrollment": 90,
+    "average_grade": "B",
+    "pass_rate": 88,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU201",
+    "course_name": "History of Art",
+    "enrollment": 80,
+    "average_grade": "B+",
+    "pass_rate": 87,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU301",
+    "course_name": "Philosophy of Ethics",
+    "enrollment": 70,
+    "average_grade": "A-",
+    "pass_rate": 89,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU401",
+    "course_name": "Cultural Anthropology",
+    "enrollment": 60,
+    "average_grade": "B",
+    "pass_rate": 86,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU501",
+    "course_name": "World Religions",
+    "enrollment": 75,
+    "average_grade": "A",
+    "pass_rate": 90,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU601",
+    "course_name": "Creative Writing",
+    "enrollment": 65,
+    "average_grade": "A-",
+    "pass_rate": 91,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU701",
+    "course_name": "Gender Studies",
+    "enrollment": 85,
+    "average_grade": "B+",
+    "pass_rate": 87,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU801",
+    "course_name": "Political Science",
+    "enrollment": 55,
+    "average_grade": "B",
+    "pass_rate": 88,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU901",
+    "course_name": "Introduction to Linguistics",
+    "enrollment": 95,
+    "average_grade": "A-",
+    "pass_rate": 89,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU1001",
+    "course_name": "Sociology of Culture",
+    "enrollment": 50,
+    "average_grade": "B+",
+    "pass_rate": 87,
+    "department": "Humanities"
+  },
+  {
+    "course_code": "HU1101",
+    "course_name": "Film Studies",
+    "enrollment": 110,
+    "average_grade": "A",
+    "pass_rate": 92,
+    "department": "Humanities"
+  }
+]
