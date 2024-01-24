@@ -1,0 +1,728 @@
+{
+  "countries": [
+    {
+      "name": "Canada",
+      "population": 38000000,
+      "capital": "Ottawa",
+      "continent": "North America",
+      "area_sq_km": 9976140,
+      "languages": ["English", "French"],
+      "currency": "Canadian Dollar",
+      "major_cities": ["Toronto", "Vancouver", "Montreal"]
+    },
+    {
+      "name": "Australia",
+      "population": 25000000,
+      "capital": "Canberra",
+      "continent": "Oceania",
+      "area_sq_km": 7692024,
+      "languages": ["English"],
+      "currency": "Australian Dollar",
+      "major_cities": ["Sydney", "Melbourne", "Brisbane"]
+    },
+    {
+      "name": "Germany",
+      "population": 83000000,
+      "capital": "Berlin",
+      "continent": "Europe",
+      "area_sq_km": 357022,
+      "languages": ["German"],
+      "currency": "Euro",
+      "major_cities": ["Munich", "Hamburg", "Frankfurt"]
+    },
+    {
+      "name": "South Korea",
+      "population": 51780579,
+      "capital": "Seoul",
+      "continent": "Asia",
+      "area_sq_km": 100210,
+      "languages": ["Korean"],
+      "currency": "South Korean Won",
+      "major_cities": ["Busan", "Incheon", "Daegu"]
+    },
+    {
+      "name": "Mexico",
+      "population": 126200000,
+      "capital": "Mexico City",
+      "continent": "North America",
+      "area_sq_km": 1964375,
+      "languages": ["Spanish"],
+      "currency": "Mexican Peso",
+      "major_cities": ["Guadalajara", "Monterrey", "Puebla"]
+    },
+    {
+      "name": "Nigeria",
+      "population": 206140000,
+      "capital": "Abuja",
+      "continent": "Africa",
+      "area_sq_km": 923768,
+      "languages": ["English"],
+      "currency": "Nigerian Naira",
+      "major_cities": ["Lagos", "Kano", "Ibadan"]
+    },
+    {
+      "name": "Saudi Arabia",
+      "population": 34927400,
+      "capital": "Riyadh",
+      "continent": "Asia",
+      "area_sq_km": 2149690,
+      "languages": ["Arabic"],
+      "currency": "Saudi Riyal",
+      "major_cities": ["Jeddah", "Mecca", "Medina"]
+    },
+    {
+      "name": "Argentina",
+      "population": 45195777,
+      "capital": "Buenos Aires",
+      "continent": "South America",
+      "area_sq_km": 2780400,
+      "languages": ["Spanish"],
+      "currency": "Argentine Peso",
+      "major_cities": ["Cordoba", "Rosario", "Mendoza"]
+    },
+    {
+      "name": "Indonesia",
+      "population": 273523621,
+      "capital": "Jakarta",
+      "continent": "Asia",
+      "area_sq_km": 1910931,
+      "languages": ["Indonesian"],
+      "currency": "Indonesian Rupiah",
+      "major_cities": ["Surabaya", "Bandung", "Medan"]
+    },
+    {
+      "name": "France",
+      "population": 67413000,
+      "capital": "Paris",
+      "continent": "Europe",
+      "area_sq_km": 551695,
+      "languages": ["French"],
+      "currency": "Euro",
+      "major_cities": ["Marseille", "Lyon", "Toulouse"]
+    }
+  ]
+}
+{
+  "countries": [
+    {
+      "name": "Kenya",
+      "population": 53770000,
+      "capital": "Nairobi",
+      "continent": "Africa",
+      "area_sq_km": 580367,
+      "languages": ["Swahili", "English"],
+      "currency": "Kenyan Shilling",
+      "major_cities": ["Mombasa", "Kisumu", "Eldoret"]
+    },
+    {
+      "name": "South Sudan",
+      "population": 11296300,
+      "capital": "Juba",
+      "continent": "Africa",
+      "area_sq_km": 619745,
+      "languages": ["English"],
+      "currency": "South Sudanese Pound",
+      "major_cities": ["Wau", "Malakal", "Bor"]
+    },
+    {
+      "name": "New Zealand",
+      "population": 5002100,
+      "capital": "Wellington",
+      "continent": "Oceania",
+      "area_sq_km": 270467,
+      "languages": ["English", "Māori"],
+      "currency": "New Zealand Dollar",
+      "major_cities": ["Auckland", "Christchurch", "Hamilton"]
+    },
+    {
+      "name": "Peru",
+      "population": 32824000,
+      "capital": "Lima",
+      "continent": "South America",
+      "area_sq_km": 1285216,
+      "languages": ["Spanish", "Quechua"],
+      "currency": "Peruvian Nuevo Sol",
+      "major_cities": ["Arequipa", "Trujillo", "Chiclayo"]
+    },
+    {
+      "name": "Vietnam",
+      "population": 97429000,
+      "capital": "Hanoi",
+      "continent": "Asia",
+      "area_sq_km": 331212,
+      "languages": ["Vietnamese"],
+      "currency": "Vietnamese đồng",
+      "major_cities": ["Ho Chi Minh City", "Hai Phong", "Da Nang"]
+    },
+    {
+      "name": "Greece",
+      "population": 10783000,
+      "capital": "Athens",
+      "continent": "Europe",
+      "area_sq_km": 131957,
+      "languages": ["Greek"],
+      "currency": "Euro",
+      "major_cities": ["Thessaloniki", "Patras", "Heraklion"]
+    },
+    {
+      "name": "Thailand",
+      "population": 69892000,
+      "capital": "Bangkok",
+      "continent": "Asia",
+      "area_sq_km": 513120,
+      "languages": ["Thai"],
+      "currency": "Thai Baht",
+      "major_cities": ["Chiang Mai", "Phuket", "Pattaya"]
+    },
+    {
+      "name": "Colombia",
+      "population": 50882891,
+      "capital": "Bogotá",
+      "continent": "South America",
+      "area_sq_km": 1141748,
+      "languages": ["Spanish"],
+      "currency": "Colombian Peso",
+      "major_cities": ["Medellín", "Cali", "Barranquilla"]
+    },
+    {
+      "name": "Morocco",
+      "population": 36708000,
+      "capital": "Rabat",
+      "continent": "Africa",
+      "area_sq_km": 446550,
+      "languages": ["Arabic", "Berber"],
+      "currency": "Moroccan Dirham",
+      "major_cities": ["Casablanca", "Marrakesh", "Fes"]
+    },
+    {
+      "name": "South Korea",
+      "population": 51780579,
+      "capital": "Seoul",
+      "continent": "Asia",
+      "area_sq_km": 100210,
+      "languages": ["Korean"],
+      "currency": "South Korean Won",
+      "major_cities": ["Busan", "Incheon", "Daegu"]
+    }
+  ]
+}
+{
+  "countries": [
+    {
+      "name": "Egypt",
+      "population": 104258327,
+      "capital": "Cairo",
+      "continent": "Africa",
+      "area_sq_km": 1002450,
+      "languages": ["Arabic"],
+      "currency": "Egyptian Pound",
+      "major_cities": ["Alexandria", "Giza", "Luxor"]
+    },
+    {
+      "name": "Norway",
+      "population": 5440000,
+      "capital": "Oslo",
+      "continent": "Europe",
+      "area_sq_km": 1487290,
+      "languages": ["Norwegian"],
+      "currency": "Norwegian Krone",
+      "major_cities": ["Bergen", "Trondheim", "Stavanger"]
+    },
+    {
+      "name": "Brazil",
+      "population": 212000000,
+      "capital": "Brasília",
+      "continent": "South America",
+      "area_sq_km": 8515767,
+      "languages": ["Portuguese"],
+      "currency": "Brazilian Real",
+      "major_cities": ["São Paulo", "Rio de Janeiro", "Salvador"]
+    },
+    {
+      "name": "Japan",
+      "population": 126500000,
+      "capital": "Tokyo",
+      "continent": "Asia",
+      "area_sq_km": 377975,
+      "languages": ["Japanese"],
+      "currency": "Japanese Yen",
+      "major_cities": ["Osaka", "Nagoya", "Fukuoka"]
+    },
+    {
+      "name": "Netherlands",
+      "population": 17430000,
+      "capital": "Amsterdam",
+      "continent": "Europe",
+      "area_sq_km": 41543,
+      "languages": ["Dutch"],
+      "currency": "Euro",
+      "major_cities": ["Rotterdam", "The Hague", "Utrecht"]
+    },
+    {
+      "name": "Chile",
+      "population": 19116000,
+      "capital": "Santiago",
+      "continent": "South America",
+      "area_sq_km": 756102,
+      "languages": ["Spanish"],
+      "currency": "Chilean Peso",
+      "major_cities": ["Valparaíso", "Concepción", "Antofagasta"]
+    },
+    {
+      "name": "South Africa",
+      "population": 60000000,
+      "capital": "Pretoria",
+      "continent": "Africa",
+      "area_sq_km": 1221037,
+      "languages": ["Afrikaans", "English", "Zulu"],
+      "currency": "South African Rand",
+      "major_cities": ["Johannesburg", "Cape Town", "Durban"]
+    },
+    {
+      "name": "Vietnam",
+      "population": 97429000,
+      "capital": "Hanoi",
+      "continent": "Asia",
+      "area_sq_km": 331212,
+      "languages": ["Vietnamese"],
+      "currency": "Vietnamese đồng",
+      "major_cities": ["Ho Chi Minh City", "Hai Phong", "Da Nang"]
+    },
+    {
+      "name": "Canada",
+      "population": 38000000,
+      "capital": "Ottawa",
+      "continent": "North America",
+      "area_sq_km": 9976140,
+      "languages": ["English", "French"],
+      "currency": "Canadian Dollar",
+      "major_cities": ["Toronto", "Vancouver", "Montreal"]
+    },
+    {
+      "name": "Ghana",
+      "population": 31072940,
+      "capital": "Accra",
+      "continent": "Africa",
+      "area_sq_km": 238535,
+      "languages": ["English"],
+      "currency": "Ghanaian Cedi",
+      "major_cities": ["Kumasi", "Tamale", "Sekondi-Takoradi"]
+    }
+  ]
+}
+{
+  "countries": [
+    {
+      "name": "Sweden",
+      "population": 10380000,
+      "capital": "Stockholm",
+      "continent": "Europe",
+      "area_sq_km": 450295,
+      "languages": ["Swedish"],
+      "currency": "Swedish Krona",
+      "major_cities": ["Gothenburg", "Malmö", "Uppsala"]
+    },
+    {
+      "name": "India",
+      "population": 1393000000,
+      "capital": "New Delhi",
+      "continent": "Asia",
+      "area_sq_km": 3287263,
+      "languages": ["Hindi", "English"],
+      "currency": "Indian Rupee",
+      "major_cities": ["Mumbai", "Bangalore", "Kolkata"]
+    },
+    {
+      "name": "Mexico",
+      "population": 126200000,
+      "capital": "Mexico City",
+      "continent": "North America",
+      "area_sq_km": 1964375,
+      "languages": ["Spanish"],
+      "currency": "Mexican Peso",
+      "major_cities": ["Guadalajara", "Monterrey", "Puebla"]
+    },
+    {
+      "name": "Morocco",
+      "population": 36708000,
+      "capital": "Rabat",
+      "continent": "Africa",
+      "area_sq_km": 446550,
+      "languages": ["Arabic", "Berber"],
+      "currency": "Moroccan Dirham",
+      "major_cities": ["Casablanca", "Marrakesh", "Fes"]
+    },
+    {
+      "name": "Japan",
+      "population": 126500000,
+      "capital": "Tokyo",
+      "continent": "Asia",
+      "area_sq_km": 377975,
+      "languages": ["Japanese"],
+      "currency": "Japanese Yen",
+      "major_cities": ["Osaka", "Nagoya", "Fukuoka"]
+    },
+    {
+      "name": "Argentina",
+      "population": 45195777,
+      "capital": "Buenos Aires",
+      "continent": "South America",
+      "area_sq_km": 2780400,
+      "languages": ["Spanish"],
+      "currency": "Argentine Peso",
+      "major_cities": ["Cordoba", "Rosario", "Mendoza"]
+    },
+    {
+      "name": "Nigeria",
+      "population": 206140000,
+      "capital": "Abuja",
+      "continent": "Africa",
+      "area_sq_km": 923768,
+      "languages": ["English"],
+      "currency": "Nigerian Naira",
+      "major_cities": ["Lagos", "Kano", "Ibadan"]
+    },
+    {
+      "name": "South Korea",
+      "population": 51780579,
+      "capital": "Seoul",
+      "continent": "Asia",
+      "area_sq_km": 100210,
+      "languages": ["Korean"],
+      "currency": "South Korean Won",
+      "major_cities": ["Busan", "Incheon", "Daegu"]
+    },
+    {
+      "name": "Kenya",
+      "population": 53770000,
+      "capital": "Nairobi",
+      "continent": "Africa",
+      "area_sq_km": 580367,
+      "languages": ["Swahili", "English"],
+      "currency": "Kenyan Shilling",
+      "major_cities": ["Mombasa", "Kisumu", "Eldoret"]
+    },
+    {
+      "name": "Russia",
+      "population": 145900000,
+      "capital": "Moscow",
+      "continent": "Europe",
+      "area_sq_km": 17098242,
+      "languages": ["Russian"],
+      "currency": "Russian Ruble",
+      "major_cities": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg"]
+    }
+  ]
+}
+{
+  "countries": [
+    {
+      "name": "Ireland",
+      "population": 4977400,
+      "capital": "Dublin",
+      "continent": "Europe",
+      "area_sq_km": 70273,
+      "languages": ["Irish", "English"],
+      "currency": "Euro",
+      "major_cities": ["Cork", "Galway", "Limerick"]
+    },
+    {
+      "name": "Brazil",
+      "population": 212000000,
+      "capital": "Brasília",
+      "continent": "South America",
+      "area_sq_km": 8515767,
+      "languages": ["Portuguese"],
+      "currency": "Brazilian Real",
+      "major_cities": ["São Paulo", "Rio de Janeiro", "Salvador"]
+    },
+    {
+      "name": "Thailand",
+      "population": 69892000,
+      "capital": "Bangkok",
+      "continent": "Asia",
+      "area_sq_km": 513120,
+      "languages": ["Thai"],
+      "currency": "Thai Baht",
+      "major_cities": ["Chiang Mai", "Phuket", "Pattaya"]
+    },
+    {
+      "name": "South Africa",
+      "population": 60000000,
+      "capital": "Pretoria",
+      "continent": "Africa",
+      "area_sq_km": 1221037,
+      "languages": ["Afrikaans", "English", "Zulu"],
+      "currency": "South African Rand",
+      "major_cities": ["Johannesburg", "Cape Town", "Durban"]
+    },
+    {
+      "name": "Italy",
+      "population": 60483973,
+      "capital": "Rome",
+      "continent": "Europe",
+      "area_sq_km": 301340,
+      "languages": ["Italian"],
+      "currency": "Euro",
+      "major_cities": ["Milan", "Naples", "Turin"]
+    },
+    {
+      "name": "Vietnam",
+      "population": 97429000,
+      "capital": "Hanoi",
+      "continent": "Asia",
+      "area_sq_km": 331212,
+      "languages": ["Vietnamese"],
+      "currency": "Vietnamese đồng",
+      "major_cities": ["Ho Chi Minh City", "Hai Phong", "Da Nang"]
+    },
+    {
+      "name": "Canada",
+      "population": 38000000,
+      "capital": "Ottawa",
+      "continent": "North America",
+      "area_sq_km": 9976140,
+      "languages": ["English", "French"],
+      "currency": "Canadian Dollar",
+      "major_cities": ["Toronto", "Vancouver", "Montreal"]
+    },
+    {
+      "name": "Pakistan",
+      "population": 225199937,
+      "capital": "Islamabad",
+      "continent": "Asia",
+      "area_sq_km": 881913,
+      "languages": ["Urdu", "English"],
+      "currency": "Pakistani Rupee",
+      "major_cities": ["Karachi", "Lahore", "Faisalabad"]
+    },
+    {
+      "name": "Peru",
+      "population": 32824000,
+      "capital": "Lima",
+      "continent": "South America",
+      "area_sq_km": 1285216,
+      "languages": ["Spanish", "Quechua"],
+      "currency": "Peruvian Nuevo Sol",
+      "major_cities": ["Arequipa", "Trujillo", "Chiclayo"]
+    },
+    {
+      "name": "Israel",
+      "population": 9186800,
+      "capital": "Jerusalem",
+      "continent": "Asia",
+      "area_sq_km": 20770,
+      "languages": ["Hebrew", "Arabic"],
+      "currency": "Israeli New Shekel",
+      "major_cities": ["Tel Aviv", "Haifa", "Rishon LeZion"]
+    }
+  ]
+}
+{
+  "countries": [
+    {
+      "name": "Spain",
+      "population": 47351567,
+      "capital": "Madrid",
+      "continent": "Europe",
+      "area_sq_km": 505990,
+      "languages": ["Spanish"],
+      "currency": "Euro",
+      "major_cities": ["Barcelona", "Valencia", "Seville"]
+    },
+    {
+      "name": "Iran",
+      "population": 83992949,
+      "capital": "Tehran",
+      "continent": "Asia",
+      "area_sq_km": 1648195,
+      "languages": ["Persian"],
+      "currency": "Iranian Rial",
+      "major_cities": ["Isfahan", "Shiraz", "Mashhad"]
+    },
+    {
+      "name": "Poland",
+      "population": 38386000,
+      "capital": "Warsaw",
+      "continent": "Europe",
+      "area_sq_km": 312696,
+      "languages": ["Polish"],
+      "currency": "Polish Złoty",
+      "major_cities": ["Krakow", "Lodz", "Wroclaw"]
+    },
+    {
+      "name": "Philippines",
+      "population": 113850000,
+      "capital": "Manila",
+      "continent": "Asia",
+      "area_sq_km": 300000,
+      "languages": ["Filipino", "English"],
+      "currency": "Philippine Peso",
+      "major_cities": ["Quezon City", "Cebu City", "Davao City"]
+    },
+    {
+      "name": "Sweden",
+      "population": 10380000,
+      "capital": "Stockholm",
+      "continent": "Europe",
+      "area_sq_km": 450295,
+      "languages": ["Swedish"],
+      "currency": "Swedish Krona",
+      "major_cities": ["Gothenburg", "Malmö", "Uppsala"]
+    },
+    {
+      "name": "Algeria",
+      "population": 40400000,
+      "capital": "Algiers",
+      "continent": "Africa",
+      "area_sq_km": 2381741,
+      "languages": ["Arabic", "Berber"],
+      "currency": "Algerian Dinar",
+      "major_cities": ["Oran", "Constantine", "Annaba"]
+    },
+    {
+      "name": "Ukraine",
+      "population": 41417900,
+      "capital": "Kyiv",
+      "continent": "Europe",
+      "area_sq_km": 603500,
+      "languages": ["Ukrainian"],
+      "currency": "Ukrainian Hryvnia",
+      "major_cities": ["Kharkiv", "Odesa", "Lviv"]
+    },
+    {
+      "name": "Kenya",
+      "population": 53770000,
+      "capital": "Nairobi",
+      "continent": "Africa",
+      "area_sq_km": 580367,
+      "languages": ["Swahili", "English"],
+      "currency": "Kenyan Shilling",
+      "major_cities": ["Mombasa", "Kisumu", "Eldoret"]
+    },
+    {
+      "name": "Colombia",
+      "population": 50882891,
+      "capital": "Bogotá",
+      "continent": "South America",
+      "area_sq_km": 1141748,
+      "languages": ["Spanish"],
+      "currency": "Colombian Peso",
+      "major_cities": ["Medellín", "Cali", "Barranquilla"]
+    },
+    {
+      "name": "Malaysia",
+      "population": 32365999,
+      "capital": "Kuala Lumpur",
+      "continent": "Asia",
+      "area_sq_km": 330803,
+      "languages": ["Malay"],
+      "currency": "Malaysian Ringgit",
+      "major_cities": ["George Town", "Johor Bahru", "Ipoh"]
+    }
+  ]
+}
+{
+  "countries": [
+    {
+      "name": "Netherlands",
+      "population": 17430000,
+      "capital": "Amsterdam",
+      "continent": "Europe",
+      "area_sq_km": 41543,
+      "languages": ["Dutch"],
+      "currency": "Euro",
+      "major_cities": ["Rotterdam", "The Hague", "Utrecht"]
+    },
+    {
+      "name": "Egypt",
+      "population": 104258327,
+      "capital": "Cairo",
+      "continent": "Africa",
+      "area_sq_km": 1002450,
+      "languages": ["Arabic"],
+      "currency": "Egyptian Pound",
+      "major_cities": ["Alexandria", "Giza", "Luxor"]
+    },
+    {
+      "name": "Norway",
+      "population": 5440000,
+      "capital": "Oslo",
+      "continent": "Europe",
+      "area_sq_km": 1487290,
+      "languages": ["Norwegian"],
+      "currency": "Norwegian Krone",
+      "major_cities": ["Bergen", "Trondheim", "Stavanger"]
+    },
+    {
+      "name": "Chile",
+      "population": 19116000,
+      "capital": "Santiago",
+      "continent": "South America",
+      "area_sq_km": 756102,
+      "languages": ["Spanish"],
+      "currency": "Chilean Peso",
+      "major_cities": ["Valparaíso", "Concepción", "Antofagasta"]
+    },
+    {
+      "name": "Ghana",
+      "population": 31072940,
+      "capital": "Accra",
+      "continent": "Africa",
+      "area_sq_km": 238535,
+      "languages": ["English"],
+      "currency": "Ghanaian Cedi",
+      "major_cities": ["Kumasi", "Tamale", "Sekondi-Takoradi"]
+    },
+    {
+      "name": "Iceland",
+      "population": 364260,
+      "capital": "Reykjavik",
+      "continent": "Europe",
+      "area_sq_km": 103000,
+      "languages": ["Icelandic"],
+      "currency": "Icelandic Króna",
+      "major_cities": ["Akureyri", "Hafnarfjörður", "Kópavogur"]
+    },
+    {
+      "name": "Saudi Arabia",
+      "population": 34927400,
+      "capital": "Riyadh",
+      "continent": "Asia",
+      "area_sq_km": 2149690,
+      "languages": ["Arabic"],
+      "currency": "Saudi Riyal",
+      "major_cities": ["Jeddah", "Mecca", "Medina"]
+    },
+    {
+      "name": "Kenya",
+      "population": 53770000,
+      "capital": "Nairobi",
+      "continent": "Africa",
+      "area_sq_km": 580367,
+      "languages": ["Swahili", "English"],
+      "currency": "Kenyan Shilling",
+      "major_cities": ["Mombasa", "Kisumu", "Eldoret"]
+    },
+    {
+      "name": "Indonesia",
+      "population": 273523621,
+      "capital": "Jakarta",
+      "continent": "Asia",
+      "area_sq_km": 1910931,
+      "languages": ["Indonesian"],
+      "currency": "Indonesian Rupiah",
+      "major_cities": ["Surabaya", "Bandung", "Medan"]
+    },
+    {
+      "name": "Argentina",
+      "population": 45195777,
+      "capital": "Buenos Aires",
+      "continent": "South America",
+      "area_sq_km": 2780400,
+      "languages": ["Spanish"],
+      "currency": "Argentine Peso",
+      "major_cities": ["Cordoba", "Rosario", "Mendoza"]
+    }
+  ]
+}
