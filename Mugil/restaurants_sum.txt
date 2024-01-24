@@ -1,0 +1,53 @@
+1.Number of Italian Cuisine Restaurants:
+Italian Restaurants:
+Pasta Paradise
+Pizza Palace
+Pasta Pronto
+Crepes & Co.
+Cheesy Crust
+Pasta Perfection
+Taste of Tuscany
+Number of Italian Cuisine Restaurants: 7
+
+2.Number of Restaurants with Rating Greater Than 4.5:
+Restaurants with Rating > 4.5:
+Sizzling Sushi
+Mediterranean Delight
+Spice Route
+Golden Wok
+BBQ Junction
+Seafood Sensations
+Greek Isles
+Pasta Paradise
+Steakhouse Supreme
+Brewed Bliss
+Dim Sum Delight
+Fisherman's Catch
+Steakhouse Elite
+Tandoori Tales
+Mediterranean Moods
+Sizzling Seoul
+Rustic Ristorante
+Churrasco Charm
+Wok & Roll
+Pasta Perfection
+Juice Junction
+Number of Restaurants with Rating Greater Than 4.5: 21
+
+3.Restaurants with Brewery Cuisine and Rating Above 4.5:
+Restaurants with Brewery Cuisine and Rating > 4.5:
+Brewed Bliss
+Restaurants with Brewery Cuisine and Rating Above 4.5: Brewed Bliss
+
+4.Identify the restaurants with a rating greater than 4.8 based on the provided data:
+There are 4 restaurants with a rating greater than 4.8:
+		Spice Route
+		Steakhouse Supreme
+		Brewed Bliss
+		Steakhouse Elite
+		
+5.Find no of vegan cuisines in laketown:
+To find the number of vegan cuisine restaurants in "Laketown," we need to scan through all the restaurant entries provided for "Laketown" and count the ones with a cuisine type labeled as "Vegan."
+Vegan Cuisines in Laketown:
+Vegan Vibes
+There is 1 vegan cuisine restaurant in Laketown, which is "Vegan Vibes."

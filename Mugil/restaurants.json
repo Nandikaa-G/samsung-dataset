@@ -1,0 +1,448 @@
+{
+  "restaurants": [
+    {
+      "name": "Bella Italia",
+      "location": "123 Main St, Cityville",
+      "cuisine": "Italian",
+      "rating": 4.5
+    },
+    {
+      "name": "Sizzling Sushi",
+      "location": "456 Elm St, Townsville",
+      "cuisine": "Japanese",
+      "rating": 4.7
+    },
+    {
+      "name": "Taco Haven",
+      "location": "789 Oak St, Villagetown",
+      "cuisine": "Mexican",
+      "rating": 4.3
+    },
+    {
+      "name": "Mediterranean Delight",
+      "location": "101 Pine St, Grovetown",
+      "cuisine": "Mediterranean",
+      "rating": 4.6
+    },
+    {
+      "name": "Burger Barn",
+      "location": "202 Maple St, Forestville",
+      "cuisine": "American",
+      "rating": 4.4
+    },
+    {
+      "name": "Spice Route",
+      "location": "303 Cedar St, Hilltown",
+      "cuisine": "Indian",
+      "rating": 4.8
+    },
+    {
+      "name": "Café Paris",
+      "location": "404 Birch St, Meadowville",
+      "cuisine": "French",
+      "rating": 4.5
+    },
+    {
+      "name": "Golden Wok",
+      "location": "505 Willow St, Valleytown",
+      "cuisine": "Chinese",
+      "rating": 4.6
+    },
+    {
+      "name": "BBQ Junction",
+      "location": "606 Spruce St, Riverside",
+      "cuisine": "Barbecue",
+      "rating": 4.7
+    },
+    {
+      "name": "Vegan Vibes",
+      "location": "707 Fern St, Laketown",
+      "cuisine": "Vegan",
+      "rating": 4.4
+    }
+  ]
+}
+{
+  "restaurants": [
+    {
+      "name": "Seafood Sensations",
+      "location": "808 Pine St, Beachville",
+      "cuisine": "Seafood",
+      "rating": 4.5
+    },
+    {
+      "name": "Greek Isles",
+      "location": "909 Olive St, Mountaintown",
+      "cuisine": "Greek",
+      "rating": 4.6
+    },
+    {
+      "name": "Tex-Mex Tavern",
+      "location": "1010 Walnut St, Desertville",
+      "cuisine": "Tex-Mex",
+      "rating": 4.3
+    },
+    {
+      "name": "Pasta Paradise",
+      "location": "1111 Cedar St, Riverdale",
+      "cuisine": "Italian",
+      "rating": 4.7
+    },
+    {
+      "name": "The Green Garden",
+      "location": "1212 Elm St, Fieldtown",
+      "cuisine": "Vegetarian",
+      "rating": 4.4
+    },
+    {
+      "name": "Steakhouse Supreme",
+      "location": "1313 Maple St, Hillside",
+      "cuisine": "Steakhouse",
+      "rating": 4.8
+    },
+    {
+      "name": "Bakery Bliss",
+      "location": "1414 Birch St, Meadowland",
+      "cuisine": "Bakery",
+      "rating": 4.5
+    },
+    {
+      "name": "Thai Terrace",
+      "location": "1515 Oak St, Summitville",
+      "cuisine": "Thai",
+      "rating": 4.6
+    },
+    {
+      "name": "Smoothie Central",
+      "location": "1616 Willow St, Valleyland",
+      "cuisine": "Smoothies",
+      "rating": 4.7
+    },
+    {
+      "name": "Dessert Delight",
+      "location": "1717 Spruce St, Riverside",
+      "cuisine": "Desserts",
+      "rating": 4.4
+    }
+  ]
+}
+{
+  "restaurants": [
+    {
+      "name": "Cajun Corner",
+      "location": "1818 Pine St, Bayouville",
+      "cuisine": "Cajun",
+      "rating": 4.5
+    },
+    {
+      "name": "Bistro Belle",
+      "location": "1919 Olive St, Riverside",
+      "cuisine": "French",
+      "rating": 4.6
+    },
+    {
+      "name": "Gourmet Grills",
+      "location": "2020 Walnut St, Grilletown",
+      "cuisine": "Barbecue",
+      "rating": 4.3
+    },
+    {
+      "name": "Island Eats",
+      "location": "2121 Cedar St, Tropicville",
+      "cuisine": "Caribbean",
+      "rating": 4.7
+    },
+    {
+      "name": "Pizza Palace",
+      "location": "2222 Elm St, Pizzatown",
+      "cuisine": "Italian",
+      "rating": 4.4
+    },
+    {
+      "name": "Brewed Bliss",
+      "location": "2323 Maple St, Brewville",
+      "cuisine": "Brewery",
+      "rating": 4.8
+    },
+    {
+      "name": "Pastry Piazza",
+      "location": "2424 Birch St, Pastrieville",
+      "cuisine": "Pastries",
+      "rating": 4.5
+    },
+    {
+      "name": "Sushi Symphony",
+      "location": "2525 Oak St, Harmonytown",
+      "cuisine": "Japanese",
+      "rating": 4.6
+    },
+    {
+      "name": "Veggie Ventures",
+      "location": "2626 Willow St, Greenfield",
+      "cuisine": "Vegetarian",
+      "rating": 4.7
+    },
+    {
+      "name": "Milkshake Manor",
+      "location": "2727 Spruce St, Shakeville",
+      "cuisine": "Desserts",
+      "rating": 4.4
+    }
+  ]
+}
+{
+  "restaurants": [
+    {
+      "name": "Tandoori Tales",
+      "location": "2828 Pine St, Spiceville",
+      "cuisine": "Indian",
+      "rating": 4.6
+    },
+    {
+      "name": "Mediterranean Moods",
+      "location": "2929 Olive St, Oasisville",
+      "cuisine": "Mediterranean",
+      "rating": 4.5
+    },
+    {
+      "name": "Burger Bliss",
+      "location": "3030 Walnut St, Pattytown",
+      "cuisine": "American",
+      "rating": 4.7
+    },
+    {
+      "name": "Dim Sum Delight",
+      "location": "3131 Cedar St, Dumplingdale",
+      "cuisine": "Chinese",
+      "rating": 4.8
+    },
+    {
+      "name": "Pasta Pronto",
+      "location": "3232 Elm St, Noodletown",
+      "cuisine": "Italian",
+      "rating": 4.4
+    },
+    {
+      "name": "Fisherman's Catch",
+      "location": "3333 Maple St, Seaside",
+      "cuisine": "Seafood",
+      "rating": 4.6
+    },
+    {
+      "name": "Garden Greens",
+      "location": "3434 Birch St, Leafyville",
+      "cuisine": "Vegetarian",
+      "rating": 4.5
+    },
+    {
+      "name": "Tasty Tacos",
+      "location": "3535 Oak St, Salsatown",
+      "cuisine": "Mexican",
+      "rating": 4.7
+    },
+    {
+      "name": "Steakhouse Elite",
+      "location": "3636 Willow St, Ribeye Ridge",
+      "cuisine": "Steakhouse",
+      "rating": 4.8
+    },
+    {
+      "name": "Crepes & Co.",
+      "location": "3737 Spruce St, Pancake Plaza",
+      "cuisine": "French",
+      "rating": 4.6
+    }
+  ]
+}
+{
+  "restaurants": [
+    {
+      "name": "Sizzling Seoul",
+      "location": "3838 Pine St, Kimchitown",
+      "cuisine": "Korean",
+      "rating": 4.7
+    },
+    {
+      "name": "Rustic Ristorante",
+      "location": "3939 Olive St, Tuscanville",
+      "cuisine": "Italian",
+      "rating": 4.6
+    },
+    {
+      "name": "Café Canela",
+      "location": "4040 Walnut St, Latteville",
+      "cuisine": "Café & Bakery",
+      "rating": 4.5
+    },
+    {
+      "name": "Piquant Pita",
+      "location": "4141 Cedar St, Hummustown",
+      "cuisine": "Middle Eastern",
+      "rating": 4.7
+    },
+    {
+      "name": "Bountiful Bowls",
+      "location": "4242 Elm St, Grainville",
+      "cuisine": "Healthy",
+      "rating": 4.6
+    },
+    {
+      "name": "Deli Delight",
+      "location": "4343 Maple St, Sandwich City",
+      "cuisine": "Deli",
+      "rating": 4.5
+    },
+    {
+      "name": "Tropical Treats",
+      "location": "4444 Birch St, Islandia",
+      "cuisine": "Caribbean",
+      "rating": 4.7
+    },
+    {
+      "name": "Pie Paradise",
+      "location": "4545 Oak St, Crustville",
+      "cuisine": "Desserts",
+      "rating": 4.6
+    },
+    {
+      "name": "Churrasco Charm",
+      "location": "4646 Willow St, Grilltopia",
+      "cuisine": "Brazilian",
+      "rating": 4.8
+    },
+    {
+      "name": "Wok & Roll",
+      "location": "4747 Spruce St, Stirfryville",
+      "cuisine": "Asian",
+      "rating": 4.6
+    }
+  ]
+}
+{
+  "restaurants": [
+    {
+      "name": "Noodle Nook",
+      "location": "4848 Pine St, Ramen City",
+      "cuisine": "Japanese",
+      "rating": 4.7
+    },
+    {
+      "name": "Cheesy Crust",
+      "location": "4949 Olive St, Mozzarellatown",
+      "cuisine": "Pizza",
+      "rating": 4.6
+    },
+    {
+      "name": "Fusion Flavors",
+      "location": "5050 Walnut St, Mixville",
+      "cuisine": "Global Fusion",
+      "rating": 4.5
+    },
+    {
+      "name": "Mango Tango",
+      "location": "5151 Cedar St, Fruitland",
+      "cuisine": "Tropical",
+      "rating": 4.7
+    },
+    {
+      "name": "Gourmet Grains",
+      "location": "5252 Elm St, Quinoaville",
+      "cuisine": "Health Food",
+      "rating": 4.6
+    },
+    {
+      "name": "Brewed Bites",
+      "location": "5353 Maple St, Brewtown",
+      "cuisine": "Coffee & Snacks",
+      "rating": 4.5
+    },
+    {
+      "name": "Spicy Salsa",
+      "location": "5454 Birch St, Chilitown",
+      "cuisine": "Mexican",
+      "rating": 4.7
+    },
+    {
+      "name": "Sweet Symphony",
+      "location": "5555 Oak St, Dessertland",
+      "cuisine": "Sweets",
+      "rating": 4.6
+    },
+    {
+      "name": "Savory Skewers",
+      "location": "5656 Willow St, Kabobville",
+      "cuisine": "Mediterranean",
+      "rating": 4.8
+    },
+    {
+      "name": "Roll & Bowl",
+      "location": "5757 Spruce St, Sushiville",
+      "cuisine": "Japanese",
+      "rating": 4.6
+    }
+  ]
+}
+{
+  "restaurants": [
+    {
+      "name": "Pasta Perfection",
+      "location": "5858 Pine St, Alfredoville",
+      "cuisine": "Italian",
+      "rating": 4.7
+    },
+    {
+      "name": "Bistro Basics",
+      "location": "5959 Olive St, Frenchville",
+      "cuisine": "French",
+      "rating": 4.6
+    },
+    {
+      "name": "Breakfast Bliss",
+      "location": "6060 Walnut St, Mornington",
+      "cuisine": "Breakfast",
+      "rating": 4.5
+    },
+    {
+      "name": "Crispy Crunch",
+      "location": "6161 Cedar St, Chipville",
+      "cuisine": "American",
+      "rating": 4.7
+    },
+    {
+      "name": "Doughnut Delight",
+      "location": "6262 Elm St, Donutown",
+      "cuisine": "Desserts",
+      "rating": 4.6
+    },
+    {
+      "name": "Taste of Tuscany",
+      "location": "6363 Maple St, Tuscania",
+      "cuisine": "Italian",
+      "rating": 4.5
+    },
+    {
+      "name": "Grill & Chill",
+      "location": "6464 Birch St, BBQville",
+      "cuisine": "Barbecue",
+      "rating": 4.7
+    },
+    {
+      "name": "Mediterranean Munchies",
+      "location": "6565 Oak St, Mediterra",
+      "cuisine": "Mediterranean",
+      "rating": 4.6
+    },
+    {
+      "name": "Juice Junction",
+      "location": "6666 Willow St, Smoothieville",
+      "cuisine": "Juices & Smoothies",
+      "rating": 4.8
+    },
+    {
+      "name": "Tasty Tidbits",
+      "location": "6767 Spruce St, Appetizerville",
+      "cuisine": "Small Bites",
+      "rating": 4.6
+    }
+  ]
+}
