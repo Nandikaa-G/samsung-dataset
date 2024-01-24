@@ -1,0 +1,452 @@
+[
+  {
+    "energy_source": "Solar",
+    "capacity": 5000,
+    "unit": "MW",
+    "location": "California, USA",
+    "status": "Operational",
+    "commissioned_date": "2022-03-15"
+  },
+  {
+    "energy_source": "Wind",
+    "capacity": 3000,
+    "unit": "MW",
+    "location": "Texas, USA",
+    "status": "Under Construction",
+    "expected_completion_date": "2023-06-30"
+  },
+  {
+    "energy_source": "Hydroelectric",
+    "capacity": 1500,
+    "unit": "MW",
+    "location": "Amazon Basin, Brazil",
+    "status": "Operational",
+    "commissioned_date": "2021-09-20"
+  },
+  {
+    "energy_source": "Natural Gas",
+    "capacity": 2000,
+    "unit": "MW",
+    "location": "Qatar",
+    "status": "Operational",
+    "commissioned_date": "2020-05-10"
+  },
+  {
+    "energy_source": "Nuclear",
+    "capacity": 1200,
+    "unit": "MW",
+    "location": "France",
+    "status": "Operational",
+    "commissioned_date": "2019-12-01"
+  }
+]
+[
+  {
+    "energy_source": "Geothermal",
+    "capacity": 800,
+    "unit": "MW",
+    "location": "Iceland",
+    "status": "Operational",
+    "commissioned_date": "2020-08-18"
+  },
+  {
+    "energy_source": "Biomass",
+    "capacity": 300,
+    "unit": "MW",
+    "location": "Sweden",
+    "status": "Planned",
+    "expected_completion_date": "2024-12-31"
+  },
+  {
+    "energy_source": "Tidal",
+    "capacity": 50,
+    "unit": "MW",
+    "location": "Bay of Fundy, Canada",
+    "status": "Under Development",
+    "expected_completion_date": "2025-04-15"
+  },
+  {
+    "energy_source": "Coal",
+    "capacity": 1200,
+    "unit": "MW",
+    "location": "India",
+    "status": "Operational",
+    "commissioned_date": "2018-06-25"
+  },
+  {
+    "energy_source": "Wave",
+    "capacity": 75,
+    "unit": "MW",
+    "location": "Portugal",
+    "status": "Testing",
+    "expected_completion_date": "2023-02-28"
+  },
+  {
+    "energy_source": "Hybrid (Solar-Wind)",
+    "capacity": 1500,
+    "unit": "MW",
+    "location": "Australia",
+    "status": "Under Construction",
+    "expected_completion_date": "2023-09-30"
+  },
+  {
+    "energy_source": "Oil",
+    "capacity": 400,
+    "unit": "MW",
+    "location": "Saudi Arabia",
+    "status": "Operational",
+    "commissioned_date": "2019-04-12"
+  },
+  {
+    "energy_source": "Municipal Solid Waste",
+    "capacity": 100,
+    "unit": "MW",
+    "location": "Japan",
+    "status": "Operational",
+    "commissioned_date": "2020-11-22"
+  },
+  {
+    "energy_source": "Hyrdo Pumped Storage",
+    "capacity": 600,
+    "unit": "MW",
+    "location": "Switzerland",
+    "status": "Operational",
+    "commissioned_date": "2021-07-10"
+  },
+  {
+    "energy_source": "Fuel Cell",
+    "capacity": 25,
+    "unit": "MW",
+    "location": "South Korea",
+    "status": "Planned",
+    "expected_completion_date": "2025-06-15"
+  }
+]
+[
+  {
+    "energy_source": "Solar",
+    "capacity": 4500,
+    "unit": "MW",
+    "location": "Arizona, USA",
+    "status": "Operational",
+    "commissioned_date": "2021-12-10"
+  },
+  {
+    "energy_source": "Wind",
+    "capacity": 2800,
+    "unit": "MW",
+    "location": "Germany",
+    "status": "Operational",
+    "commissioned_date": "2020-07-05"
+  },
+  {
+    "energy_source": "Hydroelectric",
+    "capacity": 1800,
+    "unit": "MW",
+    "location": "Norway",
+    "status": "Planned",
+    "expected_completion_date": "2023-11-30"
+  },
+  {
+    "energy_source": "Natural Gas",
+    "capacity": 2300,
+    "unit": "MW",
+    "location": "Russia",
+    "status": "Under Construction",
+    "expected_completion_date": "2022-09-15"
+  },
+  {
+    "energy_source": "Nuclear",
+    "capacity": 1300,
+    "unit": "MW",
+    "location": "China",
+    "status": "Operational",
+    "commissioned_date": "2019-11-18"
+  },
+  {
+    "energy_source": "Geothermal",
+    "capacity": 850,
+    "unit": "MW",
+    "location": "New Zealand",
+    "status": "Operational",
+    "commissioned_date": "2020-04-22"
+  },
+  {
+    "energy_source": "Biomass",
+    "capacity": 500,
+    "unit": "MW",
+    "location": "Canada",
+    "status": "Planned",
+    "expected_completion_date": "2024-08-20"
+  },
+  {
+    "energy_source": "Tidal",
+    "capacity": 75,
+    "unit": "MW",
+    "location": "South Korea",
+    "status": "Testing",
+    "expected_completion_date": "2023-04-05"
+  },
+  {
+    "energy_source": "Coal",
+    "capacity": 1100,
+    "unit": "MW",
+    "location": "Poland",
+    "status": "Operational",
+    "commissioned_date": "2018-03-12"
+  },
+  {
+    "energy_source": "Wave",
+    "capacity": 90,
+    "unit": "MW",
+    "location": "Portugal",
+    "status": "Under Development",
+    "expected_completion_date": "2025-01-15"
+  }
+]
+[
+  {
+    "energy_source": "Hybrid (Solar-Wind)",
+    "capacity": 1200,
+    "unit": "MW",
+    "location": "India",
+    "status": "Under Construction",
+    "expected_completion_date": "2023-10-25"
+  },
+  {
+    "energy_source": "Oil",
+    "capacity": 600,
+    "unit": "MW",
+    "location": "United Arab Emirates",
+    "status": "Operational",
+    "commissioned_date": "2019-05-18"
+  },
+  {
+    "energy_source": "Municipal Solid Waste",
+    "capacity": 150,
+    "unit": "MW",
+    "location": "Sweden",
+    "status": "Operational",
+    "commissioned_date": "2020-12-03"
+  },
+  {
+    "energy_source": "Hyrdo Pumped Storage",
+    "capacity": 750,
+    "unit": "MW",
+    "location": "Switzerland",
+    "status": "Planned",
+    "expected_completion_date": "2024-07-15"
+  },
+  {
+    "energy_source": "Fuel Cell",
+    "capacity": 35,
+    "unit": "MW",
+    "location": "South Africa",
+    "status": "Testing",
+    "expected_completion_date": "2022-03-08"
+  },
+  {
+    "energy_source": "Geothermal",
+    "capacity": 950,
+    "unit": "MW",
+    "location": "Japan",
+    "status": "Operational",
+    "commissioned_date": "2021-06-20"
+  },
+  {
+    "energy_source": "Biomass",
+    "capacity": 200,
+    "unit": "MW",
+    "location": "Finland",
+    "status": "Under Development",
+    "expected_completion_date": "2025-05-12"
+  },
+  {
+    "energy_source": "Tidal",
+    "capacity": 40,
+    "unit": "MW",
+    "location": "France",
+    "status": "Operational",
+    "commissioned_date": "2018-10-30"
+  },
+  {
+    "energy_source": "Coal",
+    "capacity": 900,
+    "unit": "MW",
+    "location": "Brazil",
+    "status": "Planned",
+    "expected_completion_date": "2023-08-05"
+  },
+  {
+    "energy_source": "Wave",
+    "capacity": 120,
+    "unit": "MW",
+    "location": "Australia",
+    "status": "Testing",
+    "expected_completion_date": "2024-02-18"
+  }
+]
+[
+  {
+    "energy_source": "Solar",
+    "capacity": 4200,
+    "unit": "MW",
+    "location": "Spain",
+    "status": "Operational",
+    "commissioned_date": "2022-01-12"
+  },
+  {
+    "energy_source": "Wind",
+    "capacity": 2600,
+    "unit": "MW",
+    "location": "Netherlands",
+    "status": "Under Development",
+    "expected_completion_date": "2023-09-01"
+  },
+  {
+    "energy_source": "Hydroelectric",
+    "capacity": 1700,
+    "unit": "MW",
+    "location": "Canada",
+    "status": "Operational",
+    "commissioned_date": "2021-05-20"
+  },
+  {
+    "energy_source": "Natural Gas",
+    "capacity": 2100,
+    "unit": "MW",
+    "location": "United States",
+    "status": "Under Construction",
+    "expected_completion_date": "2022-12-15"
+  },
+  {
+    "energy_source": "Nuclear",
+    "capacity": 1250,
+    "unit": "MW",
+    "location": "United Kingdom",
+    "status": "Operational",
+    "commissioned_date": "2019-10-08"
+  },
+  {
+    "energy_source": "Geothermal",
+    "capacity": 900,
+    "unit": "MW",
+    "location": "Philippines",
+    "status": "Operational",
+    "commissioned_date": "2020-11-25"
+  },
+  {
+    "energy_source": "Biomass",
+    "capacity": 450,
+    "unit": "MW",
+    "location": "Germany",
+    "status": "Planned",
+    "expected_completion_date": "2024-06-10"
+  },
+  {
+    "energy_source": "Tidal",
+    "capacity": 60,
+    "unit": "MW",
+    "location": "South Africa",
+    "status": "Under Development",
+    "expected_completion_date": "2025-03-20"
+  },
+  {
+    "energy_source": "Coal",
+    "capacity": 1150,
+    "unit": "MW",
+    "location": "China",
+    "status": "Operational",
+    "commissioned_date": "2018-04-05"
+  },
+  {
+    "energy_source": "Wave",
+    "capacity": 80,
+    "unit": "MW",
+    "location": "Ireland",
+    "status": "Planned",
+    "expected_completion_date": "2023-07-18"
+  }
+]
+[
+  {
+    "energy_source": "Hybrid (Solar-Wind)",
+    "capacity": 1100,
+    "unit": "MW",
+    "location": "Mexico",
+    "status": "Under Construction",
+    "expected_completion_date": "2023-11-30"
+  },
+  {
+    "energy_source": "Oil",
+    "capacity": 750,
+    "unit": "MW",
+    "location": "Nigeria",
+    "status": "Operational",
+    "commissioned_date": "2019-06-22"
+  },
+  {
+    "energy_source": "Municipal Solid Waste",
+    "capacity": 120,
+    "unit": "MW",
+    "location": "France",
+    "status": "Testing",
+    "expected_completion_date": "2022-04-15"
+  },
+  {
+    "energy_source": "Hyrdo Pumped Storage",
+    "capacity": 850,
+    "unit": "MW",
+    "location": "Brazil",
+    "status": "Planned",
+    "expected_completion_date": "2024-08-31"
+  },
+  {
+    "energy_source": "Fuel Cell",
+    "capacity": 40,
+    "unit": "MW",
+    "location": "Australia",
+    "status": "Under Development",
+    "expected_completion_date": "2023-02-15"
+  },
+  {
+    "energy_source": "Geothermal",
+    "capacity": 1000,
+    "unit": "MW",
+    "location": "Kenya",
+    "status": "Operational",
+    "commissioned_date": "2021-07-05"
+  },
+  {
+    "energy_source": "Biomass",
+    "capacity": 250,
+    "unit": "MW",
+    "location": "Italy",
+    "status": "Operational",
+    "commissioned_date": "2020-12-18"
+  },
+  {
+    "energy_source": "Tidal",
+    "capacity": 45,
+    "unit": "MW",
+    "location": "South Korea",
+    "status": "Planned",
+    "expected_completion_date": "2025-09-10"
+  },
+  {
+    "energy_source": "Coal",
+    "capacity": 950,
+    "unit": "MW",
+    "location": "Indonesia",
+    "status": "Operational",
+    "commissioned_date": "2018-10-25"
+  },
+  {
+    "energy_source": "Wave",
+    "capacity": 100,
+    "unit": "MW",
+    "location": "Portugal",
+    "status": "Under Development",
+    "expected_completion_date": "2024-05-01"
+  }
+]
