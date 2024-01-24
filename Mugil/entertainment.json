@@ -1,0 +1,591 @@
+{
+  "entertainment_data": [
+    {
+      "title": "The Great Gatsby",
+      "genre": "Drama",
+      "release_date": "2013-05-10",
+      "director": "Baz Luhrmann",
+      "actors": ["Leonardo DiCaprio", "Carey Mulligan", "Tobey Maguire"],
+      "rating": 7.2
+    },
+    {
+      "title": "Stranger Things",
+      "genre": "Science Fiction",
+      "release_date": "2016-07-15",
+      "creators": ["Matt Duffer", "Ross Duffer"],
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "rating": 8.7
+    },
+    {
+      "title": "Black Panther",
+      "genre": "Action",
+      "release_date": "2018-02-16",
+      "director": "Ryan Coogler",
+      "cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+      "rating": 7.3
+    },
+    {
+      "title": "Game of Thrones",
+      "genre": "Fantasy",
+      "release_date": "2011-04-17",
+      "creators": ["David Benioff", "D. B. Weiss"],
+      "cast": ["Emilia Clarke", "Kit Harington", "Peter Dinklage"],
+      "rating": 9.3
+    },
+    {
+      "title": "La La Land",
+      "genre": "Musical",
+      "release_date": "2016-12-09",
+      "director": "Damien Chazelle",
+      "actors": ["Ryan Gosling", "Emma Stone", "John Legend"],
+      "rating": 8.0
+    },
+    {
+      "title": "The Mandalorian",
+      "genre": "Science Fiction",
+      "release_date": "2019-11-12",
+      "creators": ["Jon Favreau"],
+      "cast": ["Pedro Pascal", "Gina Carano", "Carl Weathers"],
+      "rating": 8.8
+    },
+    {
+      "title": "Joker",
+      "genre": "Crime",
+      "release_date": "2019-10-04",
+      "director": "Todd Phillips",
+      "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+      "rating": 8.4
+    },
+    {
+      "title": "Stray Kids - God's Menu",
+      "genre": "Music Video",
+      "release_date": "2020-06-17",
+      "artist": "Stray Kids",
+      "rating": 9.5
+    },
+    {
+      "title": "The Witcher",
+      "genre": "Fantasy",
+      "release_date": "2019-12-20",
+      "creator": "Lauren Schmidt Hissrich",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "rating": 8.2
+    },
+    {
+      "title": "Avengers: Endgame",
+      "genre": "Action",
+      "release_date": "2019-04-26",
+      "directors": ["Anthony Russo", "Joe Russo"],
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+      "rating": 8.4
+    }
+    // Add more entertainment entries as needed
+  ]
+}
+{
+  "entertainment_data": [
+    {
+      "title": "Inception",
+      "genre": "Science Fiction",
+      "release_date": "2010-07-16",
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "rating": 8.8
+    },
+    {
+      "title": "The Crown",
+      "genre": "Drama",
+      "release_date": "2016-11-04",
+      "creators": ["Peter Morgan"],
+      "cast": ["Claire Foy", "Matt Smith", "Olivia Colman"],
+      "rating": 8.6
+    },
+    {
+      "title": "Coco",
+      "genre": "Animation",
+      "release_date": "2017-11-22",
+      "directors": ["Lee Unkrich", "Adrian Molina"],
+      "voice_cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"],
+      "rating": 8.4
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Crime",
+      "release_date": "2008-01-20",
+      "creator": "Vince Gilligan",
+      "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+      "rating": 9.5
+    },
+    {
+      "title": "Hamilton",
+      "genre": "Musical",
+      "release_date": "2020-07-03",
+      "creator": "Lin-Manuel Miranda",
+      "cast": ["Lin-Manuel Miranda", "Leslie Odom Jr.", "Phillipa Soo"],
+      "rating": 8.4
+    },
+    {
+      "title": "Sherlock",
+      "genre": "Crime",
+      "release_date": "2010-07-25",
+      "creators": ["Mark Gatiss", "Steven Moffat"],
+      "cast": ["Benedict Cumberbatch", "Martin Freeman", "Mark Gatiss"],
+      "rating": 9.1
+    },
+    {
+      "title": "Soul",
+      "genre": "Animation",
+      "release_date": "2020-12-25",
+      "directors": ["Pete Docter", "Kemp Powers"],
+      "voice_cast": ["Jamie Foxx", "Tina Fey", "Graham Norton"],
+      "rating": 8.1
+    },
+    {
+      "title": "The Mandalorian Season 2",
+      "genre": "Science Fiction",
+      "release_date": "2020-10-30",
+      "creators": ["Jon Favreau"],
+      "cast": ["Pedro Pascal", "Gina Carano", "Carl Weathers"],
+      "rating": 9.0
+    },
+    {
+      "title": "The Irishman",
+      "genre": "Crime",
+      "release_date": "2019-11-01",
+      "director": "Martin Scorsese",
+      "actors": ["Robert De Niro", "Al Pacino", "Joe Pesci"],
+      "rating": 7.9
+    },
+    {
+      "title": "Stray Kids - Back Door",
+      "genre": "Music Video",
+      "release_date": "2020-09-14",
+      "artist": "Stray Kids",
+      "rating": 9.6
+    }
+    // Add more entertainment entries as needed
+  ]
+}
+{
+  "entertainment_data": [
+    {
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "release_date": "2008-07-18",
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "rating": 9.0
+    },
+    {
+      "title": "Stranger Things Season 3",
+      "genre": "Science Fiction",
+      "release_date": "2019-07-04",
+      "creators": ["Matt Duffer", "Ross Duffer"],
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "rating": 8.8
+    },
+    {
+      "title": "Frozen II",
+      "genre": "Animation",
+      "release_date": "2019-11-22",
+      "directors": ["Chris Buck", "Jennifer Lee"],
+      "voice_cast": ["Idina Menzel", "Kristen Bell", "Josh Gad"],
+      "rating": 6.9
+    },
+    {
+      "title": "Westworld",
+      "genre": "Science Fiction",
+      "release_date": "2016-10-02",
+      "creators": ["Jonathan Nolan", "Lisa Joy"],
+      "cast": ["Evan Rachel Wood", "Jeffrey Wright", "Thandie Newton"],
+      "rating": 8.6
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "genre": "Biography",
+      "release_date": "2018-11-02",
+      "director": "Bryan Singer",
+      "actors": ["Rami Malek", "Lucy Boynton", "Gwilym Lee"],
+      "rating": 8.0
+    },
+    {
+      "title": "The Witcher Season 2",
+      "genre": "Fantasy",
+      "release_date": "2021-12-17",
+      "creator": "Lauren Schmidt Hissrich",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "rating": 8.5
+    },
+    {
+      "title": "Criminal Minds",
+      "genre": "Crime",
+      "release_date": "2005-09-22",
+      "creators": ["Jeff Davis"],
+      "cast": ["Matthew Gray Gubler", "Kirsten Vangsness", "A.J. Cook"],
+      "rating": 8.1
+    },
+    {
+      "title": "Raya and the Last Dragon",
+      "genre": "Animation",
+      "release_date": "2021-03-05",
+      "directors": ["Don Hall", "Carlos López Estrada"],
+      "voice_cast": ["Kelly Marie Tran", "Awkwafina", "Gemma Chan"],
+      "rating": 7.4
+    },
+    {
+      "title": "Money Heist",
+      "genre": "Crime",
+      "release_date": "2017-05-02",
+      "creator": "Álex Pina",
+      "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+      "rating": 8.3
+    },
+    {
+      "title": "BTS - Dynamite",
+      "genre": "Music Video",
+      "release_date": "2020-08-21",
+      "artist": "BTS",
+      "rating": 9.7
+    }
+    // Add more entertainment entries as needed
+  ]
+}
+{
+  "entertainment_data": [
+    {
+      "title": "The Matrix",
+      "genre": "Science Fiction",
+      "release_date": "1999-03-31",
+      "directors": ["The Wachowskis"],
+      "actors": ["Keanu Reeves", "Carrie-Anne Moss", "Laurence Fishburne"],
+      "rating": 8.7
+    },
+    {
+      "title": "The Office",
+      "genre": "Comedy",
+      "release_date": "2005-03-24",
+      "creators": ["Greg Daniels"],
+      "cast": ["Steve Carell", "Rainn Wilson", "John Krasinski"],
+      "rating": 8.9
+    },
+    {
+      "title": "Toy Story 4",
+      "genre": "Animation",
+      "release_date": "2019-06-21",
+      "directors": ["Josh Cooley"],
+      "voice_cast": ["Tom Hanks", "Tim Allen", "Annie Potts"],
+      "rating": 7.8
+    },
+    {
+      "title": "The Mandalorian Season 3",
+      "genre": "Science Fiction",
+      "release_date": "2022-12-31",
+      "creators": ["Jon Favreau"],
+      "cast": ["Pedro Pascal", "Gina Carano", "Carl Weathers"],
+      "rating": 9.1
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows – Part 2",
+      "genre": "Fantasy",
+      "release_date": "2011-07-15",
+      "director": "David Yates",
+      "actors": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"],
+      "rating": 8.1
+    },
+    {
+      "title": "Fleabag",
+      "genre": "Comedy",
+      "release_date": "2016-07-21",
+      "creator": "Phoebe Waller-Bridge",
+      "cast": ["Phoebe Waller-Bridge", "Sian Clifford", "Olivia Colman"],
+      "rating": 8.7
+    },
+    {
+      "title": "Shrek",
+      "genre": "Animation",
+      "release_date": "2001-04-22",
+      "directors": ["Andrew Adamson", "Vicky Jenson"],
+      "voice_cast": ["Mike Myers", "Eddie Murphy", "Cameron Diaz"],
+      "rating": 7.8
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "genre": "Comedy",
+      "release_date": "2014-03-06",
+      "director": "Wes Anderson",
+      "actors": ["Ralph Fiennes", "Tony Revolori", "Adrien Brody"],
+      "rating": 8.1
+    },
+    {
+      "title": "The Umbrella Academy",
+      "genre": "Action",
+      "release_date": "2019-02-15",
+      "creator": "Steve Blackman",
+      "cast": ["Ellen Page", "Tom Hopper", "David Castañeda"],
+      "rating": 8.0
+    },
+    {
+      "title": "Adele - Hello",
+      "genre": "Music Video",
+      "release_date": "2015-10-23",
+      "artist": "Adele",
+      "rating": 9.2
+    }
+    // Add more entertainment entries as needed
+  ]
+}
+{
+  "entertainment_data": [
+    {
+      "title": "Jurassic Park",
+      "genre": "Adventure",
+      "release_date": "1993-06-11",
+      "director": "Steven Spielberg",
+      "actors": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+      "rating": 8.1
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Crime",
+      "release_date": "2008-01-20",
+      "creator": "Vince Gilligan",
+      "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+      "rating": 9.5
+    },
+    {
+      "title": "Coco",
+      "genre": "Animation",
+      "release_date": "2017-11-22",
+      "directors": ["Lee Unkrich", "Adrian Molina"],
+      "voice_cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"],
+      "rating": 8.4
+    },
+    {
+      "title": "Friends",
+      "genre": "Comedy",
+      "release_date": "1994-09-22",
+      "creators": ["David Crane", "Marta Kauffman"],
+      "cast": ["Jennifer Aniston", "Courteney Cox", "Lisa Kudrow"],
+      "rating": 8.9
+    },
+    {
+      "title": "The Lion King",
+      "genre": "Animation",
+      "release_date": "1994-06-24",
+      "directors": ["Roger Allers", "Rob Minkoff"],
+      "voice_cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+      "rating": 8.5
+    },
+    {
+      "title": "The Witcher Season 2",
+      "genre": "Fantasy",
+      "release_date": "2021-12-17",
+      "creator": "Lauren Schmidt Hissrich",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "rating": 8.5
+    },
+    {
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "release_date": "1994-10-14",
+      "director": "Quentin Tarantino",
+      "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "rating": 8.9
+    },
+    {
+      "title": "Avatar",
+      "genre": "Action",
+      "release_date": "2009-12-18",
+      "director": "James Cameron",
+      "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "rating": 7.8
+    },
+    {
+      "title": "The Simpsons",
+      "genre": "Animation",
+      "release_date": "1989-12-17",
+      "creator": "Matt Groening",
+      "cast": ["Dan Castellaneta", "Julie Kavner", "Nancy Cartwright"],
+      "rating": 8.6
+    },
+    {
+      "title": "A Star is Born",
+      "genre": "Drama",
+      "release_date": "2018-10-05",
+      "director": "Bradley Cooper",
+      "actors": ["Lady Gaga", "Bradley Cooper", "Sam Elliott"],
+      "rating": 7.7
+    }
+    // Add more entertainment entries as needed
+  ]
+}
+{
+  "entertainment_data": [
+    {
+      "title": "Interstellar",
+      "genre": "Science Fiction",
+      "release_date": "2014-11-07",
+      "director": "Christopher Nolan",
+      "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "rating": 8.6
+    },
+    {
+      "title": "The Witcher Season 3",
+      "genre": "Fantasy",
+      "release_date": "TBD",
+      "creator": "Lauren Schmidt Hissrich",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "rating": 9.0
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "genre": "Action",
+      "release_date": "2021-12-17",
+      "directors": ["Jon Watts"],
+      "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
+      "rating": 8.5
+    },
+    {
+      "title": "The Crown Season 4",
+      "genre": "Drama",
+      "release_date": "2020-11-15",
+      "creators": ["Peter Morgan"],
+      "cast": ["Olivia Colman", "Tobias Menzies", "Emma Corrin"],
+      "rating": 8.7
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "genre": "Action",
+      "release_date": "2018-04-27",
+      "directors": ["Anthony Russo", "Joe Russo"],
+      "cast": ["Robert Downey Jr.", "Chris Hemsworth", "Scarlett Johansson"],
+      "rating": 8.4
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Crime",
+      "release_date": "2008-01-20",
+      "creator": "Vince Gilligan",
+      "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+      "rating": 9.5
+    },
+    {
+      "title": "The Mandalorian Season 4",
+      "genre": "Science Fiction",
+      "release_date": "TBD",
+      "creators": ["Jon Favreau"],
+      "cast": ["Pedro Pascal", "Gina Carano", "Carl Weathers"],
+      "rating": 9.2
+    },
+    {
+      "title": "WandaVision",
+      "genre": "Action",
+      "release_date": "2021-01-15",
+      "creators": ["Jac Schaeffer"],
+      "cast": ["Elizabeth Olsen", "Paul Bettany", "Kathryn Hahn"],
+      "rating": 8.0
+    },
+    {
+      "title": "Hamilton",
+      "genre": "Musical",
+      "release_date": "2020-07-03",
+      "creator": "Lin-Manuel Miranda",
+      "cast": ["Lin-Manuel Miranda", "Leslie Odom Jr.", "Phillipa Soo"],
+      "rating": 8.4
+    },
+    {
+      "title": "Squid Game",
+      "genre": "Drama",
+      "release_date": "2021-09-17",
+      "creator": "Hwang Dong-hyuk",
+      "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
+      "rating": 8.3
+    }
+    // Add more entertainment entries as needed
+  ]
+}
+{
+  "entertainment_data": [
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "genre": "Fantasy",
+      "release_date": "2004-06-04",
+      "director": "Alfonso Cuarón",
+      "actors": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"],
+      "rating": 7.9
+    },
+    {
+      "title": "The Queen's Gambit",
+      "genre": "Drama",
+      "release_date": "2020-10-23",
+      "creator": "Scott Frank",
+      "cast": ["Anya Taylor-Joy", "Bill Camp", "Marielle Heller"],
+      "rating": 8.6
+    },
+    {
+      "title": "Cruella",
+      "genre": "Crime",
+      "release_date": "2021-05-28",
+      "director": "Craig Gillespie",
+      "actors": ["Emma Stone", "Emma Thompson", "Joel Fry"],
+      "rating": 7.4
+    },
+    {
+      "title": "The Mandalorian Season 5",
+      "genre": "Science Fiction",
+      "release_date": "TBD",
+      "creators": ["Jon Favreau"],
+      "cast": ["Pedro Pascal", "Gina Carano", "Carl Weathers"],
+      "rating": 9.3
+    },
+    {
+      "title": "Stranger Things Season 4",
+      "genre": "Science Fiction",
+      "release_date": "TBD",
+      "creators": ["Matt Duffer", "Ross Duffer"],
+      "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+      "rating": 8.7
+    },
+    {
+      "title": "Jumanji: Welcome to the Jungle",
+      "genre": "Adventure",
+      "release_date": "2017-12-20",
+      "director": "Jake Kasdan",
+      "actors": ["Dwayne Johnson", "Kevin Hart", "Jack Black"],
+      "rating": 6.9
+    },
+    {
+      "title": "The Witcher Season 6",
+      "genre": "Fantasy",
+      "release_date": "TBD",
+      "creator": "Lauren Schmidt Hissrich",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+      "rating": 9.1
+    },
+    {
+      "title": "Mulan",
+      "genre": "Action",
+      "release_date": "2020-09-04",
+      "director": "Niki Caro",
+      "actors": ["Yifei Liu", "Donnie Yen", "Jet Li"],
+      "rating": 5.7
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "genre": "Comedy",
+      "release_date": "2013-09-17",
+      "creators": ["Michael Schur", "Dan Goor"],
+      "cast": ["Andy Samberg", "Terry Crews", "Stephanie Beatriz"],
+      "rating": 8.4
+    },
+    {
+      "title": "Dune",
+      "genre": "Adventure",
+      "release_date": "2021-10-22",
+      "director": "Denis Villeneuve",
+      "actors": ["Timothée Chalamet", "Rebecca Ferguson", "Oscar Isaac"],
+      "rating": 8.5
+    }
+    // Add more entertainment entries as needed
+  ]
+}
