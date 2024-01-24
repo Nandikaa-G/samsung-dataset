@@ -1,0 +1,656 @@
+[
+  {
+    "vehicle_id": 1,
+    "type": "Bus",
+    "route": "A",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Station 1",
+    "passengers": 25,
+    "timestamp": "2024-01-24T10:30:00"
+  },
+  {
+    "vehicle_id": 2,
+    "type": "Train",
+    "route": "Express",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Station 2",
+    "passengers": 150,
+    "timestamp": "2024-01-24T10:45:00"
+  },
+  {
+    "vehicle_id": 3,
+    "type": "Taxi",
+    "route": "City",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Hotel 3",
+    "passengers": 1,
+    "timestamp": "2024-01-24T10:15:00"
+  }
+]
+[
+  {
+    "vehicle_id": 4,
+    "type": "Bicycle",
+    "route": "City Park",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Park Entrance",
+    "passengers": 1,
+    "timestamp": "2024-01-24T10:20:00"
+  },
+  {
+    "vehicle_id": 5,
+    "type": "Ferry",
+    "route": "Harbor Cruise",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Pier 5",
+    "passengers": 75,
+    "timestamp": "2024-01-24T10:35:00"
+  },
+  {
+    "vehicle_id": 6,
+    "type": "Car",
+    "route": "Highway 101",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Exit 15",
+    "passengers": 3,
+    "timestamp": "2024-01-24T10:50:00"
+  }
+]
+[
+  {
+    "vehicle_id": 7,
+    "type": "Scooter",
+    "route": "Downtown",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "City Center",
+    "passengers": 1,
+    "timestamp": "2024-01-24T11:05:00"
+  },
+  {
+    "vehicle_id": 8,
+    "type": "Tram",
+    "route": "Loop Line",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Station 3",
+    "passengers": 40,
+    "timestamp": "2024-01-24T11:20:00"
+  },
+  {
+    "vehicle_id": 9,
+    "type": "Monorail",
+    "route": "Skyway",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Terminal 2",
+    "passengers": 30,
+    "timestamp": "2024-01-24T11:35:00"
+  },
+  {
+    "vehicle_id": 10,
+    "type": "Electric Scooter",
+    "route": "Park Trail",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Nature Reserve",
+    "passengers": 1,
+    "timestamp": "2024-01-24T11:50:00"
+  }
+]
+[
+  {
+    "vehicle_id": 11,
+    "type": "Ride-share",
+    "route": "City Circles",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Shopping District",
+    "passengers": 2,
+    "timestamp": "2024-01-24T12:05:00"
+  },
+  {
+    "vehicle_id": 12,
+    "type": "Pedestrian",
+    "route": "Pedestrian Zone",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Central Park",
+    "passengers": 1,
+    "timestamp": "2024-01-24T12:20:00"
+  },
+  {
+    "vehicle_id": 13,
+    "type": "Cable Car",
+    "route": "Hillside Line",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Viewpoint",
+    "passengers": 15,
+    "timestamp": "2024-01-24T12:35:00"
+  },
+  {
+    "vehicle_id": 14,
+    "type": "Hyperloop",
+    "route": "High-Speed Loop",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Station 5",
+    "passengers": 100,
+    "timestamp": "2024-01-24T12:50:00"
+  },
+  {
+    "vehicle_id": 15,
+    "type": "Electric Bike",
+    "route": "Greenway",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Riverfront",
+    "passengers": 1,
+    "timestamp": "2024-01-24T13:05:00"
+  }
+]
+[
+  {
+    "vehicle_id": 16,
+    "type": "Electric Skateboard",
+    "route": "City Streets",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Tech Hub",
+    "passengers": 1,
+    "timestamp": "2024-01-24T13:20:00"
+  },
+  {
+    "vehicle_id": 17,
+    "type": "Hot Air Balloon",
+    "route": "Sky Tour",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Landmark View",
+    "passengers": 4,
+    "timestamp": "2024-01-24T13:35:00"
+  },
+  {
+    "vehicle_id": 18,
+    "type": "Segway",
+    "route": "Historic District",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Museum Square",
+    "passengers": 1,
+    "timestamp": "2024-01-24T13:50:00"
+  },
+  {
+    "vehicle_id": 19,
+    "type": "Jetpack",
+    "route": "Skyscraper Circuit",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Corporate HQ",
+    "passengers": 1,
+    "timestamp": "2024-01-24T14:05:00"
+  },
+  {
+    "vehicle_id": 20,
+    "type": "Aquabus",
+    "route": "Canal Cruise",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Waterfront Plaza",
+    "passengers": 30,
+    "timestamp": "2024-01-24T14:20:00"
+  }
+]
+[
+  {
+    "vehicle_id": 21,
+    "type": "Maglev Train",
+    "route": "High-Speed Line",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Station 6",
+    "passengers": 120,
+    "timestamp": "2024-01-24T14:35:00"
+  },
+  {
+    "vehicle_id": 22,
+    "type": "Paraglider",
+    "route": "Mountain Tour",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Summit",
+    "passengers": 2,
+    "timestamp": "2024-01-24T14:50:00"
+  },
+  {
+    "vehicle_id": 23,
+    "type": "Autonomous Shuttle",
+    "route": "City Loop",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Tech Campus",
+    "passengers": 12,
+    "timestamp": "2024-01-24T15:05:00"
+  },
+  {
+    "vehicle_id": 24,
+    "type": "Dog Sled",
+    "route": "Snow Adventure",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Ice Village",
+    "passengers": 4,
+    "timestamp": "2024-01-24T15:20:00"
+  },
+  {
+    "vehicle_id": 25,
+    "type": "Space Shuttle",
+    "route": "Orbital Transfer",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Space Station",
+    "passengers": 7,
+    "timestamp": "2024-01-24T15:35:00"
+  }
+]
+[
+  {
+    "vehicle_id": 26,
+    "type": "Electric Unicycle",
+    "route": "City Center",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Shopping Mall",
+    "passengers": 1,
+    "timestamp": "2024-01-24T15:50:00"
+  },
+  {
+    "vehicle_id": 27,
+    "type": "Solar-Powered Car",
+    "route": "Solar Highway",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Solar Charging Station",
+    "passengers": 2,
+    "timestamp": "2024-01-24T16:05:00"
+  },
+  {
+    "vehicle_id": 28,
+    "type": "Zeppelin",
+    "route": "Sky Tour",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Cloud Observatory",
+    "passengers": 20,
+    "timestamp": "2024-01-24T16:20:00"
+  },
+  {
+    "vehicle_id": 29,
+    "type": "Rocket Bike",
+    "route": "Spaceport Express",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Lunar Base",
+    "passengers": 1,
+    "timestamp": "2024-01-24T16:35:00"
+  },
+  {
+    "vehicle_id": 30,
+    "type": "Jet Ski",
+    "route": "Coastal Adventure",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Island Cove",
+    "passengers": 2,
+    "timestamp": "2024-01-24T16:50:00"
+  }
+]
+[
+  {
+    "vehicle_id": 31,
+    "type": "Camper Van",
+    "route": "Scenic Drive",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "National Park",
+    "passengers": 4,
+    "timestamp": "2024-01-24T17:05:00"
+  },
+  {
+    "vehicle_id": 32,
+    "type": "Electric Tricycle",
+    "route": "Local Market",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Café Square",
+    "passengers": 1,
+    "timestamp": "2024-01-24T17:20:00"
+  },
+  {
+    "vehicle_id": 33,
+    "type": "Pedicab",
+    "route": "Historical Tour",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Museum District",
+    "passengers": 2,
+    "timestamp": "2024-01-24T17:35:00"
+  },
+  {
+    "vehicle_id": 34,
+    "type": "Magnetic Levitation Bus",
+    "route": "Magnet Line",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Tech Hub",
+    "passengers": 30,
+    "timestamp": "2024-01-24T17:50:00"
+  },
+  {
+    "vehicle_id": 35,
+    "type": "Electric Rickshaw",
+    "route": "City Market",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Art Gallery",
+    "passengers": 3,
+    "timestamp": "2024-01-24T18:05:00"
+  }
+]
+[
+  {
+    "vehicle_id": 36,
+    "type": "Amphibious Vehicle",
+    "route": "Harbor Tour",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Waterfront Plaza",
+    "passengers": 15,
+    "timestamp": "2024-01-24T18:20:00"
+  },
+  {
+    "vehicle_id": 37,
+    "type": "Submersible Drone",
+    "route": "Underwater Exploration",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Deep Sea Discovery",
+    "passengers": 0,
+    "timestamp": "2024-01-24T18:35:00"
+  },
+  {
+    "vehicle_id": 38,
+    "type": "Hyperloop Pod",
+    "route": "High-Speed Tube",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Tech Innovation Center",
+    "passengers": 24,
+    "timestamp": "2024-01-24T18:50:00"
+  },
+  {
+    "vehicle_id": 39,
+    "type": "Air Taxi",
+    "route": "Sky Commute",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Financial District",
+    "passengers": 3,
+    "timestamp": "2024-01-24T19:05:00"
+  },
+  {
+    "vehicle_id": 40,
+    "type": "Mars Rover",
+    "route": "Red Planet Exploration",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Martian Base",
+    "passengers": 0,
+    "timestamp": "2024-01-24T19:20:00"
+  }
+]
+[
+  {
+    "vehicle_id": 41,
+    "type": "Zeppelin Taxi",
+    "route": "Airship Express",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Skyport Tower",
+    "passengers": 10,
+    "timestamp": "2024-01-24T19:35:00"
+  },
+  {
+    "vehicle_id": 42,
+    "type": "Solar Sailboat",
+    "route": "Sunset Cruise",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Marina Bay",
+    "passengers": 8,
+    "timestamp": "2024-01-24T19:50:00"
+  },
+  {
+    "vehicle_id": 43,
+    "type": "Hyperloop Capsule",
+    "route": "Ultra-Fast Tube",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Innovation Hub",
+    "passengers": 30,
+    "timestamp": "2024-01-24T20:05:00"
+  },
+  {
+    "vehicle_id": 44,
+    "type": "Jetpack Taxi",
+    "route": "Skyscraper Circuit",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Corporate Skyline",
+    "passengers": 1,
+    "timestamp": "2024-01-24T20:20:00"
+  },
+  {
+    "vehicle_id": 45,
+    "type": "Hovercraft",
+    "route": "Coastal Adventure",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Island Resort",
+    "passengers": 20,
+    "timestamp": "2024-01-24T20:35:00"
+  }
+]
+[
+  {
+    "vehicle_id": 46,
+    "type": "Electric Monowheel",
+    "route": "City Park Ride",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Green Oasis",
+    "passengers": 1,
+    "timestamp": "2024-01-24T20:50:00"
+  },
+  {
+    "vehicle_id": 47,
+    "type": "Electric Cargo Bike",
+    "route": "Urban Deliveries",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Business District",
+    "passengers": 0,
+    "timestamp": "2024-01-24T21:05:00"
+  },
+  {
+    "vehicle_id": 48,
+    "type": "Floating Lounge",
+    "route": "River Cruise",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Waterfront Bar",
+    "passengers": 15,
+    "timestamp": "2024-01-24T21:20:00"
+  },
+  {
+    "vehicle_id": 49,
+    "type": "Virtual Reality Pod",
+    "route": "Digital Experience",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "VR Arcade",
+    "passengers": 2,
+    "timestamp": "2024-01-24T21:35:00"
+  },
+  {
+    "vehicle_id": 50,
+    "type": "Gyrocopter",
+    "route": "Aerial Tour",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Scenic Overlook",
+    "passengers": 2,
+    "timestamp": "2024-01-24T21:50:00"
+  }
+]
+[
+  {
+    "vehicle_id": 51,
+    "type": "Airship Cruise",
+    "route": "Cloud Sailing",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Sky Retreat",
+    "passengers": 25,
+    "timestamp": "2024-01-24T22:05:00"
+  },
+  {
+    "vehicle_id": 52,
+    "type": "Horse-drawn Carriage",
+    "route": "Historic District Tour",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Colonial Square",
+    "passengers": 4,
+    "timestamp": "2024-01-24T22:20:00"
+  },
+  {
+    "vehicle_id": 53,
+    "type": "Invisible Bike",
+    "route": "Mystery Ride",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Secret Spot",
+    "passengers": 1,
+    "timestamp": "2024-01-24T22:35:00"
+  },
+  {
+    "vehicle_id": 54,
+    "type": "Rollercoaster Bus",
+    "route": "Adrenaline Express",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Thrill Park",
+    "passengers": 30,
+    "timestamp": "2024-01-24T22:50:00"
+  },
+  {
+    "vehicle_id": 55,
+    "type": "Jet Surfboard",
+    "route": "Wave Riding",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Surf Haven",
+    "passengers": 1,
+    "timestamp": "2024-01-24T23:05:00"
+  },
+  {
+    "vehicle_id": 56,
+    "type": "Zipline Shuttle",
+    "route": "Mountain Adventure",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Summit Station",
+    "passengers": 8,
+    "timestamp": "2024-01-24T23:20:00"
+  },
+  {
+    "vehicle_id": 57,
+    "type": "Personal Hovercraft",
+    "route": "Urban Glide",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "City Square",
+    "passengers": 2,
+    "timestamp": "2024-01-24T23:35:00"
+  },
+  {
+    "vehicle_id": 58,
+    "type": "Wind-powered Skateboard",
+    "route": "Breezy Street Ride",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Wind Park",
+    "passengers": 1,
+    "timestamp": "2024-01-24T23:50:00"
+  },
+  {
+    "vehicle_id": 59,
+    "type": "Underwater Scooter",
+    "route": "Ocean Exploration",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Coral Garden",
+    "passengers": 2,
+    "timestamp": "2024-01-25T00:05:00"
+  },
+  {
+    "vehicle_id": 60,
+    "type": "Jet-powered Rollerblades",
+    "route": "Urban Stunt",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Skate Park",
+    "passengers": 1,
+    "timestamp": "2024-01-25T00:20:00"
+  }
+]
+[
+  {
+    "vehicle_id": 61,
+    "type": "Pegasus Carriage",
+    "route": "Mythical Journey",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Fantasy Castle",
+    "passengers": 2,
+    "timestamp": "2024-01-25T00:35:00"
+  },
+  {
+    "vehicle_id": 62,
+    "type": "Firefly Bicycle",
+    "route": "Enchanted Forest Trail",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Glowing Glade",
+    "passengers": 1,
+    "timestamp": "2024-01-25T00:50:00"
+  },
+  {
+    "vehicle_id": 63,
+    "type": "Magic Carpet Ride",
+    "route": "Aerial Wonderland",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Mystical City",
+    "passengers": 3,
+    "timestamp": "2024-01-25T01:05:00"
+  },
+  {
+    "vehicle_id": 64,
+    "type": "Unicorn Scooter",
+    "route": "Rainbow Path",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Dreamland Meadows",
+    "passengers": 1,
+    "timestamp": "2024-01-25T01:20:00"
+  },
+  {
+    "vehicle_id": 65,
+    "type": "Time-Traveling Delorean",
+    "route": "Temporal Highway",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Historical Era",
+    "passengers": 2,
+    "timestamp": "2024-01-25T01:35:00"
+  },
+  {
+    "vehicle_id": 66,
+    "type": "Dragon Glider",
+    "route": "Sky Realm Expedition",
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "destination": "Floating Isles",
+    "passengers": 1,
+    "timestamp": "2024-01-25T01:50:00"
+  },
+  {
+    "vehicle_id": 67,
+    "type": "Robot Unicorn",
+    "route": "Mechanical Meadows",
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "destination": "Techno Oasis",
+    "passengers": 1,
+    "timestamp": "2024-01-25T02:05:00"
+  },
+  {
+    "vehicle_id": 68,
+    "type": "Starship Shuttle",
+    "route": "Galactic Express",
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "destination": "Exoplanet Hub",
+    "passengers": 50,
+    "timestamp": "2024-01-25T02:20:00"
+  },
+  {
+    "vehicle_id": 69,
+    "type": "Warp Drive Pod",
+    "route": "Interstellar Voyage",
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "destination": "Quantum Station",
+    "passengers": 5,
+    "timestamp": "2024-01-25T02:35:00"
+  },
+  {
+    "vehicle_id": 70,
+    "type": "Gravity-defying Hoverboard",
+    "route": "Anti-Gravity Park",
+    "location": {"lat": 41.8781, "lng": -87.6298},
+    "destination": "Levitation Plaza",
+    "passengers": 1,
+    "timestamp": "2024-01-25T02:50:00"
+  }
+]
