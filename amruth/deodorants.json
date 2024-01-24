@@ -1,0 +1,548 @@
+{
+  "deodorants": [
+    {
+      "Brand": "Dove",
+      "Variant": "Fresh Scent",
+      "SpraysPerBottle": 150,
+      "Cost": 4.99,
+      "Manufacturer": "Unilever",
+      "InStock": true
+    },
+    {
+      "Brand": "Old Spice",
+      "Variant": "Swagger",
+      "SpraysPerBottle": 120,
+      "Cost": 3.49,
+      "Manufacturer": "Procter & Gamble",
+      "InStock": true
+    },
+    {
+      "Brand": "Secret",
+      "Variant": "Powder Fresh",
+      "SpraysPerBottle": 200,
+      "Cost": 5.99,
+      "Manufacturer": "Procter & Gamble",
+      "InStock": true
+    },
+    {
+      "Brand": "Degree",
+      "Variant": "Cool Rush",
+      "SpraysPerBottle": 180,
+      "Cost": 4.79,
+      "Manufacturer": "Unilever",
+      "InStock": false
+    },
+    {
+      "Brand": "Axe",
+      "Variant": "Dark Temptation",
+      "SpraysPerBottle": 160,
+      "Cost": 6.29,
+      "Manufacturer": "Unilever",
+      "InStock": true
+    },
+    {
+      "Brand": "Speed Stick",
+      "Variant": "Ocean Surf",
+      "SpraysPerBottle": 130,
+      "Cost": 2.99,
+      "Manufacturer": "Colgate-Palmolive",
+      "InStock": true
+    },
+    {
+      "Brand": "Nivea",
+      "Variant": "Fresh Active",
+      "SpraysPerBottle": 170,
+      "Cost": 7.49,
+      "Manufacturer": "Beiersdorf",
+      "InStock": false
+    },
+    {
+      "Brand": "Mitchum",
+      "Variant": "Unscented",
+      "SpraysPerBottle": 150,
+      "Cost": 5.99,
+      "Manufacturer": "Revlon",
+      "InStock": true
+    },
+    {
+      "Brand": "Suave",
+      "Variant": "Powder",
+      "SpraysPerBottle": 140,
+      "Cost": 3.99,
+      "Manufacturer": "Unilever",
+      "InStock": true
+    },
+    {
+      "Brand": "Tom's of Maine",
+      "Variant": "Lemongrass",
+      "SpraysPerBottle": 120,
+      "Cost": 6.99,
+      "Manufacturer": "Colgate-Palmolive",
+      "InStock": false
+    },
+    {
+      "Brand": "Arm & Hammer",
+      "Variant": "Essentials Fresh",
+      "SpraysPerBottle": 160,
+      "Cost": 4.49,
+      "Manufacturer": "Church & Dwight",
+      "InStock": true
+    },
+    {
+      "Brand": "Ban",
+      "Variant": "Original",
+      "SpraysPerBottle": 180,
+      "Cost": 5.29,
+      "Manufacturer": "Kao Corporation",
+      "InStock": false
+    },
+    {
+      "Brand": "Rexona",
+      "Variant": "Invisible Dry",
+      "SpraysPerBottle": 190,
+      "Cost": 6.79,
+      "Manufacturer": "Unilever",
+      "InStock": true
+    },
+    {
+      "Brand": "Jason",
+      "Variant": "Tea Tree",
+      "SpraysPerBottle": 150,
+      "Cost": 8.99,
+      "Manufacturer": "The Hain Celestial Group",
+      "InStock": true
+    },
+    {
+      "Brand": "Every Man Jack",
+      "Variant": "Cedarwood",
+      "SpraysPerBottle": 140,
+      "Cost": 9.99,
+      "Manufacturer": "Every Man Jack",
+      "InStock": true
+    },
+    {
+      "Brand": "Kopari",
+      "Variant": "Coconut",
+      "SpraysPerBottle": 120,
+      "Cost": 12.49,
+      "Manufacturer": "Kopari Beauty",
+      "InStock": false
+    },
+    {
+      "Brand": "Crystal",
+      "Variant": "Unscented",
+      "SpraysPerBottle": 100,
+      "Cost": 5.99,
+      "Manufacturer": "French Transit",
+      "InStock": true
+    },
+    {
+      "Brand": "Almay",
+      "Variant": "Clear Gel",
+      "SpraysPerBottle": 160,
+      "Cost": 7.99,
+      "Manufacturer": "Revlon",
+      "InStock": true
+    },
+    {
+      "Brand": "Weleda",
+      "Variant": "Citrus",
+      "SpraysPerBottle": 130,
+      "Cost": 10.99,
+      "Manufacturer": "Weleda",
+      "InStock": false
+    },
+    {
+      "Brand": "PiperWai",
+      "Variant": "Natural",
+      "SpraysPerBottle": 150,
+      "Cost": 11.49,
+      "Manufacturer": "PiperWai",
+      "InStock": true
+    },
+    {
+      "Brand": "Schmidt's",
+      "Variant": "Rose + Vanilla",
+      "SpraysPerBottle": 140,
+      "Cost": 8.79,
+      "Manufacturer": "Schmidt's Naturals",
+      "InStock": true
+    },
+    {
+      "Brand": "Green Tidings",
+      "Variant": "Lavender",
+      "SpraysPerBottle": 130,
+      "Cost": 9.99,
+      "Manufacturer": "Green Tidings",
+      "InStock": false
+    },
+    {
+      "Brand": "Crystal Essence",
+      "Variant": "Pomegranate",
+      "SpraysPerBottle": 110,
+      "Cost": 6.49,
+      "Manufacturer": "French Transit",
+      "InStock": true
+    },
+     {
+      "Brand": "Sure",
+      "Variant": "Invisible Solid",
+      "SpraysPerBottle": 170,
+      "Cost": 3.89,
+      "Manufacturer": "Henkel",
+      "InStock": true
+    },
+    {
+      "Brand": "Mitchum",
+      "Variant": "Advanced Control",
+      "SpraysPerBottle": 160,
+      "Cost": 4.29,
+      "Manufacturer": "Revlon",
+      "InStock": true
+    },
+    {
+      "Brand": "Native",
+      "Variant": "Coconut & Vanilla",
+      "SpraysPerBottle": 140,
+      "Cost": 11.99,
+      "Manufacturer": "Procter & Gamble",
+      "InStock": false
+    },
+    {
+      "Brand": "Primal Pit Paste",
+      "Variant": "Thyme & Lemongrass",
+      "SpraysPerBottle": 120,
+      "Cost": 9.49,
+      "Manufacturer": "Primal Pit Paste",
+      "InStock": true
+    },
+    {
+      "Brand": "Arm & Hammer Essentials",
+      "Variant": "Fresh Rosemary Lavender",
+      "SpraysPerBottle": 150,
+      "Cost": 5.79,
+      "Manufacturer": "Church & Dwight",
+      "InStock": false
+    },
+    {
+      "Brand": "Kiehl's",
+      "Variant": "Superbly Efficient",
+      "SpraysPerBottle": 180,
+      "Cost": 18.99,
+      "Manufacturer": "L'Oréal",
+      "InStock": true
+    },
+    {
+      "Brand": "Nature's Gate",
+      "Variant": "Herbal Blend",
+      "SpraysPerBottle": 130,
+      "Cost": 7.99,
+      "Manufacturer": "Nature's Gate",
+      "InStock": true
+    },
+    {
+      "Brand": "JĀSÖN",
+      "Variant": "Aloe Vera",
+      "SpraysPerBottle": 160,
+      "Cost": 8.49,
+      "Manufacturer": "The Hain Celestial Group",
+      "InStock": false
+    },
+    {
+      "Brand": "Crystal Rock",
+      "Variant": "Unscented",
+      "SpraysPerBottle": 100,
+      "Cost": 6.79,
+      "Manufacturer": "French Transit",
+      "InStock": true
+    },
+    {
+      "Brand": "Lavanila",
+      "Variant": "Vanilla Passion Fruit",
+      "SpraysPerBottle": 140,
+      "Cost": 13.99,
+      "Manufacturer": "Lavanila Laboratories",
+      "InStock": true
+    },
+    {
+      "Brand": "Schmidt's",
+      "Variant": "Charcoal + Magnesium",
+      "SpraysPerBottle": 150,
+      "Cost": 10.79,
+      "Manufacturer": "Schmidt's Naturals",
+      "InStock": true
+    },
+    {
+      "Brand": "Kiss My Face",
+      "Variant": "Patchouli",
+      "SpraysPerBottle": 120,
+      "Cost": 9.29,
+      "Manufacturer": "Kiss My Face",
+      "InStock": false
+    },
+    {
+      "Brand": "Herban Cowboy",
+      "Variant": "Forest",
+      "SpraysPerBottle": 110,
+      "Cost": 12.49,
+      "Manufacturer": "Herban Cowboy",
+      "InStock": true
+    },
+    {
+      "Brand": "Alaffia",
+      "Variant": "Lavender",
+      "SpraysPerBottle": 130,
+      "Cost": 8.99,
+      "Manufacturer": "Alaffia",
+      "InStock": true
+    },
+    {
+      "Brand": "North Coast Organics",
+      "Variant": "Death by Lavender",
+      "SpraysPerBottle": 140,
+      "Cost": 11.79,
+      "Manufacturer": "North Coast Organics",
+      "InStock": false
+    },
+    {
+      "Brand": "Alvera",
+      "Variant": "Aloe & Almonds",
+      "SpraysPerBottle": 150,
+      "Cost": 5.99,
+      "Manufacturer": "Alvera",
+      "InStock": true
+    },
+    {
+      "Brand": "Crystal Body Deodorant",
+      "Variant": "Roll-On",
+      "SpraysPerBottle": 120,
+      "Cost": 6.99,
+      "Manufacturer": "French Transit",
+      "InStock": true
+    },
+    {
+      "Brand": "The Honest Company",
+      "Variant": "Bergamot Sage",
+      "SpraysPerBottle": 160,
+      "Cost": 14.49,
+      "Manufacturer": "The Honest Company",
+      "InStock": true
+    },
+    {
+      "Brand": "Green People",
+      "Variant": "Rosemary & Prebiotics",
+      "SpraysPerBottle": 170,
+      "Cost": 15.99,
+      "Manufacturer": "Green People",
+      "InStock": false
+    },
+    {
+      "Brand": "Desert Essence",
+      "Variant": "Tea Tree Oil",
+      "SpraysPerBottle": 140,
+      "Cost": 7.29,
+      "Manufacturer": "Desert Essence",
+      "InStock": true
+    },
+    {
+      "Brand": "Weleda",
+      "Variant": "Sage",
+      "SpraysPerBottle": 130,
+      "Cost": 10.99,
+      "Manufacturer": "Weleda",
+      "InStock": false
+    },
+    {
+      "Brand": "Nature by Canus",
+      "Variant": "Goat Milk",
+      "SpraysPerBottle": 180,
+      "Cost": 8.79,
+      "Manufacturer": "Nature by Canus",
+      "InStock": true
+    },
+     {
+      "Brand": "Kaiame Naturals",
+      "Variant": "Lemongrass Eucalyptus",
+      "SpraysPerBottle": 160,
+      "Cost": 12.99,
+      "Manufacturer": "Kaiame Naturals",
+      "InStock": true
+    },
+    {
+      "Brand": "Primal Life Organics",
+      "Variant": "Charcoal & Magnesium",
+      "SpraysPerBottle": 140,
+      "Cost": 15.49,
+      "Manufacturer": "Primal Life Organics",
+      "InStock": false
+    },
+    {
+      "Brand": "Lume",
+      "Variant": "Jasmine Rose",
+      "SpraysPerBottle": 130,
+      "Cost": 17.99,
+      "Manufacturer": "Lume",
+      "InStock": true
+    },
+    {
+      "Brand": "Nubian Heritage",
+      "Variant": "Abyssinian Oil & Chia Seed",
+      "SpraysPerBottle": 120,
+      "Cost": 13.79,
+      "Manufacturer": "Nubian Heritage",
+      "InStock": true
+    },
+    {
+      "Brand": "Native",
+      "Variant": "Cucumber & Mint",
+      "SpraysPerBottle": 150,
+      "Cost": 11.99,
+      "Manufacturer": "Procter & Gamble",
+      "InStock": true
+    },
+    {
+      "Brand": "Aesop",
+      "Variant": "Herbaceous",
+      "SpraysPerBottle": 140,
+      "Cost": 27.99,
+      "Manufacturer": "Aesop",
+      "InStock": false
+    },
+    {
+      "Brand": "Bali Secrets",
+      "Variant": "Original Essence",
+      "SpraysPerBottle": 160,
+      "Cost": 14.89,
+      "Manufacturer": "Bali Secrets",
+      "InStock": true
+    },
+    {
+      "Brand": "Crystal Essence",
+      "Variant": "Chamomile & Green Tea",
+      "SpraysPerBottle": 130,
+      "Cost": 8.49,
+      "Manufacturer": "French Transit",
+      "InStock": true
+    },
+    {
+      "Brand": "EO Products",
+      "Variant": "Citrus Sage",
+      "SpraysPerBottle": 170,
+      "Cost": 16.29,
+      "Manufacturer": "EO Products",
+      "InStock": false
+    },
+    {
+      "Brand": "Pacifica",
+      "Variant": "Tuscan Blood Orange",
+      "SpraysPerBottle": 150,
+      "Cost": 9.99,
+      "Manufacturer": "Pacifica Beauty",
+      "InStock": true
+    },
+    {
+      "Brand": "North Coast Organics",
+      "Variant": "Death by Lavender Stick",
+      "SpraysPerBottle": 140,
+      "Cost": 13.79,
+      "Manufacturer": "North Coast Organics",
+      "InStock": false
+    },
+    {
+      "Brand": "Lafe's Natural BodyCare",
+      "Variant": "Fresh",
+      "SpraysPerBottle": 160,
+      "Cost": 10.49,
+      "Manufacturer": "Lafe's Natural BodyCare",
+      "InStock": true
+    },
+    {
+      "Brand": "Meow Meow Tweet",
+      "Variant": "Baking Soda Free Grapefruit",
+      "SpraysPerBottle": 120,
+      "Cost": 18.99,
+      "Manufacturer": "Meow Meow Tweet",
+      "InStock": true
+    },
+    {
+      "Brand": "Freedom",
+      "Variant": "Lavender Citrus",
+      "SpraysPerBottle": 130,
+      "Cost": 7.29,
+      "Manufacturer": "Freedom",
+      "InStock": false
+    },
+    {
+      "Brand": "Lavilin",
+      "Variant": "Underarm Deodorant Cream",
+      "SpraysPerBottle": 180,
+      "Cost": 19.99,
+      "Manufacturer": "Lavilin",
+      "InStock": true
+    },
+    {
+      "Brand": "Love Beauty and Planet",
+      "Variant": "Murumuru Butter & Rose",
+      "SpraysPerBottle": 140,
+      "Cost": 12.79,
+      "Manufacturer": "Unilever",
+      "InStock": true
+    },
+    {
+      "Brand": "Oars + Alps",
+      "Variant": "Alpine Start",
+      "SpraysPerBottle": 150,
+      "Cost": 16.99,
+      "Manufacturer": "Oars + Alps",
+      "InStock": false
+    },
+    {
+      "Brand": "Real Purity",
+      "Variant": "Roll-On",
+      "SpraysPerBottle": 120,
+      "Cost": 14.49,
+      "Manufacturer": "Real Purity",
+      "InStock": true
+    },
+    {
+      "Brand": "Soapwalla",
+      "Variant": "Citrus",
+      "SpraysPerBottle": 170,
+      "Cost": 20.49,
+      "Manufacturer": "Soapwalla",
+      "InStock": true
+    },
+    {
+      "Brand": "Ursa Major",
+      "Variant": "Hoppin' Fresh",
+      "SpraysPerBottle": 160,
+      "Cost": 25.99,
+      "Manufacturer": "Ursa Major",
+      "InStock": false
+    },
+    {
+      "Brand": "Zion Health",
+      "Variant": "ClayDry Bold",
+      "SpraysPerBottle": 140,
+      "Cost": 8.99,
+      "Manufacturer": "Zion Health",
+      "InStock": true
+    },
+    {
+      "Brand": "PiperWai",
+      "Variant": "Natural Stick",
+      "SpraysPerBottle": 130,
+      "Cost": 11.49,
+      "Manufacturer": "PiperWai",
+      "InStock": false
+    },
+    {
+      "Brand": "North Coast Organics",
+      "Variant": "Cedarwood",
+      "SpraysPerBottle": 150,
+      "Cost": 13.79,
+      "Manufacturer": "North Coast Organics",
+      "InStock": true
+    }
+  ]
+}
