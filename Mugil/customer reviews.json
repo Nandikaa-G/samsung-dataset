@@ -1,0 +1,630 @@
+{
+  "customer_reviews": [
+    {
+      "review_id": "R001",
+      "product_id": "P001",
+      "customer_name": "Alice Smith",
+      "rating": 4.5,
+      "date": "2022-01-10",
+      "review_text": "I love this product! It exceeded my expectations. The quality is excellent, and it arrived on time."
+    },
+    {
+      "review_id": "R002",
+      "product_id": "P002",
+      "customer_name": "Bob Johnson",
+      "rating": 3.0,
+      "date": "2022-02-05",
+      "review_text": "The product is okay, but I expected better. It serves its purpose, but there are some improvements needed."
+    },
+    {
+      "review_id": "R003",
+      "product_id": "P003",
+      "customer_name": "Catherine Davis",
+      "rating": 5.0,
+      "date": "2022-03-20",
+      "review_text": "Fantastic product! It's exactly what I needed. Great quality and fast delivery. Highly recommended!"
+    },
+    {
+      "review_id": "R004",
+      "product_id": "P001",
+      "customer_name": "David Wilson",
+      "rating": 2.5,
+      "date": "2022-04-08",
+      "review_text": "Disappointed with the product. The quality is not as advertised, and it didn't meet my expectations."
+    },
+    {
+      "review_id": "R005",
+      "product_id": "P004",
+      "customer_name": "Eva Turner",
+      "rating": 4.0,
+      "date": "2022-05-15",
+      "review_text": "I'm satisfied with the purchase. The product is good, and the customer service was helpful."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R006",
+      "product_id": "P002",
+      "customer_name": "Frank Miller",
+      "rating": 4.8,
+      "date": "2022-06-02",
+      "review_text": "Impressive product! The build quality is excellent, and it exceeded my expectations. Fast shipping too!"
+    },
+    {
+      "review_id": "R007",
+      "product_id": "P003",
+      "customer_name": "Grace Harris",
+      "rating": 3.5,
+      "date": "2022-07-12",
+      "review_text": "The product is decent, but there were some issues with the packaging. Overall, it's satisfactory."
+    },
+    {
+      "review_id": "R008",
+      "product_id": "P004",
+      "customer_name": "Henry Turner",
+      "rating": 5.0,
+      "date": "2022-08-25",
+      "review_text": "Absolutely love it! The product is of top-notch quality, and the customer service was outstanding."
+    },
+    {
+      "review_id": "R009",
+      "product_id": "P001",
+      "customer_name": "Isabella Lee",
+      "rating": 3.2,
+      "date": "2022-09-10",
+      "review_text": "The product didn't meet my expectations. It's functional, but the design could be improved."
+    },
+    {
+      "review_id": "R010",
+      "product_id": "P005",
+      "customer_name": "Jack Davis",
+      "rating": 4.5,
+      "date": "2022-10-18",
+      "review_text": "Great purchase! The product arrived on time, and it works perfectly. I'm happy with my decision."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R011",
+      "product_id": "P002",
+      "customer_name": "Katherine Baker",
+      "rating": 4.2,
+      "date": "2022-11-05",
+      "review_text": "Good value for money. The product is durable and serves its purpose. Shipping was prompt."
+    },
+    {
+      "review_id": "R012",
+      "product_id": "P003",
+      "customer_name": "Liam Turner",
+      "rating": 2.0,
+      "date": "2022-12-15",
+      "review_text": "Not satisfied with the purchase. The quality is subpar, and it broke shortly after using it."
+    },
+    {
+      "review_id": "R013",
+      "product_id": "P004",
+      "customer_name": "Mia Martinez",
+      "rating": 4.7,
+      "date": "2023-01-10",
+      "review_text": "Impressed with the product. It's stylish and functional. Received compliments from friends!"
+    },
+    {
+      "review_id": "R014",
+      "product_id": "P005",
+      "customer_name": "Noah Taylor",
+      "rating": 3.8,
+      "date": "2023-02-20",
+      "review_text": "Decent product, but the instructions were unclear. Had to figure out the assembly process."
+    },
+    {
+      "review_id": "R015",
+      "product_id": "P001",
+      "customer_name": "Olivia White",
+      "rating": 5.0,
+      "date": "2023-03-05",
+      "review_text": "Excellent product! Exactly as described. The company's attention to detail is commendable."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R016",
+      "product_id": "P002",
+      "customer_name": "Patrick Harris",
+      "rating": 3.5,
+      "date": "2023-04-10",
+      "review_text": "Average product. It does the job, but there are similar options with better features in the market."
+    },
+    {
+      "review_id": "R017",
+      "product_id": "P003",
+      "customer_name": "Quinn Turner",
+      "rating": 4.0,
+      "date": "2023-05-15",
+      "review_text": "Satisfied with the purchase. The product met my expectations, and the customer service was responsive."
+    },
+    {
+      "review_id": "R018",
+      "product_id": "P004",
+      "customer_name": "Riley Baker",
+      "rating": 2.8,
+      "date": "2023-06-01",
+      "review_text": "Disappointing quality. The product didn't last long, and I expected better durability."
+    },
+    {
+      "review_id": "R019",
+      "product_id": "P005",
+      "customer_name": "Samuel Davis",
+      "rating": 4.5,
+      "date": "2023-07-10",
+      "review_text": "Great value for the price. The product exceeded my expectations, and I recommend it to others."
+    },
+    {
+      "review_id": "R020",
+      "product_id": "P001",
+      "customer_name": "Taylor Wilson",
+      "rating": 3.2,
+      "date": "2023-08-20",
+      "review_text": "Decent product. Some features could be improved, but overall, it serves its purpose."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R021",
+      "product_id": "P002",
+      "customer_name": "Uma Garcia",
+      "rating": 4.8,
+      "date": "2023-09-05",
+      "review_text": "Extremely happy with the purchase! The product quality is superb, and it arrived earlier than expected."
+    },
+    {
+      "review_id": "R022",
+      "product_id": "P003",
+      "customer_name": "Victor Miller",
+      "rating": 3.0,
+      "date": "2023-10-12",
+      "review_text": "Average product. It meets the basic requirements, but I've seen similar items with more features."
+    },
+    {
+      "review_id": "R023",
+      "product_id": "P004",
+      "customer_name": "Willa Turner",
+      "rating": 5.0,
+      "date": "2023-11-25",
+      "review_text": "Fantastic product! The design is elegant, and the functionality exceeded my expectations. Highly recommended!"
+    },
+    {
+      "review_id": "R024",
+      "product_id": "P005",
+      "customer_name": "Xavier Wilson",
+      "rating": 2.5,
+      "date": "2023-12-10",
+      "review_text": "Not entirely satisfied. The product had some flaws, and the customer service response was slow."
+    },
+    {
+      "review_id": "R025",
+      "product_id": "P001",
+      "customer_name": "Yara Davis",
+      "rating": 4.2,
+      "date": "2024-01-05",
+      "review_text": "Pleased with the purchase. The product is durable, and the company's communication was excellent."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R026",
+      "product_id": "P002",
+      "customer_name": "Zane Baker",
+      "rating": 3.8,
+      "date": "2024-02-15",
+      "review_text": "Satisfactory product. It serves its purpose, but there are some minor design flaws that could be improved."
+    },
+    {
+      "review_id": "R027",
+      "product_id": "P003",
+      "customer_name": "Avery Wilson",
+      "rating": 4.5,
+      "date": "2024-03-01",
+      "review_text": "Happy with the purchase! The product exceeded my expectations, and the delivery was quick."
+    },
+    {
+      "review_id": "R028",
+      "product_id": "P004",
+      "customer_name": "Zoey Turner",
+      "rating": 2.0,
+      "date": "2024-04-10",
+      "review_text": "Disappointed. The product didn't match the description, and the quality was below par."
+    },
+    {
+      "review_id": "R029",
+      "product_id": "P005",
+      "customer_name": "Eli Harris",
+      "rating": 4.7,
+      "date": "2024-05-15",
+      "review_text": "Impressive quality! The product is durable, and the customer service was responsive to my inquiries."
+    },
+    {
+      "review_id": "R030",
+      "product_id": "P001",
+      "customer_name": "Mila Martinez",
+      "rating": 3.2,
+      "date": "2024-06-02",
+      "review_text": "Average product. It works fine, but I expected more features for the price."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R031",
+      "product_id": "P002",
+      "customer_name": "Landon Davis",
+      "rating": 4.0,
+      "date": "2024-07-10",
+      "review_text": "Good purchase! The product is reliable, and the delivery was on time. No complaints."
+    },
+    {
+      "review_id": "R032",
+      "product_id": "P003",
+      "customer_name": "Nina Wilson",
+      "rating": 3.5,
+      "date": "2024-08-25",
+      "review_text": "Decent product. It met my expectations, but I wish it had more color options."
+    },
+    {
+      "review_id": "R033",
+      "product_id": "P004",
+      "customer_name": "Oscar Turner",
+      "rating": 4.8,
+      "date": "2024-09-10",
+      "review_text": "Great value for money! The product is durable and stylish. I'm satisfied with my purchase."
+    },
+    {
+      "review_id": "R034",
+      "product_id": "P005",
+      "customer_name": "Piper Garcia",
+      "rating": 2.5,
+      "date": "2024-10-18",
+      "review_text": "Not impressed. The product didn't meet my expectations, and the build quality was lacking."
+    },
+    {
+      "review_id": "R035",
+      "product_id": "P001",
+      "customer_name": "Quincy Baker",
+      "rating": 4.5,
+      "date": "2024-11-05",
+      "review_text": "Very satisfied! The product exceeded my expectations, and the customer service was excellent."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R036",
+      "product_id": "P002",
+      "customer_name": "Ryder Harris",
+      "rating": 3.2,
+      "date": "2024-12-01",
+      "review_text": "Average product. It works fine, but there are similar options available with better features."
+    },
+    {
+      "review_id": "R037",
+      "product_id": "P003",
+      "customer_name": "Savannah Turner",
+      "rating": 4.5,
+      "date": "2024-12-15",
+      "review_text": "Happy with the purchase! The product is stylish, and the customer service was helpful."
+    },
+    {
+      "review_id": "R038",
+      "product_id": "P004",
+      "customer_name": "Tristan Baker",
+      "rating": 2.0,
+      "date": "2025-01-02",
+      "review_text": "Disappointed. The product broke shortly after purchase, and the quality didn't meet my expectations."
+    },
+    {
+      "review_id": "R039",
+      "product_id": "P005",
+      "customer_name": "Unity Wilson",
+      "rating": 4.8,
+      "date": "2025-01-15",
+      "review_text": "Excellent product! Durable and well-designed. I highly recommend it to others."
+    },
+    {
+      "review_id": "R040",
+      "product_id": "P001",
+      "customer_name": "Victor Davis",
+      "rating": 3.0,
+      "date": "2025-02-01",
+      "review_text": "Not entirely satisfied. The product had some flaws, and it didn't meet my expectations."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R041",
+      "product_id": "P002",
+      "customer_name": "Willow Garcia",
+      "rating": 4.2,
+      "date": "2025-02-15",
+      "review_text": "Satisfied with the purchase. The product met my expectations, and it arrived in good condition."
+    },
+    {
+      "review_id": "R042",
+      "product_id": "P003",
+      "customer_name": "Xander Turner",
+      "rating": 3.5,
+      "date": "2025-03-01",
+      "review_text": "Decent product. It serves its purpose, but there were some minor issues with the packaging."
+    },
+    {
+      "review_id": "R043",
+      "product_id": "P004",
+      "customer_name": "Yara Baker",
+      "rating": 4.7,
+      "date": "2025-03-15",
+      "review_text": "Impressive quality! The product is durable, and the design exceeded my expectations."
+    },
+    {
+      "review_id": "R044",
+      "product_id": "P005",
+      "customer_name": "Zachary Wilson",
+      "rating": 2.8,
+      "date": "2025-04-01",
+      "review_text": "Not completely satisfied. The product had some flaws, and the customer service response was slow."
+    },
+    {
+      "review_id": "R045",
+      "product_id": "P001",
+      "customer_name": "Aria Davis",
+      "rating": 4.5,
+      "date": "2025-04-15",
+      "review_text": "Fantastic product! Exactly as described. The company's attention to detail is commendable."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R046",
+      "product_id": "P002",
+      "customer_name": "Bryce Harris",
+      "rating": 3.0,
+      "date": "2025-05-01",
+      "review_text": "Average product. It serves its purpose, but I expected more features for the price."
+    },
+    {
+      "review_id": "R047",
+      "product_id": "P003",
+      "customer_name": "Cora Turner",
+      "rating": 4.5,
+      "date": "2025-05-15",
+      "review_text": "Happy with the purchase! The product is durable, and it arrived in a timely manner."
+    },
+    {
+      "review_id": "R048",
+      "product_id": "P004",
+      "customer_name": "Dylan Baker",
+      "rating": 2.5,
+      "date": "2025-06-01",
+      "review_text": "Not impressed. The product didn't meet my expectations, and the build quality was lacking."
+    },
+    {
+      "review_id": "R049",
+      "product_id": "P005",
+      "customer_name": "Eva Wilson",
+      "rating": 4.8,
+      "date": "2025-06-15",
+      "review_text": "Excellent product! It exceeded my expectations, and the customer service was top-notch."
+    },
+    {
+      "review_id": "R050",
+      "product_id": "P001",
+      "customer_name": "Felix Davis",
+      "rating": 3.2,
+      "date": "2025-07-01",
+      "review_text": "Decent product. It works fine, but there are some minor improvements that could be made."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R051",
+      "product_id": "P002",
+      "customer_name": "Gemma Garcia",
+      "rating": 4.2,
+      "date": "2025-07-15",
+      "review_text": "Satisfied with the purchase. The product is reliable, and it arrived in good condition."
+    },
+    {
+      "review_id": "R052",
+      "product_id": "P003",
+      "customer_name": "Hudson Turner",
+      "rating": 3.5,
+      "date": "2025-08-01",
+      "review_text": "Decent product. It meets my needs, but there are similar options with more features."
+    },
+    {
+      "review_id": "R053",
+      "product_id": "P004",
+      "customer_name": "Ivy Baker",
+      "rating": 4.7,
+      "date": "2025-08-15",
+      "review_text": "Impressive quality! The product is durable, and I'm happy with my purchase."
+    },
+    {
+      "review_id": "R054",
+      "product_id": "P005",
+      "customer_name": "Jaxon Wilson",
+      "rating": 2.8,
+      "date": "2025-09-01",
+      "review_text": "Not entirely satisfied. The product had some flaws, and the customer service could be better."
+    },
+    {
+      "review_id": "R055",
+      "product_id": "P001",
+      "customer_name": "Kaya Davis",
+      "rating": 4.5,
+      "date": "2025-09-15",
+      "review_text": "Fantastic product! Exactly what I needed. The design and functionality are excellent."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R056",
+      "product_id": "P002",
+      "customer_name": "Liam Harris",
+      "rating": 3.0,
+      "date": "2025-10-01",
+      "review_text": "Average product. It does the job, but I've seen similar items with better features."
+    },
+    {
+      "review_id": "R057",
+      "product_id": "P003",
+      "customer_name": "Mia Turner",
+      "rating": 4.5,
+      "date": "2025-10-15",
+      "review_text": "Happy with the purchase! The product is stylish, and the delivery was prompt."
+    },
+    {
+      "review_id": "R058",
+      "product_id": "P004",
+      "customer_name": "Noah Baker",
+      "rating": 2.5,
+      "date": "2025-11-01",
+      "review_text": "Not impressed. The product didn't meet my expectations, and the quality was subpar."
+    },
+    {
+      "review_id": "R059",
+      "product_id": "P005",
+      "customer_name": "Olivia Wilson",
+      "rating": 4.8,
+      "date": "2025-11-15",
+      "review_text": "Excellent product! Durable and well-designed. I highly recommend it."
+    },
+    {
+      "review_id": "R060",
+      "product_id": "P001",
+      "customer_name": "Parker Davis",
+      "rating": 3.2,
+      "date": "2025-12-01",
+      "review_text": "Decent product. It works fine, but there's room for improvement in the design."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R061",
+      "product_id": "P002",
+      "customer_name": "Quinn Garcia",
+      "rating": 4.2,
+      "date": "2025-12-15",
+      "review_text": "Satisfied with the purchase. The product is reliable, and it arrived in good condition."
+    },
+    {
+      "review_id": "R062",
+      "product_id": "P003",
+      "customer_name": "Ryder Turner",
+      "rating": 3.5,
+      "date": "2026-01-01",
+      "review_text": "Decent product. It meets my needs, but there are similar options with more features."
+    },
+    {
+      "review_id": "R063",
+      "product_id": "P004",
+      "customer_name": "Sasha Baker",
+      "rating": 4.7,
+      "date": "2026-01-15",
+      "review_text": "Impressive quality! The product is durable, and I'm happy with my purchase."
+    },
+    {
+      "review_id": "R064",
+      "product_id": "P005",
+      "customer_name": "Tristan Wilson",
+      "rating": 2.8,
+      "date": "2026-02-01",
+      "review_text": "Not entirely satisfied. The product had some flaws, and the customer service could be better."
+    },
+    {
+      "review_id": "R065",
+      "product_id": "P001",
+      "customer_name": "Uma Davis",
+      "rating": 4.5,
+      "date": "2026-02-15",
+      "review_text": "Fantastic product! Exactly what I needed. The design and functionality are excellent."
+    }
+    // Add more customer reviews as needed
+  ]
+}
+{
+  "customer_reviews": [
+    {
+      "review_id": "R066",
+      "product_id": "P002",
+      "customer_name": "Victor Harris",
+      "rating": 3.0,
+      "date": "2026-03-01",
+      "review_text": "Average product. It does the job, but I've seen similar items with better features."
+    },
+    {
+      "review_id": "R067",
+      "product_id": "P003",
+      "customer_name": "Willa Turner",
+      "rating": 4.5,
+      "date": "2026-03-15",
+      "review_text": "Happy with the purchase! The product is stylish, and the delivery was prompt."
+    },
+    {
+      "review_id": "R068",
+      "product_id": "P004",
+      "customer_name": "Xander Baker",
+      "rating": 2.5,
+      "date": "2026-04-01",
+      "review_text": "Not impressed. The product didn't meet my expectations, and the quality was subpar."
+    },
+    {
+      "review_id": "R069",
+      "product_id": "P005",
+      "customer_name": "Yara Wilson",
+      "rating": 4.8,
+      "date": "2026-04-15",
+      "review_text": "Excellent product! Durable and well-designed. I highly recommend it."
+    },
+    {
+      "review_id": "R070",
+      "product_id": "P001",
+      "customer_name": "Zane Davis",
+      "rating": 3.2,
+      "date": "2026-05-01",
+      "review_text": "Decent product. It works fine, but there's room for improvement in the design."
+    }
+    // Add more customer reviews as needed
+  ]
+}
