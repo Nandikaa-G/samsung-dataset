@@ -1,0 +1,23 @@
+1.Find the number of product managers employed:
+Grace Martinez is a Product Manager in the Product Development department.
+Liam Evans is a Product Manager in the Product Development department.
+Eliza Lopez is a Product Manager in the Product Development department.
+Natalie Lewis is a Product Manager in the Product Development department.
+From the data provided, there are 4 Product Managers employed.
+
+2.Find the role of robert young:
+Robert Young has the position of Project Manager in the Product Development department.
+
+3.Find the name of the graphic designers who work in marketing department:
+The name of the graphic designer who works in the Marketing department is Katherine Adams.
+
+4.Finding the number of people working in sales department:
+Isabella Clark - Sales Representative
+Benjamin Lee - Sales Manager
+Nathan Adams - Research Manager
+William Foster - Sales Analyst
+Gabriella Adams - Sales Coordinator
+Quentin Ramirez - Sales Strategist
+Counting these individuals, there are 6 people working in the Sales department.
+
+
