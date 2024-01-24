@@ -1,0 +1,484 @@
+{
+  "inventory": [
+    {
+      "ItemID": 1,
+      "ItemName": "Apple",
+      "Category": "Fruit",
+      "Quantity": 50,
+      "Price": 1.5,
+      "ExpiryDate": "2024-02-01"
+    },
+    {
+      "ItemID": 2,
+      "ItemName": "Banana",
+      "Category": "Fruit",
+      "Quantity": 30,
+      "Price": 0.75,
+      "ExpiryDate": "2024-02-05"
+    },
+    {
+      "ItemID": 3,
+      "ItemName": "Carrot",
+      "Category": "Vegetable",
+      "Quantity": 40,
+      "Price": 1.2,
+      "ExpiryDate": "2024-01-30"
+    },
+    {
+      "ItemID": 4,
+      "ItemName": "Chicken Breast",
+      "Category": "Meat",
+      "Quantity": 20,
+      "Price": 3.5,
+      "ExpiryDate": "2024-02-10"
+    },
+    {
+      "ItemID": 5,
+      "ItemName": "Salmon",
+      "Category": "Seafood",
+      "Quantity": 15,
+      "Price": 5.0,
+      "ExpiryDate": "2024-02-15"
+    },
+    {
+      "ItemID": 6,
+      "ItemName": "Broccoli",
+      "Category": "Vegetable",
+      "Quantity": 30,
+      "Price": 1.0,
+      "ExpiryDate": "2024-02-03"
+    },
+    {
+      "ItemID": 7,
+      "ItemName": "Milk",
+      "Category": "Dairy",
+      "Quantity": 25,
+      "Price": 2.0,
+      "ExpiryDate": "2024-02-08"
+    },
+    {
+      "ItemID": 8,
+      "ItemName": "Eggs",
+      "Category": "Dairy",
+      "Quantity": 50,
+      "Price": 1.8,
+      "ExpiryDate": "2024-02-06"
+    },
+    {
+      "ItemID": 9,
+      "ItemName": "Orange",
+      "Category": "Fruit",
+      "Quantity": 35,
+      "Price": 1.2,
+      "ExpiryDate": "2024-02-02"
+    },
+    {
+      "ItemID": 10,
+      "ItemName": "Tomato",
+      "Category": "Vegetable",
+      "Quantity": 25,
+      "Price": 1.0,
+      "ExpiryDate": "2024-02-04"
+    },
+    {
+      "ItemID": 11,
+      "ItemName": "Beef",
+      "Category": "Meat",
+      "Quantity": 15,
+      "Price": 4.0,
+      "ExpiryDate": "2024-02-12"
+    },
+    {
+      "ItemID": 12,
+      "ItemName": "Pasta",
+      "Category": "Grains",
+      "Quantity": 40,
+      "Price": 1.5,
+      "ExpiryDate": "2024-02-20"
+    },
+    {
+      "ItemID": 13,
+      "ItemName": "Lettuce",
+      "Category": "Vegetable",
+      "Quantity": 20,
+      "Price": 1.2,
+      "ExpiryDate": "2024-02-07"
+    },
+    {
+      "ItemID": 14,
+      "ItemName": "Cheese",
+      "Category": "Dairy",
+      "Quantity": 30,
+      "Price": 2.5,
+      "ExpiryDate": "2024-02-18"
+    },
+    {
+      "ItemID": 15,
+      "ItemName": "Bread",
+      "Category": "Grains",
+      "Quantity": 25,
+      "Price": 2.0,
+      "ExpiryDate": "2024-02-15"
+    },
+    {
+      "ItemID": 16,
+      "ItemName": "Potato",
+      "Category": "Vegetable",
+      "Quantity": 30,
+      "Price": 0.8,
+      "ExpiryDate": "2024-02-09"
+    },
+    {
+      "ItemID": 17,
+      "ItemName": "Strawberry",
+      "Category": "Fruit",
+      "Quantity": 20,
+      "Price": 3.0,
+      "ExpiryDate": "2024-02-11"
+    },
+    {
+      "ItemID": 18,
+      "ItemName": "Rice",
+      "Category": "Grains",
+      "Quantity": 50,
+      "Price": 1.5,
+      "ExpiryDate": "2024-02-25"
+    },
+    {
+      "ItemID": 19,
+      "ItemName": "Cucumber",
+      "Category": "Vegetable",
+      "Quantity": 25,
+      "Price": 1.0,
+      "ExpiryDate": "2024-02-13"
+    },
+    {
+      "ItemID": 20,
+      "ItemName": "Grapes",
+      "Category": "Fruit",
+      "Quantity": 30,
+      "Price": 2.2,
+      "ExpiryDate": "2024-02-14"
+    },
+    {
+      "ItemID": 21,
+      "ItemName": "Avocado",
+      "Category": "Fruit",
+      "Quantity": 15,
+      "Price": 2.5,
+      "ExpiryDate": "2024-02-17"
+    },
+    {
+      "ItemID": 22,
+      "ItemName": "Shrimp",
+      "Category": "Seafood",
+      "Quantity": 20,
+      "Price": 6.0,
+      "ExpiryDate": "2024-02-22"
+    },
+    {
+      "ItemID": 23,
+      "ItemName": "Green Beans",
+      "Category": "Vegetable",
+      "Quantity": 25,
+      "Price": 1.2,
+      "ExpiryDate": "2024-02-19"
+    },
+    {
+      "ItemID": 24,
+      "ItemName": "Greek Yogurt",
+      "Category": "Dairy",
+      "Quantity": 30,
+      "Price": 2.2,
+      "ExpiryDate": "2024-02-18"
+    },
+    {
+      "ItemID": 25,
+      "ItemName": "Pineapple",
+      "Category": "Fruit",
+      "Quantity": 18,
+      "Price": 3.0,
+      "ExpiryDate": "2024-02-20"
+    },
+    {
+      "ItemID": 26,
+      "ItemName": "Quinoa",
+      "Category": "Grains",
+      "Quantity": 35,
+      "Price": 2.0,
+      "ExpiryDate": "2024-02-26"
+    },
+    {
+      "ItemID": 27,
+      "ItemName": "Mango",
+      "Category": "Fruit",
+      "Quantity": 22,
+      "Price": 2.8,
+      "ExpiryDate": "2024-02-23"
+    },
+    {
+      "ItemID": 28,
+      "ItemName": "Peanut Butter",
+      "Category": "Condiment",
+      "Quantity": 40,
+      "Price": 3.5,
+      "ExpiryDate": "2024-02-28"
+    },
+    {
+      "ItemID": 29,
+      "ItemName": "Spinach",
+      "Category": "Vegetable",
+      "Quantity": 28,
+      "Price": 1.2,
+      "ExpiryDate": "2024-02-25"
+    },
+    {
+      "ItemID": 30,
+      "ItemName": "Salad Dressing",
+      "Category": "Condiment",
+      "Quantity": 15,
+      "Price": 2.0,
+      "ExpiryDate": "2024-02-24"
+    },
+    {
+      "ItemID": 31,
+      "ItemName": "Cherry Tomatoes",
+      "Category": "Vegetable",
+      "Quantity": 20,
+      "Price": 1.5,
+      "ExpiryDate": "2024-02-27"
+    },
+    {
+      "ItemID": 32,
+      "ItemName": "Almond Milk",
+      "Category": "Dairy",
+      "Quantity": 25,
+      "Price": 2.2,
+      "ExpiryDate": "2024-02-21"
+    },
+    {
+      "ItemID": 33,
+      "ItemName": "Soy Sauce",
+      "Category": "Condiment",
+      "Quantity": 18,
+      "Price": 1.8,
+      "ExpiryDate": "2024-02-29"
+    },
+    {
+      "ItemID": 34,
+      "ItemName": "Honey",
+      "Category": "Sweetener",
+      "Quantity": 30,
+      "Price": 4.0,
+      "ExpiryDate": "2024-03-01"
+    },
+    {
+      "ItemID": 35,
+      "ItemName": "Cantaloupe",
+      "Category": "Fruit",
+      "Quantity": 15,
+      "Price": 2.0,
+      "ExpiryDate": "2024-03-05"
+    },
+    {
+      "ItemID": 36,
+      "ItemName": "Artichoke",
+      "Category": "Vegetable",
+      "Quantity": 12,
+      "Price": 2.5,
+      "ExpiryDate": "2024-03-02"
+    },
+    {
+      "ItemID": 37,
+      "ItemName": "Oatmeal",
+      "Category": "Grains",
+      "Quantity": 25,
+      "Price": 1.5,
+      "ExpiryDate": "2024-03-07"
+    },
+    {
+      "ItemID": 38,
+      "ItemName": "Cauliflower",
+      "Category": "Vegetable",
+      "Quantity": 20,
+      "Price": 1.2,
+      "ExpiryDate": "2024-03-04"
+    },
+    {
+      "ItemID": 39,
+      "ItemName": "Blueberries",
+      "Category": "Fruit",
+      "Quantity": 18,
+      "Price": 3.0,
+      "ExpiryDate": "2024-03-09"
+    },
+    {
+      "ItemID": 40,
+      "ItemName": "Tofu",
+      "Category": "Protein",
+      "Quantity": 20,
+      "Price": 2.2,
+      "ExpiryDate": "2024-03-06"
+    },
+    {
+      "ItemID": 41,
+      "ItemName": "Cottage Cheese",
+      "Category": "Dairy",
+      "Quantity": 22,
+      "Price": 2.8,
+      "ExpiryDate": "2024-03-11"
+    },
+    {
+      "ItemID": 42,
+      "ItemName": "Green Peas",
+      "Category": "Vegetable",
+      "Quantity": 30,
+      "Price": 1.5,
+      "ExpiryDate": "2024-03-08"
+    },
+    {
+      "ItemID": 43,
+      "ItemName": "Pumpkin",
+      "Category": "Vegetable",
+      "Quantity": 18,
+      "Price": 2.0,
+      "ExpiryDate": "2024-03-13"
+    },
+    {
+      "ItemID": 44,
+      "ItemName": "Black Beans",
+      "Category": "Legumes",
+      "Quantity": 25,
+      "Price": 1.8,
+      "ExpiryDate": "2024-03-10"
+    },
+    {
+      "ItemID": 45,
+      "ItemName": "Coconut Milk",
+      "Category": "Dairy",
+      "Quantity": 15,
+      "Price": 2.5,
+      "ExpiryDate": "2024-03-15"
+    },
+     {
+      "ItemID": 46,
+      "ItemName": "Salsa",
+      "Category": "Condiment",
+      "Quantity": 18,
+      "Price": 1.5,
+      "ExpiryDate": "2024-03-18"
+    },
+    {
+      "ItemID": 47,
+      "ItemName": "Kiwi",
+      "Category": "Fruit",
+      "Quantity": 20,
+      "Price": 2.0,
+      "ExpiryDate": "2024-03-20"
+    },
+    {
+      "ItemID": 48,
+      "ItemName": "Pears",
+      "Category": "Fruit",
+      "Quantity": 15,
+      "Price": 1.8,
+      "ExpiryDate": "2024-03-25"
+    },
+    {
+      "ItemID": 49,
+      "ItemName": "Whole Wheat Bread",
+      "Category": "Grains",
+      "Quantity": 22,
+      "Price": 2.5,
+      "ExpiryDate": "2024-03-22"
+    },
+    {
+      "ItemID": 50,
+      "ItemName": "Chickpeas",
+      "Category": "Legumes",
+      "Quantity": 30,
+      "Price": 1.2,
+      "ExpiryDate": "2024-03-28"
+    },
+    {
+      "ItemID": 51,
+      "ItemName": "Turkey",
+      "Category": "Meat",
+      "Quantity": 18,
+      "Price": 4.0,
+      "ExpiryDate": "2024-03-27"
+    },
+    {
+      "ItemID": 52,
+      "ItemName": "Sweet Potatoes",
+      "Category": "Vegetable",
+      "Quantity": 25,
+      "Price": 1.2,
+      "ExpiryDate": "2024-03-30"
+    },
+    {
+      "ItemID": 53,
+      "ItemName": "Cranberries",
+      "Category": "Fruit",
+      "Quantity": 20,
+      "Price": 3.0,
+      "ExpiryDate": "2024-03-31"
+    },
+    {
+      "ItemID": 54,
+      "ItemName": "Lemon",
+      "Category": "Fruit",
+      "Quantity": 25,
+      "Price": 1.0,
+      "ExpiryDate": "2024-04-02"
+    },
+    {
+      "ItemID": 55,
+      "ItemName": "Basil",
+      "Category": "Herb",
+      "Quantity": 10,
+      "Price": 2.2,
+      "ExpiryDate": "2024-04-05"
+    },
+    {
+      "ItemID": 56,
+      "ItemName": "Soy Milk",
+      "Category": "Dairy",
+      "Quantity": 18,
+      "Price": 2.0,
+      "ExpiryDate": "2024-04-01"
+    },
+    {
+      "ItemID": 57,
+      "ItemName": "Asparagus",
+      "Category": "Vegetable",
+      "Quantity": 15,
+      "Price": 2.5,
+      "ExpiryDate": "2024-04-08"
+    },
+    {
+      "ItemID": 58,
+      "ItemName": "Cottage Cheese",
+      "Category": "Dairy",
+      "Quantity": 20,
+      "Price": 2.8,
+      "ExpiryDate": "2024-04-10"
+    },
+    {
+      "ItemID": 59,
+      "ItemName": "Hazelnuts",
+      "Category": "Nuts",
+      "Quantity": 12,
+      "Price": 3.0,
+      "ExpiryDate": "2024-04-15"
+    },
+    {
+      "ItemID": 60,
+      "ItemName": "Raspberry Jam",
+      "Category": "Spread",
+      "Quantity": 25,
+      "Price": 2.2,
+      "ExpiryDate": "2024-04-12"
+    }
+  ]
+}
