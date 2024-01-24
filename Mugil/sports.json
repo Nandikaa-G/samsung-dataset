@@ -1,0 +1,492 @@
+[
+  {
+    "sport_id": "S001",
+    "sport_name": "Football",
+    "category": "Team Sports",
+    "players_per_team": 11,
+    "field_type": "Grass",
+    "league": "Premier League"
+  },
+  {
+    "sport_id": "S002",
+    "sport_name": "Basketball",
+    "category": "Team Sports",
+    "players_per_team": 5,
+    "court_type": "Indoor",
+    "league": "NBA"
+  },
+  {
+    "sport_id": "S003",
+    "sport_name": "Tennis",
+    "category": "Individual Sports",
+    "players_per_match": 2,
+    "court_type": "Hard Court",
+    "tournament": "Wimbledon"
+  },
+  {
+    "sport_id": "S004",
+    "sport_name": "Soccer",
+    "category": "Team Sports",
+    "players_per_team": 11,
+    "field_type": "Turf",
+    "league": "La Liga"
+  },
+  {
+    "sport_id": "S005",
+    "sport_name": "Golf",
+    "category": "Individual Sports",
+    "players_per_group": 4,
+    "course_type": "18 Holes",
+    "tournament": "The Masters"
+  }
+]
+[
+  {
+    "sport_id": "S006",
+    "sport_name": "Cricket",
+    "category": "Team Sports",
+    "players_per_team": 11,
+    "field_type": "Grass",
+    "league": "Indian Premier League"
+  },
+  {
+    "sport_id": "S007",
+    "sport_name": "Swimming",
+    "category": "Individual Sports",
+    "pool_type": "Olympic-sized",
+    "event": "100m Freestyle"
+  },
+  {
+    "sport_id": "S008",
+    "sport_name": "Volleyball",
+    "category": "Team Sports",
+    "players_per_team": 6,
+    "court_type": "Indoor",
+    "league": "FIVB Volleyball World Cup"
+  },
+  {
+    "sport_id": "S009",
+    "sport_name": "Athletics",
+    "category": "Individual Sports",
+    "event": "100m Sprint",
+    "track_type": "Synthetic"
+  },
+  {
+    "sport_id": "S010",
+    "sport_name": "Hockey",
+    "category": "Team Sports",
+    "players_per_team": 11,
+    "field_type": "AstroTurf",
+    "league": "FIH Hockey Pro League"
+  },
+  {
+    "sport_id": "S011",
+    "sport_name": "Badminton",
+    "category": "Individual Sports",
+    "players_per_match": 2,
+    "court_type": "Indoor",
+    "tournament": "All England Open"
+  },
+  {
+    "sport_id": "S012",
+    "sport_name": "Cycling",
+    "category": "Individual Sports",
+    "race_type": "Road Race",
+    "event": "Tour de France"
+  },
+  {
+    "sport_id": "S013",
+    "sport_name": "Baseball",
+    "category": "Team Sports",
+    "players_per_team": 9,
+    "field_type": "Grass",
+    "league": "Major League Baseball"
+  },
+  {
+    "sport_id": "S014",
+    "sport_name": "Table Tennis",
+    "category": "Individual Sports",
+    "players_per_match": 2,
+    "table_type": "Indoor",
+    "tournament": "ITTF World Tour"
+  },
+  {
+    "sport_id": "S015",
+    "sport_name": "Gymnastics",
+    "category": "Individual Sports",
+    "event": "Artistic Floor Exercise",
+    "apparatus_type": "Spring Floor"
+  }
+]
+[
+  {
+    "sport_id": "S016",
+    "sport_name": "Martial Arts",
+    "category": "Individual Sports",
+    "discipline": "Karate",
+    "belt_levels": ["White", "Yellow", "Orange", "Green", "Blue", "Purple", "Brown", "Black"]
+  },
+  {
+    "sport_id": "S017",
+    "sport_name": "Skiing",
+    "category": "Winter Sports",
+    "event": "Alpine Skiing",
+    "slope_type": "Downhill"
+  },
+  {
+    "sport_id": "S018",
+    "sport_name": "Surfing",
+    "category": "Water Sports",
+    "wave_type": "Reef Break",
+    "event": "Big Wave Surfing"
+  },
+  {
+    "sport_id": "S019",
+    "sport_name": "Rugby",
+    "category": "Team Sports",
+    "players_per_team": 15,
+    "field_type": "Grass",
+    "league": "Six Nations Championship"
+  },
+  {
+    "sport_id": "S020",
+    "sport_name": "Archery",
+    "category": "Individual Sports",
+    "event": "Recurve Bow",
+    "target_type": "Outdoor"
+  },
+  {
+    "sport_id": "S021",
+    "sport_name": "Ice Hockey",
+    "category": "Winter Sports",
+    "players_per_team": 6,
+    "rink_type": "Indoor",
+    "league": "NHL"
+  },
+  {
+    "sport_id": "S022",
+    "sport_name": "Triathlon",
+    "category": "Multi-Sport",
+    "events": ["Swimming", "Cycling", "Running"],
+    "distance": "Olympic Distance"
+  },
+  {
+    "sport_id": "S023",
+    "sport_name": "Boxing",
+    "category": "Individual Sports",
+    "weight_classes": ["Flyweight", "Middleweight", "Heavyweight"],
+    "event": "Professional Boxing"
+  },
+  {
+    "sport_id": "S024",
+    "sport_name": "Softball",
+    "category": "Team Sports",
+    "players_per_team": 10,
+    "field_type": "Grass",
+    "league": "World Baseball Softball Confederation"
+  },
+  {
+    "sport_id": "S025",
+    "sport_name": "Rock Climbing",
+    "category": "Adventure Sports",
+    "climbing_type": "Sport Climbing",
+    "difficulty_level": "Intermediate"
+  }
+]
+[
+  {
+    "sport_id": "S026",
+    "sport_name": "Field Hockey",
+    "category": "Team Sports",
+    "players_per_team": 11,
+    "field_type": "AstroTurf",
+    "league": "FIH Hockey World Cup"
+  },
+  {
+    "sport_id": "S027",
+    "sport_name": "Ultimate Frisbee",
+    "category": "Team Sports",
+    "players_per_team": 7,
+    "field_type": "Grass",
+    "tournament": "World Ultimate Club Championships"
+  },
+  {
+    "sport_id": "S028",
+    "sport_name": "Mountain Biking",
+    "category": "Cycling",
+    "event": "Cross-Country",
+    "terrain_type": "Off-road"
+  },
+  {
+    "sport_id": "S029",
+    "sport_name": "Canoeing",
+    "category": "Water Sports",
+    "discipline": "Sprint",
+    "course_type": "Flatwater"
+  },
+  {
+    "sport_id": "S030",
+    "sport_name": "Powerlifting",
+    "category": "Strength Sports",
+    "weight_classes": ["Lightweight", "Middleweight", "Heavyweight"],
+    "lifts": ["Squat", "Bench Press", "Deadlift"]
+  },
+  {
+    "sport_id": "S031",
+    "sport_name": "Beach Volleyball",
+    "category": "Team Sports",
+    "players_per_team": 2,
+    "court_type": "Beach",
+    "tournament": "FIVB Beach Volleyball World Championships"
+  },
+  {
+    "sport_id": "S032",
+    "sport_name": "Racquetball",
+    "category": "Individual Sports",
+    "court_type": "Indoor",
+    "tournament": "International Racquetball Federation World Championships"
+  },
+  {
+    "sport_id": "S033",
+    "sport_name": "Sailing",
+    "category": "Water Sports",
+    "boat_type": "Laser",
+    "regatta": "America's Cup"
+  },
+  {
+    "sport_id": "S034",
+    "sport_name": "Judo",
+    "category": "Martial Arts",
+    "belt_levels": ["White", "Yellow", "Orange", "Green", "Blue", "Purple", "Brown", "Black"],
+    "tournament": "World Judo Championships"
+  },
+  {
+    "sport_id": "S035",
+    "sport_name": "Surf Skiing",
+    "category": "Water Sports",
+    "event": "Surf Ski Race",
+    "wave_type": "Ocean Swell"
+  }
+]
+[
+  {
+    "sport_id": "S036",
+    "sport_name": "Fencing",
+    "category": "Individual Sports",
+    "discipline": "Epee",
+    "competition_type": "Olympic Fencing"
+  },
+  {
+    "sport_id": "S037",
+    "sport_name": "Paddleboarding",
+    "category": "Water Sports",
+    "event": "SUP Racing",
+    "water_type": "Flatwater"
+  },
+  {
+    "sport_id": "S038",
+    "sport_name": "Handball",
+    "category": "Team Sports",
+    "players_per_team": 7,
+    "court_type": "Indoor",
+    "league": "European Handball Federation Champions League"
+  },
+  {
+    "sport_id": "S039",
+    "sport_name": "Equestrian",
+    "category": "Individual Sports",
+    "discipline": "Show Jumping",
+    "course_type": "Obstacle Course"
+  },
+  {
+    "sport_id": "S040",
+    "sport_name": "Snowboarding",
+    "category": "Winter Sports",
+    "event": "Halfpipe",
+    "slope_type": "Snow"
+  },
+  {
+    "sport_id": "S041",
+    "sport_name": "Kiteboarding",
+    "category": "Water Sports",
+    "discipline": "Freestyle",
+    "wind_conditions": "Kitesurfing World Cup"
+  },
+  {
+    "sport_id": "S042",
+    "sport_name": "Speed Skating",
+    "category": "Winter Sports",
+    "event": "500m",
+    "rink_type": "Ice"
+  },
+  {
+    "sport_id": "S043",
+    "sport_name": "Mixed Martial Arts (MMA)",
+    "category": "Martial Arts",
+    "weight_classes": ["Flyweight", "Lightweight", "Middleweight", "Heavyweight"],
+    "organization": "Ultimate Fighting Championship (UFC)"
+  },
+  {
+    "sport_id": "S044",
+    "sport_name": "Rowing",
+    "category": "Water Sports",
+    "boat_type": "Eight",
+    "regatta": "Oxford and Cambridge Boat Race"
+  },
+  {
+    "sport_id": "S045",
+    "sport_name": "Wheelchair Basketball",
+    "category": "Parasports",
+    "players_per_team": 5,
+    "court_type": "Indoor",
+    "tournament": "Paralympic Games"
+  }
+]
+[
+  {
+    "sport_id": "S046",
+    "sport_name": "Synchronized Swimming",
+    "category": "Aquatic Sports",
+    "team_size": 8,
+    "pool_type": "Artistic Swimming",
+    "event": "Olympic Synchronized Swimming"
+  },
+  {
+    "sport_id": "S047",
+    "sport_name": "Taekwondo",
+    "category": "Martial Arts",
+    "weight_classes": ["Featherweight", "Welterweight", "Heavyweight"],
+    "competition_type": "World Taekwondo Championships"
+  },
+  {
+    "sport_id": "S048",
+    "sport_name": "Mountain Climbing",
+    "category": "Adventure Sports",
+    "climbing_type": "Rock Climbing",
+    "difficulty_level": "Advanced"
+  },
+  {
+    "sport_id": "S049",
+    "sport_name": "Ski Jumping",
+    "category": "Winter Sports",
+    "event": "Large Hill Individual",
+    "slope_type": "Snow"
+  },
+  {
+    "sport_id": "S050",
+    "sport_name": "Canoe Polo",
+    "category": "Water Sports",
+    "players_per_team": 5,
+    "competition_type": "World Canoe Polo Championships"
+  },
+  {
+    "sport_id": "S051",
+    "sport_name": "Inline Skating",
+    "category": "Roller Sports",
+    "race_type": "Marathon",
+    "track_type": "Road"
+  },
+  {
+    "sport_id": "S052",
+    "sport_name": "Pentathlon",
+    "category": "Multi-Sport",
+    "events": ["Fencing", "Swimming", "Show Jumping", "Running", "Shooting"],
+    "competition_type": "Modern Pentathlon World Championships"
+  },
+  {
+    "sport_id": "S053",
+    "sport_name": "Freestyle Skiing",
+    "category": "Winter Sports",
+    "event": "Slopestyle",
+    "slope_type": "Snow"
+  },
+  {
+    "sport_id": "S054",
+    "sport_name": "Bocce",
+    "category": "Ball Sports",
+    "court_type": "Outdoor",
+    "tournament": "Bocce World Championship"
+  },
+  {
+    "sport_id": "S055",
+    "sport_name": "Inline Hockey",
+    "category": "Roller Sports",
+    "players_per_team": 5,
+    "rink_type": "Inline Skating Rink"
+  }
+]
+[
+  {
+    "sport_id": "S056",
+    "sport_name": "Rhythmic Gymnastics",
+    "category": "Artistic Sports",
+    "individual_or_group": "Group",
+    "apparatus": ["Hoop", "Ball", "Clubs", "Ribbon"]
+  },
+  {
+    "sport_id": "S057",
+    "sport_name": "Sled Dog Racing",
+    "category": "Winter Sports",
+    "race_type": "Sprint",
+    "sled_type": "Dog Sled"
+  },
+  {
+    "sport_id": "S058",
+    "sport_name": "Surf Lifesaving",
+    "category": "Water Sports",
+    "events": ["Swim", "Board Race", "Ironman/Ironwoman"],
+    "beach_type": "Ocean"
+  },
+  {
+    "sport_id": "S059",
+    "sport_name": "Wheelchair Rugby",
+    "category": "Parasports",
+    "players_per_team": 4,
+    "court_type": "Indoor",
+    "tournament": "Paralympic Games"
+  },
+  {
+    "sport_id": "S060",
+    "sport_name": "Wakeboarding",
+    "category": "Water Sports",
+    "tricks": ["Jump", "Spin", "Flips"],
+    "cable_type": "Cable Park"
+  },
+  {
+    "sport_id": "S061",
+    "sport_name": "Tug of War",
+    "category": "Team Sports",
+    "players_per_team": 8,
+    "rope_type": "Natural Fiber",
+    "tournament": "Tug of War International Federation World Championships"
+  },
+  {
+    "sport_id": "S062",
+    "sport_name": "Paragliding",
+    "category": "Aerial Sports",
+    "discipline": "Cross Country",
+    "launch_type": "Foot Launch"
+  },
+  {
+    "sport_id": "S063",
+    "sport_name": "Skateboarding",
+    "category": "Roller Sports",
+    "event": "Street League Skateboarding",
+    "obstacles": ["Rails", "Stairs", "Hubbas"]
+  },
+  {
+    "sport_id": "S064",
+    "sport_name": "Curling",
+    "category": "Winter Sports",
+    "players_per_team": 4,
+    "sheet_type": "Ice",
+    "tournament": "World Curling Championships"
+  },
+  {
+    "sport_id": "S065",
+    "sport_name": "Snowmobiling",
+    "category": "Motor Sports",
+    "event": "Snowmobile Freestyle",
+    "terrain_type": "Snow"
+  }
+]
