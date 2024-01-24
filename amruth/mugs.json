@@ -1,0 +1,298 @@
+{
+  "mugs": [
+    {
+      "Brand": "UrbanUtopia",
+      "Material": "Ceramic",
+      "Price": 7.99,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "SilkSip",
+      "Material": "Porcelain",
+      "Price": 9.29,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "CopperCraft",
+      "Material": "Copper",
+      "Price": 21.99,
+      "Region": "North America"
+    },
+    {
+      "Brand": "NatureNook",
+      "Material": "Bamboo",
+      "Price": 11.49,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "QuartzQuench",
+      "Material": "Stone",
+      "Price": 18.79,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "SteelSip",
+      "Material": "Stainless Steel",
+      "Price": 14.39,
+      "Region": "North America"
+    },
+    {
+      "Brand": "EcoElegance",
+      "Material": "Recycled Glass",
+      "Price": 15.99,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "ArtisanAvenue",
+      "Material": "Clay",
+      "Price": 17.49,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "MapleMug",
+      "Material": "Wood",
+      "Price": 10.59,
+      "Region": "North America"
+    },
+    {
+      "Brand": "SlateSculpt",
+      "Material": "Slate",
+      "Price": 20.49,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "BambooBrew",
+      "Material": "Bamboo",
+      "Price": 8.89,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "RusticRelics",
+      "Material": "Metal",
+      "Price": 22.99,
+      "Region": "North America"
+    },
+    {
+      "Brand": "GreenGrove",
+      "Material": "Recycled Glass",
+      "Price": 13.29,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "StoneSip",
+      "Material": "Stone",
+      "Price": 19.79,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "WoodenWave",
+      "Material": "Wood",
+      "Price": 11.79,
+      "Region": "North America"
+    },
+    {
+      "Brand": "CeramicCharm",
+      "Material": "Ceramic",
+      "Price": 9.49,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "GlassGlimmer",
+      "Material": "Glass",
+      "Price": 16.99,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "SteelStyle",
+      "Material": "Stainless Steel",
+      "Price": 14.79,
+      "Region": "North America"
+    },
+    {
+      "Brand": "BambooBurst",
+      "Material": "Bamboo",
+      "Price": 10.29,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "EcoEssence",
+      "Material": "Recycled Glass",
+      "Price": 15.49,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "ClayCraft",
+      "Material": "Clay",
+      "Price": 16.29,
+      "Region": "North America"
+    },
+    {
+      "Brand": "WoodenWhirl",
+      "Material": "Wood",
+      "Price": 12.99,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "MetalMystique",
+      "Material": "Metal",
+      "Price": 18.49,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "BambooBloom",
+      "Material": "Bamboo",
+      "Price": 9.69,
+      "Region": "North America"
+    },
+    {
+      "Brand": "CeramicCraft",
+      "Material": "Ceramic",
+      "Price": 10.99,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "StainlessSip",
+      "Material": "Stainless Steel",
+      "Price": 13.49,
+      "Region": "North America"
+    },
+    {
+      "Brand": "EcoElegance",
+      "Material": "Bamboo",
+      "Price": 8.29,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "CraftyClay",
+      "Material": "Clay",
+      "Price": 14.99,
+      "Region": "North America"
+    },
+    {
+      "Brand": "GreenGrove",
+      "Material": "Recycled Glass",
+      "Price": 11.79,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "WoodenWonders",
+      "Material": "Wood",
+      "Price": 12.89,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "BambooBurst",
+      "Material": "Bamboo",
+      "Price": 9.19,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "SculptedStone",
+      "Material": "Stone",
+      "Price": 16.49,
+      "Region": "North America"
+    },
+    {
+      "Brand": "RusticRelics",
+      "Material": "Metal",
+      "Price": 17.99,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "GlassGlimmer",
+      "Material": "Glass",
+      "Price": 14.29,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "SteelSculpt",
+      "Material": "Stainless Steel",
+      "Price": 15.89,
+      "Region": "North America"
+    },
+    {
+      "Brand": "BambooBreeze",
+      "Material": "Bamboo",
+      "Price": 10.49,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "EcoEssence",
+      "Material": "Recycled Glass",
+      "Price": 13.79,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "ClayCraft",
+      "Material": "Clay",
+      "Price": 16.29,
+      "Region": "North America"
+    },
+    {
+      "Brand": "WoodenWhirl",
+      "Material": "Wood",
+      "Price": 12.99,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "MetalMystique",
+      "Material": "Metal",
+      "Price": 18.49,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "BambooBloom",
+      "Material": "Bamboo",
+      "Price": 9.69,
+      "Region": "North America"
+    },
+    {
+      "Brand": "CeramicCharm",
+      "Material": "Ceramic",
+      "Price": 11.49,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "GlassGlow",
+      "Material": "Glass",
+      "Price": 15.99,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "SteelStyle",
+      "Material": "Stainless Steel",
+      "Price": 14.79,
+      "Region": "North America"
+    },
+    {
+      "Brand": "BambooBurst",
+      "Material": "Bamboo",
+      "Price": 10.29,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "EcoEssence",
+      "Material": "Recycled Glass",
+      "Price": 13.49,
+      "Region": "Europe"
+    },
+    {
+      "Brand": "ClayCraft",
+      "Material": "Clay",
+      "Price": 16.19,
+      "Region": "North America"
+    },
+    {
+      "Brand": "WoodenWave",
+      "Material": "Wood",
+      "Price": 12.89,
+      "Region": "Asia"
+    },
+    {
+      "Brand": "MetalMingle",
+      "Material": "Metal",
+      "Price": 18.99,
+      "Region": "Europe"
+    }
+  ]
+}
