@@ -1,0 +1,193 @@
+{
+  "sports": [
+    {
+      "Sport_Name": "Football",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 22,
+      "Equipment_Used": "Football, goalposts",
+      "Description": "Football is a team sport played between two teams of eleven players each. The objective is to score goals by getting the ball into the opposing team's goal."
+    },
+    {
+      "Sport_Name": "Basketball",
+      "Country_of_Origin": "United States",
+      "Number_of_Players": 10,
+      "Equipment_Used": "Basketball, hoop",
+      "Description": "Basketball is a fast-paced game played between two teams of five players each. The objective is to score points by shooting a ball through the opposing team's hoop."
+    },
+    {
+      "Sport_Name": "Tennis",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 2 (singles) or 4 (doubles),
+      "Equipment_Used": "Tennis racket, tennis ball",
+      "Description": "Tennis is a racket sport played either between two players (singles) or four players (doubles). The players aim to score points by hitting the ball over the net into the opponent's court."
+    },
+    {
+      "Sport_Name": "Cricket",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 11,
+      "Equipment_Used": "Cricket bat, ball, stumps",
+      "Description": "Cricket is a bat-and-ball game played between two teams of eleven players each. The batting team tries to score runs, while the bowling and fielding team aims to dismiss the batsmen."
+    },
+    {
+      "Sport_Name": "Swimming",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Swimsuit, cap, goggles",
+      "Description": "Swimming is an individual or team sport where participants move through water using various strokes. It is a common recreational activity and a competitive sport."
+    },
+    {
+      "Sport_Name": "Golf",
+      "Country_of_Origin": "Scotland",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Golf clubs, golf ball",
+      "Description": "Golf is a precision club-and-ball sport where players aim to complete a course with the fewest possible strokes. It is often played in a natural landscape with hazards like bunkers and water features."
+    },
+    {
+      "Sport_Name": "Table Tennis",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 1 (singles) or 2 (doubles),
+      "Equipment_Used": "Table tennis paddle, ball, table",
+      "Description": "Table Tennis, also known as Ping Pong, is a fast-paced indoor sport played between two players (singles) or four players (doubles). Players use paddles to hit a lightweight ball over a net on a rectangular table."
+    },
+    {
+      "Sport_Name": "Volleyball",
+      "Country_of_Origin": "United States",
+      "Number_of_Players": 6,
+      "Equipment_Used": "Volleyball, net",
+      "Description": "Volleyball is a team sport played between two teams of six players each. The objective is to score points by sending the ball over the net and into the opponent's court."
+    },
+    {
+      "Sport_Name": "Baseball",
+      "Country_of_Origin": "United States",
+      "Number_of_Players": 9,
+      "Equipment_Used": "Baseball bat, ball, gloves",
+      "Description": "Baseball is a bat-and-ball game played between two teams of nine players each. The batting team aims to score runs by hitting a pitched ball and running around bases."
+    },
+    {
+      "Sport_Name": "Athletics",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Various (e.g., running shoes, javelin, shot put)",
+      "Description": "Athletics, also known as track and field, includes various sports such as running, jumping, throwing, and walking. It can be competed individually or as part of a team."
+    },
+    {
+      "Sport_Name": "Badminton",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 1 (singles) or 2 (doubles),
+      "Equipment_Used": "Badminton racket, shuttlecock",
+      "Description": "Badminton is a racquet sport played between two players (singles) or four players (doubles). The players use a shuttlecock to score points by landing it in the opponent's court."
+    },
+    {
+      "Sport_Name": "Hockey",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 11 (field hockey) or 6 (ice hockey),
+      "Equipment_Used": "Hockey stick, ball (field hockey) or puck (ice hockey)",
+      "Description": "Hockey is a team sport played between two teams. In field hockey, players use a stick to control and shoot a ball into the opponent's goal. In ice hockey, players use skates to control a puck on an ice rink."
+    },
+    {
+      "Sport_Name": "Cycling",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Bicycle, helmet",
+      "Description": "Cycling includes various forms such as road cycling, track cycling, and mountain biking. It can be competed individually or as part of a team, and participants use bicycles for competition."
+    },
+    {
+      "Sport_Name": "Boxing",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": 2,
+      "Equipment_Used": "Boxing gloves, mouthguard",
+      "Description": "Boxing is a combat sport where two participants, known as boxers, engage in a contest of strength, speed, reflexes, and strategy. The objective is to land punches on the opponent while avoiding their punches."
+    },
+    {
+      "Sport_Name": "Rugby",
+      "Country_of_Origin": "England",
+      "Number_of_Players": 15 (rugby union) or 13 (rugby league),
+      "Equipment_Used": "Rugby ball, protective gear",
+      "Description": "Rugby is a team sport played between two teams of players. In rugby union, teams aim to score points by carrying or kicking the ball over the opponent's goal line. In rugby league, the rules and gameplay differ slightly."
+    },
+    {
+      "Sport_Name": "Gymnastics",
+      "Country_of_Origin": "Greece",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Various (e.g., parallel bars, balance beam)",
+      "Description": "Gymnastics involves performing exercises that require strength, flexibility, balance, and coordination. It can be competed individually or as part of a team, with participants using various apparatus."
+    },
+    {
+      "Sport_Name": "Golf",
+      "Country_of_Origin": "Scotland",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Golf clubs, golf ball",
+      "Description": "Golf is a precision club-and-ball sport where players aim to complete a course with the fewest possible strokes. It is often played in a natural landscape with hazards like bunkers and water features."
+    },
+    {
+      "Sport_Name": "Archery",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Bow, arrows",
+      "Description": "Archery involves using a bow to shoot arrows at a target. It can be competed individually or as part of a team, with participants aiming for accuracy and precision."
+    },
+    {
+      "Sport_Name": "Skiing",
+      "Country_of_Origin": "Norway",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Skis, poles, boots",
+      "Description": "Skiing is a winter sport where participants slide over snow using skis. It can include various disciplines such as alpine skiing, cross-country skiing, and freestyle skiing."
+    },
+    {
+      "Sport_Name": "Martial Arts",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Varies by discipline (e.g., belts, gloves)",
+      "Description": "Martial arts encompass a wide range of combat and self-defense practices. Different martial arts have specific rules, techniques, and equipment used in training and competition."
+    },
+    {
+      "Sport_Name": "Rowing",
+      "Country_of_Origin": "Egypt",
+      "Number_of_Players": Team,
+      "Equipment_Used": "Rowing boat, oars",
+      "Description": "Rowing involves propelling a boat using oars. It is often done as a team sport with multiple rowers working in sync to navigate through water courses."
+    },
+    {
+      "Sport_Name": "Equestrian",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Horse, saddle, bridle",
+      "Description": "Equestrian sports involve horseback riding and include disciplines such as dressage, show jumping, and eventing. Participants showcase their skills in controlling and guiding horses through various tasks."
+    },
+    {
+      "Sport_Name": "Surfing",
+      "Country_of_Origin": "Hawaii",
+      "Number_of_Players": Individual,
+      "Equipment_Used": "Surfboard",
+      "Description": "Surfing is a water sport where participants ride on the surface of waves using a surfboard. It combines elements of skill, balance, and wave-reading to navigate and perform maneuvers on the waves."
+    },
+    {
+      "Sport_Name": "Fencing",
+      "Country_of_Origin": "Various",
+      "Number_of_Players": Individual or team,
+      "Equipment_Used": "Foil, epee, sabre",
+      "Description": "Fencing is a combat sport where participants use bladed weapons, such as foils, epees, and sabres, to score points by making contact with the opponent. It can be competed individually or as part of a team."
+    },
+    {
+      "Sport_Name": "Weightlifting",
+      "Country_of_Origin": "Greece",
+      "Number_of_Players": Individual,
+      "Equipment_Used": "Barbell, weights",
+      "Description": "Weightlifting is a strength sport where participants lift weights in a controlled manner. It involves two lifts: the snatch and the clean and jerk, each requiring strength, technique, and precision."
+    },
+    {
+      "Sport_Name": "Skateboarding",
+      "Country_of_Origin": "United States",
+      "Number_of_Players": Individual,
+      "Equipment_Used": "Skateboard",
+      "Description": "Skateboarding is a sport and recreational activity where participants ride and perform tricks on a skateboard. It is known for its diverse styles, including street, park, and vert skateboarding."
+    },
+    {
+      "Sport_Name": "Sailing",
+      "Country_of_Origin": "Netherlands",
+      "Number_of_Players": Team,
+      "Equipment_Used": "Sailboat",
+      "Description": "Sailing involves using wind to propel a sailboat. It can be competed individually or as part of a team, with participants navigating water courses and adjusting sails to maximize speed."
+    }
+  ]
+}
