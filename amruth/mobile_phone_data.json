@@ -1,0 +1,340 @@
+{
+  "mobile_phone_data": [
+    {
+      "Brand": "Apple",
+      "Model": "iPhone 13",
+      "Storage_GB": 128,
+      "Price_USD": 999.99
+    },
+    {
+      "Brand": "Samsung",
+      "Model": "Galaxy S21",
+      "Storage_GB": 256,
+      "Price_USD": 799.99
+    },
+    {
+      "Brand": "Google",
+      "Model": "Pixel 6",
+      "Storage_GB": 128,
+      "Price_USD": 699.99
+    },
+    {
+      "Brand": "OnePlus",
+      "Model": "9 Pro",
+      "Storage_GB": 256,
+      "Price_USD": 899.99
+    },
+    {
+      "Brand": "Xiaomi",
+      "Model": "Mi 11",
+      "Storage_GB": 128,
+      "Price_USD": 599.99
+    },
+    {
+      "Brand": "Huawei",
+      "Model": "P40",
+      "Storage_GB": 256,
+      "Price_USD": 699.99
+    },
+    {
+      "Brand": "Sony",
+      "Model": "Xperia 1 III",
+      "Storage_GB": 256,
+      "Price_USD": 1099.99
+    },
+    {
+      "Brand": "LG",
+      "Model": "Wing",
+      "Storage_GB": 128,
+      "Price_USD": 849.99
+    },
+    {
+      "Brand": "Motorola",
+      "Model": "Edge+",
+      "Storage_GB": 256,
+      "Price_USD": 799.99
+    },
+    {
+      "Brand": "Nokia",
+      "Model": "8.3",
+      "Storage_GB": 128,
+      "Price_USD": 499.99
+    },
+    {
+      "Brand": "Oppo",
+      "Model": "Find X3 Pro",
+      "Storage_GB": 256,
+      "Price_USD": 899.99
+    },
+    {
+      "Brand": "Realme",
+      "Model": "GT",
+      "Storage_GB": 128,
+      "Price_USD": 499.99
+    },
+    {
+      "Brand": "Vivo",
+      "Model": "X60 Pro",
+      "Storage_GB": 256,
+      "Price_USD": 749.99
+    },
+    {
+      "Brand": "Asus",
+      "Model": "ROG Phone 5",
+      "Storage_GB": 128,
+      "Price_USD": 999.99
+    },
+    {
+      "Brand": "BlackBerry",
+      "Model": "KEY2",
+      "Storage_GB": 64,
+      "Price_USD": 649.99
+    },
+    {
+      "Brand": "Lenovo",
+      "Model": "Legion Phone Duel 2",
+      "Storage_GB": 256,
+      "Price_USD": 1099.99
+    },
+    {
+      "Brand": "ZTE",
+      "Model": "Axon 30 Ultra",
+      "Storage_GB": 256,
+      "Price_USD": 799.99
+    },
+    {
+      "Brand": "Alcatel",
+      "Model": "1S",
+      "Storage_GB": 32,
+      "Price_USD": 129.99
+    },
+    {
+      "Brand": "TCL",
+    "Model": "20 Pro 5G",
+    "Storage_GB": 128,
+    "Price_USD": 499.99
+    },
+    {
+      "Brand": "Infinix",
+      "Model": "Zero X Pro",
+      "Storage_GB": 256,
+      "Price_USD": 349.99
+    },
+    {
+      "Brand": "Meizu",
+      "Model": "18",
+      "Storage_GB": 128,
+      "Price_USD": 799.99
+    },
+    {
+      "Brand": "Sharp",
+      "Model": "Aquos R6",
+      "Storage_GB": 256,
+      "Price_USD": 1099.99
+    },
+    {
+      "Brand": "Nubia",
+      "Model": "Red Magic 6 Pro",
+      "Storage_GB": 128,
+      "Price_USD": 699.99
+    },
+    {
+      "Brand": "Poco",
+      "Model": "X3 GT",
+      "Storage_GB": 128,
+      "Price_USD": 299.99
+    },
+    {
+      "Brand": "CAT",
+      "Model": "S62 Pro",
+      "Storage_GB": 128,
+      "Price_USD": 699.99
+    },
+    {
+      "Brand": "Honor",
+      "Model": "50",
+      "Storage_GB": 128,
+      "Price_USD": 499.99
+    },
+    {
+      "Brand": "Redmi",
+      "Model": "Note 10 Pro",
+      "Storage_GB": 128,
+      "Price_USD": 249.99
+    },
+    {
+      "Brand": "Energizer",
+      "Model": "Power Max P18K Pop",
+      "Storage_GB": 128,
+      "Price_USD": 999.99
+    },
+     {
+      "Brand": "Google",
+      "Model": "Pixel 5a",
+      "Storage_GB": 128,
+      "Price_USD": 449.99
+    },
+    {
+      "Brand": "Motorola",
+      "Model": "Moto G Power (2021)",
+      "Storage_GB": 64,
+      "Price_USD": 249.99
+    },
+    {
+      "Brand": "Sony",
+      "Model": "Xperia 10 III",
+      "Storage_GB": 128,
+      "Price_USD": 599.99
+    },
+    {
+      "Brand": "Xiaomi",
+      "Model": "Redmi Note 9 Pro",
+      "Storage_GB": 128,
+      "Price_USD": 279.99
+    },
+    {
+      "Brand": "OnePlus",
+      "Model": "Nord CE 5G",
+      "Storage_GB": 256,
+      "Price_USD": 399.99
+    },
+    {
+      "Brand": "Samsung",
+      "Model": "Galaxy A52s 5G",
+      "Storage_GB": 128,
+      "Price_USD": 499.99
+    },
+    {
+      "Brand": "Nokia",
+      "Model": "G20",
+      "Storage_GB": 64,
+      "Price_USD": 199.99
+    },
+    {
+      "Brand": "Realme",
+      "Model": "C25",
+      "Storage_GB": 64,
+      "Price_USD": 149.99
+    },
+    {
+      "Brand": "Vivo",
+      "Model": "Y21s",
+      "Storage_GB": 128,
+      "Price_USD": 189.99
+    },
+    {
+      "Brand": "Oppo",
+      "Model": "A94",
+      "Storage_GB": 128,
+      "Price_USD": 329.99
+    },
+    {
+      "Brand": "LG",
+      "Model": "K92 5G",
+      "Storage_GB": 128,
+      "Price_USD": 349.99
+    },
+    {
+      "Brand": "Huawei",
+      "Model": "Mate 40 Pro",
+      "Storage_GB": 256,
+      "Price_USD": 1199.99
+    },
+    {
+      "Brand": "Asus",
+      "Model": "Zenfone 8",
+      "Storage_GB": 256,
+      "Price_USD": 699.99
+    },
+    {
+      "Brand": "BlackBerry",
+      "Model": "Key3",
+      "Storage_GB": 128,
+      "Price_USD": 699.99
+    },
+    {
+      "Brand": "Lenovo",
+      "Model": "K12 Note",
+      "Storage_GB": 64,
+      "Price_USD": 159.99
+    },
+    {
+      "Brand": "ZTE",
+      "Model": "Blade V2021 5G",
+      "Storage_GB": 128,
+      "Price_USD": 299.99
+    },
+    {
+      "Brand": "Alcatel",
+      "Model": "3L (2021)",
+      "Storage_GB": 64,
+      "Price_USD": 129.99
+    },
+    {
+      "Brand": "TCL",
+      "Model": "10 Plus",
+      "Storage_GB": 64,
+      "Price_USD": 199.99
+    },
+    {
+      "Brand": "Infinix",
+      "Model": "Hot 10",
+      "Storage_GB": 128,
+      "Price_USD": 149.99
+    },
+    {
+      "Brand": "Meizu",
+      "Model": "Note 9",
+      "Storage_GB": 64,
+      "Price_USD": 179.99
+    },
+    {
+      "Brand": "Sharp",
+      "Model": "Aquos Zero 2",
+      "Storage_GB": 128,
+      "Price_USD": 799.99
+    },
+    {
+      "Brand": "Nubia",
+      "Model": "Red Magic 7",
+      "Storage_GB": 256,
+      "Price_USD": 899.99
+    },
+    {
+      "Brand": "Poco",
+      "Model": "F3",
+      "Storage_GB": 256,
+      "Price_USD": 349.99
+    },
+    {
+      "Brand": "CAT",
+      "Model": "S42",
+      "Storage_GB": 64,
+      "Price_USD": 499.99
+    },
+    {
+      "Brand": "Honor",
+      "Model": "30",
+      "Storage_GB": 128,
+      "Price_USD": 349.99
+    },
+    {
+      "Brand": "Redmi",
+      "Model": "9T",
+      "Storage_GB": 128,
+      "Price_USD": 229.99
+    },
+    {
+      "Brand": "Energizer",
+      "Model": "Ultimate U680S",
+      "Storage_GB": 128,
+      "Price_USD": 149.99
+    },
+    {
+      "Brand": "Google",
+      "Model": "Pixel 6 Pro",
+      "Storage_GB": 256,
+      "Price_USD": 1099.99
+    }
+  ]
+}
