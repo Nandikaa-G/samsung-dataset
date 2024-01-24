@@ -1,0 +1,685 @@
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP001",
+      "first_name": "John",
+      "last_name": "Doe",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 85000,
+      "hire_date": "2020-05-15",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP002",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 70000,
+      "hire_date": "2019-09-10",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP003",
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "position": "HR Manager",
+      "department": "Human Resources",
+      "salary": 95000,
+      "hire_date": "2018-03-20",
+      "performance_rating": 4.8
+    },
+    {
+      "employee_id": "EMP004",
+      "first_name": "Emily",
+      "last_name": "Davis",
+      "position": "Financial Analyst",
+      "department": "Finance",
+      "salary": 78000,
+      "hire_date": "2021-01-08",
+      "performance_rating": 4.0
+    },
+    {
+      "employee_id": "EMP005",
+      "first_name": "David",
+      "last_name": "Brown",
+      "position": "Operations Manager",
+      "department": "Operations",
+      "salary": 90000,
+      "hire_date": "2017-07-05",
+      "performance_rating": 4.6
+    }
+    // Add more human resources entries as needed
+  ]
+}
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP006",
+      "first_name": "Sarah",
+      "last_name": "Clark",
+      "position": "Customer Support Specialist",
+      "department": "Customer Service",
+      "salary": 65000,
+      "hire_date": "2019-11-12",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP007",
+      "first_name": "Ryan",
+      "last_name": "Miller",
+      "position": "Sales Manager",
+      "department": "Sales",
+      "salary": 88000,
+      "hire_date": "2020-02-28",
+      "performance_rating": 4.7
+    },
+    {
+      "employee_id": "EMP008",
+      "first_name": "Amanda",
+      "last_name": "White",
+      "position": "IT Support Technician",
+      "department": "IT",
+      "salary": 72000,
+      "hire_date": "2018-06-17",
+      "performance_rating": 4.1
+    },
+    {
+      "employee_id": "EMP009",
+      "first_name": "Daniel",
+      "last_name": "Taylor",
+      "position": "Quality Assurance Analyst",
+      "department": "Quality Assurance",
+      "salary": 76000,
+      "hire_date": "2021-04-03",
+      "performance_rating": 4.4
+    },
+    {
+      "employee_id": "EMP010",
+      "first_name": "Megan",
+      "last_name": "Johnson",
+      "position": "Administrative Assistant",
+      "department": "Administration",
+      "salary": 60000,
+      "hire_date": "2019-03-15",
+      "performance_rating": 3.9
+    },
+    {
+      "employee_id": "EMP011",
+      "first_name": "Christopher",
+      "last_name": "Anderson",
+      "position": "Training Coordinator",
+      "department": "Training and Development",
+      "salary": 78000,
+      "hire_date": "2020-08-22",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP012",
+      "first_name": "Olivia",
+      "last_name": "Martin",
+      "position": "Graphic Designer",
+      "department": "Creative Services",
+      "salary": 71000,
+      "hire_date": "2018-12-10",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP013",
+      "first_name": "Jonathan",
+      "last_name": "Hall",
+      "position": "Project Manager",
+      "department": "Project Management",
+      "salary": 92000,
+      "hire_date": "2017-09-05",
+      "performance_rating": 4.9
+    },
+    {
+      "employee_id": "EMP014",
+      "first_name": "Sophia",
+      "last_name": "Ward",
+      "position": "Public Relations Specialist",
+      "department": "Public Relations",
+      "salary": 74000,
+      "hire_date": "2021-10-18",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP015",
+      "first_name": "Nicholas",
+      "last_name": "Baker",
+      "position": "Logistics Coordinator",
+      "department": "Logistics",
+      "salary": 80000,
+      "hire_date": "2019-05-30",
+      "performance_rating": 4.6
+    }
+    // Add more human resources entries as needed
+  ]
+}
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP016",
+      "first_name": "Emma",
+      "last_name": "Perez",
+      "position": "Legal Counsel",
+      "department": "Legal",
+      "salary": 95000,
+      "hire_date": "2018-04-12",
+      "performance_rating": 4.7
+    },
+    {
+      "employee_id": "EMP017",
+      "first_name": "Jason",
+      "last_name": "Cooper",
+      "position": "Business Analyst",
+      "department": "Business Analysis",
+      "salary": 82000,
+      "hire_date": "2019-06-25",
+      "performance_rating": 4.4
+    },
+    {
+      "employee_id": "EMP018",
+      "first_name": "Lauren",
+      "last_name": "Garcia",
+      "position": "Customer Relations Manager",
+      "department": "Customer Service",
+      "salary": 90000,
+      "hire_date": "2020-01-15",
+      "performance_rating": 4.6
+    },
+    {
+      "employee_id": "EMP019",
+      "first_name": "Dylan",
+      "last_name": "Parker",
+      "position": "Research Scientist",
+      "department": "Research and Development",
+      "salary": 86000,
+      "hire_date": "2021-03-08",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP020",
+      "first_name": "Isabella",
+      "last_name": "Turner",
+      "position": "Event Coordinator",
+      "department": "Event Management",
+      "salary": 70000,
+      "hire_date": "2017-08-20",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP021",
+      "first_name": "Logan",
+      "last_name": "Woods",
+      "position": "IT Security Specialist",
+      "department": "IT",
+      "salary": 88000,
+      "hire_date": "2020-09-10",
+      "performance_rating": 4.8
+    },
+    {
+      "employee_id": "EMP022",
+      "first_name": "Grace",
+      "last_name": "Flores",
+      "position": "Compensation Analyst",
+      "department": "Compensation and Benefits",
+      "salary": 75000,
+      "hire_date": "2018-11-05",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP023",
+      "first_name": "Ethan",
+      "last_name": "Barnes",
+      "position": "Facilities Manager",
+      "department": "Facilities",
+      "salary": 92000,
+      "hire_date": "2019-02-01",
+      "performance_rating": 4.9
+    },
+    {
+      "employee_id": "EMP024",
+      "first_name": "Ava",
+      "last_name": "Collins",
+      "position": "Publications Editor",
+      "department": "Editorial",
+      "salary": 78000,
+      "hire_date": "2021-04-20",
+      "performance_rating": 4.1
+    },
+    {
+      "employee_id": "EMP025",
+      "first_name": "Liam",
+      "last_name": "Hill",
+      "position": "Training Specialist",
+      "department": "Training and Development",
+      "salary": 76000,
+      "hire_date": "2018-07-15",
+      "performance_rating": 4.0
+    }
+    // Add more human resources entries as needed
+  ]
+}
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP026",
+      "first_name": "Aiden",
+      "last_name": "Carter",
+      "position": "Health and Safety Officer",
+      "department": "Safety and Compliance",
+      "salary": 80000,
+      "hire_date": "2019-10-10",
+      "performance_rating": 4.6
+    },
+    {
+      "employee_id": "EMP027",
+      "first_name": "Mia",
+      "last_name": "Fisher",
+      "position": "Internal Auditor",
+      "department": "Finance",
+      "salary": 87000,
+      "hire_date": "2020-11-28",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP028",
+      "first_name": "Caleb",
+      "last_name": "Stewart",
+      "position": "Social Media Specialist",
+      "department": "Marketing",
+      "salary": 72000,
+      "hire_date": "2018-05-17",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP029",
+      "first_name": "Evelyn",
+      "last_name": "Diaz",
+      "position": "Employee Relations Manager",
+      "department": "Human Resources",
+      "salary": 95000,
+      "hire_date": "2021-02-08",
+      "performance_rating": 4.8
+    },
+    {
+      "employee_id": "EMP030",
+      "first_name": "Gabriel",
+      "last_name": "Ward",
+      "position": "Business Development Analyst",
+      "department": "Business Development",
+      "salary": 83000,
+      "hire_date": "2017-06-05",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP031",
+      "first_name": "Hannah",
+      "last_name": "Evans",
+      "position": "Talent Acquisition Specialist",
+      "department": "Talent Acquisition",
+      "salary": 76000,
+      "hire_date": "2020-09-22",
+      "performance_rating": 4.4
+    },
+    {
+      "employee_id": "EMP032",
+      "first_name": "Connor",
+      "last_name": "Perry",
+      "position": "IT Project Manager",
+      "department": "IT",
+      "salary": 90000,
+      "hire_date": "2018-12-01",
+      "performance_rating": 4.7
+    },
+    {
+      "employee_id": "EMP033",
+      "first_name": "Scarlett",
+      "last_name": "Richardson",
+      "position": "Benefits Administrator",
+      "department": "Compensation and Benefits",
+      "salary": 74000,
+      "hire_date": "2019-03-15",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP034",
+      "first_name": "Jackson",
+      "last_name": "Roberts",
+      "position": "Facilities Coordinator",
+      "department": "Facilities",
+      "salary": 82000,
+      "hire_date": "2021-06-15",
+      "performance_rating": 4.0
+    },
+    {
+      "employee_id": "EMP035",
+      "first_name": "Madison",
+      "last_name": "Cruz",
+      "position": "Training and Development Manager",
+      "department": "Training and Development",
+      "salary": 92000,
+      "hire_date": "2018-08-20",
+      "performance_rating": 4.9
+    }
+    // Add more human resources entries as needed
+  ]
+}
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP036",
+      "first_name": "Landon",
+      "last_name": "Morgan",
+      "position": "Corporate Trainer",
+      "department": "Training and Development",
+      "salary": 78000,
+      "hire_date": "2019-11-10",
+      "performance_rating": 4.1
+    },
+    {
+      "employee_id": "EMP037",
+      "first_name": "Penelope",
+      "last_name": "Bailey",
+      "position": "Public Relations Manager",
+      "department": "Public Relations",
+      "salary": 89000,
+      "hire_date": "2020-02-28",
+      "performance_rating": 4.6
+    },
+    {
+      "employee_id": "EMP038",
+      "first_name": "Lucas",
+      "last_name": "Harrison",
+      "position": "Logistics Manager",
+      "department": "Logistics",
+      "salary": 85000,
+      "hire_date": "2018-06-17",
+      "performance_rating": 4.4
+    },
+    {
+      "employee_id": "EMP039",
+      "first_name": "Nora",
+      "last_name": "Ferguson",
+      "position": "IT Systems Administrator",
+      "department": "IT",
+      "salary": 76000,
+      "hire_date": "2021-04-03",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP040",
+      "first_name": "Eli",
+      "last_name": "Gomez",
+      "position": "Compensation and Benefits Manager",
+      "department": "Compensation and Benefits",
+      "salary": 92000,
+      "hire_date": "2017-07-05",
+      "performance_rating": 4.7
+    },
+    {
+      "employee_id": "EMP041",
+      "first_name": "Leah",
+      "last_name": "Wells",
+      "position": "Graphic Design Specialist",
+      "department": "Creative Services",
+      "salary": 71000,
+      "hire_date": "2020-08-22",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP042",
+      "first_name": "Henry",
+      "last_name": "Bennett",
+      "position": "Project Coordinator",
+      "department": "Project Management",
+      "salary": 88000,
+      "hire_date": "2018-12-10",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP043",
+      "first_name": "Stella",
+      "last_name": "Fletcher",
+      "position": "Customer Success Manager",
+      "department": "Customer Service",
+      "salary": 90000,
+      "hire_date": "2017-09-05",
+      "performance_rating": 4.9
+    },
+    {
+      "employee_id": "EMP044",
+      "first_name": "Owen",
+      "last_name": "Warren",
+      "position": "Legal Assistant",
+      "department": "Legal",
+      "salary": 75000,
+      "hire_date": "2021-10-18",
+      "performance_rating": 4.0
+    },
+    {
+      "employee_id": "EMP045",
+      "first_name": "Aria",
+      "last_name": "Nichols",
+      "position": "Sales Representative",
+      "department": "Sales",
+      "salary": 80000,
+      "hire_date": "2019-05-30",
+      "performance_rating": 4.8
+    }
+    // Add more human resources entries as needed
+  ]
+}
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP046",
+      "first_name": "Elijah",
+      "last_name": "Hudson",
+      "position": "Recruitment Specialist",
+      "department": "Talent Acquisition",
+      "salary": 78000,
+      "hire_date": "2019-10-10",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP047",
+      "first_name": "Bella",
+      "last_name": "Chavez",
+      "position": "Financial Controller",
+      "department": "Finance",
+      "salary": 95000,
+      "hire_date": "2020-11-28",
+      "performance_rating": 4.7
+    },
+    {
+      "employee_id": "EMP048",
+      "first_name": "Liam",
+      "last_name": "Ortega",
+      "position": "Marketing Coordinator",
+      "department": "Marketing",
+      "salary": 72000,
+      "hire_date": "2018-05-17",
+      "performance_rating": 4.1
+    },
+    {
+      "employee_id": "EMP049",
+      "first_name": "Claire",
+      "last_name": "Sanchez",
+      "position": "IT Support Specialist",
+      "department": "IT",
+      "salary": 76000,
+      "hire_date": "2021-04-03",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP050",
+      "first_name": "Harrison",
+      "last_name": "O'Connor",
+      "position": "Business Analyst",
+      "department": "Business Analysis",
+      "salary": 82000,
+      "hire_date": "2017-06-05",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP051",
+      "first_name": "Scarlett",
+      "last_name": "Gutierrez",
+      "position": "Employee Engagement Specialist",
+      "department": "Human Resources",
+      "salary": 95000,
+      "hire_date": "2020-02-28",
+      "performance_rating": 4.6
+    },
+    {
+      "employee_id": "EMP052",
+      "first_name": "Parker",
+      "last_name": "Nguyen",
+      "position": "Event Planner",
+      "department": "Event Management",
+      "salary": 70000,
+      "hire_date": "2017-08-20",
+      "performance_rating": 4.4
+    },
+    {
+      "employee_id": "EMP053",
+      "first_name": "Avery",
+      "last_name": "Mendez",
+      "position": "IT Security Analyst",
+      "department": "IT",
+      "salary": 88000,
+      "hire_date": "2020-09-10",
+      "performance_rating": 4.8
+    },
+    {
+      "employee_id": "EMP054",
+      "first_name": "Haley",
+      "last_name": "Fleming",
+      "position": "Compensation Analyst",
+      "department": "Compensation and Benefits",
+      "salary": 75000,
+      "hire_date": "2018-11-05",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP055",
+      "first_name": "Oscar",
+      "last_name": "Barrett",
+      "position": "Facilities Coordinator",
+      "department": "Facilities",
+      "salary": 82000,
+      "hire_date": "2021-06-15",
+      "performance_rating": 4.0
+    }
+    // Add more human resources entries as needed
+  ]
+}
+{
+  "human_resources_data": [
+    {
+      "employee_id": "EMP056",
+      "first_name": "Zoe",
+      "last_name": "Barnes",
+      "position": "Training Specialist",
+      "department": "Training and Development",
+      "salary": 78000,
+      "hire_date": "2019-11-10",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP057",
+      "first_name": "Evan",
+      "last_name": "Lopez",
+      "position": "Public Relations Coordinator",
+      "department": "Public Relations",
+      "salary": 89000,
+      "hire_date": "2020-02-28",
+      "performance_rating": 4.6
+    },
+    {
+      "employee_id": "EMP058",
+      "first_name": "Aria",
+      "last_name": "Hill",
+      "position": "Logistics Coordinator",
+      "department": "Logistics",
+      "salary": 85000,
+      "hire_date": "2018-06-17",
+      "performance_rating": 4.4
+    },
+    {
+      "employee_id": "EMP059",
+      "first_name": "Caleb",
+      "last_name": "Morgan",
+      "position": "IT Systems Administrator",
+      "department": "IT",
+      "salary": 76000,
+      "hire_date": "2021-04-03",
+      "performance_rating": 4.2
+    },
+    {
+      "employee_id": "EMP060",
+      "first_name": "Leah",
+      "last_name": "Butler",
+      "position": "Compensation and Benefits Manager",
+      "department": "Compensation and Benefits",
+      "salary": 92000,
+      "hire_date": "2017-07-05",
+      "performance_rating": 4.7
+    },
+    {
+      "employee_id": "EMP061",
+      "first_name": "Jackson",
+      "last_name": "Brooks",
+      "position": "Graphic Design Specialist",
+      "department": "Creative Services",
+      "salary": 71000,
+      "hire_date": "2020-08-22",
+      "performance_rating": 4.3
+    },
+    {
+      "employee_id": "EMP062",
+      "first_name": "Isabella",
+      "last_name": "Fisher",
+      "position": "Project Coordinator",
+      "department": "Project Management",
+      "salary": 88000,
+      "hire_date": "2018-12-10",
+      "performance_rating": 4.5
+    },
+    {
+      "employee_id": "EMP063",
+      "first_name": "Owen",
+      "last_name": "Perez",
+      "position": "Customer Success Manager",
+      "department": "Customer Service",
+      "salary": 90000,
+      "hire_date": "2017-09-05",
+      "performance_rating": 4.9
+    },
+    {
+      "employee_id": "EMP064",
+      "first_name": "Stella",
+      "last_name": "Reyes",
+      "position": "Legal Assistant",
+      "department": "Legal",
+      "salary": 75000,
+      "hire_date": "2021-10-18",
+      "performance_rating": 4.0
+    },
+    {
+      "employee_id": "EMP065",
+      "first_name": "Liam",
+      "last_name": "Henderson",
+      "position": "Sales Representative",
+      "department": "Sales",
+      "salary": 80000,
+      "hire_date": "2019-05-30",
+      "performance_rating": 4.8
+    }
+    // Add more human resources entries as needed
+  ]
+}
