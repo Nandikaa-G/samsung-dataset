@@ -1,0 +1,512 @@
+{
+  "albums": [
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "release_year": 1982,
+      "genre": "Pop"
+    },
+    {
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "release_year": 1973,
+      "genre": "Progressive Rock"
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "release_year": 1969,
+      "genre": "Rock"
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "release_year": 1980,
+      "genre": "Hard Rock"
+    },
+    {
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "release_year": 1977,
+      "genre": "Pop Rock"
+    },
+    {
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "release_year": 1979,
+      "genre": "Progressive Rock"
+    },
+    {
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "release_year": 1975,
+      "genre": "Rock"
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "release_year": 1982,
+      "genre": "Pop"
+    },
+    {
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "release_year": 1976,
+      "genre": "Rock"
+    },
+    {
+      "title": "Bad",
+      "artist": "Michael Jackson",
+      "release_year": 1987,
+      "genre": "Pop"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "release_year": 1975,
+      "genre": "Rock"
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "release_year": 2006,
+      "genre": "Soul"
+    },
+    {
+      "title": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "release_year": 2000,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "Graceland",
+      "artist": "Paul Simon",
+      "release_year": 1986,
+      "genre": "World Music"
+    },
+    {
+      "title": "Ride the Lightning",
+      "artist": "Metallica",
+      "release_year": 1984,
+      "genre": "Thrash Metal"
+    },
+    {
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "release_year": 2009,
+      "genre": "Pop"
+    },
+    {
+      "title": "The College Dropout",
+      "artist": "Kanye West",
+      "release_year": 2004,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "Rumors",
+      "artist": "Fleetwood Mac",
+      "release_year": 1977,
+      "genre": "Pop Rock"
+    },
+    {
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "release_year": 1979,
+      "genre": "Progressive Rock"
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "release_year": 1980,
+      "genre": "Hard Rock"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "A Day at the Races",
+      "artist": "Queen",
+      "release_year": 1976,
+      "genre": "Rock"
+    },
+    {
+      "title": "Backspacer",
+      "artist": "Pearl Jam",
+      "release_year": 2009,
+      "genre": "Alternative Rock"
+    },
+    {
+      "title": "Hunky Dory",
+      "artist": "David Bowie",
+      "release_year": 1971,
+      "genre": "Glam Rock"
+    },
+    {
+      "title": "Mellon Collie and the Infinite Sadness",
+      "artist": "The Smashing Pumpkins",
+      "release_year": 1995,
+      "genre": "Alternative Rock"
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "release_year": 1969,
+      "genre": "Rock"
+    },
+    {
+      "title": "Fearless",
+      "artist": "Taylor Swift",
+      "release_year": 2008,
+      "genre": "Country Pop"
+    },
+    {
+      "title": "Master of Puppets",
+      "artist": "Metallica",
+      "release_year": 1986,
+      "genre": "Thrash Metal"
+    },
+    {
+      "title": "The Fame",
+      "artist": "Lady Gaga",
+      "release_year": 2008,
+      "genre": "Pop"
+    },
+    {
+      "title": "Supernatural",
+      "artist": "Santana",
+      "release_year": 1999,
+      "genre": "Latin Rock"
+    },
+    {
+      "title": "The Joshua Tree",
+      "artist": "U2",
+      "release_year": 1987,
+      "genre": "Rock"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "Legend",
+      "artist": "Bob Marley & The Wailers",
+      "release_year": 1984,
+      "genre": "Reggae"
+    },
+    {
+      "title": "The Suburbs",
+      "artist": "Arcade Fire",
+      "release_year": 2010,
+      "genre": "Indie Rock"
+    },
+    {
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "release_year": 1977,
+      "genre": "Pop Rock"
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "release_year": 1970,
+      "genre": "Folk Rock"
+    },
+    {
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "release_year": 2013,
+      "genre": "Electronic"
+    },
+    {
+      "title": "The Velvet Underground & Nico",
+      "artist": "The Velvet Underground",
+      "release_year": 1967,
+      "genre": "Experimental Rock"
+    },
+    {
+      "title": "The Chronic",
+      "artist": "Dr. Dre",
+      "release_year": 1992,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "Back to Bedlam",
+      "artist": "James Blunt",
+      "release_year": 2004,
+      "genre": "Pop"
+    },
+    {
+      "title": "Tapestry",
+      "artist": "Carole King",
+      "release_year": 1971,
+      "genre": "Folk Pop"
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "artist": "The Beatles",
+      "release_year": 1967,
+      "genre": "Rock"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "Raising Sand",
+      "artist": "Robert Plant & Alison Krauss",
+      "release_year": 2007,
+      "genre": "Folk Rock"
+    },
+    {
+      "title": "Curtain Call: The Hits",
+      "artist": "Eminem",
+      "release_year": 2005,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "release_year": 2013,
+      "genre": "Electronic"
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "release_year": 1980,
+      "genre": "Hard Rock"
+    },
+    {
+      "title": "Ray of Light",
+      "artist": "Madonna",
+      "release_year": 1998,
+      "genre": "Pop"
+    },
+    {
+      "title": "Paranoid",
+      "artist": "Black Sabbath",
+      "release_year": 1970,
+      "genre": "Heavy Metal"
+    },
+    {
+      "title": "The Fame Monster",
+      "artist": "Lady Gaga",
+      "release_year": 2009,
+      "genre": "Pop"
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "release_year": 1959,
+      "genre": "Jazz"
+    },
+    {
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "release_year": 1999,
+      "genre": "Alternative Rock"
+    },
+    {
+      "title": "The Slim Shady LP",
+      "artist": "Eminem",
+      "release_year": 1999,
+      "genre": "Hip Hop"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "Achtung Baby",
+      "artist": "U2",
+      "release_year": 1991,
+      "genre": "Rock"
+    },
+    {
+      "title": "Sticky Fingers",
+      "artist": "The Rolling Stones",
+      "release_year": 1971,
+      "genre": "Rock"
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "release_year": 1969,
+      "genre": "Rock"
+    },
+    {
+      "title": "Songs in the Key of Life",
+      "artist": "Stevie Wonder",
+      "release_year": 1976,
+      "genre": "Soul"
+    },
+    {
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "release_year": 1979,
+      "genre": "Progressive Rock"
+    },
+    {
+      "title": "The College Dropout",
+      "artist": "Kanye West",
+      "release_year": 2004,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "Jagged Little Pill",
+      "artist": "Alanis Morissette",
+      "release_year": 1995,
+      "genre": "Alternative Rock"
+    },
+    {
+      "title": "Court and Spark",
+      "artist": "Joni Mitchell",
+      "release_year": 1974,
+      "genre": "Folk Jazz"
+    },
+    {
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "release_year": 1977,
+      "genre": "Pop Rock"
+    },
+    {
+      "title": "Black Sabbath",
+      "artist": "Black Sabbath",
+      "release_year": 1970,
+      "genre": "Heavy Metal"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "Lemonade",
+      "artist": "Beyoncé",
+      "release_year": 2016,
+      "genre": "R&B"
+    },
+    {
+      "title": "Led Zeppelin IV",
+      "artist": "Led Zeppelin",
+      "release_year": 1971,
+      "genre": "Hard Rock"
+    },
+    {
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "release_year": 1975,
+      "genre": "Rock"
+    },
+    {
+      "title": "Back to Black",
+      "artist": "Amy Winehouse",
+      "release_year": 2006,
+      "genre": "Soul"
+    },
+    {
+      "title": "Pet Sounds",
+      "artist": "The Beach Boys",
+      "release_year": 1966,
+      "genre": "Pop"
+    },
+    {
+      "title": "A Love Supreme",
+      "artist": "John Coltrane",
+      "release_year": 1965,
+      "genre": "Jazz"
+    },
+    {
+      "title": "The Stranger",
+      "artist": "Billy Joel",
+      "release_year": 1977,
+      "genre": "Pop Rock"
+    },
+    {
+      "title": "Synchronicity",
+      "artist": "The Police",
+      "release_year": 1983,
+      "genre": "New Wave"
+    },
+    {
+      "title": "Hounds of Love",
+      "artist": "Kate Bush",
+      "release_year": 1985,
+      "genre": "Art Pop"
+    },
+    {
+      "title": "At Folsom Prison",
+      "artist": "Johnny Cash",
+      "release_year": 1968,
+      "genre": "Country"
+    }
+  ]
+}
+{
+  "albums": [
+    {
+      "title": "Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "release_year": 1973,
+      "genre": "Progressive Rock"
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "release_year": 1980,
+      "genre": "Hard Rock"
+    },
+    {
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "release_year": 1977,
+      "genre": "Pop Rock"
+    },
+    {
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "release_year": 1970,
+      "genre": "Folk Rock"
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "release_year": 1982,
+      "genre": "Pop"
+    },
+    {
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "release_year": 1979,
+      "genre": "Progressive Rock"
+    },
+    {
+      "title": "A Night at the Opera",
+      "artist": "Queen",
+      "release_year": 1975,
+      "genre": "Rock"
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": "Miles Davis",
+      "release_year": 1959,
+      "genre": "Jazz"
+    },
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "release_year": 1969,
+      "genre": "Rock"
+    },
+    {
+      "title": "Backspacer",
+      "artist": "Pearl Jam",
+      "release_year": 2009,
+      "genre": "Alternative Rock"
+    }
+  ]
+}
