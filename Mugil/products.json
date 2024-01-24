@@ -1,0 +1,665 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brand": "ABC",
+      "category": "Electronics",
+      "price": 1200.00,
+      "stock": 50,
+      "description": "High-performance laptop with the latest specifications."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "brand": "XYZ",
+      "category": "Electronics",
+      "price": 600.00,
+      "stock": 100,
+      "description": "Feature-rich smartphone with a sleek design."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "brand": "AudioTech",
+      "category": "Electronics",
+      "price": 100.00,
+      "stock": 200,
+      "description": "Comfortable over-ear headphones with noise-cancellation."
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "brand": "FitGear",
+      "category": "Fashion",
+      "price": 80.00,
+      "stock": 150,
+      "description": "Durable and stylish running shoes for active individuals."
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "brand": "OutdoorAdventures",
+      "category": "Travel",
+      "price": 50.00,
+      "stock": 120,
+      "description": "Spacious and lightweight backpack for travel enthusiasts."
+    },
+    {
+      "id": 6,
+      "name": "Coffee Maker",
+      "brand": "BrewMaster",
+      "category": "Home Appliances",
+      "price": 80.00,
+      "stock": 80,
+      "description": "Automatic coffee maker for brewing your favorite beverages."
+    },
+    {
+      "id": 7,
+      "name": "Gaming Mouse",
+      "brand": "TechGamer",
+      "category": "Gaming Accessories",
+      "price": 40.00,
+      "stock": 100,
+      "description": "Precision gaming mouse with customizable RGB lighting."
+    },
+    {
+      "id": 8,
+      "name": "Digital Camera",
+      "brand": "SnapShot",
+      "category": "Photography",
+      "price": 300.00,
+      "stock": 30,
+      "description": "High-resolution digital camera for capturing memorable moments."
+    },
+    {
+      "id": 9,
+      "name": "Wireless Earbuds",
+      "brand": "SoundSync",
+      "category": "Electronics",
+      "price": 70.00,
+      "stock": 80,
+      "description": "Wireless earbuds with noise isolation and touch controls."
+    },
+    {
+      "id": 10,
+      "name": "Smart Watch",
+      "brand": "TechWear",
+      "category": "Wearable Tech",
+      "price": 150.00,
+      "stock": 60,
+      "description": "Smartwatch with fitness tracking and heart rate monitoring."
+    }
+    // Add more products as needed
+  ]
+}
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "4K Smart TV",
+      "brand": "VisualTech",
+      "category": "Electronics",
+      "price": 800.00,
+      "stock": 25,
+      "description": "Ultra HD Smart TV with built-in streaming services."
+    },
+    {
+      "id": 12,
+      "name": "Electric Blender",
+      "brand": "BlendMaster",
+      "category": "Home Appliances",
+      "price": 60.00,
+      "stock": 40,
+      "description": "Powerful electric blender for smoothies and food preparation."
+    },
+    {
+      "id": 13,
+      "name": "Leather Wallet",
+      "brand": "FashionCraft",
+      "category": "Fashion",
+      "price": 30.00,
+      "stock": 75,
+      "description": "Genuine leather wallet with multiple card slots and compartments."
+    },
+    {
+      "id": 14,
+      "name": "Desktop Computer",
+      "brand": "TechMega",
+      "category": "Electronics",
+      "price": 1500.00,
+      "stock": 15,
+      "description": "High-end desktop computer for gaming and professional use."
+    },
+    {
+      "id": 15,
+      "name": "Outdoor Tent",
+      "brand": "AdventureGear",
+      "category": "Camping",
+      "price": 120.00,
+      "stock": 20,
+      "description": "Durable and weather-resistant tent for outdoor adventures."
+    },
+    {
+      "id": 16,
+      "name": "Wireless Charging Pad",
+      "brand": "ChargeTech",
+      "category": "Electronics",
+      "price": 25.00,
+      "stock": 50,
+      "description": "Qi-compatible wireless charging pad for smartphones and accessories."
+    },
+    {
+      "id": 17,
+      "name": "Yoga Mat",
+      "brand": "ZenLife",
+      "category": "Fitness",
+      "price": 20.00,
+      "stock": 60,
+      "description": "Non-slip yoga mat for comfortable and effective workouts."
+    },
+    {
+      "id": 18,
+      "name": "Travel Mug",
+      "brand": "HydroFlask",
+      "category": "Travel",
+      "price": 15.00,
+      "stock": 100,
+      "description": "Insulated travel mug to keep your beverages hot or cold on the go."
+    },
+    {
+      "id": 19,
+      "name": "Robot Vacuum Cleaner",
+      "brand": "SmartClean",
+      "category": "Home Appliances",
+      "price": 200.00,
+      "stock": 30,
+      "description": "Smart robot vacuum with advanced cleaning features and app control."
+    },
+    {
+      "id": 20,
+      "name": "Bluetooth Speaker",
+      "brand": "AudioWave",
+      "category": "Electronics",
+      "price": 50.00,
+      "stock": 80,
+      "description": "Portable Bluetooth speaker with high-quality audio output."
+    }
+    // Add more products as needed
+  ]
+}
+{
+  "products": [
+    {
+      "id": 21,
+      "name": "Drones with Camera",
+      "brand": "SkyVision",
+      "category": "Electronics",
+      "price": 300.00,
+      "stock": 40,
+      "description": "Quadcopter drone with HD camera for aerial photography."
+    },
+    {
+      "id": 22,
+      "name": "Portable Power Bank",
+      "brand": "PowerBoost",
+      "category": "Electronics",
+      "price": 25.00,
+      "stock": 60,
+      "description": "Compact and high-capacity power bank for charging devices on the go."
+    },
+    {
+      "id": 23,
+      "name": "Chef's Knife Set",
+      "brand": "CulinaryCraft",
+      "category": "Kitchen",
+      "price": 70.00,
+      "stock": 30,
+      "description": "Premium chef's knife set for professional kitchen use."
+    },
+    {
+      "id": 24,
+      "name": "Fitness Tracker",
+      "brand": "HealthSync",
+      "category": "Wearable Tech",
+      "price": 40.00,
+      "stock": 50,
+      "description": "Smart fitness tracker with heart rate monitoring and activity tracking."
+    },
+    {
+      "id": 25,
+      "name": "Desktop Monitor",
+      "brand": "ViewScape",
+      "category": "Electronics",
+      "price": 250.00,
+      "stock": 20,
+      "description": "High-resolution desktop monitor with adjustable stand."
+    },
+    {
+      "id": 26,
+      "name": "Hiking Backpack",
+      "brand": "AdventurePlus",
+      "category": "Outdoor",
+      "price": 60.00,
+      "stock": 45,
+      "description": "Rugged hiking backpack with multiple compartments and hydration port."
+    },
+    {
+      "id": 27,
+      "name": "Wireless Gaming Controller",
+      "brand": "GameMasters",
+      "category": "Gaming Accessories",
+      "price": 50.00,
+      "stock": 35,
+      "description": "Wireless gaming controller with ergonomic design and customizable buttons."
+    },
+    {
+      "id": 28,
+      "name": "Smart Thermostat",
+      "brand": "ClimateControl",
+      "category": "Home Tech",
+      "price": 120.00,
+      "stock": 25,
+      "description": "Wi-Fi-enabled smart thermostat for efficient home temperature control."
+    },
+    {
+      "id": 29,
+      "name": "Rainbow LED Desk Lamp",
+      "brand": "ColorGlow",
+      "category": "Home Decor",
+      "price": 35.00,
+      "stock": 50,
+      "description": "Colorful LED desk lamp with adjustable brightness and lighting modes."
+    },
+    {
+      "id": 30,
+      "name": "Virtual Reality Headset",
+      "brand": "VRExperience",
+      "category": "Gaming Accessories",
+      "price": 200.00,
+      "stock": 15,
+      "description": "Immersive virtual reality headset for gaming and entertainment."
+    }
+    // Add more products as needed
+  ]
+}
+{
+  "products": [
+    {
+      "id": 31,
+      "name": "Ergonomic Office Chair",
+      "brand": "ComfortZone",
+      "category": "Office Furniture",
+      "price": 150.00,
+      "stock": 30,
+      "description": "Comfortable and adjustable office chair for long hours of work."
+    },
+    {
+      "id": 32,
+      "name": "Smart Doorbell",
+      "brand": "SecureHome",
+      "category": "Home Security",
+      "price": 120.00,
+      "stock": 25,
+      "description": "Wi-Fi-enabled smart doorbell with HD camera and motion detection."
+    },
+    {
+      "id": 33,
+      "name": "Solar-Powered Garden Lights",
+      "brand": "GreenGlow",
+      "category": "Outdoor Decor",
+      "price": 25.00,
+      "stock": 40,
+      "description": "Energy-efficient solar-powered lights for garden and outdoor spaces."
+    },
+    {
+      "id": 34,
+      "name": "Gourmet Coffee Beans",
+      "brand": "BeanBliss",
+      "category": "Food & Beverages",
+      "price": 18.00,
+      "stock": 60,
+      "description": "Premium gourmet coffee beans for a rich and aromatic brew."
+    },
+    {
+      "id": 35,
+      "name": "Bluetooth Noise-Canceling Earphones",
+      "brand": "SoundSilence",
+      "category": "Electronics",
+      "price": 80.00,
+      "stock": 35,
+      "description": "Wireless earphones with Bluetooth connectivity and active noise cancellation."
+    },
+    {
+      "id": 36,
+      "name": "Smart Home Lighting Kit",
+      "brand": "IlluminateSmart",
+      "category": "Home Automation",
+      "price": 180.00,
+      "stock": 20,
+      "description": "Smart lighting kit for customizable and energy-efficient home lighting."
+    },
+    {
+      "id": 37,
+      "name": "Folding Bicycle",
+      "brand": "UrbanCycle",
+      "category": "Outdoor Sports",
+      "price": 250.00,
+      "stock": 15,
+      "description": "Foldable and lightweight bicycle for urban commuting and recreation."
+    },
+    {
+      "id": 38,
+      "name": "Vintage Vinyl Record Player",
+      "brand": "RetroSound",
+      "category": "Electronics",
+      "price": 120.00,
+      "stock": 30,
+      "description": "Vintage-style record player for playing vinyl records with classic charm."
+    },
+    {
+      "id": 39,
+      "name": "Air Purifier",
+      "brand": "PureAir",
+      "category": "Home Essentials",
+      "price": 100.00,
+      "stock": 25,
+      "description": "HEPA air purifier for improving indoor air quality and reducing allergens."
+    },
+    {
+      "id": 40,
+      "name": "Compact Travel Telescope",
+      "brand": "StellarView",
+      "category": "Outdoor Gear",
+      "price": 70.00,
+      "stock": 20,
+      "description": "Compact telescope for stargazing during travel and outdoor adventures."
+    }
+    // Add more products as needed
+  ]
+}
+{
+  "products": [
+    {
+      "id": 41,
+      "name": "Wireless Charging Desk Lamp",
+      "brand": "TechGlow",
+      "category": "Electronics",
+      "price": 45.00,
+      "stock": 40,
+      "description": "Desk lamp with wireless charging capabilities for smartphones."
+    },
+    {
+      "id": 42,
+      "name": "Portable Bluetooth Printer",
+      "brand": "PrintPal",
+      "category": "Office Supplies",
+      "price": 80.00,
+      "stock": 30,
+      "description": "Compact and portable Bluetooth-enabled printer for on-the-go printing."
+    },
+    {
+      "id": 43,
+      "name": "Solar-Powered Backpack",
+      "brand": "SunChaser",
+      "category": "Travel",
+      "price": 60.00,
+      "stock": 25,
+      "description": "Backpack with built-in solar panels for charging devices while on the move."
+    },
+    {
+      "id": 44,
+      "name": "Smart Refrigerator",
+      "brand": "CoolTech",
+      "category": "Home Appliances",
+      "price": 1200.00,
+      "stock": 10,
+      "description": "Smart refrigerator with touchscreen display, Wi-Fi, and food management features."
+    },
+    {
+      "id": 45,
+      "name": "Aromatherapy Diffuser",
+      "brand": "SerenityScents",
+      "category": "Home Decor",
+      "price": 35.00,
+      "stock": 50,
+      "description": "Aromatherapy diffuser for creating a calming atmosphere with essential oils."
+    },
+    {
+      "id": 46,
+      "name": "Professional Drawing Tablet",
+      "brand": "ArtTech",
+      "category": "Art & Design",
+      "price": 200.00,
+      "stock": 15,
+      "description": "Digital drawing tablet with pressure sensitivity and customizable shortcut keys."
+    },
+    {
+      "id": 47,
+      "name": "Futuristic VR Gloves",
+      "brand": "VRMotion",
+      "category": "Gaming Accessories",
+      "price": 120.00,
+      "stock": 20,
+      "description": "Virtual reality gloves for immersive gaming experiences and hand tracking."
+    },
+    {
+      "id": 48,
+      "name": "Smart Water Bottle",
+      "brand": "HydraTech",
+      "category": "Fitness",
+      "price": 25.00,
+      "stock": 40,
+      "description": "Water bottle with built-in hydration reminders and tracking features."
+    },
+    {
+      "id": 49,
+      "name": "Biodegradable Bamboo Toothbrush Set",
+      "brand": "EcoSmile",
+      "category": "Health & Wellness",
+      "price": 15.00,
+      "stock": 60,
+      "description": "Environmentally friendly toothbrush set made from biodegradable bamboo."
+    },
+    {
+      "id": 50,
+      "name": "Compact Folding Solar Charger",
+      "brand": "SunCharge",
+      "category": "Outdoor Tech",
+      "price": 40.00,
+      "stock": 30,
+      "description": "Compact solar charger for powering electronic devices during outdoor activities."
+    }
+    // Add more products as needed
+  ]
+}
+{
+  "products": [
+    {
+      "id": 51,
+      "name": "Smart Home Security Camera",
+      "brand": "SecureGuard",
+      "category": "Home Security",
+      "price": 90.00,
+      "stock": 25,
+      "description": "Wireless smart security camera with motion detection and two-way audio."
+    },
+    {
+      "id": 52,
+      "name": "Adjustable Standing Desk",
+      "brand": "ErgoRise",
+      "category": "Office Furniture",
+      "price": 200.00,
+      "stock": 20,
+      "description": "Motorized adjustable standing desk for a flexible and ergonomic workspace."
+    },
+    {
+      "id": 53,
+      "name": "Reusable Stainless Steel Water Bottle",
+      "brand": "EcoHydrate",
+      "category": "Fitness",
+      "price": 18.00,
+      "stock": 50,
+      "description": "Durable and eco-friendly stainless steel water bottle for hydration on the go."
+    },
+    {
+      "id": 54,
+      "name": "AI-Powered Language Translator Device",
+      "brand": "LingoTech",
+      "category": "Travel",
+      "price": 120.00,
+      "stock": 15,
+      "description": "Artificial intelligence language translator for seamless communication in multiple languages."
+    },
+    {
+      "id": 55,
+      "name": "Biometric Fingerprint Door Lock",
+      "brand": "SecureEntry",
+      "category": "Home Security",
+      "price": 150.00,
+      "stock": 30,
+      "description": "Biometric door lock with fingerprint recognition for enhanced home security."
+    },
+    {
+      "id": 56,
+      "name": "Collapsible Camping Cookware Set",
+      "brand": "CampChef",
+      "category": "Outdoor Cooking",
+      "price": 40.00,
+      "stock": 40,
+      "description": "Compact and lightweight cookware set for camping and outdoor cooking."
+    },
+    {
+      "id": 57,
+      "name": "Interactive Educational Robot for Kids",
+      "brand": "EduBot",
+      "category": "Toys & Games",
+      "price": 80.00,
+      "stock": 25,
+      "description": "Educational robot designed to engage and entertain kids while promoting learning."
+    },
+    {
+      "id": 58,
+      "name": "Solar-Powered Outdoor Security Light",
+      "brand": "SunGuard",
+      "category": "Outdoor Security",
+      "price": 35.00,
+      "stock": 35,
+      "description": "Solar-powered outdoor light with motion sensor for enhanced security."
+    },
+    {
+      "id": 59,
+      "name": "Bamboo Laptop Stand",
+      "brand": "EcoTech",
+      "category": "Office Accessories",
+      "price": 30.00,
+      "stock": 50,
+      "description": "Eco-friendly bamboo laptop stand for comfortable and elevated computing."
+    },
+    {
+      "id": 60,
+      "name": "Compact Foldable Drone",
+      "brand": "SkyExplorer",
+      "category": "Electronics",
+      "price": 180.00,
+      "stock": 20,
+      "description": "Compact and foldable drone with HD camera for aerial photography and exploration."
+    }
+    // Add more products as needed
+  ]
+}
+{
+  "products": [
+    {
+      "id": 61,
+      "name": "Smart Plant Monitoring System",
+      "brand": "GreenThumb",
+      "category": "Home & Garden",
+      "price": 50.00,
+      "stock": 30,
+      "description": "Smart system for monitoring and managing the health of indoor plants."
+    },
+    {
+      "id": 62,
+      "name": "Travel-sized Portable Espresso Maker",
+      "brand": "EspressoExplorer",
+      "category": "Travel",
+      "price": 60.00,
+      "stock": 25,
+      "description": "Compact and portable espresso maker for coffee enthusiasts on the go."
+    },
+    {
+      "id": 63,
+      "name": "Biodegradable Phone Case",
+      "brand": "EcoShield",
+      "category": "Electronics Accessories",
+      "price": 15.00,
+      "stock": 50,
+      "description": "Environmentally friendly phone case made from biodegradable materials."
+    },
+    {
+      "id": 64,
+      "name": "Outdoor Hammock with Mosquito Net",
+      "brand": "RelaxHaven",
+      "category": "Outdoor Living",
+      "price": 40.00,
+      "stock": 40,
+      "description": "Comfortable hammock with an integrated mosquito net for outdoor relaxation."
+    },
+    {
+      "id": 65,
+      "name": "Solar-Powered Portable Fan",
+      "brand": "SunBreeze",
+      "category": "Outdoor Gear",
+      "price": 25.00,
+      "stock": 35,
+      "description": "Portable fan with solar panels for staying cool during outdoor activities."
+    },
+    {
+      "id": 66,
+      "name": "Bluetooth Karaoke Microphone",
+      "brand": "SingMaster",
+      "category": "Entertainment",
+      "price": 30.00,
+      "stock": 30,
+      "description": "Wireless karaoke microphone with Bluetooth connectivity for singing on the go."
+    },
+    {
+      "id": 67,
+      "name": "Adjustable Dumbbell Set",
+      "brand": "FitFlex",
+      "category": "Fitness",
+      "price": 120.00,
+      "stock": 20,
+      "description": "Adjustable dumbbell set for versatile strength training at home."
+    },
+    {
+      "id": 68,
+      "name": "Reusable Beeswax Food Wraps",
+      "brand": "EcoWrap",
+      "category": "Kitchen",
+      "price": 15.00,
+      "stock": 50,
+      "description": "Eco-friendly alternative to plastic wraps, made from reusable beeswax."
+    },
+    {
+      "id": 69,
+      "name": "Digital Piano with Weighted Keys",
+      "brand": "HarmonyKeys",
+      "category": "Music",
+      "price": 350.00,
+      "stock": 15,
+      "description": "Digital piano with weighted keys for a realistic playing experience."
+    },
+    {
+      "id": 70,
+      "name": "Smart Wi-Fi Pet Feeder",
+      "brand": "PetPal",
+      "category": "Pet Accessories",
+      "price": 80.00,
+      "stock": 25,
+      "description": "Wi-Fi-enabled pet feeder with programmable feeding schedules and camera."
+    }
+    // Add more products as needed
+  ]
+}
