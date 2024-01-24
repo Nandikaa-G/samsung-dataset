@@ -1,0 +1,332 @@
+{
+  "clothing_information": [
+    {
+      "Brand": "Nike",
+      "Category": "T-shirt",
+      "Size": "M",
+      "Color": "Red",
+      "Price_USD": 29.99,
+      "Stock_Quantity": 100
+    },
+    {
+      "Brand": "Adidas",
+      "Category": "Hoodie",
+      "Size": "L",
+      "Color": "Black",
+      "Price_USD": 49.99,
+      "Stock_Quantity": 75
+    },
+    {
+      "Brand": "Levi's",
+      "Category": "Jeans",
+      "Size": "32x32",
+      "Color": "Blue",
+      "Price_USD": 69.99,
+      "Stock_Quantity": 50
+    },
+    {
+      "Brand": "H&M",
+      "Category": "Dress",
+      "Size": "S",
+      "Color": "Green",
+      "Price_USD": 39.99,
+      "Stock_Quantity": 120
+    },
+    {
+      "Brand": "Zara",
+      "Category": "Jacket",
+      "Size": "XL",
+      "Color": "Brown",
+      "Price_USD": 79.99,
+      "Stock_Quantity": 60
+    },
+    {
+      "Brand": "Puma",
+      "Category": "Shorts",
+      "Size": "L",
+      "Color": "Yellow",
+      "Price_USD": 34.99,
+      "Stock_Quantity": 90
+    },
+    {
+      "Brand": "Tommy Hilfiger",
+      "Category": "Polo Shirt",
+      "Size": "M",
+      "Color": "White",
+      "Price_USD": 44.99,
+      "Stock_Quantity": 80
+    },
+    {
+      "Brand": "Calvin Klein",
+      "Category": "Sweater",
+      "Size": "S",
+      "Color": "Gray",
+      "Price_USD": 59.99,
+      "Stock_Quantity": 70
+    },
+    {
+      "Brand": "Ralph Lauren",
+      "Category": "Chinos",
+      "Size": "34x30",
+      "Color": "Beige",
+      "Price_USD": 89.99,
+      "Stock_Quantity": 40
+    },
+    {
+      "Brand": "Forever 21",
+      "Category": "Blouse",
+      "Size": "XS",
+      "Color": "Pink",
+      "Price_USD": 24.99,
+      "Stock_Quantity": 110
+    },
+    {
+      "Brand": "Gap",
+      "Category": "Cardigan",
+      "Size": "M",
+      "Color": "Navy",
+      "Price_USD": 54.99,
+      "Stock_Quantity": 65
+    },
+    {
+      "Brand": "Under Armour",
+      "Category": "Leggings",
+      "Size": "S",
+      "Color": "Purple",
+      "Price_USD": 42.99,
+      "Stock_Quantity": 85
+    },
+    {
+      "Brand": "Uniqlo",
+      "Category": "Sweatshirt",
+      "Size": "L",
+      "Color": "Black",
+      "Price_USD": 31.99,
+      "Stock_Quantity": 95
+    },
+    {
+      "Brand": "Columbia",
+      "Category": "Outdoor Jacket",
+      "Size": "XL",
+      "Color": "Green",
+      "Price_USD": 74.99,
+      "Stock_Quantity": 55
+    },
+    {
+      "Brand": "Fila",
+      "Category": "Tank Top",
+      "Size": "M",
+      "Color": "Blue",
+      "Price_USD": 27.99,
+      "Stock_Quantity": 105
+    },
+    {
+      "Brand": "Guess",
+      "Category": "Skirt",
+      "Size": "S",
+      "Color": "Red",
+      "Price_USD": 49.99,
+      "Stock_Quantity": 75
+    },
+    {
+      "Brand": "American Eagle",
+      "Category": "Flannel Shirt",
+      "Size": "M",
+      "Color": "Brown",
+      "Price_USD": 39.99,
+      "Stock_Quantity": 85
+    },
+    {
+      "Brand": "Zalando Basics",
+      "Category": "Sweatpants",
+      "Size": "L",
+      "Color": "Gray",
+      "Price_USD": 33.99,
+      "Stock_Quantity": 100
+    },
+    {
+      "Brand": "Mango",
+      "Category": "Blazer",
+      "Size": "M",
+      "Color": "Beige",
+      "Price_USD": 59.99,
+      "Stock_Quantity": 60
+    },
+    {
+      "Brand": "Hollister",
+      "Category": "Ripped Jeans",
+      "Size": "32x34",
+      "Color": "Blue",
+      "Price_USD": 69.99,
+      "Stock_Quantity": 50
+    },
+    {
+      "Brand": "Balenciaga",
+      "Category": "Hooded Sweatshirt",
+      "Size": "XL",
+      "Color": "Black",
+      "Price_USD": 99.99,
+      "Stock_Quantity": 30
+    },
+    {
+      "Brand": "Diesel",
+      "Category": "Denim Jacket",
+      "Size": "L",
+      "Color": "Blue",
+      "Price_USD": 79.99,
+      "Stock_Quantity": 40
+    },
+    {
+      "Brand": "Gap Kids",
+      "Category": "Children's T-shirt",
+      "Size": "S",
+      "Color": "Yellow",
+      "Price_USD": 19.99,
+      "Stock_Quantity": 120
+    },
+    {
+      "Brand": "Zara Man",
+      "Category": "Polo",
+      "Size": "M",
+      "Color": "White",
+      "Price_USD": 29.99,
+      "Stock_Quantity": 90
+    },
+    {
+      "Brand": "Old Navy",
+      "Category": "Cargo Pants",
+      "Size": "34x32",
+      "Color": "Khaki",
+      "Price_USD": 44.99,
+      "Stock_Quantity": 65
+    },
+    {
+      "Brand": "Forever 21 Kids",
+      "Category": "Kid's Dress",
+      "Size": "XS",
+      "Color": "Pink",
+      "Price_USD": 22.99,
+      "Stock_Quantity": 110
+    },
+    {
+      "Brand": "ASOS",
+      "Category": "Jumpsuit",
+      "Size": "S",
+      "Color": "Black",
+      "Price_USD": 37.99,
+      "Stock_Quantity": 80
+    },
+     {
+      "Brand": "H&M",
+      "Category": "Swimwear",
+      "Size": "M",
+      "Color": "Blue",
+      "Price_USD": 29.99,
+      "Stock_Quantity": 70
+    },
+    {
+      "Brand": "Zara",
+      "Category": "Sun Hat",
+      "Size": "One Size",
+      "Color": "Beige",
+      "Price_USD": 19.99,
+      "Stock_Quantity": 100
+    },
+    {
+      "Brand": "Tommy Hilfiger",
+      "Category": "Polo Dress",
+      "Size": "S",
+      "Color": "Navy",
+      "Price_USD": 54.99,
+      "Stock_Quantity": 50
+    },
+    {
+      "Brand": "Calvin Klein",
+      "Category": "Underwear Set",
+      "Size": "L",
+      "Color": "Black",
+      "Price_USD": 39.99,
+      "Stock_Quantity": 80
+    },
+    {
+      "Brand": "Ralph Lauren",
+      "Category": "Sweatpants",
+      "Size": "M",
+      "Color": "Gray",
+      "Price_USD": 49.99,
+      "Stock_Quantity": 60
+    },
+    {
+      "Brand": "Forever 21",
+      "Category": "Crop Top",
+      "Size": "XS",
+      "Color": "White",
+      "Price_USD": 14.99,
+      "Stock_Quantity": 90
+    },
+    {
+      "Brand": "Gap",
+      "Category": "Chino Shorts",
+      "Size": "L",
+      "Color": "Khaki",
+      "Price_USD": 34.99,
+      "Stock_Quantity": 75
+    },
+    {
+      "Brand": "Under Armour",
+      "Category": "Sports Bra",
+      "Size": "S",
+      "Color": "Pink",
+      "Price_USD": 24.99,
+      "Stock_Quantity": 110
+    },
+    {
+      "Brand": "Uniqlo",
+      "Category": "Flannel Shirt",
+      "Size": "XL",
+      "Color": "Red",
+      "Price_USD": 44.99,
+      "Stock_Quantity": 45
+    },
+    {
+      "Brand": "Columbia",
+      "Category": "Outdoor Pants",
+      "Size": "32x32",
+      "Color": "Green",
+      "Price_USD": 59.99,
+      "Stock_Quantity": 55
+    },
+    {
+      "Brand": "Fila",
+      "Category": "Socks",
+      "Size": "One Size",
+      "Color": "Blue",
+      "Price_USD": 9.99,
+      "Stock_Quantity": 150
+    },
+    {
+      "Brand": "Guess",
+      "Category": "Leather Jacket",
+      "Size": "M",
+      "Color": "Black",
+      "Price_USD": 89.99,
+      "Stock_Quantity": 30
+    },
+    {
+      "Brand": "American Eagle",
+      "Category": "Denim Shorts",
+      "Size": "S",
+      "Color": "Light Blue",
+      "Price_USD": 29.99,
+      "Stock_Quantity": 65
+    },
+    {
+      "Brand": "Zalando Basics",
+      "Category": "Hooded Sweatshirt",
+      "Size": "L",
+      "Color": "Gray",
+      "Price_USD": 37.99,
+      "Stock_Quantity": 85
+    }
+  ]
+}
