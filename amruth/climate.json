@@ -1,0 +1,193 @@
+{
+  "climate_information": [
+    {
+      "Location": "New York",
+      "Temperature_Celsius": 22.5,
+      "Humidity_Percentage": 65,
+      "Wind_Speed_kph": 15,
+      "Precipitation_mm": 2.3
+    },
+    {
+      "Location": "Los Angeles",
+      "Temperature_Celsius": 28.3,
+      "Humidity_Percentage": 50,
+      "Wind_Speed_kph": 10,
+      "Precipitation_mm": 0.5
+    },
+    {
+      "Location": "London",
+      "Temperature_Celsius": 18.7,
+      "Humidity_Percentage": 80,
+      "Wind_Speed_kph": 20,
+      "Precipitation_mm": 8.0
+    },
+    {
+      "Location": "Tokyo",
+      "Temperature_Celsius": 26.1,
+      "Humidity_Percentage": 70,
+      "Wind_Speed_kph": 12,
+      "Precipitation_mm": 3.5
+    },
+    {
+      "Location": "Sydney",
+      "Temperature_Celsius": 30.8,
+      "Humidity_Percentage": 55,
+      "Wind_Speed_kph": 18,
+      "Precipitation_mm": 1.0
+    },
+    {
+      "Location": "Mumbai",
+      "Temperature_Celsius": 31.5,
+      "Humidity_Percentage": 75,
+      "Wind_Speed_kph": 14,
+      "Precipitation_mm": 5.5
+    },
+    {
+      "Location": "Rio de Janeiro",
+      "Temperature_Celsius": 25.2,
+      "Humidity_Percentage": 65,
+      "Wind_Speed_kph": 22,
+      "Precipitation_mm": 4.2
+    },
+    {
+      "Location": "Cape Town",
+      "Temperature_Celsius": 23.9,
+      "Humidity_Percentage": 60,
+      "Wind_Speed_kph": 17,
+      "Precipitation_mm": 3.8
+    },
+    {
+      "Location": "Moscow",
+      "Temperature_Celsius": -2.8,
+      "Humidity_Percentage": 85,
+      "Wind_Speed_kph": 8,
+      "Precipitation_mm": 1.7
+    },
+    {
+      "Location": "Beijing",
+      "Temperature_Celsius": 12.4,
+      "Humidity_Percentage": 45,
+      "Wind_Speed_kph": 25,
+      "Precipitation_mm": 0.8
+    },
+    {
+      "Location": "Cairo",
+      "Temperature_Celsius": 36.7,
+      "Humidity_Percentage": 30,
+      "Wind_Speed_kph": 27,
+      "Precipitation_mm": 0.2
+    },
+    {
+      "Location": "Nairobi",
+      "Temperature_Celsius": 25.9,
+      "Humidity_Percentage": 70,
+      "Wind_Speed_kph": 16,
+      "Precipitation_mm": 4.8
+    },
+    {
+      "Location": "Toronto",
+      "Temperature_Celsius": 20.0,
+      "Humidity_Percentage": 55,
+      "Wind_Speed_kph": 14,
+      "Precipitation_mm": 2.1
+    },
+    {
+      "Location": "São Paulo",
+      "Temperature_Celsius": 27.6,
+      "Humidity_Percentage": 60,
+      "Wind_Speed_kph": 20,
+      "Precipitation_mm": 6.3
+    },
+    {
+      "Location": "Johannesburg",
+      "Temperature_Celsius": 24.3,
+      "Humidity_Percentage": 50,
+      "Wind_Speed_kph": 18,
+      "Precipitation_mm": 3.0
+    },
+    {
+      "Location": "Paris",
+      "Temperature_Celsius": 21.8,
+      "Humidity_Percentage": 75,
+      "Wind_Speed_kph": 12,
+      "Precipitation_mm": 5.7
+    },
+    {
+      "Location": "Delhi",
+      "Temperature_Celsius": 35.2,
+      "Humidity_Percentage": 40,
+      "Wind_Speed_kph": 30,
+      "Precipitation_mm": 0.6
+    },
+    {
+      "Location": "Bangkok",
+      "Temperature_Celsius": 29.5,
+      "Humidity_Percentage": 65,
+      "Wind_Speed_kph": 22,
+      "Precipitation_mm": 3.2
+    },
+    {
+      "Location": "Berlin",
+      "Temperature_Celsius": 19.4,
+      "Humidity_Percentage": 70,
+      "Wind_Speed_kph": 15,
+      "Precipitation_mm": 4.0
+    },
+    {
+      "Location": "Mexico City",
+      "Temperature_Celsius": 23.7,
+      "Humidity_Percentage": 55,
+      "Wind_Speed_kph": 10,
+      "Precipitation_mm": 1.5
+    },
+    {
+      "Location": "Dubai",
+      "Temperature_Celsius": 40.1,
+      "Humidity_Percentage": 20,
+      "Wind_Speed_kph": 35,
+      "Precipitation_mm": 0.1
+    },
+    {
+      "Location": "Hong Kong",
+      "Temperature_Celsius": 27.0,
+      "Humidity_Percentage": 75,
+      "Wind_Speed_kph": 20,
+      "Precipitation_mm": 2.6
+    },
+    {
+      "Location": "Rome",
+      "Temperature_Celsius": 24.6,
+      "Humidity_Percentage": 65,
+      "Wind_Speed_kph": 18,
+      "Precipitation_mm": 4.5
+    },
+    {
+      "Location": "Stockholm",
+      "Temperature_Celsius": 14.2,
+      "Humidity_Percentage": 50,
+      "Wind_Speed_kph": 10,
+      "Precipitation_mm": 1.8
+    },
+    {
+      "Location": "Singapore",
+      "Temperature_Celsius": 31.9,
+      "Humidity_Percentage": 80,
+      "Wind_Speed_kph": 25,
+      "Precipitation_mm": 5.0
+    },
+    {
+      "Location": "Istanbul",
+      "Temperature_Celsius": 29.8,
+      "Humidity_Percentage": 60,
+      "Wind_Speed_kph": 28,
+      "Precipitation_mm": 2.9
+    },
+    {
+      "Location": "Vancouver",
+      "Temperature_Celsius": 15.5,
+      "Humidity_Percentage": 45,
+      "Wind_Speed_kph": 16,
+      "Precipitation_mm": 1.2
+    }
+  ]
+}
