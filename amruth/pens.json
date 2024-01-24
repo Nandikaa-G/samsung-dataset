@@ -1,0 +1,396 @@
+{
+  "pens": [
+    {
+      "Brand": "Pilot",
+      "Model": "G2",
+      "Color": "Blue",
+      "Price": 2.49,
+      "UnitsSold": 500
+    },
+    {
+      "Brand": "BIC",
+      "Model": "Cristal",
+      "Color": "Black",
+      "Price": 1.29,
+      "UnitsSold": 700
+    },
+    {
+      "Brand": "Paper Mate",
+      "Model": "InkJoy 100",
+      "Color": "Red",
+      "Price": 1.99,
+      "UnitsSold": 450
+    },
+    {
+      "Brand": "Uni-ball",
+      "Model": "Signo RT1",
+      "Color": "Green",
+      "Price": 3.29,
+      "UnitsSold": 300
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Fine Point",
+      "Color": "Black",
+      "Price": 1.79,
+      "UnitsSold": 600
+    },
+    {
+      "Brand": "Pentel",
+      "Model": "EnerGel",
+      "Color": "Blue",
+      "Price": 2.99,
+      "UnitsSold": 400
+    },
+    {
+      "Brand": "Staedtler",
+      "Model": "Triplus Fineliner",
+      "Color": "Assorted",
+      "Price": 5.49,
+      "UnitsSold": 200
+    },
+    {
+      "Brand": "Zebra",
+      "Model": "F-301",
+      "Color": "Black",
+      "Price": 2.19,
+      "UnitsSold": 550
+    },
+    {
+      "Brand": "Crayola",
+      "Model": "Take Note",
+      "Color": "Violet",
+      "Price": 1.49,
+      "UnitsSold": 350
+    },
+    {
+      "Brand": "Muji",
+      "Model": "Gel Ink",
+      "Color": "Brown",
+      "Price": 3.79,
+      "UnitsSold": 250
+    },
+    {
+      "Brand": "Sakura",
+      "Model": "Pigma Micron",
+      "Color": "Black",
+      "Price": 4.99,
+      "UnitsSold": 150
+    },
+    {
+      "Brand": "Faber-Castell",
+      "Model": "Ecco Pigment",
+      "Color": "Green",
+      "Price": 2.89,
+      "UnitsSold": 300
+    },
+    {
+      "Brand": "Montblanc",
+      "Model": "Meisterstück Le Grand",
+      "Color": "Black",
+      "Price": 499.99,
+      "UnitsSold": 10
+    },
+    {
+      "Brand": "Lamy",
+      "Model": "Safari",
+      "Color": "Yellow",
+      "Price": 19.99,
+      "UnitsSold": 50
+    },
+    {
+      "Brand": "Cross",
+      "Model": "Century II",
+      "Color": "Blue",
+      "Price": 99.99,
+      "UnitsSold": 30
+    },
+    {
+      "Brand": "Pilot",
+      "Model": "Precise V5",
+      "Color": "Red",
+      "Price": 2.79,
+      "UnitsSold": 200
+    },
+    {
+      "Brand": "Stabilo",
+      "Model": "Point 88",
+      "Color": "Orange",
+      "Price": 1.69,
+      "UnitsSold": 400
+    },
+    {
+      "Brand": "Pentel",
+      "Model": "R.S.V.P.",
+      "Color": "Black",
+      "Price": 2.29,
+      "UnitsSold": 300
+    },
+    {
+      "Brand": "Zebra",
+      "Model": "Sarasa Clip",
+      "Color": "Pink",
+      "Price": 2.49,
+      "UnitsSold": 250
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Ultra Fine Point",
+      "Color": "Green",
+      "Price": 1.89,
+      "UnitsSold": 350
+    },
+    {
+      "Brand": "Uni-ball",
+      "Model": "Jetstream",
+      "Color": "Blue",
+      "Price": 3.49,
+      "UnitsSold": 180
+    },
+    {
+      "Brand": "BIC",
+      "Model": "Velocity",
+      "Color": "Black",
+      "Price": 2.09,
+      "UnitsSold": 400
+    },
+    {
+      "Brand": "Paper Mate",
+      "Model": "Profile",
+      "Color": "Purple",
+      "Price": 2.59,
+      "UnitsSold": 220
+    },
+    {
+      "Brand": "Staedtler",
+      "Model": "Mars Lumograph",
+      "Color": "Graphite",
+      "Price": 0.99,
+      "UnitsSold": 600
+    },
+    {
+      "Brand": "Faber-Castell",
+      "Model": "Ballpoint Grip 2022",
+      "Color": "Turquoise",
+      "Price": 3.99,
+      "UnitsSold": 120
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Art Pens",
+      "Color": "Assorted",
+      "Price": 8.49,
+      "UnitsSold": 90
+    },
+    {
+      "Brand": "Pilot",
+      "Model": "FriXion Clicker",
+      "Color": "Erasable Blue",
+      "Price": 4.29,
+      "UnitsSold": 180
+    },
+    {
+      "Brand": "Pentel",
+      "Model": "Finito Porous Point",
+      "Color": "Black",
+      "Price": 2.79,
+      "UnitsSold": 300
+    },
+     {
+      "Brand": "Zebra",
+      "Model": "G-301",
+      "Color": "Silver",
+      "Price": 3.59,
+      "UnitsSold": 150
+    },
+    {
+      "Brand": "Pilot",
+      "Model": "Acroball",
+      "Color": "Purple",
+      "Price": 2.89,
+      "UnitsSold": 200
+    },
+    {
+      "Brand": "Staedtler",
+      "Model": "Triplus Ball",
+      "Color": "Assorted",
+      "Price": 4.49,
+      "UnitsSold": 120
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Brush Tip",
+      "Color": "Black",
+      "Price": 2.99,
+      "UnitsSold": 180
+    },
+    {
+      "Brand": "Uni-ball",
+      "Model": "Vision Elite",
+      "Color": "Blue",
+      "Price": 4.79,
+      "UnitsSold": 100
+    },
+    {
+      "Brand": "BIC",
+      "Model": "Intensity",
+      "Color": "Red",
+      "Price": 1.99,
+      "UnitsSold": 250
+    },
+    {
+      "Brand": "Pentel",
+      "Model": "EnerGel Alloy",
+      "Color": "Gold",
+      "Price": 5.99,
+      "UnitsSold": 80
+    },
+    {
+      "Brand": "Paper Mate",
+      "Model": "Flair",
+      "Color": "Turquoise",
+      "Price": 2.69,
+      "UnitsSold": 150
+    },
+    {
+      "Brand": "Faber-Castell",
+      "Model": "PITT Artist Pen",
+      "Color": "Sepia",
+      "Price": 4.29,
+      "UnitsSold": 100
+    },
+    {
+      "Brand": "Zebra",
+      "Model": "Sarasa Grand",
+      "Color": "Rose Gold",
+      "Price": 6.49,
+      "UnitsSold": 70
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Clear View",
+      "Color": "Yellow",
+      "Price": 3.19,
+      "UnitsSold": 120
+    },
+    {
+      "Brand": "Lamy",
+      "Model": "Al-Star",
+      "Color": "Copper Orange",
+      "Price": 29.99,
+      "UnitsSold": 40
+    },
+    {
+      "Brand": "Pilot",
+      "Model": "Varsity",
+      "Color": "Assorted",
+      "Price": 7.99,
+      "UnitsSold": 60
+    },
+    {
+      "Brand": "Uni-ball",
+      "Model": "Air",
+      "Color": "Pink",
+      "Price": 3.89,
+      "UnitsSold": 90
+    },
+    {
+      "Brand": "BIC",
+      "Model": "4-Color Ballpoint Pen",
+      "Color": "Assorted",
+      "Price": 2.49,
+      "UnitsSold": 180
+    },
+    {
+      "Brand": "Paper Mate",
+      "Model": "EraserMate",
+      "Color": "Green",
+      "Price": 1.79,
+      "UnitsSold": 200
+    },
+    {
+      "Brand": "Pentel",
+      "Model": "Hybrid Technica",
+      "Color": "Black",
+      "Price": 4.99,
+      "UnitsSold": 100
+    },
+    {
+      "Brand": "Staedtler",
+      "Model": "Noris Digital",
+      "Color": "Silver",
+      "Price": 6.99,
+      "UnitsSold": 50
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Metallic Permanent Marker",
+      "Color": "Gold",
+      "Price": 3.99,
+      "UnitsSold": 80
+    },
+    {
+      "Brand": "Zebra",
+      "Model": "F-701",
+      "Color": "Stainless Steel",
+      "Price": 7.29,
+      "UnitsSold": 30
+    },
+    {
+      "Brand": "Faber-Castell",
+      "Model": "Ambition",
+      "Color": "OpArt White",
+      "Price": 49.99,
+      "UnitsSold": 20
+    },
+    {
+      "Brand": "Pilot",
+      "Model": "Plumix",
+      "Color": "Violet",
+      "Price": 9.49,
+      "UnitsSold": 40
+    },
+    {
+      "Brand": "Uni-ball",
+      "Model": "Kuru Toga",
+      "Color": "Blue-Black",
+      "Price": 5.69,
+      "UnitsSold": 60
+    },
+    {
+      "Brand": "BIC",
+      "Model": "Round Stic",
+      "Color": "Assorted",
+      "Price": 0.99,
+      "UnitsSold": 300
+    },
+    {
+      "Brand": "Paper Mate",
+      "Model": "Jellies",
+      "Color": "Neon",
+      "Price": 2.09,
+      "UnitsSold": 150
+    },
+    {
+      "Brand": "Pentel",
+      "Model": "Slicci",
+      "Color": "Brown",
+      "Price": 3.49,
+      "UnitsSold": 70
+    },
+    {
+      "Brand": "Staedtler",
+      "Model": "Ergosoft",
+      "Color": "Pastel",
+      "Price": 4.79,
+      "UnitsSold": 90
+    },
+    {
+      "Brand": "Sharpie",
+      "Model": "Brush Tip Art Pens",
+      "Color": "Assorted",
+      "Price": 8.99,
+      "UnitsSold": 40
+    }
+  ]
+}
