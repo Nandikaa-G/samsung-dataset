@@ -1,0 +1,409 @@
+{
+  "shoeInventory": [
+    {
+      "ProductID": 1,
+      "Brand": "Nike",
+      "Model": "Air Max",
+      "Size": "US 9",
+      "Color": "Black/White",
+      "Price": 120.0,
+      "InStock": 50
+    },
+    {
+      "ProductID": 2,
+      "Brand": "Adidas",
+      "Model": "Ultraboost",
+      "Size": "US 8.5",
+      "Color": "Grey/Green",
+      "Price": 140.0,
+      "InStock": 30
+    },
+    {
+      "ProductID": 3,
+      "Brand": "Puma",
+      "Model": "Clyde",
+      "Size": "US 10",
+      "Color": "Red/White",
+      "Price": 80.0,
+      "InStock": 20
+    },
+    {
+      "ProductID": 4,
+      "Brand": "Reebok",
+      "Model": "Classic Leather",
+      "Size": "US 9.5",
+      "Color": "White",
+      "Price": 90.0,
+      "InStock": 40
+    },
+    {
+      "ProductID": 5,
+      "Brand": "New Balance",
+      "Model": "990v5",
+      "Size": "US 11",
+      "Color": "Navy/Grey",
+      "Price": 170.0,
+      "InStock": 25
+    },
+    {
+      "ProductID": 6,
+      "Brand": "Converse",
+      "Model": "Chuck Taylor All Star",
+      "Size": "US 8",
+      "Color": "Black",
+      "Price": 60.0,
+      "InStock": 35
+    },
+    {
+      "ProductID": 7,
+      "Brand": "Vans",
+      "Model": "Old Skool",
+      "Size": "US 10.5",
+      "Color": "Blue/White",
+      "Price": 75.0,
+      "InStock": 28
+    },
+    {
+      "ProductID": 8,
+      "Brand": "Under Armour",
+      "Model": "Curry 8",
+      "Size": "US 12",
+      "Color": "Black/Yellow",
+      "Price": 150.0,
+      "InStock": 15
+    },
+    {
+      "ProductID": 9,
+      "Brand": "Skechers",
+      "Model": "Go Walk 6",
+      "Size": "US 7.5",
+      "Color": "Pink",
+      "Price": 55.0,
+      "InStock": 45
+    },
+    {
+      "ProductID": 10,
+      "Brand": "ASICS",
+      "Model": "Gel-Kayano 27",
+      "Size": "US 9",
+      "Color": "Silver/Blue",
+      "Price": 130.0,
+      "InStock": 22
+    },
+    {
+      "ProductID": 11,
+      "Brand": "Brooks",
+      "Model": "Ghost 13",
+      "Size": "US 8.5",
+      "Color": "Purple/Black",
+      "Price": 140.0,
+      "InStock": 18
+    },
+    {
+      "ProductID": 12,
+      "Brand": "Merrell",
+      "Model": "Moab 2",
+      "Size": "US 10",
+      "Color": "Brown",
+      "Price": 110.0,
+      "InStock": 32
+    },
+    {
+      "ProductID": 13,
+      "Brand": "Ecco",
+      "Model": "Soft 7",
+      "Size": "US 11.5",
+      "Color": "White",
+      "Price": 160.0,
+      "InStock": 20
+    },
+    {
+      "ProductID": 14,
+      "Brand": "Clarks",
+      "Model": "Desert Boot",
+      "Size": "US 8",
+      "Color": "Beeswax",
+      "Price": 120.0,
+      "InStock": 25
+    },
+    {
+      "ProductID": 15,
+      "Brand": "Timberland",
+      "Model": "6-Inch Premium",
+      "Size": "US 9.5",
+      "Color": "Wheat",
+      "Price": 180.0,
+      "InStock": 12
+    },
+    {
+      "ProductID": 16,
+      "Brand": "FILA",
+      "Model": "Disruptor II",
+      "Size": "US 7",
+      "Color": "White/Navy/Red",
+      "Price": 70.0,
+      "InStock": 38
+    },
+    {
+      "ProductID": 17,
+      "Brand": "Hoka One One",
+      "Model": "Bondi 7",
+      "Size": "US 11",
+      "Color": "Blue/Orange",
+      "Price": 160.0,
+      "InStock": 16
+    },
+    {
+      "ProductID": 18,
+      "Brand": "Salomon",
+      "Model": "Speedcross 5",
+      "Size": "US 10",
+      "Color": "Black/Red",
+      "Price": 130.0,
+      "InStock": 23
+    },
+    {
+      "ProductID": 19,
+      "Brand": "Mizuno",
+      "Model": "Wave Rider 24",
+      "Size": "US 8.5",
+      "Color": "Grey/Yellow",
+      "Price": 120.0,
+      "InStock": 28
+    },
+    {
+      "ProductID": 20,
+      "Brand": "Keen",
+      "Model": "Newport H2",
+      "Size": "US 12",
+      "Color": "Raven/Aluminum",
+      "Price": 100.0,
+      "InStock": 30
+    },
+    {
+      "ProductID": 21,
+      "Brand": "Under Armour",
+      "Model": "HOVR Phantom",
+      "Size": "US 9.5",
+      "Color": "Grey/Black",
+      "Price": 130.0,
+      "InStock": 15
+    },
+    {
+      "ProductID": 22,
+      "Brand": "ASICS",
+      "Model": "GT-2000 9",
+      "Size": "US 10",
+      "Color": "Blue/Silver",
+      "Price": 120.0,
+      "InStock": 25
+    },
+    {
+      "ProductID": 23,
+      "Brand": "Brooks",
+      "Model": "Launch 8",
+      "Size": "US 8",
+      "Color": "Pink/White",
+      "Price": 140.0,
+      "InStock": 20
+    },
+    {
+      "ProductID": 24,
+      "Brand": "Merrell",
+      "Model": "Jungle Moc",
+      "Size": "US 11",
+      "Color": "Gunsmoke",
+      "Price": 90.0,
+      "InStock": 30
+    },
+    {
+      "ProductID": 25,
+      "Brand": "Ecco",
+      "Model": "Biom Fjuel Train",
+      "Size": "US 8.5",
+      "Color": "Black",
+      "Price": 160.0,
+      "InStock": 18
+    },
+    {
+      "ProductID": 26,
+      "Brand": "Clarks",
+      "Model": "TriActive Run",
+      "Size": "US 10.5",
+      "Color": "Navy",
+      "Price": 110.0,
+      "InStock": 22
+    },
+    {
+      "ProductID": 27,
+      "Brand": "Timberland",
+      "Model": "Davis Square",
+      "Size": "US 9",
+      "Color": "Olive",
+      "Price": 80.0,
+      "InStock": 28
+    },
+    {
+      "ProductID": 28,
+      "Brand": "FILA",
+      "Model": "Ray Tracer",
+      "Size": "US 7.5",
+      "Color": "White/Red",
+      "Price": 75.0,
+      "InStock": 35
+    },
+    {
+      "ProductID": 29,
+      "Brand": "Hoka One One",
+      "Model": "Clifton 7",
+      "Size": "US 11",
+      "Color": "Grey/Yellow",
+      "Price": 130.0,
+      "InStock": 24
+    },
+    {
+      "ProductID": 30,
+      "Brand": "Salomon",
+      "Model": "XA Pro 3D",
+      "Size": "US 8",
+      "Color": "Black/Magnet",
+      "Price": 140.0,
+      "InStock": 32
+    },
+    {
+      "ProductID": 31,
+      "Brand": "Mizuno",
+      "Model": "Wave Sky 4",
+      "Size": "US 9.5",
+      "Color": "Silver/Blue",
+      "Price": 150.0,
+      "InStock": 20
+    },
+    {
+      "ProductID": 32,
+      "Brand": "Keen",
+      "Model": "Targhee III",
+      "Size": "US 10",
+      "Color": "Brown",
+      "Price": 120.0,
+      "InStock": 28
+    },
+    {
+      "ProductID": 33,
+      "Brand": "Under Armour",
+      "Model": "Charged Assert 9",
+      "Size": "US 8",
+      "Color": "Black/Red",
+      "Price": 85.0,
+      "InStock": 40
+    },
+    {
+      "ProductID": 34,
+      "Brand": "ASICS",
+      "Model": "Gel-Nimbus 23",
+      "Size": "US 12",
+      "Color": "Blue/Pink",
+      "Price": 160.0,
+      "InStock": 15
+    },
+    {
+      "ProductID": 35,
+      "Brand": "Brooks",
+      "Model": "Glycerin 19",
+      "Size": "US 8.5",
+      "Color": "Purple/Silver",
+      "Price": 150.0,
+      "InStock": 22
+    },
+    {
+      "ProductID": 36,
+      "Brand": "Merrell",
+      "Model": "Moab 2 Vent",
+      "Size": "US 11.5",
+      "Color": "Walnut",
+      "Price": 100.0,
+      "InStock": 18
+    },
+    {
+      "ProductID": 37,
+      "Brand": "Ecco",
+      "Model": "Soft 8",
+      "Size": "US 7",
+      "Color": "White/Beige",
+      "Price": 120.0,
+      "InStock": 30
+    },
+    {
+      "ProductID": 38,
+      "Brand": "Clarks",
+      "Model": "Un Adorn Lace",
+      "Size": "US 9",
+      "Color": "Navy",
+      "Price": 95.0,
+      "InStock": 25
+    },
+    {
+      "ProductID": 39,
+      "Brand": "Timberland",
+      "Model": "Mt. Maddsen",
+      "Size": "US 10.5",
+      "Color": "Brown",
+      "Price": 110.0,
+      "InStock": 20
+    },
+    {
+      "ProductID": 40,
+      "Brand": "FILA",
+      "Model": "Original Fitness",
+      "Size": "US 9",
+      "Color": "White/Navy",
+      "Price": 70.0,
+      "InStock": 35
+    },
+    {
+      "ProductID": 41,
+      "Brand": "Hoka One One",
+      "Model": "Speedgoat 4",
+      "Size": "US 8",
+      "Color": "Teal/Yellow",
+      "Price": 140.0,
+      "InStock": 28
+    },
+    {
+      "ProductID": 42,
+      "Brand": "Salomon",
+      "Model": "Sense Ride 4",
+      "Size": "US 11",
+      "Color": "Red/Black",
+      "Price": 130.0,
+      "InStock": 15
+    },
+    {
+      "ProductID": 43,
+      "Brand": "Mizuno",
+      "Model": "Wave Creation 20",
+      "Size": "US 8.5",
+      "Color": "Grey/Yellow",
+      "Price": 170.0,
+      "InStock": 24
+    },
+    {
+      "ProductID": 44,
+      "Brand": "Keen",
+      "Model": "Terradora II",
+      "Size": "US 7.5",
+      "Color": "Blue",
+      "Price": 95.0,
+      "InStock": 32
+    },
+    {
+      "ProductID": 45,
+      "Brand": "Under Armour",
+      "Model": "Charged Bandit 6",
+      "Size": "US 10",
+      "Color": "Black/Grey",
+      "Price": 110.0,
+      "InStock": 20
+    }
+  ]
+}
