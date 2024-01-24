@@ -1,0 +1,569 @@
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E001",
+      "date": "2023-01-15",
+      "location": "City Park",
+      "temperature": 18.5,
+      "humidity": 60,
+      "air_quality_index": 35
+    },
+    {
+      "observation_id": "E002",
+      "date": "2023-02-01",
+      "location": "Beach",
+      "temperature": 25.0,
+      "humidity": 75,
+      "water_quality": "Good"
+    },
+    {
+      "observation_id": "E003",
+      "date": "2023-03-10",
+      "location": "Forest Reserve",
+      "temperature": 12.0,
+      "humidity": 45,
+      "biodiversity_index": 85
+    },
+    {
+      "observation_id": "E004",
+      "date": "2023-04-05",
+      "location": "Urban Area",
+      "temperature": 20.5,
+      "humidity": 55,
+      "noise_level": 40
+    },
+    {
+      "observation_id": "E005",
+      "date": "2023-05-20",
+      "location": "Riverbank",
+      "temperature": 22.0,
+      "humidity": 65,
+      "water_quality": "Moderate"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E006",
+      "date": "2023-06-10",
+      "location": "Mountain Summit",
+      "temperature": 8.0,
+      "humidity": 30,
+      "air_quality_index": 25
+    },
+    {
+      "observation_id": "E007",
+      "date": "2023-07-01",
+      "location": "Coastal Wetland",
+      "temperature": 28.5,
+      "humidity": 80,
+      "water_quality": "Excellent"
+    },
+    {
+      "observation_id": "E008",
+      "date": "2023-08-15",
+      "location": "Desert Oasis",
+      "temperature": 38.0,
+      "humidity": 15,
+      "biodiversity_index": 70
+    },
+    {
+      "observation_id": "E009",
+      "date": "2023-09-05",
+      "location": "Industrial Area",
+      "temperature": 25.5,
+      "humidity": 50,
+      "pollution_level": "High"
+    },
+    {
+      "observation_id": "E010",
+      "date": "2023-10-20",
+      "location": "Coral Reef",
+      "temperature": 29.0,
+      "humidity": 70,
+      "water_quality": "Good"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E011",
+      "date": "2023-11-10",
+      "location": "Arctic Tundra",
+      "temperature": -15.0,
+      "humidity": 20,
+      "ice_coverage": "High"
+    },
+    {
+      "observation_id": "E012",
+      "date": "2023-12-01",
+      "location": "Urban Garden",
+      "temperature": 12.5,
+      "humidity": 40,
+      "green_coverage": "Moderate"
+    },
+    {
+      "observation_id": "E013",
+      "date": "2024-01-15",
+      "location": "Mangrove Forest",
+      "temperature": 30.0,
+      "humidity": 85,
+      "water_salinity": "Low"
+    },
+    {
+      "observation_id": "E014",
+      "date": "2024-02-05",
+      "location": "Grassland",
+      "temperature": 25.5,
+      "humidity": 55,
+      "wildlife_presence": "Abundant"
+    },
+    {
+      "observation_id": "E015",
+      "date": "2024-03-20",
+      "location": "River Delta",
+      "temperature": 18.0,
+      "humidity": 60,
+      "water_quality": "Good"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E016",
+      "date": "2024-04-10",
+      "location": "Alpine Meadow",
+      "temperature": 10.0,
+      "humidity": 35,
+      "wildflower_bloom": "Peak"
+    },
+    {
+      "observation_id": "E017",
+      "date": "2024-05-01",
+      "location": "Urban Rooftop Garden",
+      "temperature": 20.5,
+      "humidity": 50,
+      "green_coverage": "High"
+    },
+    {
+      "observation_id": "E018",
+      "date": "2024-06-15",
+      "location": "Volcanic Hot Springs",
+      "temperature": 40.0,
+      "humidity": 25,
+      "mineral_content": "High"
+    },
+    {
+      "observation_id": "E019",
+      "date": "2024-07-05",
+      "location": "Suburban Park",
+      "temperature": 28.5,
+      "humidity": 60,
+      "bird_species_count": 20
+    },
+    {
+      "observation_id": "E020",
+      "date": "2024-08-20",
+      "location": "Cave Ecosystem",
+      "temperature": 15.0,
+      "humidity": 70,
+      "bat_population": "Moderate"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E021",
+      "date": "2024-09-10",
+      "location": "Deep Sea Trench",
+      "temperature": 2.0,
+      "salinity": "High",
+      "marine_species_count": 50
+    },
+    {
+      "observation_id": "E022",
+      "date": "2024-10-01",
+      "location": "Urban Air Quality Monitoring",
+      "temperature": 22.5,
+      "humidity": 45,
+      "air_pollutants": {
+        "pm2.5": 18,
+        "ozone": 30,
+        "nitrogen_dioxide": 12
+      }
+    },
+    {
+      "observation_id": "E023",
+      "date": "2024-11-15",
+      "location": "Agricultural Field",
+      "temperature": 18.0,
+      "humidity": 55,
+      "soil_quality": "Fertile"
+    },
+    {
+      "observation_id": "E024",
+      "date": "2024-12-05",
+      "location": "National Park Wilderness",
+      "temperature": 15.5,
+      "humidity": 60,
+      "endangered_species_presence": "Yes"
+    },
+    {
+      "observation_id": "E025",
+      "date": "2025-01-20",
+      "location": "Urban Waste Recycling Center",
+      "temperature": 12.0,
+      "humidity": 50,
+      "recycling_efficiency": 85
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E026",
+      "date": "2025-02-10",
+      "location": "Polar Ice Cap",
+      "temperature": -30.0,
+      "ice_thickness": "Thick",
+      "penguin_population": 5000
+    },
+    {
+      "observation_id": "E027",
+      "date": "2025-03-01",
+      "location": "Urban Noise Pollution Monitoring",
+      "temperature": 25.5,
+      "humidity": 55,
+      "noise_level": 70
+    },
+    {
+      "observation_id": "E028",
+      "date": "2025-04-15",
+      "location": "Community Garden",
+      "temperature": 15.0,
+      "humidity": 60,
+      "pollinator_activity": "High"
+    },
+    {
+      "observation_id": "E029",
+      "date": "2025-05-05",
+      "location": "Submerged Coral Reef",
+      "temperature": 29.5,
+      "salinity": "Moderate",
+      "coral_bleaching": "Low"
+    },
+    {
+      "observation_id": "E030",
+      "date": "2025-06-20",
+      "location": "Urban Green Roof",
+      "temperature": 22.0,
+      "humidity": 50,
+      "plant_species_diversity": "Rich"
+    },
+    {
+      "observation_id": "E031",
+      "date": "2025-07-10",
+      "location": "Oil Spill Impact Area",
+      "temperature": 28.0,
+      "humidity": 65,
+      "water_contamination_level": "High"
+    },
+    {
+      "observation_id": "E032",
+      "date": "2025-08-01",
+      "location": "Renewable Energy Farm",
+      "temperature": 25.0,
+      "humidity": 55,
+      "wind_speed": 15.0
+    },
+    {
+      "observation_id": "E033",
+      "date": "2025-09-15",
+      "location": "Urban Heat Island Study",
+      "temperature": 30.5,
+      "humidity": 40,
+      "surface_temperature_variation": "High"
+    },
+    {
+      "observation_id": "E034",
+      "date": "2025-10-05",
+      "location": "Fishing Harbor",
+      "temperature": 18.5,
+      "humidity": 70,
+      "fish_species_diversity": "Moderate"
+    },
+    {
+      "observation_id": "E035",
+      "date": "2025-11-20",
+      "location": "Wildfire Affected Area",
+      "temperature": 35.0,
+      "humidity": 15,
+      "vegetation_recovery": "Ongoing"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E036",
+      "date": "2025-12-10",
+      "location": "Glacial Retreat Zone",
+      "temperature": -5.0,
+      "ice_melt_rate": "Accelerated",
+      "alpine_flora_presence": "Low"
+    },
+    {
+      "observation_id": "E037",
+      "date": "2026-01-01",
+      "location": "Urban Waste Dumpsite",
+      "temperature": 12.5,
+      "humidity": 55,
+      "leachate_contamination_level": "High"
+    },
+    {
+      "observation_id": "E038",
+      "date": "2026-02-15",
+      "location": "Sustainable Agriculture Field",
+      "temperature": 20.0,
+      "humidity": 60,
+      "crop_yield": "Optimal"
+    },
+    {
+      "observation_id": "E039",
+      "date": "2026-03-05",
+      "location": "Coral Restoration Site",
+      "temperature": 28.5,
+      "salinity": "Moderate",
+      "coral_growth_status": "Positive"
+    },
+    {
+      "observation_id": "E040",
+      "date": "2026-04-20",
+      "location": "Urban Biodiversity Park",
+      "temperature": 22.0,
+      "humidity": 50,
+      "birdwatching_event": "Scheduled"
+    },
+    {
+      "observation_id": "E041",
+      "date": "2026-05-10",
+      "location": "Marine Protected Area",
+      "temperature": 29.0,
+      "salinity": "Optimal",
+      "marine_species_count": 80
+    },
+    {
+      "observation_id": "E042",
+      "date": "2026-06-01",
+      "location": "Green Transportation Hub",
+      "temperature": 25.0,
+      "humidity": 55,
+      "carbon_footprint_reduction": "High"
+    },
+    {
+      "observation_id": "E043",
+      "date": "2026-07-15",
+      "location": "Urban River Cleanup Zone",
+      "temperature": 30.5,
+      "humidity": 40,
+      "water_quality_improvement": "Notable"
+    },
+    {
+      "observation_id": "E044",
+      "date": "2026-08-05",
+      "location": "Renewable Energy Microgrid",
+      "temperature": 18.5,
+      "humidity": 70,
+      "energy_production_efficiency": "Optimal"
+    },
+    {
+      "observation_id": "E045",
+      "date": "2026-09-20",
+      "location": "Community Composting Site",
+      "temperature": 15.0,
+      "humidity": 60,
+      "compost_quality": "Excellent"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E046",
+      "date": "2026-10-10",
+      "location": "High-altitude Cloud Forest",
+      "temperature": 12.0,
+      "humidity": 80,
+      "endemic_species_count": 15
+    },
+    {
+      "observation_id": "E047",
+      "date": "2026-11-01",
+      "location": "Urban Solar Power Farm",
+      "temperature": 22.5,
+      "humidity": 45,
+      "solar_panel_efficiency": "High"
+    },
+    {
+      "observation_id": "E048",
+      "date": "2026-12-15",
+      "location": "Educational Eco-Park",
+      "temperature": 18.0,
+      "humidity": 55,
+      "student_engagement_event": "Ongoing"
+    },
+    {
+      "observation_id": "E049",
+      "date": "2027-01-05",
+      "location": "River Watershed Conservation Area",
+      "temperature": 25.5,
+      "humidity": 60,
+      "water_flow_quality": "Optimal"
+    },
+    {
+      "observation_id": "E050",
+      "date": "2027-02-20",
+      "location": "Green Data Center",
+      "temperature": 22.0,
+      "humidity": 50,
+      "energy_consumption_reduction": "Notable"
+    },
+    {
+      "observation_id": "E051",
+      "date": "2027-03-10",
+      "location": "Rooftop Solar Community",
+      "temperature": 28.5,
+      "humidity": 65,
+      "community_solar_adoption": "High"
+    },
+    {
+      "observation_id": "E052",
+      "date": "2027-04-01",
+      "location": "Urban Riverfront Restoration",
+      "temperature": 25.0,
+      "humidity": 55,
+      "habitat_restoration_progress": "Advanced"
+    },
+    {
+      "observation_id": "E053",
+      "date": "2027-05-15",
+      "location": "Natural Reserve Observatory",
+      "temperature": 30.5,
+      "humidity": 40,
+      "observatory_program": "Scheduled"
+    },
+    {
+      "observation_id": "E054",
+      "date": "2027-06-05",
+      "location": "Smart Grid Implementation Area",
+      "temperature": 18.5,
+      "humidity": 70,
+      "energy_distribution_efficiency": "Optimal"
+    },
+    {
+      "observation_id": "E055",
+      "date": "2027-07-20",
+      "location": "Urban Wetland Restoration Site",
+      "temperature": 15.0,
+      "humidity": 60,
+      "wetland_ecosystem_recovery": "Notable"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
+{
+  "environmental_science_data": [
+    {
+      "observation_id": "E056",
+      "date": "2027-08-10",
+      "location": "Himalayan Alpine Zone",
+      "temperature": 5.0,
+      "humidity": 75,
+      "glacier_melt_rate": "Moderate"
+    },
+    {
+      "observation_id": "E057",
+      "date": "2027-09-01",
+      "location": "Urban Rainwater Harvesting System",
+      "temperature": 22.5,
+      "humidity": 55,
+      "rainwater_storage_capacity": "High"
+    },
+    {
+      "observation_id": "E058",
+      "date": "2027-10-15",
+      "location": "Community Renewable Energy Co-op",
+      "temperature": 18.0,
+      "humidity": 60,
+      "community_engagement_program": "Ongoing"
+    },
+    {
+      "observation_id": "E059",
+      "date": "2027-11-05",
+      "location": "Lake Eutrophication Study Area",
+      "temperature": 25.5,
+      "humidity": 65,
+      "nutrient_level": "Moderate"
+    },
+    {
+      "observation_id": "E060",
+      "date": "2027-12-20",
+      "location": "Urban Green Building District",
+      "temperature": 22.0,
+      "humidity": 50,
+      "energy-efficient_building_count": 25
+    },
+    {
+      "observation_id": "E061",
+      "date": "2028-01-10",
+      "location": "Coastal Dune Restoration Site",
+      "temperature": 28.5,
+      "humidity": 40,
+      "sand_dune_stabilization": "Successful"
+    },
+    {
+      "observation_id": "E062",
+      "date": "2028-02-01",
+      "location": "Smart Agriculture Testbed",
+      "temperature": 25.0,
+      "humidity": 55,
+      "precision_farming_implementation": "High"
+    },
+    {
+      "observation_id": "E063",
+      "date": "2028-03-15",
+      "location": "Urban Stormwater Management Area",
+      "temperature": 30.5,
+      "humidity": 35,
+      "stormwater_treatment_efficiency": "Optimal"
+    },
+    {
+      "observation_id": "E064",
+      "date": "2028-04-05",
+      "location": "Wind Turbine Innovation Park",
+      "temperature": 18.5,
+      "humidity": 70,
+      "wind_energy_generation": "Notable"
+    },
+    {
+      "observation_id": "E065",
+      "date": "2028-05-20",
+      "location": "Mangrove Reforestation Project",
+      "temperature": 15.0,
+      "humidity": 60,
+      "mangrove_growth_status": "Positive"
+    }
+    // Add more environmental science observations as needed
+  ]
+}
