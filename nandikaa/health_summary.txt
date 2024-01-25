@@ -1,0 +1,82 @@
+Statistics:
+
+Mean (Average) Health Index:
+
+Mean health index across all countries: approximately 78.8.
+Median Health Index:
+
+Median health index: 80.5.
+Minimum and Maximum Health Index:
+
+Minimum health index: 60 (Pakistan).
+Maximum health index: 92 (Portugal).
+Standard Deviation:
+
+Standard Deviation of health indices: approximately 9.68.
+Region-wise Statistics:
+
+Europe:
+
+Mean Health Index: approximately 84.14
+Median Health Index: 85
+Minimum Health Index: 77 (Hungary)
+Maximum Health Index: 92 (Portugal)
+North America:
+
+Mean Health Index: approximately 73.17
+Median Health Index: 71
+Minimum Health Index: 62 (Mexico)
+Maximum Health Index: 80 (Canada)
+Asia:
+
+Mean Health Index: approximately 79.92
+Median Health Index: 80.5
+Minimum Health Index: 68 (Bangladesh)
+Maximum Health Index: 92 (Singapore)
+South America:
+
+Mean Health Index: approximately 80.5
+Median Health Index: 80
+Minimum Health Index: 76 (Peru)
+Maximum Health Index: 86 (Argentina)
+Africa:
+
+Mean Health Index: approximately 72.25
+Median Health Index: 71.5
+Minimum Health Index: 65 (Nigeria)
+Maximum Health Index: 75 (Egypt)
+Middle East:
+
+Mean Health Index: approximately 78.33
+Median Health Index: 77
+Minimum Health Index: 70 (Iran)
+Maximum Health Index: 85 (Israel)
+Oceania:
+
+Mean Health Index: approximately 88
+Median Health Index: 88
+Minimum Health Index: 88 (New Zealand)
+Maximum Health Index: 88 (Australia)
+Summary:
+
+Overall Health Performance:
+
+The average health index of 78.8 suggests a relatively good overall health performance across the included countries.
+Variability:
+
+The health indices exhibit variability, with a standard deviation of approximately 9.68, indicating differences in health performances among countries.
+
+Outliers:
+
+Portugal stands out with the highest health index of 92, indicating exceptional health conditions.
+Pakistan has the lowest health index of 60, representing a comparatively lower health performance.
+Regional Patterns:
+
+Europe has the highest average health index among the regions, followed by Asia and North America.
+Middle Eastern and African countries show moderate health indices on average.
+Global Diversity:
+
+The dataset reflects the diverse health conditions globally, showcasing the impact of regional factors on health.
+Considerations:
+
+While the health indices provide insights into overall health, additional factors such as healthcare infrastructure, lifestyle, and socio-economic conditions play crucial roles in shaping a country's health profile.

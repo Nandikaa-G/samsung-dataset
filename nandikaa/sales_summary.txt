@@ -1,0 +1,40 @@
+Summary:
+
+Total Products: 70
+Years: 2023 and 2024
+Statistics:
+
+Average Sales Increase: 4.29%
+Average Sales Decrease: -3.39%
+Average Sales (All Products, 2023): 4922.86 units
+Average Sales (All Products, 2024): 5140.00 units
+Total Sales (All Products, 2023): 344600 units
+Total Sales (All Products, 2024): 359800 units
+Top 5 Products with the Highest Sales Increase:
+
+Bread: 6.67% increase
+Butter: 3.33% increase
+Cheese (200g): 4.88% increase
+Cottage Cheese (250g): 2.33% increase
+Avocado: 7.14% increase
+Top 5 Products with the Highest Sales Decrease:
+
+Diapers (20-pack): 5.56% decrease
+Baby Formula (800g): 3.08% decrease
+Cucumber: 3.23% decrease
+Tissues (6-pack): 5.45% decrease
+Toilet Paper (12-pack): 6.25% decrease
+Top 5 Products with the Highest Sales in 2024:
+
+Bread: 16000 units
+Cheese (200g): 8600 units
+Milk: 12500 units
+Coffee (250g): 7200 units
+Dish Soap (500ml): 7200 units
+Top 5 Products with the Lowest Sales in 2024:
+
+Diapers (20-pack): 3800 units
+Bananas (1kg): 4000 units
+Cucumber: 3200 units
+Ketchup (500g): 3200 units
+Lettuce: 3900 units

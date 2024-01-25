@@ -1,0 +1,29 @@
+Summary:
+
+Total Entries: 70
+Statistics:
+
+Average Price: $3.20
+Lowest Price: $0.90 (Cucumber)
+Highest Price: $15.80 (Baby Formula)
+Average Average Sales Percentage: 14.21%
+Lowest Average Sales Percentage: 4.25% (Chicken Breast and Ground Beef)
+Highest Average Sales Percentage: 22.5% (Instant Noodles)
+Most Expensive Product: Baby Formula ($15.80)
+Least Expensive Product: Cucumber ($0.90)
+Most Sold Product (Highest Average Sales Percentage): Instant Noodles (22.5%)
+Least Sold Product (Lowest Average Sales Percentage): Chicken Breast and Ground Beef (4.25%)
+Top 5 Products by Price:
+
+Baby Formula ($15.80)
+Rice (5kg) ($10.80)
+Dishwasher Detergent (20 tabs) ($9.00)
+Mixed Nuts (300g) ($8.50)
+Toilet Paper (12-pack) ($8.00)
+Top 5 Products by Average Sales Percentage:
+
+Instant Noodles (22.5%)
+Salad Dressing (250ml) (20.0%)
+Cucumber (19.375%)
+Bread (19.75%)
+Cooking Spray (20.0%)

@@ -1,0 +1,34 @@
+Summary:
+Top 5 Highest Rated Movies:
+
+The Dark Knight (Action, 2008) - 9.8
+The Shawshank Redemption (Drama, 1994) - 9.7
+The Godfather (Crime, 1972) - 9.6
+Inception (Science Fiction, 2010) - 9.5
+Schindler's List (Biography, 1993) - 9.4
+Top 5 Genres:
+
+Drama
+Crime
+Action
+Science Fiction
+Biography
+Average Rating: 9.0
+
+Statistics Insights:
+Average Rating by Genre:
+
+Drama: 9.0
+Crime: 9.2
+Action: 9.0
+Science Fiction: 9.0
+Biography: 9.2
+Movies per Release Year:
+
+Most common release year: 1994 (2 movies)
+Movies from the 2000s: 8 movies
+Oldest movie: Gone with the Wind (1939)
+Newest movie: Black Panther (2018)
+Distribution of Ratings:
+
+Majority of movies have ratings between 8.5 and 9.8.
