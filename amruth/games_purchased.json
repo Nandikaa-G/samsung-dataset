@@ -1,0 +1,244 @@
+{
+  "games": [
+    {
+      "Title": "Assassin's Creed Valhalla",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 5000000
+    },
+    {
+      "Title": "Cyberpunk 2077",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 3000000
+    },
+    {
+      "Title": "The Legend of Zelda: Breath of the Wild",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 7000000
+    },
+    {
+      "Title": "Fortnite",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 80000000
+    },
+    {
+      "Title": "Overwatch",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 12000000
+    },
+    {
+      "Title": "Red Dead Redemption 2",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 6000000
+    },
+    {
+      "Title": "Minecraft",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 100000000
+    },
+    {
+      "Title": "Dota 2",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 90000000
+    },
+    {
+      "Title": "Call of Duty: Warzone",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 25000000
+    },
+    {
+      "Title": "Among Us",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 500000000
+    },
+    {
+      "Title": "FIFA 22",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 15000000
+    },
+    {
+      "Title": "League of Legends",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 120000000
+    },
+    {
+      "Title": "Mortal Kombat 11",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 8000000
+    },
+    {
+      "Title": "World of Warcraft",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 10000000
+    },
+    {
+      "Title": "Genshin Impact",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 60000000
+    },
+    {
+      "Title": "Rocket League",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 40000000
+    },
+    {
+      "Title": "Apex Legends",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 70000000
+    },
+    {
+      "Title": "The Witcher 3: Wild Hunt",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 10000000
+    },
+    {
+      "Title": "Counter-Strike: Global Offensive",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 90000000
+    },
+    {
+      "Title": "Pokemon Sword and Shield",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 12000000
+    },
+    {
+      "Title": "Among Us",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 500000000
+    },
+    {
+      "Title": "Animal Crossing: New Horizons",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 32000000
+    },
+    {
+      "Title": "Tom Clancy's Rainbow Six Siege",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 45000000
+    },
+    {
+      "Title": "Monster Hunter: World",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 11000000
+    },
+    {
+      "Title": "Fall Guys: Ultimate Knockout",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 25000000
+    },
+    {
+      "Title": "The Elder Scrolls V: Skyrim",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 30000000
+    },
+    {
+      "Title": "Star Wars Jedi: Fallen Order",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 8000000
+    },
+    {
+      "Title": "Rainbow Six Siege",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 30000000
+    },
+     {
+      "Title": "Destiny 2",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 15000000
+    },
+    {
+      "Title": "Tom Clancy's The Division 2",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 8000000
+    },
+    {
+      "Title": "Stardew Valley",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 12000000
+    },
+    {
+      "Title": "Borderlands 3",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 10000000
+    },
+    {
+      "Title": "Among Us",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 500000000
+    },
+    {
+      "Title": "No Man's Sky",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 6000000
+    },
+    {
+      "Title": "Resident Evil Village",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 7000000
+    },
+    {
+      "Title": "Cities: Skylines",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 6000000
+    },
+    {
+      "Title": "Warframe",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 90000000
+    },
+    {
+      "Title": "Crusader Kings III",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 3000000
+    },
+    {
+      "Title": "Sekiro: Shadows Die Twice",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 5000000
+    },
+    {
+      "Title": "F1 2021",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 4000000
+    },
+    {
+      "Title": "Starcraft II",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 15000000
+    },
+    {
+      "Title": "Doom Eternal",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 7000000
+    },
+    {
+      "Title": "Hollow Knight",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 8000000
+    },
+    {
+      "Title": "Rust",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 12000000
+    },
+    {
+      "Title": "The Sims 4",
+      "GraphicsRequirements": "Medium",
+      "PurchasedCount": 25000000
+    },
+    {
+      "Title": "The Last of Us Part II",
+      "GraphicsRequirements": "Ultra",
+      "PurchasedCount": 11000000
+    },
+    {
+      "Title": "Dead by Daylight",
+      "GraphicsRequirements": "High",
+      "PurchasedCount": 18000000
+    },
+    {
+      "Title": "Factorio",
+      "GraphicsRequirements": "Low",
+      "PurchasedCount": 5000000
+    }
+  ]
+}
