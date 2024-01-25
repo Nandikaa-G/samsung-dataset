@@ -1,0 +1,31 @@
+--Total Number of Sports: 65
+Number of Team Sports: 28
+Number of Individual Sports: 32
+Number of Winter Sports: 12
+Number of Water Sports: 12
+Number of Martial Arts: 6
+Number of Rollers Sports: 5
+Number of Adventure Sports: 4
+Number of Aerial Sports: 1
+Number of Parasports: 2
+Number of Strength Sports: 1
+Number of Ball Sports: 1
+Number of Multi-Sport: 2
+
+--sport under the category "Dog Sled." The sport is:
+
+Sled Dog Racing (Sport ID: S057):
+Category: Winter Sports
+Race Type: Sprint
+Sled Type: Dog Sled
+
+--In basketball player per team is 5.
+--In volleyball player per team is 6.
+--In football player per team is 11.
+--In baseball player per team is 9.
+--In rugby player per team is 15.
+
+
+
+
+
