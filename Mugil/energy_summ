@@ -1,0 +1,14 @@
+1.There are a total of 50 power plants in the dataset.
+2.The power plants use various energy sources, including Solar, Wind, Hydroelectric, Natural Gas, Nuclear, Geothermal, Biomass, Tidal, Coal, Wave, Hybrid (Solar-Wind), Oil, Municipal Solid Waste, Hyrdo Pumped Storage, and Fuel Cell.
+3.Total Installed Capacity: 37,010 MW
+4.The power plants are located in various countries, including the USA, Brazil, Qatar, France, Iceland, Sweden, Canada, India, Saudi Arabia, Japan, Switzerland, South Korea, Australia, Spain, Netherlands, Germany, Norway, Russia, China, New Zealand, Philippines, United Kingdom, Finland, Ireland, Mexico, Nigeria, Kenya, Italy, and Indonesia.
+5.Operational: 37 plants
+Under Construction: 7 plants
+Planned: 5 plants
+Under Development: 3 plants
+Testing: 4 plants
+6.Solar: The power plants using solar energy have the highest total capacity (19,200 MW).
+7.The oldest power plant was commissioned on "2018-03-12" in India and uses coal as an energy source.
+8.The newest power plant was commissioned on "2025-09-10" in South Korea and is a planned tidal energy plant.
+9.Solar power plant in Arizona, USA, with a capacity of 4,500 MW.
+10.Fuel Cell power plant in South Africa, with a capacity of 25 MW.
