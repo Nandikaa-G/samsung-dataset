@@ -1,0 +1,422 @@
+[
+  {
+    "account": "user1",
+    "followers_2023": 5000,
+    "followers_2024": 7500,
+    "content_type": "Lifestyle",
+    "location": "New York"
+  },
+  {
+    "account": "user2",
+    "followers_2023": 10000,
+    "followers_2024": 15000,
+    "content_type": "Book Reviews",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user3",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Travel",
+    "location": "Paris"
+  },
+  {
+    "account": "user4",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "Fitness",
+    "location": "Sydney"
+  },
+  {
+    "account": "user5",
+    "followers_2023": 15000,
+    "followers_2024": 22000,
+    "content_type": "Foodie",
+    "location": "Tokyo"
+  },
+  {
+    "account": "user6",
+    "followers_2023": 6000,
+    "followers_2024": 9000,
+    "content_type": "Fashion",
+    "location": "Milan"
+  },
+  {
+    "account": "user7",
+    "followers_2023": 20000,
+    "followers_2024": 30000,
+    "content_type": "Tech",
+    "location": "San Francisco"
+  },
+  {
+    "account": "user8",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Gaming",
+    "location": "Seoul"
+  },
+  {
+    "account": "user9",
+    "followers_2023": 25000,
+    "followers_2024": 35000,
+    "content_type": "Parenting",
+    "location": "London"
+  },
+  {
+    "account": "user10",
+    "followers_2023": 3000,
+    "followers_2024": 5000,
+    "content_type": "Art",
+    "location": "Berlin"
+  },
+  {
+    "account": "user11",
+    "followers_2023": 18000,
+    "followers_2024": 25000,
+    "content_type": "Motivation",
+    "location": "New York"
+  },
+  {
+    "account": "user12",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "DIY",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user13",
+    "followers_2023": 9000,
+    "followers_2024": 14000,
+    "content_type": "Music",
+    "location": "Nashville"
+  },
+  {
+    "account": "user14",
+    "followers_2023": 7000,
+    "followers_2024": 10000,
+    "content_type": "Science",
+    "location": "Boston"
+  },
+  {
+    "account": "user15",
+    "followers_2023": 4000,
+    "followers_2024": 6000,
+    "content_type": "Pets",
+    "location": "Sydney"
+  },
+  {
+    "account": "user16",
+    "followers_2023": 60000,
+    "followers_2024": 80000,
+    "content_type": "Influencer",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user17",
+    "followers_2023": 12000,
+    "followers_2024": 20000,
+    "content_type": "Fitness",
+    "location": "Miami"
+  },
+  {
+    "account": "user18",
+    "followers_2023": 5000,
+    "followers_2024": 8000,
+    "content_type": "Travel",
+    "location": "Tokyo"
+  },
+  {
+    "account": "user19",
+    "followers_2023": 15000,
+    "followers_2024": 22000,
+    "content_type": "Foodie",
+    "location": "Paris"
+  },
+  {
+    "account": "user20",
+    "followers_2023": 20000,
+    "followers_2024": 30000,
+    "content_type": "Tech",
+    "location": "San Francisco"
+  },
+  {
+    "account": "user21",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Gaming",
+    "location": "Seoul"
+  },
+  {
+    "account": "user22",
+    "followers_2023": 30000,
+    "followers_2024": 40000,
+    "content_type": "Parenting",
+    "location": "London"
+  },
+  {
+    "account": "user23",
+    "followers_2023": 5000,
+    "followers_2024": 8000,
+    "content_type": "Art",
+    "location": "Berlin"
+  },
+  {
+    "account": "user24",
+    "followers_2023": 18000,
+    "followers_2024": 25000,
+    "content_type": "Motivation",
+    "location": "New York"
+  },
+  {
+    "account": "user25",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "DIY",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user26",
+    "followers_2023": 9000,
+    "followers_2024": 14000,
+    "content_type": "Music",
+    "location": "Nashville"
+  },
+  {
+    "account": "user27",
+    "followers_2023": 7000,
+    "followers_2024": 10000,
+    "content_type": "Science",
+    "location": "Boston"
+  },
+  {
+    "account": "user28",
+    "followers_2023": 4000,
+    "followers_2024": 6000,
+    "content_type": "Pets",
+    "location": "Sydney"
+  },
+  {
+    "account": "user29",
+    "followers_2023": 60000,
+    "followers_2024": 80000,
+    "content_type": "Influencer",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user30",
+    "followers_2023": 12000,
+    "followers_2024": 20000,
+    "content_type": "fashion",
+    "location":"Paris"
+  },
+  {
+    "account": "user31",
+    "followers_2023": 5000,
+    "followers_2024": 7500,
+    "content_type": "Fashion",
+    "location": "Milan"
+  },
+  {
+    "account": "user32",
+    "followers_2023": 10000,
+    "followers_2024": 15000,
+    "content_type": "Travel",
+    "location": "Barcelona"
+  },
+  {
+    "account": "user33",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Foodie",
+    "location": "New York"
+  },
+  {
+    "account": "user34",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "Fitness",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user35",
+    "followers_2023": 15000,
+    "followers_2024": 22000,
+    "content_type": "Tech",
+    "location": "San Francisco"
+  },
+  {
+    "account": "user36",
+    "followers_2023": 6000,
+    "followers_2024": 9000,
+    "content_type": "Gaming",
+    "location": "Seoul"
+  },
+  {
+    "account": "user37",
+    "followers_2023": 20000,
+    "followers_2024": 30000,
+    "content_type": "Parenting",
+    "location": "London"
+  },
+  {
+    "account": "user38",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Art",
+    "location": "Berlin"
+  },
+  {
+    "account": "user39",
+    "followers_2023": 25000,
+    "followers_2024": 35000,
+    "content_type": "Motivation",
+    "location": "New York"
+  },
+  {
+    "account": "user40",
+    "followers_2023": 3000,
+    "followers_2024": 5000,
+    "content_type": "DIY",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user41",
+    "followers_2023": 18000,
+    "followers_2024": 25000,
+    "content_type": "Music",
+    "location": "Nashville"
+  },
+  {
+    "account": "user42",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "Science",
+    "location": "Boston"
+  },
+  {
+    "account": "user43",
+    "followers_2023": 9000,
+    "followers_2024": 14000,
+    "content_type": "Pets",
+    "location": "Sydney"
+  },
+  {
+    "account": "user44",
+    "followers_2023": 7000,
+    "followers_2024": 10000,
+    "content_type": "Influencer",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user45",
+    "followers_2023": 12000,
+    "followers_2024": 20000,
+    "content_type": "Fashion",
+    "location": "Milan"
+  },
+  {
+    "account": "user46",
+    "followers_2023": 10000,
+    "followers_2024": 15000,
+    "content_type": "Travel",
+    "location": "Barcelona"
+  },
+  {
+    "account": "user47",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Foodie",
+    "location": "New York"
+  },
+  {
+    "account": "user48",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "Fitness",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user49",
+    "followers_2023": 15000,
+    "followers_2024": 22000,
+    "content_type": "Tech",
+    "location": "San Francisco"
+  },
+  {
+    "account": "user50",
+    "followers_2023": 6000,
+    "followers_2024": 9000,
+    "content_type": "Gaming",
+    "location": "Seoul"
+  },
+  {
+    "account": "user51",
+    "followers_2023": 20000,
+    "followers_2024": 30000,
+    "content_type": "Parenting",
+    "location": "London"
+  },
+  {
+    "account": "user52",
+    "followers_2023": 8000,
+    "followers_2024": 12000,
+    "content_type": "Art",
+    "location": "Berlin"
+  },
+  {
+    "account": "user53",
+    "followers_2023": 25000,
+    "followers_2024": 35000,
+    "content_type": "Motivation",
+    "location": "New York"
+  },
+  {
+    "account": "user54",
+    "followers_2023": 3000,
+    "followers_2024": 5000,
+    "content_type": "DIY",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user55",
+    "followers_2023": 18000,
+    "followers_2024": 25000,
+    "content_type": "Music",
+    "location": "Nashville"
+  },
+  {
+    "account": "user56",
+    "followers_2023": 12000,
+    "followers_2024": 18000,
+    "content_type": "Science",
+    "location": "Boston"
+  },
+  {
+    "account": "user57",
+    "followers_2023": 9000,
+    "followers_2024": 14000,
+    "content_type": "Pets",
+    "location": "Sydney"
+  },
+  {
+    "account": "user58",
+    "followers_2023": 7000,
+    "followers_2024": 10000,
+    "content_type": "Influencer",
+    "location": "Los Angeles"
+  },
+  {
+    "account": "user59",
+    "followers_2023": 12000,
+    "followers_2024": 20000,
+    "content_type": "Fashion",
+    "location": "Milan"
+  },
+  {
+    "account": "user60",
+    "followers_2023": 10000,
+    "followers_2024": 15000,
+    "content_type": "Travel",
+    "location": "Barcelona"
+  }
+]
