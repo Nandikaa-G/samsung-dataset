@@ -1,0 +1,21 @@
+1.Passenger Statistics:
+
+Average passengers: ~12.97
+Minimum passengers: 0
+Maximum passengers: 150
+
+2.There are 70 vehicles in the dataset.
+
+3.Common modes: Bus, Train, Taxi, Bicycle, Car, Scooter, Tram, Monorail, Ferry, Ride-share, Pedestrian, Cable Car.
+Unconventional modes: Hyperloop, Jetpack, Maglev Train, Paraglider, Dog Sled, Space Shuttle, Electric Unicycle, Solar-Powered Car, Zeppelin, Rocket Bike, Jet Ski, Camper Van, Electric Tricycle, Pedicab, and more.
+
+4.Total number of unique routes: 41
+Most common routes: City, Downtown, Highway 101, Park Trail, Scenic Drive, Skyway, etc.
+
+5.Northernmost location: Latitude [51.5074]
+Southernmost location: Latitude [34.0522]
+Easternmost location: Longitude [87.6298]
+Westernmost location: Longitude [-122.4194]
+
+6.Earliest timestamp: [2024-01-24T10:15:00]
+Latest timestamp: [2024-01-25T02:50:00]
