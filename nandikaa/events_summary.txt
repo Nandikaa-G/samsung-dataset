@@ -1,0 +1,47 @@
+Event Categories Distribution:
+
+Technology: 16 events
+Art: 6 events
+Healthcare: 2 events
+Film: 2 events
+Environment: 5 events
+Fashion: 7 events
+Science: 7 events
+Culinary: 6 events
+Automobile: 2 events
+Music: 6 events
+Finance: 7 events
+Astronomy: 1 event
+Fitness: 1 event
+Education: 2 events
+Literature: 2 events
+Wellness: 3 events
+Agriculture: 3 events
+Marketing: 2 events
+Social Issues: 4 events
+Top 5 Event Categories by Frequency:
+
+Technology (16 events)
+Finance (7 events)
+Fashion (7 events)
+Science (7 events)
+Art (6 events)
+Geographical Distribution:
+
+Events are spread across various cities globally, including San Francisco, New York City, Geneva, Cannes, Berlin, Paris, Houston, Barcelona, Tokyo, Nashville, Singapore, Sydney, Los Angeles, London, Seoul, Dublin, Bali, Stockholm, Las Vegas, Rishikesh, Osaka.
+Organizer Insights:
+
+Diverse organizers ranging from specialized societies (e.g., Urban Planning Society, Cancer Research Foundation) to global entities (e.g., United Nations Peace Council, World Economic Forum).
+Attendance Statistics:
+
+Attendees range from 300 to 1500, reflecting the diversity in event scale.
+Temporal Distribution:
+
+Events span from 2024 to 2033, showcasing a 9-year timeline with varied dates for different events.
+Summary:
+
+The dataset comprises a rich variety of events across multiple categories, locations, and organizers.
+Technology-related events dominate, indicating the significance of tech-related gatherings in the given period.
+Finance, Fashion, and Science also have a notable presence, showcasing a balanced diversity of interests.
+Geographical distribution is global, emphasizing the international nature of these events.
+The dataset provides a comprehensive foundation for event analysis and planning, capturing a snapshot of diverse global interests and activities.
