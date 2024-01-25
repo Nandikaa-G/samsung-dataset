@@ -1,0 +1,48 @@
+Industry Distribution:
+
+Information Technology: 23 entries
+Finance: 14 entries
+Healthcare: 13 entries
+Media: 11 entries
+Renewable Energy: 11 entries
+Marketing: 9 entries
+Logistics: 8 entries
+Consulting: 2 entries
+Pharmaceuticals: 2 entries
+Top 5 Companies with the Most Job Openings:
+
+Tech Innovators: 5 entries
+Healthcare Innovations: 4 entries
+Global Marketing Solutions: 3 entries
+Finance Wizards: 3 entries
+Media Trends: 3 entries
+Location Distribution:
+
+San Francisco: 9 entries
+New York: 8 entries
+Los Angeles: 8 entries
+Seattle: 7 entries
+Chicago: 7 entries
+Denver: 6 entries
+Boston: 5 entries
+Houston: 4 entries
+Washington, D.C.: 3 entries
+Austin: 2 entries
+San Diego: 2 entries
+Atlanta: 2 entries
+Salary Statistics:
+
+Mean Salary: $101,450
+Median Salary: $100,000
+Lowest Salary: $80,000 (Multiple entries)
+Highest Salary: $120,000 (Multiple entries)
+Position Distribution:
+
+Software Engineer, IT Specialist, DevOps Engineer, Database Administrator, Software Developer, Frontend Developer, Backend Developer: 7 entries each
+Financial Analyst, Logistics Coordinator, Marketing Manager, Renewable Energy Analyst, Financial Planner, Cybersecurity Analyst, Research Scientist, Nurse Practitioner, Digital Content Producer, Health IT Specialist, Supply Chain Analyst, Environmental Policy Analyst, Health Informatics Specialist, IT Project Manager, Machine Learning Engineer, Clinical Trials Manager, Brand Manager, Risk Analyst, Financial Controller, Financial Consultant, Tax Consultant, Systems Analyst, Network Engineer, Physical Therapist: 1 entry each
+Overall Observations:
+
+The dataset includes a diverse range of industries and job positions.
+Tech-related positions are prominent, especially in Information Technology and Renewable Energy.
+Salaries vary across industries and job roles, with the highest salary being $120,000.
+San Francisco, New York, and Los Angeles are the top cities with the most job openings.
