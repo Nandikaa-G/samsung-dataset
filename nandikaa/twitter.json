@@ -1,0 +1,532 @@
+[
+  {
+    "tweet_id": "tweet_1",
+    "author": "user1_twitter",
+    "timestamp": "2023-01-15T08:30:00Z",
+    "content": "Excited to attend the Tech Conference 2023 in San Francisco! #TechConference #Innovation",
+    "likes": 50,
+    "retweets": 20,
+    "hashtags": ["TechConference", "Innovation"],
+    "location": "San Francisco"
+  },
+  {
+    "tweet_id": "tweet_2",
+    "author": "user2_twitter",
+    "timestamp": "2023-02-20T12:45:00Z",
+    "content": "Just finished reading an amazing book! Highly recommend it to all book lovers. #BookRecommendation #ReadingList",
+    "likes": 80,
+    "retweets": 25,
+    "hashtags": ["BookRecommendation", "ReadingList"],
+    "location": "New York"
+  },
+  {
+    "tweet_id": "tweet_3",
+    "author": "user3_twitter",
+    "timestamp": "2023-03-10T16:20:00Z",
+    "content": "Wanderlust hitting hard! Dreaming of my next travel adventure. Where should I go next? #TravelDreams #AdventureAwaits",
+    "likes": 120,
+    "retweets": 30,
+    "hashtags": ["TravelDreams", "AdventureAwaits"],
+    "location": "London"
+  },
+  {
+    "tweet_id": "tweet_4",
+    "author": "user4_twitter",
+    "timestamp": "2023-04-05T09:10:00Z",
+    "content": "Early morning workout session! 💪 #FitnessMotivation #HealthyLiving",
+    "likes": 150,
+    "retweets": 40,
+    "hashtags": ["FitnessMotivation", "HealthyLiving"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_5",
+    "author": "user5_twitter",
+    "timestamp": "2023-05-22T14:55:00Z",
+    "content": "Indulging in some delicious local cuisine in Tokyo! 🍣 #FoodieAdventures #TokyoEats",
+    "likes": 200,
+    "retweets": 35,
+    "hashtags": ["FoodieAdventures", "TokyoEats"],
+    "location": "Tokyo"
+  },
+  {
+    "tweet_id": "tweet_6",
+    "author": "user6_twitter",
+    "timestamp": "2023-06-15T18:30:00Z",
+    "content": "Fashion is a way to express yourself. Embracing my style in Milan! 👗 #Fashionista #MilanStyle",
+    "likes": 90,
+    "retweets": 15,
+    "hashtags": ["Fashionista", "MilanStyle"],
+    "location": "Milan"
+  },
+  {
+    "tweet_id": "tweet_7",
+    "author": "user7_twitter",
+    "timestamp": "2023-07-08T11:40:00Z",
+    "content": "Exploring the latest tech innovations in San Francisco. Mind-blown! 🔍 #TechInnovation #FutureTech",
+    "likes": 300,
+    "retweets": 50,
+    "hashtags": ["TechInnovation", "FutureTech"],
+    "location": "San Francisco"
+  },
+  {
+    "tweet_id": "tweet_8",
+    "author": "user8_twitter",
+    "timestamp": "2023-08-01T20:15:00Z",
+    "content": "Gaming night with friends! 🎮 What's your favorite game? #GamingCommunity #GameNight",
+    "likes": 110,
+    "retweets": 18,
+    "hashtags": ["GamingCommunity", "GameNight"],
+    "location": "Seoul"
+  },
+  {
+    "tweet_id": "tweet_9",
+    "author": "user9_twitter",
+    "timestamp": "2023-09-18T13:25:00Z",
+    "content": "Parenting is a beautiful journey full of love and laughter. Cherishing every moment. #ParentingJoys #FamilyFirst",
+    "likes": 250,
+    "retweets": 60,
+    "hashtags": ["ParentingJoys", "FamilyFirst"],
+    "location": "London"
+  },
+  {
+    "tweet_id": "tweet_10",
+    "author": "user10_twitter",
+    "timestamp": "2023-10-10T09:50:00Z",
+    "content": "Art has the power to inspire and evoke emotions. Enjoying an art-filled day in Berlin! 🎨 #ArtAppreciation #BerlinArtScene",
+    "likes": 180,
+    "retweets": 25,
+    "hashtags": ["ArtAppreciation", "BerlinArtScene"],
+    "location": "Berlin"
+  },
+  {
+    "tweet_id": "tweet_11",
+    "author": "user11_twitter",
+    "timestamp": "2023-11-05T15:05:00Z",
+    "content": "Stay motivated and keep pushing towards your goals. You've got this! 💪 #MotivationMonday #GoalDigger",
+    "likes": 150,
+    "retweets": 30,
+    "hashtags": ["MotivationMonday", "GoalDigger"],
+    "location": "New York"
+  },
+  {
+    "tweet_id": "tweet_12",
+    "author": "user12_twitter",
+    "timestamp": "2023-12-20T22:00:00Z",
+    "content": "DIY Christmas decorations in progress! 🎄 Who else loves getting crafty during the holidays? #DIYChristmas #CraftyHoliday",
+    "likes": 120,
+    "retweets": 22,
+    "hashtags": ["DIYChristmas", "CraftyHoliday"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_13",
+    "author": "user13_twitter",
+    "timestamp": "2024-01-08T11:15:00Z",
+    "content": "Music is my therapy. 🎶 What's your favorite song right now? #MusicLover #PlaylistVibes",
+    "likes": 90,
+    "retweets": 15,
+    "hashtags": ["MusicLover", "PlaylistVibes"],
+    "location": "Nashville"
+  },
+  {
+    "tweet_id": "tweet_14",
+    "author": "user14_twitter",
+    "timestamp": "2024-02-14T18:45:00Z",
+    "content": "Exploring the wonders of science in Boston. The world of discovery is fascinating! 🔬 #ScienceGeek #BostonExploration",
+    "likes": 70,
+    "retweets": 12,
+    "hashtags": ["ScienceGeek", "BostonExploration"],
+    "location": "Boston"
+  },
+  {
+    "tweet_id": "tweet_15",
+    "author": "user15_twitter",
+    "timestamp": "2024-03-25T14:30:00Z",
+    "content": "Meet my adorable pet companion! 🐾 Pets bring so much joy into our lives. #PetLove #FurryFriends",
+    "likes": 50,
+    "retweets": 10,
+    "hashtags": ["PetLove", "FurryFriends"],
+    "location": "Sydney"
+  },
+  {
+    "tweet_id": "tweet_16",
+    "author": "user16_twitter",
+    "timestamp": "2024-04-10T09:00:00Z",
+    "content": "Grateful for the incredible support from my followers. You all make this journey amazing! 🙏 #InfluencerLife #Gratitude",
+    "likes": 500,
+    "retweets": 100,
+    "hashtags": ["InfluencerLife", "Gratitude"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_17",
+    "author": "user17_twitter",
+    "timestamp": "2024-05-05T12:20:00Z",
+    "content": "Fitness is not just a goal, it's a lifestyle. Let's stay active and healthy together! 💪 #FitnessJourney #ActiveLifestyle",
+    "likes": 200,
+    "retweets": 40,
+    "hashtags": ["FitnessJourney", "ActiveLifestyle"],
+    "location": "Miami"
+  },
+  {
+    "tweet_id": "tweet_18",
+    "author": "user18_twitter",
+    "timestamp": "2024-06-22T17:55:00Z",
+    "content": "Traveling the world and creating unforgettable memories. Join me on this exciting journey! ✈️ #Wanderlust #TravelDiaries",
+    "likes": 300,
+    "retweets": 50,
+    "hashtags": ["Wanderlust", "TravelDiaries"],
+    "location": "Tokyo"
+  },
+  {
+    "tweet_id": "tweet_19",
+    "author": "user19_twitter",
+    "timestamp": "2024-07-15T21:10:00Z",
+    "content": "Indulging in the finest cuisines of Paris. Bon appétit! 🥖🍷 #FoodieAdventures #ParisEats",
+    "likes": 220,
+    "retweets": 35,
+    "hashtags": ["FoodieAdventures", "ParisEats"],
+    "location": "Paris"
+  },
+  {
+    "tweet_id": "tweet_20",
+    "author": "user20_twitter",
+    "timestamp": "2024-08-08T14:45:00Z",
+    "content": "Exploring the latest in tech at the San Francisco Tech Expo. The future looks exciting! 🚀 #TechExpo #Innovation",
+    "likes": 400,
+    "retweets": 60,
+    "hashtags": ["TechExpo", "Innovation"],
+    "location": "San Francisco"
+  },
+  {
+    "tweet_id": "tweet_21",
+    "author": "user21_twitter",
+    "timestamp": "2024-09-01T19:30:00Z",
+    "content": "Gaming marathon incoming! 🎮 Ready to conquer new levels. #GamingCommunity #LevelUp",
+    "likes": 180,
+    "retweets": 30,
+    "hashtags": ["GamingCommunity", "LevelUp"],
+    "location": "Seoul"
+  },
+  {
+    "tweet_id": "tweet_22",
+    "author": "user22_twitter",
+    "timestamp": "2024-10-15T10:55:00Z",
+    "content": "Parenting adventures in London. Every day is a new lesson and a new joy. #ParentingLife #FamilyFirst",
+    "likes": 350,
+    "retweets": 70,
+    "hashtags": ["ParentingLife", "FamilyFirst"],
+    "location": "London"
+  },
+  {
+    "tweet_id": "tweet_23",
+    "author": "user23_twitter",
+    "timestamp": "2024-11-10T13:25:00Z",
+    "content": "Art has the power to speak when words fail. Enjoying the vibrant art scene in Berlin! 🎨 #ArtInspiration #BerlinArt",
+    "likes": 250,
+    "retweets": 45,
+    "hashtags": ["ArtInspiration", "BerlinArt"],
+    "location": "Berlin"
+  },
+  {
+    "tweet_id": "tweet_24",
+    "author": "user24_twitter",
+    "timestamp": "2024-12-05T08:15:00Z",
+    "content": "Feeling the holiday spirit! 🎄✨ What's your favorite part of the festive season? #HolidayJoy #FestiveVibes",
+    "likes": 180,
+    "retweets": 25,
+    "hashtags": ["HolidayJoy", "FestiveVibes"],
+    "location": "New York"
+  },
+  {
+    "tweet_id": "tweet_25",
+    "author": "user25_twitter",
+    "timestamp": "2025-01-15T16:40:00Z",
+    "content": "Cheers to new beginnings! 🥂 Excited about the adventures that await in the coming year. #NewYearNewGoals #Excitement",
+    "likes": 300,
+    "retweets": 40,
+    "hashtags": ["NewYearNewGoals", "Excitement"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_26",
+    "author": "user26_twitter",
+    "timestamp": "2025-02-20T11:20:00Z",
+    "content": "Morning meditation to kickstart the day. 🧘‍♂️ How do you practice self-care? #Mindfulness #SelfCareRoutine",
+    "likes": 120,
+    "retweets": 15,
+    "hashtags": ["Mindfulness", "SelfCareRoutine"],
+    "location": "Tokyo"
+  },
+  {
+    "tweet_id": "tweet_27",
+    "author": "user27_twitter",
+    "timestamp": "2025-03-10T14:55:00Z",
+    "content": "Exciting collaboration in the works! Stay tuned for the big reveal. 🚀 #CollaborationGoals #ComingSoon",
+    "likes": 250,
+    "retweets": 30,
+    "hashtags": ["CollaborationGoals", "ComingSoon"],
+    "location": "London"
+  },
+  {
+    "tweet_id": "tweet_28",
+    "author": "user28_twitter",
+    "timestamp": "2025-04-05T10:30:00Z",
+    "content": "Sunday brunch with a view! 🍳☕️ What's your go-to brunch spot? #BrunchTime #SundayFunday",
+    "likes": 180,
+    "retweets": 20,
+    "hashtags": ["BrunchTime", "SundayFunday"],
+    "location": "Paris"
+  },
+  {
+    "tweet_id": "tweet_29",
+    "author": "user29_twitter",
+    "timestamp": "2025-05-22T19:45:00Z",
+    "content": "Celebrating milestones and achievements. Grateful for the journey! 🎉 #AchievementUnlocked #Gratitude",
+    "likes": 400,
+    "retweets": 60,
+    "hashtags": ["AchievementUnlocked", "Gratitude"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_30",
+    "author": "user30_twitter",
+    "timestamp": "2025-06-15T15:10:00Z",
+    "content": "Summer vibes and beach days. Enjoying the sun and sea! 🏖️ #SummerFun #BeachLife",
+    "likes": 300,
+    "retweets": 50,
+    "hashtags": ["SummerFun", "BeachLife"],
+    "location": "Sydney"
+  },
+  {
+    "tweet_id": "tweet_31",
+    "author": "user31_twitter",
+    "timestamp": "2025-07-08T12:00:00Z",
+    "content": "Diving into a new hobby! Learning something new is always exciting. 🎨 #NewHobby #Creativity",
+    "likes": 150,
+    "retweets": 25,
+    "hashtags": ["NewHobby", "Creativity"],
+    "location": "Berlin"
+  },
+  {
+    "tweet_id": "tweet_32",
+    "author": "user32_twitter",
+    "timestamp": "2025-08-01T21:25:00Z",
+    "content": "Friday night lights! 🌟 What's your favorite way to unwind after a long week? #FridayNight #RelaxationTime",
+    "likes": 200,
+    "retweets": 30,
+    "hashtags": ["FridayNight", "RelaxationTime"],
+    "location": "Miami"
+  },
+  {
+    "tweet_id": "tweet_33",
+    "author": "user33_twitter",
+    "timestamp": "2025-09-18T17:40:00Z",
+    "content": "Admiring the architectural wonders of Rome. Every corner tells a story! 🏛️ #TravelAdventures #RomeExploration",
+    "likes": 250,
+    "retweets": 40,
+    "hashtags": ["TravelAdventures", "RomeExploration"],
+    "location": "Rome"
+  },
+  {
+    "tweet_id": "tweet_34",
+    "author": "user34_twitter",
+    "timestamp": "2025-10-10T08:50:00Z",
+    "content": "Morning run to kickstart the day! 🏃‍♂️ How do you stay active in the mornings? #MorningMotivation #RunnersLife",
+    "likes": 120,
+    "retweets": 15,
+    "hashtags": ["MorningMotivation", "RunnersLife"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_35",
+    "author": "user35_twitter",
+    "timestamp": "2025-11-05T14:15:00Z",
+    "content": "Cooking up a storm in the kitchen! 🍳🔪 What's your favorite dish to prepare at home? #HomeCooking #Foodie",
+    "likes": 180,
+    "retweets": 25,
+    "hashtags": ["HomeCooking", "Foodie"],
+    "location": "New York"
+  },
+  {
+    "tweet_id": "tweet_36",
+    "author": "user36_twitter",
+    "timestamp": "2025-12-20T19:00:00Z",
+    "content": "Cozy winter nights with a good book and hot cocoa. 📚☕️ What's on your winter reading list? #WinterNights #ReadingTime",
+    "likes": 150,
+    "retweets": 20,
+    "hashtags": ["WinterNights", "ReadingTime"],
+    "location": "London"
+  },
+  {
+    "tweet_id": "tweet_37",
+    "author": "user37_twitter",
+    "timestamp": "2026-01-08T10:45:00Z",
+    "content": "Reflecting on the past year's achievements and setting new goals for the future. 🌟 #Reflections #GoalSetting",
+    "likes": 250,
+    "retweets": 30,
+    "hashtags": ["Reflections", "GoalSetting"],
+    "location": "Tokyo"
+  },
+  {
+    "tweet_id": "tweet_38",
+    "author": "user38_twitter",
+    "timestamp": "2026-02-14T16:30:00Z",
+    "content": "Valentine's Day celebration with loved ones. ❤️ How did you spend your Valentine's Day? #ValentinesDay #LoveAndJoy",
+    "likes": 200,
+    "retweets": 35,
+    "hashtags": ["ValentinesDay", "LoveAndJoy"],
+    "location": "Paris"
+  },
+  {
+    "tweet_id": "tweet_39",
+    "author": "user39_twitter",
+    "timestamp": "2026-03-25T11:20:00Z",
+    "content": "Attending a live music concert tonight! 🎤🎶 Share your favorite concert experiences. #LiveMusic #ConcertNight",
+    "likes": 300,
+    "retweets": 40,
+    "hashtags": ["LiveMusic", "ConcertNight"],
+    "location": "Los Angeles"
+  },
+  {
+    "tweet_id": "tweet_40",
+    "author": "user40_twitter",
+    "timestamp": "2026-04-10T18:15:00Z",
+    "content": "Exploring the local farmers' market. Fresh produce and vibrant colors everywhere! 🍅🌽 #FarmersMarket #LocalProduce",
+    "likes": 180,
+    "retweets": 25,
+    "hashtags": ["FarmersMarket", "LocalProduce"],
+    "location": "Sydney"
+  },
+  {
+    "tweet_id": "tweet_41",
+    "author": "user41_twitter",
+    "timestamp": "2026-05-05T13:40:00Z",
+    "content": "Sunday bike ride through the scenic countryside. 🚴‍♀️ Share your favorite biking trails! #BikeAdventures #NatureRide",
+    "likes": 150,
+    "retweets": 20,
+    "hashtags": ["BikeAdventures", "NatureRide"],
+    "location": "Berlin"
+  },
+  {
+    "tweet_id": "tweet_42",
+    "author": "user42_twitter",
+    "timestamp": "2026-06-22T20:05:00Z",
+    "content": "Summer garden party with friends. Good company, good vibes! 🌞🎉 #SummerParty #GoodTimes",
+    "likes": 220,
+    "retweets": 30,
+    "hashtags": ["SummerParty", "GoodTimes"],
+    "location": "Miami"
+  },
+  {
+    "tweet_id": "tweet_43",
+    "author": "user43_twitter",
+    "timestamp": "2026-07-15T15:30:00Z",
+    "content": "Capturing the beauty of a sunset. Nature's artwork at its finest! 🌅 #SunsetViews #NaturePhotography",
+    "likes": 120,
+    "retweets": 15,
+    "hashtags": ["SunsetViews", "NaturePhotography"],
+    "location": "Rio de Janeiro"
+  },
+   {
+    "tweet_id": "tweet_44",
+    "author": "user44_twitter",
+    "timestamp": "2026-08-08T12:45:00Z",
+    "content": "Diving into a new hobby—painting! 🎨 Share your favorite creative outlets. #ArtisticJourney #PaintingPassion",
+    "likes": 180,
+    "retweets": 25,
+    "hashtags": ["ArtisticJourney", "PaintingPassion"],
+    "location": "Barcelona"
+  },
+  {
+    "tweet_id": "tweet_45",
+    "author": "user45_twitter",
+    "timestamp": "2026-09-01T17:20:00Z",
+    "content": "Weekend escape to the mountains. Embracing the tranquility of nature. 🏞️ #MountainRetreat #NatureEscape",
+    "likes": 250,
+    "retweets": 30,
+    "hashtags": ["MountainRetreat", "NatureEscape"],
+    "location": "Vancouver"
+  },
+  {
+    "tweet_id": "tweet_46",
+    "author": "user46_twitter",
+    "timestamp": "2026-10-15T09:55:00Z",
+    "content": "Cooking up some spooky treats for Halloween! 🎃👻 What's your go-to Halloween recipe? #HalloweenCooking #SpookyTreats",
+    "likes": 200,
+    "retweets": 35,
+    "hashtags": ["HalloweenCooking", "SpookyTreats"],
+    "location": "New Orleans"
+  },
+  {
+    "tweet_id": "tweet_47",
+    "author": "user47_twitter",
+    "timestamp": "2026-11-10T14:25:00Z",
+    "content": "Gratitude challenge: Share three things you're grateful for today! 🙏 #GratitudeChallenge #ThankfulHeart",
+    "likes": 300,
+    "retweets": 40,
+    "hashtags": ["GratitudeChallenge", "ThankfulHeart"],
+    "location": "Cape Town"
+  },
+  {
+    "tweet_id": "tweet_48",
+    "author": "user48_twitter",
+    "timestamp": "2026-12-05T19:10:00Z",
+    "content": "Winter wonderland in full swing. Cozy nights by the fireplace. 🔥❄️ #WinterMagic #CozyEvenings",
+    "likes": 180,
+    "retweets": 25,
+    "hashtags": ["WinterMagic", "CozyEvenings"],
+    "location": "Stockholm"
+  },
+  {
+    "tweet_id": "tweet_49",
+    "author": "user49_twitter",
+    "timestamp": "2027-01-20T14:55:00Z",
+    "content": "New year, new adventures! Planning exciting trips for the coming months. 🌍✈️ #NewYearAdventures #TravelPlans",
+    "likes": 220,
+    "retweets": 30,
+    "hashtags": ["NewYearAdventures", "TravelPlans"],
+    "location": "Tokyo"
+  },
+  {
+    "tweet_id": "tweet_50",
+    "author": "user50_twitter",
+    "timestamp": "2027-02-14T21:30:00Z",
+    "content": "Celebrating love every day, not just on Valentine's Day. Spread kindness and joy! ❤️ #SpreadLove #KindnessMatters",
+    "likes": 120,
+    "retweets": 15,
+    "hashtags": ["SpreadLove", "KindnessMatters"],
+    "location": "Paris"
+  },
+  {
+    "tweet_id": "tweet_51",
+    "author": "user51_twitter",
+    "timestamp": "2027-03-08T16:15:00Z",
+    "content": "International Women's Day—celebrating the strength and achievements of women worldwide. 💪🌸 #WomensDay #Empowerment",
+    "likes": 150,
+    "retweets": 20,
+    "hashtags": ["WomensDay", "Empowerment"],
+    "location": "New York"
+  },
+  {
+    "tweet_id": "tweet_52",
+    "author": "user52_twitter",
+    "timestamp": "2027-04-25T11:40:00Z",
+    "content": "Attending a tech summit to explore the latest innovations. The future is now! 🚀 #TechSummit #InnovationHub",
+    "likes": 200,
+    "retweets": 35,
+    "hashtags": ["TechSummit", "InnovationHub"],
+    "location": "San Francisco"
+  },
+  {
+    "tweet_id": "tweet_53",
+    "author": "user53_twitter",
+    "timestamp": "2027-05-20T18:05:00Z",
+    "content": "Chasing sunsets around the world. Each one is a masterpiece. 🌅✨ #SunsetChaser #TravelGoals",
+    "likes": 250,
+    "retweets": 30,
+    "hashtags": ["SunsetChaser", "TravelGoals"],
+    "location": "Bali"
+  }
+]
