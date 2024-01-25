@@ -1,0 +1,298 @@
+{
+  "medicines": [
+    {
+      "Name": "Aspirin",
+      "TargetArea": "Pain Relief",
+      "Cost": 5.99,
+      "Manufacturer": "Bayer"
+    },
+    {
+      "Name": "Ibuprofen",
+      "TargetArea": "Inflammation",
+      "Cost": 7.49,
+      "Manufacturer": "Advil"
+    },
+    {
+      "Name": "Acetaminophen",
+      "TargetArea": "Fever Reduction",
+      "Cost": 6.99,
+      "Manufacturer": "Tylenol"
+    },
+    {
+      "Name": "Amoxicillin",
+      "TargetArea": "Bacterial Infections",
+      "Cost": 12.99,
+      "Manufacturer": "Various"
+    },
+    {
+      "Name": "Loratadine",
+      "TargetArea": "Allergies",
+      "Cost": 9.99,
+      "Manufacturer": "Claritin"
+    },
+    {
+      "Name": "Omeprazole",
+      "TargetArea": "Acid Reflux",
+      "Cost": 15.49,
+      "Manufacturer": "Prilosec"
+    },
+    {
+      "Name": "Simvastatin",
+      "TargetArea": "Cholesterol Control",
+      "Cost": 18.99,
+      "Manufacturer": "Various"
+    },
+    {
+      "Name": "Paracetamol",
+      "TargetArea": "Pain and Fever",
+      "Cost": 4.99,
+      "Manufacturer": "Various"
+    },
+    {
+      "Name": "Losartan",
+      "TargetArea": "Hypertension",
+      "Cost": 22.99,
+      "Manufacturer": "Cozaar"
+    },
+    {
+      "Name": "Warfarin",
+      "TargetArea": "Blood Clot Prevention",
+      "Cost": 14.79,
+      "Manufacturer": "Various"
+    },
+     {
+      "Name": "Ciprofloxacin",
+      "TargetArea": "Bacterial Infections",
+      "Cost": 17.99,
+      "Manufacturer": "Cipro"
+    },
+    {
+      "Name": "Prednisone",
+      "TargetArea": "Inflammation",
+      "Cost": 8.79,
+      "Manufacturer": "Various"
+    },
+    {
+      "Name": "Diazepam",
+      "TargetArea": "Anxiety",
+      "Cost": 11.99,
+      "Manufacturer": "Valium"
+    },
+    {
+      "Name": "Morphine",
+      "TargetArea": "Pain Management",
+      "Cost": 25.49,
+      "Manufacturer": "Various"
+    },
+    {
+      "Name": "Ranitidine",
+      "TargetArea": "Acid Reduction",
+      "Cost": 7.29,
+      "Manufacturer": "Zantac"
+    },
+    {
+      "Name": "Levothyroxine",
+      "TargetArea": "Thyroid Conditions",
+      "Cost": 9.99,
+      "Manufacturer": "Synthroid"
+    },
+    {
+      "Name": "Metformin",
+      "TargetArea": "Diabetes",
+      "Cost": 12.49,
+      "Manufacturer": "Glucophage"
+    },
+    {
+      "Name": "Diphenhydramine",
+      "TargetArea": "Allergies",
+      "Cost": 6.49,
+      "Manufacturer": "Benadryl"
+    },
+    {
+      "Name": "Furosemide",
+      "TargetArea": "Edema",
+      "Cost": 14.99,
+      "Manufacturer": "Lasix"
+    },
+    {
+      "Name": "Atorvastatin",
+      "TargetArea": "Cholesterol Control",
+      "Cost": 20.59,
+      "Manufacturer": "Lipitor"
+    },
+    {
+      "Name": "Albuterol",
+      "TargetArea": "Respiratory Conditions",
+      "Cost": 9.29,
+      "Manufacturer": "Ventolin"
+    },
+    {
+      "Name": "Hydrochlorothiazide",
+      "TargetArea": "Hypertension",
+      "Cost": 13.99,
+      "Manufacturer": "Various"
+    },
+    {
+      "Name": "Sertraline",
+      "TargetArea": "Depression",
+      "Cost": 16.89,
+      "Manufacturer": "Zoloft"
+    },
+    {
+      "Name": "Amlodipine",
+    "TargetArea": "Hypertension",
+    "Cost": 18.49,
+    "Manufacturer": "Norvasc"
+},
+{
+    "Name": "Tamsulosin",
+    "TargetArea": "Enlarged Prostate",
+    "Cost": 11.79,
+    "Manufacturer": "Flomax"
+},
+{
+    "Name": "Citalopram",
+    "TargetArea": "Depression",
+    "Cost": 15.99,
+    "Manufacturer": "Celexa"
+},
+{
+    "Name": "Carvedilol",
+    "TargetArea": "Heart Conditions",
+    "Cost": 14.29,
+    "Manufacturer": "Coreg"
+},
+{
+    "Name": "Tramadol",
+    "TargetArea": "Pain Management",
+    "Cost": 10.59,
+    "Manufacturer": "Ultram"
+},
+{
+    "Name": "Esomeprazole",
+    "TargetArea": "Acid Reflux",
+    "Cost": 19.79,
+    "Manufacturer": "Nexium"
+},
+{
+    "Name": "Gabapentin",
+    "TargetArea": "Neuropathic Pain",
+    "Cost": 12.79,
+    "Manufacturer": "Neurontin"
+},
+{
+    "Name": "Hydrocortisone",
+    "TargetArea": "Skin Conditions",
+    "Cost": 8.99,
+    "Manufacturer": "Various"
+},
+{
+    "Name": "Mirtazapine",
+    "TargetArea": "Depression",
+    "Cost": 14.49,
+    "Manufacturer": "Remeron"
+},
+{
+    "Name": "Amitriptyline",
+    "TargetArea": "Chronic Pain",
+    "Cost": 11.29,
+    "Manufacturer": "Elavil"
+},
+{
+    "Name": "Fluoxetine",
+    "TargetArea": "Depression",
+    "Cost": 9.79,
+    "Manufacturer": "Prozac"
+},
+{
+    "Name": "Naproxen",
+    "TargetArea": "Pain and Inflammation",
+    "Cost": 8.19,
+    "Manufacturer": "Aleve"
+},
+{
+    "Name": "Bupropion",
+    "TargetArea": "Smoking Cessation",
+    "Cost": 17.19,
+    "Manufacturer": "Wellbutrin"
+},
+{
+    "Name": "Alprazolam",
+    "TargetArea": "Anxiety",
+    "Cost": 13.39,
+    "Manufacturer": "Xanax"
+},
+{
+    "Name": "Prednisolone",
+    "TargetArea": "Inflammation",
+    "Cost": 10.99,
+    "Manufacturer": "Various"
+},
+{
+    "Name": "Clonazepam",
+    "TargetArea": "Seizures",
+    "Cost": 15.69,
+    "Manufacturer": "Klonopin"
+},
+{
+    "Name": "Oxycodone",
+    "TargetArea": "Pain Management",
+    "Cost": 23.99,
+    "Manufacturer": "Various"
+},
+{
+    "Name": "Duloxetine",
+    "TargetArea": "Depression",
+    "Cost": 18.89,
+    "Manufacturer": "Cymbalta"
+},
+{
+    "Name": "Heparin",
+    "TargetArea": "Blood Clot Prevention",
+    "Cost": 21.49,
+    "Manufacturer": "Various"
+},
+{
+    "Name": "Metoprolol",
+    "TargetArea": "Heart Conditions",
+    "Cost": 16.29,
+    "Manufacturer": "Lopressor"
+},
+{
+    "Name": "Rivaroxaban",
+    "TargetArea": "Blood Clot Prevention",
+    "Cost": 19.99,
+    "Manufacturer": "Xarelto"
+},
+{
+    "Name": "Propranolol",
+    "TargetArea": "Hypertension",
+    "Cost": 14.09,
+    "Manufacturer": "Inderal"
+},
+{
+    "Name": "Quetiapine",
+    "TargetArea": "Bipolar Disorder",
+    "Cost": 20.79,
+    "Manufacturer": "Seroquel"
+},
+{
+    "Name": "Methotrexate",
+    "TargetArea": "Rheumatoid Arthritis",
+    "Cost": 22.29,
+    "Manufacturer": "Various"
+},
+{
+    "Name": "Lisinopril",
+    "TargetArea": "Hypertension",
+    "Cost": 12.89,
+    "Manufacturer": "Prinivil"
+},
+{
+    "Name": "Dexamethasone",
+    "TargetArea": "Inflammation",
+    "Cost": 16.59,
+    "Manufacturer": "Decadron"
+}
+  ]
+}
