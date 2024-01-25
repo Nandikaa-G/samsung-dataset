@@ -1,0 +1,22 @@
+Highest Pollution Index:
+Phoenix has the highest pollution index with a value of 88.5.
+Lowest Pollution Index:
+Reykjavik has the lowest pollution index with a value of 28.6.
+Average Pollution Index:
+The average pollution index for all cities is approximately 56.8.
+Overall Observations:
+Comparison:
+
+There is variability in pollution levels among the cities, with Phoenix having the highest and Reykjavik the lowest pollution index.
+Distribution:
+
+The pollution indices across cities show a diverse range, indicating differing levels of air quality.
+Urban Impact:
+
+Cities like Miami, Orlando, and Bucharest have relatively high pollution indices, suggesting potential environmental challenges.
+Regional Differences:
+
+Varied pollution levels highlight the impact of local factors on air quality in different regions.
+Environmental Concerns:
+
+Monitoring and addressing pollution levels are crucial for environmental sustainability and public health.

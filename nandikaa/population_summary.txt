@@ -1,0 +1,26 @@
+Cities with the Highest Population Growth Rate:
+
+Austin: (960,000 - 950,000) / 950,000 = 1.05%
+Orlando: (360,000 - 350,000) / 350,000 = 2.86%
+Denver: (730,000 - 720,000) / 720,000 = 1.39%
+Cities with the Lowest Population Growth Rate:
+
+Baltimore: (660,000 - 650,000) / 650,000 = 1.54%
+St. Louis: (305,000 - 300,000) / 300,000 = 1.67%
+Boston: (710,000 - 700,000) / 700,000 = 1.43%
+
+Maximum Statistics:
+
+Maximum Population in 2023: Sao Paulo - 12,100,000
+Maximum Population in 2024: Sao Paulo - 12,300,000
+Maximum Growth Rate: Orlando - 2.86%
+Minimum Statistics:
+
+Minimum Population in 2023: Sucre - 267,000
+Minimum Population in 2024: Sucre - 275,000
+Minimum Growth Rate: St. Louis - 1.39%
+Average Statistics:
+
+Average Population in 2023: 3,530,340
+Average Population in 2024: 3,603,680
+Average Growth Rate: 2.27%

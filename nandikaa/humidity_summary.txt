@@ -1,0 +1,27 @@
+Overall Statistics:
+
+Average Morning Humidity: ~78.07%
+Average Afternoon Humidity: ~63.14%
+Average Night Humidity: ~81.27%
+Daily Fluctuations:
+
+The morning humidity tends to be lower than the night humidity.
+Afternoon humidity shows moderate values between morning and night.
+Highest and Lowest Values:
+
+Highest Morning Humidity: 88% (Day 16 and Day 34)
+Lowest Morning Humidity: 67% (Day 20 and Day 51)
+Highest Afternoon Humidity: 74% (Multiple days)
+Lowest Afternoon Humidity: 51% (Day 20 and Day 51)
+Highest Night Humidity: 94% (Day 16)
+Lowest Night Humidity: 72% (Day 7)
+Variability:
+
+There is noticeable variability in humidity values from day to day, indicating changing weather conditions.
+Trends:
+
+Days 11, 16, 32, and 44 exhibit relatively high humidity throughout the day.
+Days 20, 34, and 51 show lower humidity levels.
+Consistency:
+
+Overall, the dataset reflects realistic fluctuations in humidity, capturing potential weather patterns.

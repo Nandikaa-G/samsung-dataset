@@ -1,0 +1,41 @@
+Insights:
+
+Top 5 Cities with the Highest Current Traffic Index:
+
+Delhi (90)
+Mumbai (85)
+Phoenix (88)
+Dhaka (88)
+Jakarta (82)
+Top 5 Cities with the Lowest Current Traffic Index:
+
+Zurich (29.4)
+Oslo (30.2)
+Reykjavik (28.6)
+Athens (35.6)
+Stockholm (38.7)
+Cities with Significant Traffic Index Increase from Previous to Current:
+
+Mumbai (Previous: 82, Current: 85)
+Orlando (Previous: 75, Current: 79)
+Phoenix (Previous: 86, Current: 88)
+Dhaka (Previous: 86, Current: 88)
+Beijing (Previous: 78, Current: 80)
+Cities with Significant Traffic Index Decrease from Previous to Current:
+
+Dubai (Previous: 42, Current: 45)
+Lisbon (Previous: 52, Current: 55)
+Singapore (Previous: 52, Current: 55)
+Vienna (Previous: 48, Current: 50)
+Zurich (Previous: 29.4, Current: 30.2)
+Average Traffic Index:
+
+Current: Approximately 66.4
+Previous: Approximately 64.8
+Summary:
+
+The data includes major cities from different regions, providing a diverse representation of traffic conditions.
+Overall, there is a slight increase in the average traffic index from the previous period to the current period.
+Cities like Delhi, Mumbai, Phoenix, and Dhaka exhibit high traffic congestion.
+European cities generally have lower traffic indices compared to cities in Asia and the United States.
+Some cities, such as Mumbai, Orlando, and Phoenix, have experienced an increase in traffic congestion, while others like Dubai and Lisbon have seen a decrease.

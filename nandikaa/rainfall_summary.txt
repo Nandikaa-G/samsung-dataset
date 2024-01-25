@@ -1,0 +1,11 @@
+Rainfall Dataset Insights:
+The dataset spans from August 1, 2024, to October 9, 2024.
+Rainfall is observed mainly in August and September, with no recorded rainfall in October.
+Rainfall amounts vary daily, ranging from 0.0 mm (no rainfall) to a maximum of 6.8 mm.
+Statistics Summary:
+Total number of entries: 70
+Total recorded rainfall: 179.1 mm
+Average daily rainfall: Approximately 2.5586 mm
+Days with the highest rainfall: August 28, 2024 (6.8 mm) and August 18, 2024 (6.5 mm)
+Days with no recorded rainfall: August 4, 2024, September 4, 2024, September 8, 2024, and October 1, 2024
+Variation: The dataset shows a mix of rainy and dry days, representing a realistic distribution.

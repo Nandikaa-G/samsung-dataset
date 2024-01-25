@@ -1,0 +1,29 @@
+Insights and Statistics Summary:
+General Statistics:
+Number of Entries: 80
+Date: 2024-08-01
+Wind Pressure Statistics:
+Minimum Wind Pressure: 96.6 kPa (Vienna)
+Maximum Wind Pressure: 104.0 kPa (Edinburgh)
+Mean Wind Pressure: 100.0 kPa (Approximately)
+Median Wind Pressure: 99.7 kPa
+City-wise Statistics:
+Top 5 Cities with Highest Wind Pressure:
+
+Edinburgh: 104.0 kPa
+Warsaw: 104.1 kPa
+Prague: 103.8 kPa
+Lisbon: 103.3 kPa
+Vienna: 103.2 kPa
+Top 5 Cities with Lowest Wind Pressure:
+
+Vienna: 96.6 kPa
+Stockholm: 96.8 kPa
+Helsinki: 96.9 kPa
+Oslo: 97.3 kPa
+Houston: 96.8 kPa
+Overall Observations:
+The wind pressure on the selected date ranges from 96.6 kPa to 104.0 kPa.
+Edinburgh, Warsaw, and Prague experienced relatively higher wind pressure compared to other cities.
+Vienna, Stockholm, and Helsinki had lower wind pressure on the given date.
+The mean wind pressure is around 100.0 kPa, indicating a balanced distribution.
