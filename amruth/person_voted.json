@@ -1,0 +1,256 @@
+{
+  "people": [
+    {
+      "Name": "John Doe",
+      "Voted": true,
+      "Age": 30,
+      "Occupation": "Software Engineer",
+      "Address": "123 Main Street, Cityville, State"
+    },
+    {
+      "Name": "Jane Smith",
+      "Voted": false,
+      "Age": 25,
+      "Occupation": "Teacher",
+      "Address": "456 Oak Avenue, Townsville, State"
+    },
+    {
+      "Name": "Robert Johnson",
+      "Voted": true,
+      "Age": 40,
+      "Occupation": "Accountant",
+      "Address": "789 Pine Road, Villageton, State"
+    },
+    {
+      "Name": "Emily Davis",
+      "Voted": false,
+      "Age": 35,
+      "Occupation": "Doctor",
+      "Address": "101 Elm Lane, Boroughburg, State"
+    },
+    {
+      "Name": "Michael White",
+      "Voted": true,
+      "Age": 28,
+      "Occupation": "Graphic Designer",
+      "Address": "202 Birch Street, Hamletville, State"
+    },
+    {
+      "Name": "Amanda Lee",
+      "Voted": false,
+      "Age": 22,
+      "Occupation": "Student",
+      "Address": "303 Maple Court, Township, State"
+    },
+    {
+      "Name": "Christopher Miller",
+      "Voted": true,
+      "Age": 45,
+      "Occupation": "Lawyer",
+      "Address": "404 Cedar Drive, Districtville, State"
+    },
+    {
+      "Name": "Sophia Turner",
+      "Voted": false,
+      "Age": 32,
+      "Occupation": "Marketing Manager",
+      "Address": "505 Redwood Circle, Sector City, State"
+    },
+    {
+      "Name": "Daniel Baker",
+      "Voted": true,
+      "Age": 38,
+      "Occupation": "Engineer",
+      "Address": "606 Fir Avenue, Metropolis, State"
+    },
+    {
+      "Name": "Olivia Taylor",
+      "Voted": false,
+      "Age": 27,
+      "Occupation": "Nurse",
+      "Address": "707 Spruce Lane, Capital Town, State"
+    },
+    {
+      "Name": "Samuel Green",
+      "Voted": true,
+      "Age": 33,
+      "Occupation": "Architect",
+      "Address": "808 Cedar Lane, Central City, State"
+    },
+    {
+      "Name": "Isabella Turner",
+      "Voted": false,
+      "Age": 29,
+      "Occupation": "Event Planner",
+      "Address": "909 Oak Street, Suburbia, State"
+    },
+    {
+      "Name": "William Harris",
+      "Voted": true,
+      "Age": 42,
+      "Occupation": "Financial Analyst",
+      "Address": "1010 Pine Drive, Downtown, State"
+    },
+    {
+      "Name": "Sophie Anderson",
+      "Voted": false,
+      "Age": 31,
+      "Occupation": "Artist",
+      "Address": "1111 Maple Lane, Uptown, State"
+    },
+    {
+      "Name": "Ethan Davis",
+      "Voted": true,
+      "Age": 36,
+      "Occupation": "Chef",
+      "Address": "1212 Elm Road, Outskirts, State"
+    },
+    {
+      "Name": "Amelia Wright",
+      "Voted": false,
+      "Age": 26,
+      "Occupation": "Journalist",
+      "Address": "1313 Birch Court, Riverside, State"
+    },
+    {
+      "Name": "Henry Moore",
+      "Voted": true,
+      "Age": 39,
+      "Occupation": "Human Resources",
+      "Address": "1414 Cedar Street, Lakeside, State"
+    },
+    {
+      "Name": "Lily Thompson",
+      "Voted": false,
+      "Age": 28,
+      "Occupation": "Social Worker",
+      "Address": "1515 Oak Lane, Hillside, State"
+    },
+    {
+      "Name": "James Taylor",
+      "Voted": true,
+      "Age": 44,
+      "Occupation": "Police Officer",
+      "Address": "1616 Pine Avenue, Mountainside, State"
+    },
+    {
+      "Name": "Mia Clark",
+      "Voted": false,
+      "Age": 30,
+      "Occupation": "Pharmacist",
+      "Address": "1717 Elm Street, Countryside, State"
+    },
+    {
+      "Name": "David Walker",
+      "Voted": true,
+      "Age": 37,
+      "Occupation": "Mechanic",
+      "Address": "1818 Birch Road, Farmland, State"
+    },
+    {
+      "Name": "Emma Allen",
+      "Voted": false,
+      "Age": 24,
+      "Occupation": "Graphic Designer",
+      "Address": "1919 Cedar Court, Orchard, State"
+    },
+    {
+      "Name": "Alexander Hill",
+      "Voted": true,
+      "Age": 41,
+      "Occupation": "IT Consultant",
+      "Address": "2020 Pine Lane, Riverside, State"
+    },
+    {
+      "Name": "Grace Evans",
+      "Voted": false,
+      "Age": 29,
+      "Occupation": "Dentist",
+      "Address": "2121 Oak Drive, Valleyview, State"
+    },
+    {
+      "Name": "Benjamin Baker",
+      "Voted": true,
+      "Age": 35,
+      "Occupation": "Entrepreneur",
+      "Address": "2222 Birch Avenue, Seaside, State"
+    },
+    {
+      "Name": "Ava Turner",
+      "Voted": false,
+      "Age": 32,
+      "Occupation": "Interior Designer",
+      "Address": "2323 Elm Lane, Mountainview, State"
+    },
+     {
+      "Name": "Noah Martinez",
+      "Voted": true,
+      "Age": 33,
+      "Occupation": "Financial Planner",
+      "Address": "2424 Pine Road, Lakeshore, State"
+    },
+    {
+      "Name": "Chloe Harris",
+      "Voted": false,
+      "Age": 28,
+      "Occupation": "Marketing Coordinator",
+      "Address": "2525 Cedar Avenue, Riverside, State"
+    },
+    {
+      "Name": "Liam Turner",
+      "Voted": true,
+      "Age": 40,
+      "Occupation": "Professor",
+      "Address": "2626 Oak Street, Hilltop, State"
+    },
+    {
+      "Name": "Ella Thompson",
+      "Voted": false,
+      "Age": 27,
+      "Occupation": "Librarian",
+      "Address": "2727 Elm Drive, Meadowville, State"
+    },
+    {
+      "Name": "Mason Carter",
+      "Voted": true,
+      "Age": 36,
+      "Occupation": "Real Estate Agent",
+      "Address": "2828 Birch Lane, Beachside, State"
+    },
+    {
+      "Name": "Aria Parker",
+      "Voted": false,
+      "Age": 31,
+      "Occupation": "Software Developer",
+      "Address": "2929 Pine Avenue, Urbanville, State"
+    },
+    {
+      "Name": "Logan Taylor",
+      "Voted": true,
+      "Age": 38,
+      "Occupation": "Architect",
+      "Address": "3030 Cedar Road, Cityscape, State"
+    },
+    {
+      "Name": "Harper Davis",
+      "Voted": false,
+      "Age": 29,
+      "Occupation": "Event Coordinator",
+      "Address": "3131 Oak Court, Heightsville, State"
+    },
+    {
+      "Name": "Jackson Brown",
+      "Voted": true,
+      "Age": 34,
+      "Occupation": "Civil Engineer",
+      "Address": "3232 Elm Lane, Skyline, State"
+    },
+    {
+      "Name": "Scarlett Reed",
+      "Voted": false,
+      "Age": 26,
+      "Occupation": "Graphic Designer",
+      "Address": "3333 Birch Drive, Horizon, State"
+    }
+  ]
+}
