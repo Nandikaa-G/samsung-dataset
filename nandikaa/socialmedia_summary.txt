@@ -1,0 +1,35 @@
+Total Number of Entries: 60
+
+Follower Growth:
+
+Average Follower Growth (2023-2024): Approximately 41.67%
+Median Follower Growth (2023-2024): 41.67%
+Maximum Follower Growth: 100% (user16)
+Minimum Follower Growth: 0% (Several accounts)
+Content Types:
+
+Most Common Content Types: Fashion, Travel, Fitness, Foodie, Tech
+Diverse Range of Content: Book Reviews, DIY, Music, Science, Pets, Motivation, Gaming, Parenting, Influencer, Art
+Locations:
+
+Wide Geographical Distribution: New York, Los Angeles, Paris, Sydney, Tokyo, Milan, San Francisco, Seoul, London, Berlin, Nashville, Boston, Miami, Barcelona
+Top Locations:
+
+Los Angeles: 10 accounts
+New York, San Francisco, London: 4 accounts each
+Top Content Types:
+
+Fashion: 6 accounts
+Travel, Fitness: 5 accounts each
+Overall Summary:
+
+The dataset represents a diverse set of social media accounts, covering various content types and global locations.
+Follower growth shows variability, with some accounts experiencing substantial growth.
+Fashion and travel-related content are prominent, reflecting popular social media themes.
+Locations such as Los Angeles, New York, and San Francisco are popular among influencers.
+Statistics:
+
+Average Followers (2023): Approximately 15,300
+Average Followers (2024): Approximately 23,050
+Median Followers (2023): 12,000
+Median Followers (2024): 17,500
