@@ -1,0 +1,57 @@
+1."P004" receives mixed reviews, with some customers loving the product's value for money, while others express disappointment in its quality, durability, and a slow customer service response.
+
+2.Customers generally provide positive feedback for "P003," appreciating its fantastic quality and functionality. However, there is one review mentioning issues with packaging.
+
+3.In the dataset, we can find reviews with the date in March 2023. Let's count them:
+
+R013 - March 10, 2023
+R015 - March 5, 2023
+So, there are two reviews in the dataset that were done in the month of March 2023. 
+  
+4.The reviews with the highest rating (5.0) are:
+
+Review ID: R003
+
+Product ID: P003
+Customer Name: Catherine Davis
+Rating: 5.0
+Date: March 20, 2022
+Review Text: "Fantastic product! It's exactly what I needed. Great quality and fast delivery. Highly recommended!"
+Review ID: R008
+
+Product ID: P004
+Customer Name: Henry Turner
+Rating: 5.0
+Date: August 25, 2022
+Review Text: "Absolutely love it! The product is of top-notch quality, and the customer service was outstanding."
+Review ID: R023
+
+Product ID: P004
+Customer Name: Willa Turner
+Rating: 5.0
+Date: November 25, 2023
+Review Text: "Fantastic product! The design is elegant, and the functionality exceeded my expectations. Highly recommended!"
+Review ID: R034
+
+Product ID: P003
+Customer Name: Oscar Turner
+Rating: 4.8
+Date: September 10, 2024
+Review Text: "Great value for money! The product is durable and stylish. I'm satisfied with my purchase."
+Review ID: R041
+
+Product ID: P002
+Customer Name: Willow Garcia
+Rating: 4.2
+Date: February 15, 2025
+Review Text: "Satisfied with the purchase. The product met my expectations, and it arrived in good condition."
+  
+5.The review with the lowest rating is:
+
+Review ID: R012
+
+Product ID: P003
+Customer Name: Liam Turner
+Rating: 2.0
+Date: December 15, 2022
+Review Text: "Not satisfied with the purchase. The quality is subpar, and it broke shortly after using it."
