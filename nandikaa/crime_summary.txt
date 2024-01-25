@@ -1,0 +1,50 @@
+Crime Distribution:
+Burglary: 5 cases
+Assault: 6 cases
+Robbery: 5 cases
+Fraud: 4 cases
+Vandalism: 3 cases
+Kidnapping: 4 cases
+Drug Possession: 3 cases
+Homicide: 3 cases
+Identity Theft: 3 cases
+Arson: 3 cases
+Cybercrime: 2 cases
+Domestic Violence: 2 cases
+Car Theft: 2 cases
+White-Collar Crime: 3 cases
+Human Trafficking: 2 cases
+Embezzlement: 3 cases
+Sexual Assault: 3 cases
+Counterfeiting: 2 cases
+Stalking: 2 cases
+Money Laundering: 2 cases
+Gang Violence: 2 cases
+Trespassing: 2 cases
+Harassment: 2 cases
+Drug Trafficking: 2 cases
+Forgery: 2 cases
+Aggravated Assault: 2 cases
+Bribery: 2 cases
+Public Intoxication: 1 case
+Child Abuse: 1 case
+Investigation Status:
+Under Investigation: 24 cases
+Closed - Arrest Made: 15 cases
+Open: 13 cases
+Closed - No Leads: 5 cases
+Closed - Recovered Vehicle: 1 case
+Closed - Warning Issued: 1 case
+Closed - Citation Issued: 1 case
+Date Range:
+Start Date: January 1, 2024
+End Date: January 10, 2025
+Additional Insights:
+Most frequent crime types are Assault, Burglary, and Robbery.
+Identity Theft and White-Collar Crime have a relatively high occurrence.
+Drug Possession and Homicide have lower frequencies compared to other crimes.
+Statistical Summary:
+Total Entries: 75
+Average Cases per Month: Approximately 6.25 cases
+Highest Monthly Cases: 12 cases (January 2024, May 2024)
+Lowest Monthly Cases: 1 case (Several months)

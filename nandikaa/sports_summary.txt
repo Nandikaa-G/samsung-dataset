@@ -1,0 +1,56 @@
+Total Entries: 90
+
+Distribution by Sports:
+
+Swimming: 4
+Gymnastics: 4
+Athletics: 4
+Cycling: 4
+Boxing: 4
+Football: 4
+Archery: 4
+Rowing: 4
+Tennis: 4
+Weightlifting: 4
+Volleyball: 4
+Diving: 4
+Fencing: 4
+Basketball: 4
+Taekwondo: 4
+Table Tennis: 4
+Hockey: 4
+Shooting: 4
+Badminton: 4
+Equestrian: 4
+Rugby Sevens: 2
+Canoe Sprint: 2
+Sailing: 2
+Karate: 2
+Modern Pentathlon: 2
+Triathlon: 2
+Judo: 2
+Baseball: 2
+Softball: 2
+Trampoline Gymnastics: 2
+Artistic Swimming: 2
+Canoe Slalom: 2
+Surfing: 2
+City and Venue Distribution:
+
+All events took place in Tokyo, with various venues specified.
+Year of Competition:
+
+2020 (Tokyo Olympics)
+Gender and Category Distribution:
+
+Categories include Men's, Women's, and Mixed, across various sports.
+Medal Winners:
+
+Each entry includes gold, silver, and bronze winners.
+Country/Team Winners:
+
+Various teams, including Team USA, Team Brazil, Team Germany, etc.
+Insights:
+
+The dataset provides a diverse representation of sports, categories, and winners in the context of the 2020 Tokyo Olympics.
+The inclusion of different sports, venues, and winners showcases the variety and excitement of the Olympic Games.
