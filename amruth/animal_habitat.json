@@ -1,0 +1,454 @@
+{
+  "animals": [
+    {
+      "Name": "Cheetah",
+      "MaxSpeed": 75,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Elephant",
+      "MaxSpeed": 25,
+      "Diet": "Herbivore",
+      "Habitat": "Forests"
+    },
+    {
+      "Name": "Peregrine Falcon",
+      "MaxSpeed": 240,
+      "Diet": "Carnivore",
+      "Habitat": "Various (Nests on cliffs)"
+    },
+    {
+      "Name": "Giraffe",
+      "MaxSpeed": 35,
+      "Diet": "Herbivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Great White Shark",
+      "MaxSpeed": 35,
+      "Diet": "Carnivore",
+      "Habitat": "Oceans"
+    },
+    {
+      "Name": "Cheetah",
+      "MaxSpeed": 75,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Lion",
+      "MaxSpeed": 50,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Hippopotamus",
+      "MaxSpeed": 30,
+      "Diet": "Herbivore",
+      "Habitat": "Rivers and Lakes"
+    },
+    {
+      "Name": "Panda",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Mountainous Bamboo Forests"
+    },
+    {
+      "Name": "Cheetah",
+      "MaxSpeed": 75,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Penguin",
+      "MaxSpeed": 22,
+      "Diet": "Carnivore (Fish)",
+      "Habitat": "Antarctica"
+    },
+    {
+      "Name": "Gorilla",
+      "MaxSpeed": 20,
+    "Diet": "Herbivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Polar Bear",
+      "MaxSpeed": 20,
+      "Diet": "Carnivore (Seals, Fish)",
+      "Habitat": "Arctic Regions"
+    },
+    {
+      "Name": "Crocodile",
+      "MaxSpeed": 20,
+      "Diet": "Carnivore",
+      "Habitat": "Swamps and Rivers"
+    },
+    {
+      "Name": "Chimpanzee",
+      "MaxSpeed": 25,
+      "Diet": "Omnivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Dolphin",
+      "MaxSpeed": 60,
+      "Diet": "Carnivore (Fish, Squid)",
+      "Habitat": "Oceans"
+    },
+    {
+      "Name": "Giraffe",
+      "MaxSpeed": 35,
+      "Diet": "Herbivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Tiger",
+      "MaxSpeed": 40,
+      "Diet": "Carnivore",
+      "Habitat": "Various (Forests, Grasslands)"
+    },
+    {
+      "Name": "Rhino",
+      "MaxSpeed": 34,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Sloth",
+      "MaxSpeed": 0.24,
+      "Diet": "Herbivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Penguin",
+      "MaxSpeed": 22,
+      "Diet": "Carnivore (Fish)",
+      "Habitat": "Antarctica"
+    },
+    {
+      "Name": "Turtle",
+      "MaxSpeed": 20,
+      "Diet": "Omnivore",
+      "Habitat": "Oceans and Coastal Areas"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Zebra",
+      "MaxSpeed": 65,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Cheetah",
+      "MaxSpeed": 75,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Elephant",
+      "MaxSpeed": 25,
+      "Diet": "Herbivore",
+      "Habitat": "Forests"
+    },
+    {
+      "Name": "Peregrine Falcon",
+      "MaxSpeed": 240,
+      "Diet": "Carnivore",
+      "Habitat": "Various (Nests on cliffs)"
+    },
+    {
+      "Name": "Giraffe",
+      "MaxSpeed": 35,
+      "Diet": "Herbivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Great White Shark",
+      "MaxSpeed": 35,
+      "Diet": "Carnivore",
+      "Habitat": "Oceans"
+    },
+    {
+      "Name": "Lion",
+      "MaxSpeed": 50,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Hippopotamus",
+      "MaxSpeed": 30,
+      "Diet": "Herbivore",
+      "Habitat": "Rivers and Lakes"
+    },
+    {
+      "Name": "Panda",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Mountainous Bamboo Forests"
+    },
+    {
+      "Name": "Cheetah",
+      "MaxSpeed": 75,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Penguin",
+      "MaxSpeed": 22,
+      "Diet": "Carnivore (Fish)",
+      "Habitat": "Antarctica"
+    },
+    {
+      "Name": "Gorilla",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Polar Bear",
+      "MaxSpeed": 20,
+      "Diet": "Carnivore (Seals, Fish)",
+      "Habitat": "Arctic Regions"
+    },
+    {
+      "Name": "Crocodile",
+      "MaxSpeed": 20,
+      "Diet": "Carnivore",
+      "Habitat": "Swamps and Rivers"
+    },
+    {
+      "Name": "Chimpanzee",
+      "MaxSpeed": 25,
+      "Diet": "Omnivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Dolphin",
+      "MaxSpeed": 60,
+      "Diet": "Carnivore (Fish, Squid)",
+      "Habitat": "Oceans"
+    },
+    {
+      "Name": "Giraffe",
+      "MaxSpeed": 35,
+      "Diet": "Herbivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Tiger",
+      "MaxSpeed": 40,
+      "Diet": "Carnivore",
+      "Habitat": "Various (Forests, Grasslands)"
+    },
+    {
+      "Name": "Rhino",
+      "MaxSpeed": 34,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Sloth",
+      "MaxSpeed": 0.24,
+      "Diet": "Herbivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Penguin",
+      "MaxSpeed": 22,
+      "Diet": "Carnivore (Fish)",
+      "Habitat": "Antarctica"
+    },
+    {
+      "Name": "Turtle",
+      "MaxSpeed": 20,
+      "Diet": "Omnivore",
+      "Habitat": "Oceans and Coastal Areas"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Zebra",
+      "MaxSpeed": 65,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Giraffe",
+      "MaxSpeed": 35,
+      "Diet": "Herbivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Tiger",
+      "MaxSpeed": 40,
+      "Diet": "Carnivore",
+      "Habitat": "Various (Forests, Grasslands)"
+    },
+    {
+      "Name": "Elephant Seal",
+      "MaxSpeed": 8,
+      "Diet": "Carnivore (Fish)",
+      "Habitat": "Coastal Areas"
+    },
+    {
+      "Name": "Koala",
+      "MaxSpeed": 20,
+      "Diet": "Herbivore",
+      "Habitat": "Eucalyptus Forests"
+    },
+    {
+      "Name": "Pangolin",
+      "MaxSpeed": 3,
+      "Diet": "Insectivore",
+      "Habitat": "Tropical and Subtropical Regions"
+    },
+    {
+      "Name": "Hawk",
+      "MaxSpeed": 120,
+      "Diet": "Carnivore (Small Animals)",
+      "Habitat": "Various (Nests in Trees)"
+    },
+    {
+      "Name": "Cheetah",
+      "MaxSpeed": 75,
+      "Diet": "Carnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Orca",
+      "MaxSpeed": 34,
+      "Diet": "Carnivore (Fish, Marine Mammals)",
+      "Habitat": "Oceans"
+    },
+    {
+      "Name": "Armadillo",
+      "MaxSpeed": 30,
+      "Diet": "Omnivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Ostrich",
+      "MaxSpeed": 70,
+      "Diet": "Omnivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Polar Bear",
+      "MaxSpeed": 20,
+      "Diet": "Carnivore (Seals, Fish)",
+      "Habitat": "Arctic Regions"
+    },
+    {
+      "Name": "Kangaroo",
+      "MaxSpeed": 44,
+      "Diet": "Herbivore",
+      "Habitat": "Grasslands"
+    },
+    {
+      "Name": "Red Fox",
+      "MaxSpeed": 48,
+      "Diet": "Omnivore",
+      "Habitat": "Forests"
+    },
+    {
+      "Name": "Giraffe",
+      "MaxSpeed": 35,
+      "Diet": "Herbivore",
+      "Habitat": "Savannas"
+    },
+    {
+      "Name": "Snow Leopard",
+      "MaxSpeed": 40,
+      "Diet": "Carnivore",
+      "Habitat": "Mountainous Regions"
+    },
+    {
+      "Name": "Hummingbird",
+      "MaxSpeed": 34,
+      "Diet": "Nectarivore",
+      "Habitat": "Various (Nests in Trees)"
+    },
+    {
+      "Name": "Chameleon",
+      "MaxSpeed": 0.6,
+      "Diet": "Insectivore",
+      "Habitat": "Rainforests"
+    },
+    {
+      "Name": "Platypus",
+      "MaxSpeed": 5,
+      "Diet": "Carnivore (Aquatic Insects, Worms)",
+      "Habitat": "Rivers and Lakes"
+    }
+  ]
+}
