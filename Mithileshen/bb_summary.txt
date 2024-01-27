@@ -1,0 +1,36 @@
+Average and Maximum Statistics:
+
+Average Points Scored: Approximately 1458
+Maximum Points Scored: Kevin Durant with 2000 points
+Average Rebounds: Approximately 405
+Maximum Rebounds: Rudy Gobert with 900 rebounds
+Average Assists: Approximately 380
+Maximum Assists: Chris Paul with 700 assists
+Average Age: Approximately 27.2
+Maximum Age: LeBron James with 36 years
+Minimum Statistics:
+
+Minimum Points Scored: 800 (Multiple players share this minimum)
+Minimum Rebounds: 200 (Multiple players share this minimum)
+Minimum Assists: 100 (Multiple players share this minimum)
+Minimum Age: 21 (Multiple players share this minimum)
+Distribution of Age and Height:
+
+Age Distribution: Skewed towards younger players, with the majority in the 21-33 age range.
+Height Distribution: Diverse height distribution, ranging from 6'1" to 7'3".
+Team-wise Analysis:
+
+Team with Highest Total Points Scored: Brooklyn Nets
+Team with Highest Total Rebounds: Utah Jazz
+Team with Highest Total Assists: Phoenix Suns
+Explore variations in player statistics across different teams.
+Playing Style Analysis:
+
+Common playing styles include versatile forwards, dynamic guards, and dominant centers.
+Players are known for their scoring ability, playmaking, and defensive skills.
+Correlation Analysis:
+
+Correlation between Points Scored and Rebounds: Moderate positive correlation
+Correlation between Points Scored and Assists: Moderate positive correlation
+Correlation between Rebounds and Assists: Weak positive correlation
+Investigate whether age or height correlates with certain player statistics.
