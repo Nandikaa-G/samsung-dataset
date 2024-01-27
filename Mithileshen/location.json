@@ -1,0 +1,343 @@
+[
+  {
+    "location_name": "Mystic Valley",
+    "country": "Fantasia",
+    "latitude": 25.125,
+    "longitude": -45.789
+  },
+  {
+    "location_name": "Serene Cove",
+    "country": "Harmony Isles",
+    "latitude": -12.345,
+    "longitude": 153.678
+  },
+  {
+    "location_name": "Whispering Hills",
+    "country": "Dreamland",
+    "latitude": 35.678,
+    "longitude": -110.987
+  },
+  {
+    "location_name": "Enchanted Forest",
+    "country": "Fantasia",
+    "latitude": 40.567,
+    "longitude": -75.432
+  },
+  {
+    "location_name": "Starry Summit",
+    "country": "Stellar Realm",
+    "latitude": -5.432,
+    "longitude": 120.345
+  },
+  {
+    "location_name": "Celestial Canyon",
+    "country": "Cosmic Land",
+    "latitude": -20.789,
+    "longitude": 10.567
+  },
+  {
+    "location_name": "Ethereal Plateau",
+    "country": "Aeris",
+    "latitude": 15.234,
+    "longitude": -30.876
+  },
+  {
+    "location_name": "Sapphire Springs",
+    "country": "Gemstone Haven",
+    "latitude": -40.987,
+    "longitude": 45.123
+  },
+  {
+    "location_name": "Radiant Valley",
+    "country": "Luminara",
+    "latitude": 32.876,
+    "longitude": -89.012
+  },
+  {
+    "location_name": "Majestic Bay",
+    "country": "Aqua
+
+Lagoon",
+    "latitude": -8.765,
+    "longitude": 170.123
+  },
+  {
+    "location_name": "Abyssal Trench",
+    "country": "Deep Blue",
+    "latitude": -25.432,
+    "longitude": -150.987
+  },
+  {
+    "location_name": "Volcanic Peaks",
+    "country": "Inferno Isles",
+    "latitude": 18.234,
+    "longitude": 130.567
+  },
+  {
+    "location_name": "Galactic Nexus",
+    "country": "Nebula
+
+Hub",
+    "latitude": -35.789,
+    "longitude": -60.876
+  },
+  {
+    "location_name": "Lunar Oasis",
+    "country": "Moonlit
+
+Desert",
+    "latitude": 10.567,
+    "longitude": 40.123
+  },
+  {
+    "location_name": "Aurora
+
+Glade",
+    "country": "Polaris",
+    "latitude": -15.432,
+    "longitude": 75.987
+  },
+  {
+    "location_name": "Sylvan
+
+Falls",
+    "country": "Whispering
+
+Woods",
+    "latitude": 28.234,
+    "longitude": -100.567
+  },
+  {
+    "location_name": "Eclipsed
+
+Crag",
+    "country": "Shadow
+
+Territory",
+    "latitude": -42.789,
+    "longitude": 55.876
+  },
+  {
+    "location_name": "Solarium
+
+Dunes",
+    "country": "Daybreak
+
+Desert",
+    "latitude": 5.567,
+    "longitude": -80.123
+  },
+  {
+    "location_name": "Magnetic
+
+Pinnacle",
+    "country": "Electra
+
+Range",
+    "latitude": -30.432,
+    "longitude": 95.987
+  },
+  {
+    "location_name": "Aether
+
+Wellspring",
+    "country": "Skyward
+
+Rift",
+    "latitude": 20.234,
+    "longitude": -120.567
+  },
+  {
+    "location_name": "Crimson
+
+Ridge",
+    "country": "Blaze
+
+Plateau",
+    "latitude": -12.789,
+    "longitude": 135.876
+  },
+  {
+    "location_name": "Pandora's
+
+Gate",
+    "country": "Mythos
+
+Haven",
+    "latitude": 25.567,
+    "longitude": -110.123
+  },
+  {
+    "location_name": "Nebulous
+
+Outcrop",
+    "country": "Galaxia",
+    "latitude": -8.432,
+    "longitude": 70.987
+  },
+  {
+    "location_name": "Elysian
+
+Vale",
+    "country": "Etherea",
+    "latitude": 15.234,
+    "longitude": -95.567
+  },
+  {
+    "location_name": "Orion's
+
+Belt",
+    "country": "Astro
+
+Realm",
+    "latitude": -25.789,
+    "longitude": 115.876
+  },
+  {
+    "location_name": "Vortex
+
+Canyon",
+    "country": "Whirlwind
+
+Basin",
+    "latitude": 30.567,
+    "longitude": -130.123
+  },
+  {
+    "location_name": "Aurora
+
+Abyss",
+    "country": "Aurora
+
+Depths",
+    "latitude": -18.432,
+    "longitude": 85.987
+  },
+  {
+    "location_name": "Stellar
+
+Hollow",
+    "country": "Celestia",
+    "latitude": 22.234,
+    "longitude": -75.567
+  },
+  {
+    "location_name": "Oasis
+
+Oblivion",
+    "country": "Desolation
+
+Wastes",
+    "latitude": -35.789,
+    "longitude": 60.876
+  },
+  {
+    "location_name": "Nebula
+
+Nest",
+    "country": "Galaxia",
+    "latitude": 10.567,
+    "longitude": -105.123
+  },
+  {
+    "location_name": "Vivid
+
+Vortex",
+    "country": "Prisma",
+    "latitude": -5.432,
+    "longitude": 80.987
+  },
+  {
+    "location_name": "Aurora
+
+Veil",
+    "country": "Luminara",
+    "latitude": 18.234,
+    "longitude": -115.567
+  },
+  {
+    "location_name": "Eternal
+
+Crest",
+    "country": "Pinnacle
+
+Peak",
+    "latitude": -25.789,
+    "longitude": 100.876
+  },
+  {
+    "location_name": "Mystic
+
+Mesa",
+    "country": "Enigma
+
+Plateau",
+    "latitude": 28.567,
+    "longitude": -90.123
+  },
+  {
+    "location_name": "Aether
+
+Arbor",
+    "country": "Aeris",
+    "latitude": -12.432,
+    "longitude": 75.987
+  },
+  {
+    "location_name": "Ephemeral
+
+Expanse",
+    "country": "Whispering
+
+Wasteland",
+    "latitude": 15.234,
+    "longitude": -110.567
+  },
+  {
+    "location_name": "Spectral
+
+Shore",
+    "country": "Phantom
+
+Coast",
+    "latitude": -18.789,
+    "longitude": 95.876
+  },
+  {
+    "location_name": "Lustrous
+
+Leviathan",
+    "country": "Abyssia",
+    "latitude": 22.567,
+    "longitude": -85.123
+  },
+  {
+    "location_name": "Petrified
+
+Plains",
+    "country": "Stony
+
+Expanse",
+    "latitude": -25.432,
+    "longitude": 65.987
+  },
+  {
+    "location_name": "Aqua
+
+Arcade",
+    "country": "Marine
+
+Meadows",
+    "latitude": 10.234,
+    "longitude": -120.567
+  },
+  {
+    "location_name": "Ethereal
+
+Enclave",
+    "country": "Mystica",
+    "latitude": -15.789,
+    "longitude": 105.876
+  }
+  
+]
