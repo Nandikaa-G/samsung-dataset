@@ -1,0 +1,10 @@
+Total Number of Books: 50
+Genres: Fantasy, Mystery, Science Fiction, Philosophy, Romance, Thriller
+Publication Years: Range from early 2000s to 2023
+Number of Pages: Varies across genres, with an average page count of approximately 320 pages.
+Ratings:
+
+Minimum Rating: 4.2
+Maximum Rating: 4.9
+Average Rating: Approximately 4.6
+The dataset presents a diverse collection of books, both in terms of genres and ratings. The fictional library includes works that cater to a wide range of literary tastes, ensuring there's something for everyone. The ratings showcase the high quality of the imaginary books, with an average rating that reflects the overall excellence of this literary compilation. Whether one is inclined towards fantastical realms, mysterious plots, scientific adventures, philosophical musings, romantic tales, or thrilling narratives, this fictional dataset provides an intriguing selection for the imaginary bookworm.
