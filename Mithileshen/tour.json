@@ -1,0 +1,477 @@
+
+[
+  {
+    "spot_name": "Mystic Falls",
+    "location": "Enchanted Valley",
+    "country": "Fantasia",
+    "description": "A breathtaking waterfall surrounded by magical forests and home to mythical creatures.",
+    "entry_fee": 25.99,
+    "visitors_per_year": 500000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Eternal Beach",
+    "location": "Serene Shores",
+    "country": "Harmony Isles",
+    "description": "A pristine beach with golden sands, crystal-clear waters, and a peaceful atmosphere.",
+    "entry_fee": 12.99,
+    "visitors_per_year": 800000,
+    "rating": 4.5
+  },
+  {
+    "spot_name": "Whispering Canyons",
+    "location": "Cascading Peaks",
+    "country": "Dreamland",
+    "description": "Magnificent canyons that echo with whispers, surrounded by majestic mountain ranges.",
+    "entry_fee": 18.99,
+    "visitors_per_year": 300000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Mystical Gardens",
+    "location": "Enchanted Valley",
+    "country": "Fantasia",
+    "description": "Lush gardens filled with rare and magical flora, creating a surreal and enchanting atmosphere.",
+    "entry_fee": 14.99,
+    "visitors_per_year": 400000,
+    "rating": 4.6
+  },
+  {
+    "spot_name": "Starlight Caverns",
+    "location": "Glowing Hills",
+    "country": "Stellar Realm",
+    "description": "A network of illuminated caverns adorned with dazzling crystals, creating a celestial spectacle.",
+    "entry_fee": 22.99,
+    "visitors_per_year": 250000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Sunset Peak",
+    "location": "Aurora Heights",
+    "country": "Celestial Haven",
+    "description": "A lofty peak offering panoramic views of breathtaking sunsets, surrounded by celestial phenomena.",
+    "entry_fee": 20.99,
+    "visitors_per_year": 350000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Coral Paradise",
+    "location": "Oceanic Haven",
+    "country": "Aquatica",
+    "description": "A vibrant coral reef teeming with diverse marine life, creating a colorful and lively underwater world.",
+    "entry_fee": 16.99,
+    "visitors_per_year": 600000,
+    "rating": 4.5
+  },
+  {
+    "spot_name": "Aurora Meadows",
+    "location": "Northern Lights Valley",
+    "country": "Polaris",
+    "description": "Expansive meadows illuminated by the ethereal glow of the Northern Lights, creating a magical landscape.",
+    "entry_fee": 19.99,
+    "visitors_per_year": 450000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Enchanted Ruins",
+    "location": "Mystic Archaeology Site",
+    "country": "Fantasia",
+    "description": "Ancient ruins filled with mystical energy, showcasing the rich history of a long-lost civilization.",
+    "entry_fee": 17.99,
+    "visitors_per_year": 200000,
+    "rating": 4.6
+  },
+  {
+    "spot_name": "Serenity Lake",
+    "location": "Tranquil Valley",
+    "country": "Harmony Isles",
+    "description": "A serene lake surrounded by lush forests, providing a peaceful retreat for nature enthusiasts.",
+    "entry_fee": 15.99,
+    "visitors_per_year": 550000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Whimsical
+
+Wonders",
+    "location": "Enchanted Valley",
+    "country": "Fantasia",
+    "description": "A collection of whimsical and fantastical landmarks that defy the laws of reality.",
+    "entry_fee": 21.99,
+    "visitors_per_year": 400000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Golden Desert Oasis",
+    "location": "Dunes of Mirage",
+    "country": "Sandara",
+    "description": "An oasis in the midst of a golden desert, with palm trees and cool waters offering respite to travelers.",
+    "entry_fee": 13.99,
+    "visitors_per_year": 700000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Astral Observatory",
+    "location": "Celestial Peaks",
+    "country": "Stellar Realm",
+    "description": "An observatory perched atop celestial peaks, offering unparalleled views of the night sky.",
+    "entry_fee": 23.99,
+    "visitors_per_year": 300000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Tropical Paradise",
+    "location": "Island Haven",
+    "country": "Tropicana",
+    "description": "A tropical paradise with palm-fringed beaches, azure waters, and vibrant tropical flora.",
+    "entry_fee": 18.99,
+    "visitors_per_year": 800000,
+    "rating": 4.6
+  },
+  {
+    "spot_name": "Ethereal
+
+Waterfalls",
+    "location": "Mystic Highlands",
+    "country": "Fantasia",
+    "description": "Waterfalls surrounded by an otherworldly mist, creating an ethereal and enchanting atmosphere.",
+    "entry_fee": 16.99,
+    "visitors_per_year": 500000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Whale
+
+Watch Bay",
+    "location": "Marine Sanctuary",
+    "country": "Aquatica",
+    "description": "A bay known for whale watching, offering a chance to witness majestic marine mammals in their natural habitat.",
+    "entry_fee": 14.99,
+    "visitors_per_year": 600000,
+    "rating": 4.5
+  },
+  {
+    "spot_name": "Lunar
+
+Canyons",
+    "location": "Moonlit
+
+Valley",
+    "country": "Lunaria",
+    "description": "Canyons illuminated by the soft glow of moonlight, creating a surreal and lunar landscape.",
+    "entry_fee": 20.99,
+    "visitors_per_year": 250000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Secret
+
+Grotto",
+    "location": "Hidden
+
+Cove",
+    "country": "Mystica",
+    "description": "A hidden grotto with sparkling
+
+crystals and
+
+ a tranquil
+
+atmosphere, known only to a select few.",
+    "entry_fee": 22.99,
+    "visitors_per_year": 350000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Majestic
+
+Plateau",
+    "location": "Eagle's
+
+Nest",
+    "country": "Aeriea",
+    "description": "A high plateau offering
+
+panoramic views of
+
+towering mountains and
+
+expansive
+
+valleys.",
+    "entry_fee": 17.99,
+    "visitors_per_year": 200000,
+    "rating": 4.6
+  },
+  {
+    "spot_name": "Sapphire
+
+Lagoon",
+    "location": "Gemstone
+
+Isle",
+    "country": "Crystalis",
+    "description": "A lagoon with
+
+crystal-clear sapphire waters,
+
+surrounded by gemstone-laden shores.",
+    "entry_fee": 19.99,
+    "visitors_per_year": 450000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Eternal
+
+Glaciers",
+    "location": "Frozen
+
+Tundra",
+    "country": "Polaris",
+    "description": "Glistening glaciers that
+
+stand as eternal sentinels,
+
+reflecting the beauty of the frozen tundra.",
+    "entry_fee": 15.99,
+    "visitors_per_year": 550000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Abyssal
+
+Reef",
+    "location": "Ocean Depths",
+    "country": "Abyssia",
+    "description": "The mysterious
+
+abyssal reef, a realm of
+
+strange and
+
+unique underwater life.",
+    "entry_fee": 21.99,
+    "visitors_per_year": 400000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Emerald
+
+Rainforest",
+    "location": "Verdant
+
+Valley",
+    "country": "Sylvana",
+    "description": "A lush rainforest
+
+adorned with emerald foliage,
+
+teeming with diverse flora and fauna.",
+    "entry_fee": 16.99,
+    "visitors_per_year": 700000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Solar
+
+Observatory",
+    "location": "Sunlit Peaks",
+    "country": "Solara",
+    "description": "An observatory
+
+situated on sunlit peaks,
+
+providing a
+
+clear view of the solar system's wonders.",
+    "entry_fee": 23.99,
+    "visitors_per_year": 300000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Sahara
+
+Mirage",
+    "location": "Endless Dunes",
+    "country": "Sandara",
+    "description": "A mirage in the Sahara,
+
+a mesmerizing optical illusion
+
+amidst the endless dunes.",
+    "entry_fee": 13.99,
+    "visitors_per_year": 800000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Galactic
+
+Gateway",
+    "location": "Cosmic
+
+Crossroads",
+    "country": "Galaxia",
+    "description": "A mystical gateway to
+
+other galaxies,
+
+shrouded in cosmic energy and mystery.",
+    "entry_fee": 23.99,
+    "visitors_per_year": 200000,
+    "rating": 4.6
+  },
+  {
+    "spot_name": "Crimson
+
+Volcano",
+    "location": "Inferno
+
+Mountains",
+    "country": "Vulcania",
+    "description": "A dormant volcano
+
+with crimson lava flows,
+
+creating a
+
+dramatic and fiery landscape.",
+    "entry_fee": 18.99,
+    "visitors_per_year": 350000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Aether
+
+Islets",
+    "location": "Skyward
+
+Archipelago",
+    "country": "Aeris",
+    "description": "Floating islets
+
+suspended in the aether,
+
+offering breathtaking aerial views
+
+of the surrounding landscapes.",
+    "entry_fee": 19.99,
+    "visitors_per_year": 450000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Silent
+
+Caverns",
+    "location": "Whispering
+
+Hollows",
+    "country": "Mystica",
+    "description": "Caverns with an eerie silence,
+
+enhanced by
+
+natural
+
+acoustics that create a mysterious ambiance.",
+    "entry_fee": 17.99,
+    "visitors_per_year": 550000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Lunar
+
+Gardens",
+    "location": "Moonlit
+
+Terrace",
+    "country": "Lunaria",
+    "description": "Gardens illuminated by
+
+lunar radiance,
+
+transforming the landscape into a tranquil
+
+and magical retreat.",
+    "entry_fee": 21.99,
+    "visitors_per_year": 400000,
+    "rating": 4.6
+  },
+  {
+    "spot_name": "Echoing
+
+Canyon",
+    "location": "Sonorous
+
+Ravine",
+    "country": "Harmony Isles",
+    "description": "A canyon known for its
+
+perfect
+
+acoustics,
+
+where echoes create a mesmerizing symphony.",
+    "entry_fee": 16.99,
+    "visitors_per_year": 600000,
+    "rating": 4.8
+  },
+  {
+    "spot_name": "Vivid
+
+Rainbow
+
+Falls",
+    "location": "Chroma
+
+Gorge",
+    "country": "Prisma",
+    "description": "Waterfalls infused with
+
+vivid colors,
+
+creating a spectacular rainbow display as the water cascades down.",
+    "entry_fee": 22.99,
+    "visitors_per_year": 250000,
+    "rating": 4.7
+  },
+  {
+    "spot_name": "Mystic
+
+Labyrinth",
+    "location": "Enigma
+
+Maze",
+    "country": "Fantasia",
+    "description": "A labyrinth shrouded
+
+in mystery,
+
+with shifting paths and illusions
+
+that challenge adventurers.",
+    "entry_fee": 20.99,
+    "visitors_per_year": 350000,
+    "rating": 4.9
+  },
+  {
+    "spot_name": "Celestial
+
+Teahouse",
+    "location": "Starlight
+
+Promenade",
+    "country": "Stellar Realm",
+    "description": "A teahouse
+
+where visitors can
+
+enjoy
+
+celestial teas
+
+while gazing at the stars and planets.",
+    "entry_fee": 18.99,
+    "visitors_per_year": 200000,
+    "rating":5
+}
+]
