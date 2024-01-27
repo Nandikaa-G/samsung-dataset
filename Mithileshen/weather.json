@@ -1,0 +1,303 @@
+[
+  {
+    "city": "Metropolis",
+    "country": "Superland",
+    "temperature": 25.5,
+    "humidity": 60,
+    "wind_speed": 15.2
+  },
+  {
+    "city": "Techtopia",
+    "country": "Innovacia",
+    "temperature": 18.8,
+    "humidity": 72,
+    "wind_speed": 10.5
+  },
+  {
+    "city": "Natureville",
+    "country": "Greenland",
+    "temperature": 22.0,
+    "humidity": 65,
+    "wind_speed": 8.0
+  },
+  {
+    "city": "Urbanopolis",
+    "country": "Cityland",
+    "temperature": 28.3,
+    "humidity": 55,
+    "wind_speed": 20.1
+  },
+  {
+    "city": "Sunset Springs",
+    "country": "Meadowland",
+    "temperature": 21.5,
+    "humidity": 68,
+    "wind_speed": 12.3
+  },
+  {
+    "city": "Arctic Haven",
+    "country": "Icebergia",
+    "temperature": -5.2,
+    "humidity": 80,
+    "wind_speed": 5.5
+  },
+  {
+    "city": "Desert Oasis",
+    "country": "Sandland",
+    "temperature": 35.7,
+    "humidity": 30,
+    "wind_speed": 25.0
+  },
+  {
+    "city": "Rainbow Valley",
+    "country": "Colorland",
+    "temperature": 19.9,
+    "humidity": 75,
+    "wind_speed": 9.8
+  },
+  {
+    "city": "Windy Hills",
+    "country": "Breezeland",
+    "temperature": 15.0,
+    "humidity": 78,
+    "wind_speed": 30.5
+  },
+  {
+    "city": "Thunder Bay",
+    "country": "Stormland",
+    "temperature": 23.8,
+    "humidity": 62,
+    "wind_speed": 18.7
+  },
+  {
+    "city": "Sunnydale",
+    "country": "Radiantland",
+    "temperature": 30.5,
+    "humidity": 50,
+    "wind_speed": 22.0
+  },
+  {
+    "city": "Frosty Peak",
+    "country": "Snowtopia",
+    "temperature": -10.0,
+    "humidity": 85,
+    "wind_speed": 4.2
+  },
+  {
+    "city": "Mistwood",
+    "country": "Fogland",
+    "temperature": 12.3,
+    "humidity": 90,
+    "wind_speed": 7.5
+  },
+  {
+    "city": "Tornado Alley",
+    "country": "Twisterville",
+    "temperature": 25.9,
+    "humidity": 55,
+    "wind_speed": 40.0
+  },
+  {
+    "city": "Silver Cloud",
+    "country": "Skyland",
+    "temperature": 17.6,
+    "humidity": 70,
+    "wind_speed": 14.0
+  },
+  {
+    "city": "Golden Rays",
+    "country": "Sunland",
+    "temperature": 28.7,
+    "humidity": 58,
+    "wind_speed": 17.3
+  },
+  {
+    "city": "Polar Lights",
+    "country": "Auroraland",
+    "temperature": -15.5,
+    "humidity": 75,
+    "wind_speed": 3.8
+  },
+  {
+    "city": "Blizzard Bay",
+    "country": "Snowlandia",
+    "temperature": -8.9,
+    "humidity": 82,
+    "wind_speed": 6.1
+  },
+  {
+    "city": "Sahara Mirage",
+    "country": "Dunesland",
+    "temperature": 40.2,
+    "humidity": 25,
+    "wind_speed": 32.0
+  },
+  {
+    "city": "Rainforest Haven",
+    "country": "Jungleland",
+    "temperature": 26.4,
+    "humidity": 88,
+    "wind_speed": 11.2
+  },
+  {
+    "city": "Foggy Forest",
+    "country": "Mystic Woods",
+    "temperature": 14.8,
+    "humidity": 92,
+    "wind_speed": 8.5
+  },
+  {
+    "city": "Moonlit Ridge",
+    "country": "Lunarland",
+    "temperature": 5.7,
+    "humidity": 70,
+    "wind_speed": 12.8
+  },
+  {
+    "city": "Solar Flare",
+    "country": "Sunspotia",
+    "temperature": 32.1,
+    "humidity": 48,
+    "wind_speed": 23.5
+  },
+  {
+    "city": "Starry Night",
+    "country": "Galaxia",
+    "temperature": 20.0,
+    "humidity": 60,
+    "wind_speed": 16.9
+  },
+  {
+    "city": "Avalanche Peak",
+    "country": "Snowtopia",
+    "temperature": -12.3,
+    "humidity": 88,
+    "wind_speed": 5.0
+  },
+  {
+    "city": "Thunderstrike",
+    "country": "Boltland",
+    "temperature": 27.6,
+    "humidity": 55,
+    "wind_speed": 35.2
+  },
+  {
+    "city": "Aurora Borealis",
+    "country": "Polaris",
+    "temperature": -8.0,
+    "humidity": 80,
+    "wind_speed": 4.5
+  },
+  {
+    "city": "Whirlwind City",
+    "country": "Windopolis",
+    "temperature": 23.0,
+    "humidity": 65,
+    "wind_speed": 28.3
+  },
+  {
+    "city": "Eternal Frost",
+    "country": "Icebergia",
+    "temperature": -18.5,
+    "humidity": 85,
+    "wind_speed": 3.2
+  },
+  {
+    "city": "Sunflower Plains",
+    "country": "Blossomland",
+    "temperature": 24.8,
+    "humidity": 58,
+    "wind_speed": 19.0
+  },
+  {
+    "city": "Thunderstorm Ridge",
+    "country": "Stormland",
+    "temperature": 29.5,
+    "humidity": 60,
+    "wind_speed": 33.7
+  },
+  {
+    "city": "Misty Mountain",
+    "country": "Fogland",
+    "temperature": 11.0,
+    "humidity": 90,
+    "wind_speed": 7.0
+  },
+  {
+    "city": "Radiant Sunshine",
+    "country": "Sunland",
+    "temperature": 31.2,
+    "humidity": 50,
+    "wind_speed": 21.5
+  },
+  {
+    "city": "Dustland Plains",
+    "country": "Desertland",
+    "temperature": 38.5,
+    "humidity": 20,
+    "wind_speed": 29.8
+  },
+  {
+    "city": "Rainbow Ridge",
+    "country": "Colorland",
+    "temperature": 16.3,
+    "humidity": 68,
+    "wind_speed": 11.8
+  },
+  {
+    "city": "Abyssal Depths",
+    "country": "Deepsea",
+    "temperature": 5.9,
+    "humidity": 75,
+    "wind_speed": 14.5
+  },
+  {
+    "city": "Cherry Blossom Grove",
+    "country": "Blossomland",
+    "temperature": 22.7,
+    "humidity": 55,
+    "wind_speed": 16.2
+  },
+  {
+    "city": "Celestial Observatory",
+    "country": "Stellarland",
+    "temperature": 18.5,
+    "humidity": 62,
+    "wind_speed": 13.0
+  },
+  {
+    "city": "Tropical Paradise",
+    "country": "Islandia",
+    "temperature": 29.0,
+    "humidity": 78,
+    "wind_speed": 17.8
+  },
+  {
+    "city": "Stormy Seas",
+    "country": "Oceania",
+    "temperature": 26.8,
+    "humidity": 80,
+    "wind_speed": 22.5
+  },
+  {
+    "city": "Droughtland",
+    "country": "Desertia",
+    "temperature": 40.8,
+    "humidity": 15,
+    "wind_speed": 31.0
+  },
+  {
+    "city": "Autumn Breeze",
+    "country": "Foliageland",
+    "temperature": 14.0,
+    "humidity": 65,
+    "wind_speed": 9.0
+  },
+  {
+    "city": "Blazing Inferno",
+    "country": "Volcania",
+    "temperature": 45.5,
+    "humidity": 10,
+    "wind_speed": 40.5
+  }
+]
