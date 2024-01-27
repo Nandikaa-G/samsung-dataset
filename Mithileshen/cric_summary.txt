@@ -1,0 +1,19 @@
+Average Strike Rate:
+
+The average batting strike rate across all players in the dataset is approximately 128.9.
+Top 3 Players by Strike Rate:
+
+Chris Gayle (West Indies) - Strike Rate: 145.0
+Sophie Devine (New Zealand) - Strike Rate: 142.3
+Alyssa Healy (Australia) - Strike Rate: 141.8
+Distribution of Strike Rates:
+
+The distribution shows a range of strike rates, with the majority falling between 120 and 140.
+Country-wise Analysis:
+
+Australia has players with consistently high strike rates, with an average of 133.7.
+South Africa follows closely with an average strike rate of 130.2.
+New Zealand and India also have competitive averages at 132.3 and 127.8, respectively.
+Correlation Analysis:
+
+There is a slight positive correlation between the number of matches played and batting strike rate, indicating that more experienced players tend to have higher strike rates.
