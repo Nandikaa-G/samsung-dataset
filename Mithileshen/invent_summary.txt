@@ -1,0 +1,17 @@
+Price Insights:
+
+Most Expensive Product: Telescope (Price: $199.99)
+Most Affordable Product: Yoga Block (Price: $9.99)
+Average Product Price: Approximately $53.54
+Category Distribution:
+
+Most Common Category: Electronics
+Least Common Category: Pets
+Product Price Range:
+
+Highest Price Category: Electronics (Telescope - $199.99)
+Lowest Price Category: Fitness (Yoga Block - $9.99)
+Product Variety:
+
+Widest Variety in: Electronics and Fitness
+Limited Variety in: Pets and Automotive
