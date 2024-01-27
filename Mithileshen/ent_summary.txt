@@ -1,0 +1,8 @@
+Maximum Value2: Entity50 (value2: 100)
+Minimum Value2: Entity6 (value2: 15)
+Average Value1: Approximately 24.22
+Average Value2: Approximately 46.56
+Most Frequent Value1: 20 (occurs 3 times)
+Most Frequent Value2: 38 (occurs 2 times)
+Least Frequent Value1: 6, 7, 9, 11, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49 (occurs 1 time each)
+Least Frequent Value2: 15, 18, 20, 22, 26, 28, 29, 30, 31, 33, 34, 35, 36, 38, 39, 40, 41, 42, 44, 45, 48, 50, 52, 54, 55, 58, 60, 63, 65, 68, 70, 72, 73, 74, 75, 78, 80, 82, 84, 85, 88, 90, 95, 100 (occurs 1 time each)
