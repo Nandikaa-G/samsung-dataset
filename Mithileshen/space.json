@@ -1,0 +1,302 @@
+[
+  {
+    "celestial_object": "Orion Nebula",
+    "type": "Nebula",
+    "distance_light_years": 1344,
+    "discovery_year": 1610
+  },
+  {
+    "celestial_object": "Jupiter",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": 1610
+  },
+  {
+    "celestial_object": "Andromeda Galaxy",
+    "type": "Galaxy",
+    "distance_light_years": 2540000,
+    "discovery_year": 964
+  },
+  {
+    "celestial_object": "Mars",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Horsehead Nebula",
+    "type": "Nebula",
+    "distance_light_years": 1500,
+    "discovery_year": 1888
+  },
+  {
+    "celestial_object": "Saturn",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Black Hole Cygnus X-1",
+    "type": "Black Hole",
+    "distance_light_years": 6090,
+    "discovery_year": 1964
+  },
+  {
+    "celestial_object": "Pluto",
+    "type": "Dwarf Planet",
+    "distance_light_years": null,
+    "discovery_year": 1930
+  },
+  {
+    "celestial_object": "Crab Nebula",
+    "type": "Nebula",
+    "distance_light_years": 6500,
+    "discovery_year": 1731
+  },
+  {
+    "celestial_object": "Earth's Moon",
+    "type": "Moon",
+    "distance_light_years": 1.28,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Neptune",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": 1846
+  },
+  {
+    "celestial_object": "Eagle Nebula",
+    "type": "Nebula",
+    "distance_light_years": 7000,
+    "discovery_year": 1745
+  },
+  {
+    "celestial_object": "Alpha Centauri",
+    "type": "Star System",
+    "distance_light_years": 4.37,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Venus",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Sombrero Galaxy",
+    "type": "Galaxy",
+    "distance_light_years": 29000,
+    "discovery_year": 1781
+  },
+  {
+    "celestial_object": "Milky Way Galaxy",
+    "type": "Galaxy",
+    "distance_light_years": 100000,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Sun",
+    "type": "Star",
+    "distance_light_years": 8.3,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Great Red Spot (Jupiter)",
+    "type": "Atmospheric Feature",
+    "distance_light_years": null,
+    "discovery_year": 1665
+  },
+  {
+    "celestial_object": "Whirlpool Galaxy",
+    "type": "Galaxy",
+    "distance_light_years": 23000,
+    "discovery_year": 1773
+  },
+  {
+    "celestial_object": "Mercury",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Oort Cloud",
+    "type": "Space Structure",
+    "distance_light_years": null,
+    "discovery_year": 1950
+  },
+  {
+    "celestial_object": "Cassiopeia A",
+    "type": "Supernova Remnant",
+    "distance_light_years": 11000,
+    "discovery_year": 1680
+  },
+  {
+    "celestial_object": "Uranus",
+    "type": "Planet",
+    "distance_light_years": null,
+    "discovery_year": 1781
+  },
+  {
+    "celestial_object": "Lunar Maria",
+    "type": "Lunar Feature",
+    "distance_light_years": 1.28,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Virgo Cluster",
+    "type": "Galaxy Cluster",
+    "distance_light_years": 54000,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Comet Halley",
+    "type": "Comet",
+    "distance_light_years": Varies,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Rosette Nebula",
+    "type": "Nebula",
+    "distance_light_years": 4900,
+    "discovery_year": 1830
+  },
+  {
+    "celestial_object": "Io (Moon of Jupiter)",
+    "type": "Moon",
+    "distance_light_years": null,
+    "discovery_year": 1610
+  },
+  {
+    "celestial_object": "Dwarf Galaxy NGC 1569",
+    "type": "Galaxy",
+    "distance_light_years": 11.2,
+    "discovery_year": 1788
+  },
+  {
+    "celestial_object": "Quasar 3C 273",
+    "type": "Quasar",
+    "distance_light_years": 2400,
+    "discovery_year": 1964
+  },
+  {
+    "celestial_object": "Hydra Galaxy Cluster",
+    "type": "Galaxy Cluster",
+    "distance_light_years": 33000,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Titan (Moon of Saturn)",
+    "type": "Moon",
+    "distance_light_years": null,
+    "discovery_year": 1655
+  },
+  {
+    "celestial_object": "Eskimo Nebula",
+    "type": "Nebula",
+    "distance_light_years": 2200,
+    "discovery_year": 1787
+  },
+  {
+    "celestial_object": "Helix Nebula",
+    "type": "Nebula",
+    "distance_light_years": 700,
+    "discovery_year": 1824
+  },
+  {
+    "celestial_object": "Pleiades (Seven Sisters)",
+    "type": "Star Cluster",
+    "distance_light_years": 444,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Dione (Moon of Saturn)",
+    "type": "Moon",
+    "distance_light_years": null,
+    "discovery_year": 1684
+  },
+  {
+    "celestial_object": "Perseus Galaxy Cluster",
+    "type": "Galaxy Cluster",
+    "distance_light_years": 237000,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Europa (Moon of Jupiter)",
+    "type": "Moon",
+    "distance_light_years": null,
+    "discovery_year": 1610
+  },
+  {
+    "celestial_object": "Asteroid Belt",
+    "type": "Space Structure",
+    "distance_light_years": null,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Betelgeuse",
+    "type": "Star",
+    "distance_light_years": 642,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Sombrero Galaxy (M104)",
+    "type": "Galaxy",
+    "distance_light_years": 29000,
+    "discovery_year": 1781
+  },
+  {
+    "celestial_object": "Enceladus (Moon of Saturn)",
+    "type": "Moon",
+    "distance_light_years": null,
+    "discovery_year": 1789
+  },
+  {
+    "celestial_object": "Orion
+
+Arm",
+    "type": "Galactic Structure",
+    "distance_light_years": null,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Eris",
+    "type": "Dwarf Planet",
+    "distance_light_years": null,
+    "discovery_year": 2005
+  },
+  {
+    "celestial_object": "Pegasus
+
+A Galaxy",
+    "type": "Galaxy",
+    "distance_light_years": 225000,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Sagittarius
+
+A*",
+    "type": "Black Hole",
+    "distance_light_years": 26000,
+    "discovery_year": Ancient
+  },
+  {
+    "celestial_object": "Triton (Moon of Neptune)",
+    "type": "Moon",
+    "distance_light_years": null,
+    "discovery_year": 1846
+  },
+  {
+    "celestial_object": "Carina Nebula",
+    "type": "Nebula",
+    "distance_light_years": 7500,
+    "discovery_year": 1751
+  },
+  {
+    "celestial_object": "Kuiper Belt",
+    "type": "Space Structure",
+    "distance_light_years": null,
+    "discovery_year": 1992
+  }
+]
