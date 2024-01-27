@@ -1,0 +1,10 @@
+Here is a summary of the goods dataset:
+
+Maximum Price: $799.99
+Minimum Price: $9.99
+Average Price: $76.31
+Most Expensive Product: Smartphone Y
+Least Expensive Product: Jump Rope
+Most Common Category: Electronics
+Less Common Category: Fitness
+Number of Unique Categories: 7
