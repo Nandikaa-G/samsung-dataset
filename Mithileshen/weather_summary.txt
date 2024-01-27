@@ -1,0 +1,27 @@
+Temperature Insights:
+
+Highest Temperature: 45.5°C (Blazing Inferno, Volcania)
+Lowest Temperature: -18.5°C (Eternal Frost, Icebergia)
+Average Temperature: 21.68°C
+Humidity Distribution:
+
+Highest Humidity: 92% (Foggy Forest, Mystic Woods)
+Lowest Humidity: 10% (Blazing Inferno, Volcania)
+Average Humidity: 66.14%
+Wind Speed Observations:
+
+Highest Wind Speed: 40.5 m/s (Blazing Inferno, Volcania)
+Lowest Wind Speed: 3.2 m/s (Eternal Frost, Icebergia)
+Average Wind Speed: 18.43 m/s
+Category Distribution:
+
+Most Frequent Weather Type: Clear Skies
+Least Frequent Weather Type: Blizzard
+Geographical Distribution:
+
+Most Represented Country: Icebergia
+Least Represented Country: Blossomland
+
+
+
+
