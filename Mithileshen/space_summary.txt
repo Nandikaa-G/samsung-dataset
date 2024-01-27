@@ -1,0 +1,18 @@
+Celestial Objects: The dataset includes various celestial objects such as planets (e.g., Jupiter, Mars), moons (e.g., Earth's Moon, Triton), galaxies (e.g., Andromeda, Milky Way), nebulas (e.g., Orion Nebula, Horsehead Nebula), and other space structures (e.g., Oort Cloud, Asteroid Belt, Kuiper Belt).
+
+Types: The celestial objects are categorized into types, including planets, moons, galaxies, nebulas, black holes, stars, atmospheric features, supernova remnants, star clusters, and space structures.
+
+Distances: Distances are provided for some celestial objects in light-years, indicating the vastness of space. For others, the distance is marked as "Ancient" or "Varies" for fictional and unspecified cases.
+
+Discovery Years: The dataset includes the fictional discovery years of these celestial objects, ranging from ancient times to more recent discoveries.
+
+Highlights:
+
+The dataset features iconic celestial objects like the Orion Nebula, Andromeda Galaxy, and the Great Red Spot on Jupiter.
+Various types of celestial bodies, including planets like Jupiter and Mars, moons like Earth's Moon and Triton, galaxies like Sombrero Galaxy, and nebulas like Helix Nebula.
+Notable space structures like the Oort Cloud, Asteroid Belt, and Kuiper Belt are also included.
+Insights:
+
+The dataset showcases the diversity of celestial bodies found in our universe, spanning different types and locations.
+Some celestial distances are left unspecified ("Ancient" or "Varies") to add a fictional and mysterious touch.
+Discovery years range from ancient times (e.g., Ancient, 1610) to more recent discoveries (e.g., 2005).
