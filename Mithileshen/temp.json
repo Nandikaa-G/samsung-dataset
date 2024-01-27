@@ -1,0 +1,249 @@
+[
+  {
+    "city": "Sunsetville",
+    "temperature": 28.5,
+    "weather": "Clear",
+    "humidity": 50
+  },
+  {
+    "city": "Rainytown",
+    "temperature": 20.2,
+    "weather": "Rainy",
+    "humidity": 80
+  },
+  {
+    "city": "Cloudsville",
+    "temperature": 24.0,
+    "weather": "Partly Cloudy",
+    "humidity": 65
+  },
+  {
+    "city": "Snowpeak",
+    "temperature": -5.5,
+    "weather": "Snowy",
+    "humidity": 30
+  },
+  {
+    "city": "Windyville",
+    "temperature": 22.8,
+    "weather": "Windy",
+    "humidity": 40
+  },
+  {
+    "city": "Sunnydale",
+    "temperature": 30.3,
+    "weather": "Sunny",
+    "humidity": 55
+  },
+  {
+    "city": "Foggyburg",
+    "temperature": 18.7,
+    "weather": "Foggy",
+    "humidity": 75
+  },
+  {
+    "city": "Thunderpeak",
+    "temperature": 15.9,
+    "weather": "Thunderstorm",
+    "humidity": 70
+  },
+  {
+    "city": "Tropical Haven",
+    "temperature": 31.8,
+    "weather": "Tropical",
+    "humidity": 85
+  },
+  {
+    "city": "Chillville",
+    "temperature": -2.1,
+    "weather": "Cold",
+    "humidity": 35
+  },
+  {
+    "city": "Heatwave City",
+    "temperature": 38.7,
+    "weather": "Hot",
+    "humidity": 60
+  },
+  {
+    "city": "Mistwood",
+    "temperature": 16.4,
+    "weather": "Misty",
+    "humidity": 68
+  },
+  {
+    "city": "Blizzard Bay",
+    "temperature": -8.9,
+    "weather": "Blizzard",
+    "humidity": 25
+  },
+  {
+    "city": "Gusty Ridge",
+    "temperature": 25.6,
+    "weather": "Gusty",
+    "humidity": 45
+  },
+  {
+    "city": "Sunflower Valley",
+    "temperature": 26.9,
+    "weather": "Sunshowers",
+    "humidity": 72
+  },
+  {
+    "city": "Arctic Base",
+    "temperature": -15.3,
+    "weather": "Arctic",
+    "humidity": 20
+  },
+  {
+    "city": "Stormwatch",
+    "temperature": 14.2,
+    "weather": "Stormy",
+    "humidity": 78
+  },
+  {
+    "city": "Droughtsville",
+    "temperature": 40.2,
+    "weather": "Drought",
+    "humidity": 30
+  },
+  {
+    "city": "Mild Breeze",
+    "temperature": 23.5,
+    "weather": "Breezy",
+    "humidity": 50
+  },
+  {
+    "city": "Polar Outpost",
+    "temperature": -20.6,
+    "weather": "Polar",
+    "humidity": 15
+  },
+  {
+    "city": "Rainbow Ridge",
+    "temperature": 21.8,
+    "weather": "Rainbow",
+    "humidity": 68
+  },
+  {
+    "city": "Zephyr Valley",
+    "temperature": 19.1,
+    "weather": "Zephyr",
+    "humidity": 55
+  },
+  {
+    "city": "Hailstorm Haven",
+    "temperature": -7.4,
+    "weather": "Hailstorm",
+    "humidity": 28
+  },
+  {
+    "city": "Desert Mirage",
+    "temperature": 35.7,
+    "weather": "Desert",
+    "humidity": 10
+  },
+  {
+    "city": "Blossomville",
+    "temperature": 27.3,
+    "weather": "Blossom",
+    "humidity": 60
+  },
+  {
+    "city": "Thunder Ridge",
+    "temperature": 16.8,
+    "weather": "Thunder",
+    "humidity": 75
+  },
+  {
+    "city": "Mild Meadows",
+    "temperature": 24.5,
+    "weather": "Mild",
+    "humidity": 48
+  },
+  {
+    "city": "Avalanche Peaks",
+    "temperature": -12.0,
+    "weather": "Avalanche",
+    "humidity": 22
+  },
+  {
+    "city": "Radiant City",
+    "temperature": 32.6,
+    "weather": "Radiant",
+    "humidity": 65
+  },
+  {
+    "city": "Puddleport",
+    "temperature": 17.3,
+    "weather": "Puddles",
+    "humidity": 70
+  },
+  {
+    "city": "Lush Highlands",
+    "temperature": 26.0,
+    "weather": "Lush",
+    "humidity": 58
+  },
+  {
+    "city": "Frostbite Falls",
+    "temperature": -9.5,
+    "weather": "Frosty",
+    "humidity": 32
+  },
+  {
+    "city": "Vortex View",
+    "temperature": 18.9,
+    "weather": "Vortex",
+    "humidity": 42
+  },
+  {
+    "city": "Solar Springs",
+    "temperature": 30.1,
+    "weather": "Solar",
+    "humidity": 62
+  },
+  {
+    "city": "Golden Rays",
+    "temperature": 33.5,
+    "weather": "Golden",
+    "humidity": 55
+  },
+  {
+    "city": "Tornado Terrace",
+    "temperature": 14.7,
+    "weather": "Tornado",
+    "humidity": 38
+  },
+  {
+    "city": "Harmony Haven",
+    "temperature": 22.3,
+    "weather": "Harmony",
+    "humidity": 68
+  },
+  {
+    "city": "Arid Acres",
+    "temperature": 36.8,
+    "weather": "Arid",
+    "humidity": 12
+  },
+  {
+    "city": "Calm Cove",
+    "temperature": 21.0,
+    "weather": "Calm",
+    "humidity": 45
+  },
+  {
+    "city": "Thunderstruck",
+    "temperature": 13.4,
+    "weather": "Thunderstruck",
+    "humidity": 80
+  },
+  {
+    "city": "Hazy Hollow",
+    "temperature": 23.7,
+    "weather": "Hazy",
+    "humidity": 55
+  }
+  
+]
