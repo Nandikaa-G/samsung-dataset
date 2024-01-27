@@ -1,0 +1,314 @@
+[
+  {
+    "title": "The Enchanted Realm",
+    "author": "Elena Mystique",
+    "genre": "Fantasy",
+    "publication_year": 2019,
+    "pages": 320,
+    "rating": 4.5
+  },
+  {
+    "title": "Whispers in the Wind",
+    "author": "Aiden Shadows",
+    "genre": "Mystery",
+    "publication_year": 2020,
+    "pages": 400,
+    "rating": 4.2
+  },
+  {
+    "title": "Echoes of Eternity",
+    "author": "Serena Celestia",
+    "genre": "Science Fiction",
+    "publication_year": 2018,
+    "pages": 360,
+    "rating": 4.8
+  },
+  {
+    "title": "The Art of Silence",
+    "author": "Lucas Serenity",
+    "genre": "Philosophy",
+    "publication_year": 2021,
+    "pages": 280,
+    "rating": 4.6
+  },
+  {
+    "title": "Chronicles of the Cosmos",
+    "author": "Stella Stardust",
+    "genre": "Science Fiction",
+    "publication_year": 2017,
+    "pages": 450,
+    "rating": 4.9
+  },
+  {
+    "title": "Serenade of Shadows",
+    "author": "Elijah Nightshade",
+    "genre": "Thriller",
+    "publication_year": 2019,
+    "pages": 380,
+    "rating": 4.3
+  },
+  {
+    "title": "The Alchemist's Legacy",
+    "author": "Isabella Mystique",
+    "genre": "Fantasy",
+    "publication_year": 2020,
+    "pages": 340,
+    "rating": 4.7
+  },
+  {
+    "title": "Infinite Horizons",
+    "author": "Olivia Starlight",
+    "genre": "Science Fiction",
+    "publication_year": 2018,
+    "pages": 410,
+    "rating": 4.5
+  },
+  {
+    "title": "The Mind's Labyrinth",
+    "author": "Xander Quantum",
+    "genre": "Psychology",
+    "publication_year": 2022,
+    "pages": 300,
+    "rating": 4.8
+  },
+  {
+    "title": "A Symphony of Dreams",
+    "author": "Amelia Crescendo",
+    "genre": "Romance",
+    "publication_year": 2016,
+    "pages": 370,
+    "rating": 4.4
+  },
+  {
+    "title": "The Celestial Chronicles",
+    "author": "Leo Stardust",
+    "genre": "Fantasy",
+    "publication_year": 2017,
+    "pages": 430,
+    "rating": 4.9
+  },
+  {
+    "title": "Shadows of Tomorrow",
+    "author": "Luna Eclipse",
+    "genre": "Mystery",
+    "publication_year": 2021,
+    "pages": 320,
+    "rating": 4.6
+  },
+  {
+    "title": "Wisdom of the Ages",
+    "author": "Alexander Phoenix",
+    "genre": "Philosophy",
+    "publication_year": 2019,
+    "pages": 290,
+    "rating": 4.7
+  },
+  {
+    "title": "The Quantum Paradox",
+    "author": "Eva Nebula",
+    "genre": "Science Fiction",
+    "publication_year": 2018,
+    "pages": 380,
+    "rating": 4.5
+  },
+  {
+    "title": "Veil of Illusions",
+    "author": "Morgan Mirage",
+    "genre": "Thriller",
+    "publication_year": 2020,
+    "pages": 350,
+    "rating": 4.2
+  },
+  {
+    "title": "Eternal Echoes",
+    "author": "Nathan Serenade",
+    "genre": "Romance",
+    "publication_year": 2017,
+    "pages": 400,
+    "rating": 4.8
+  },
+  {
+    "title": "The Enigma Principle",
+    "author": "Aria Cipher",
+    "genre": "Mystery",
+    "publication_year": 2022,
+    "pages": 310,
+    "rating": 4.4
+  },
+  {
+    "title": "A Dance with Shadows",
+    "author": "Gabriel Midnight",
+    "genre": "Fantasy",
+    "publication_year": 2016,
+    "pages": 420,
+    "rating": 4.9
+  },
+  {
+    "title": "Whirlwind of Whispers",
+    "author": "Isaac Zephyr",
+    "genre": "Romance",
+    "publication_year": 2018,
+    "pages": 360,
+    "rating": 4.6
+  },
+  {
+    "title": "The Silent Symphony",
+    "author": "Cassandra Moonlight",
+    "genre": "Thriller",
+    "publication_year": 2020,
+    "pages": 330,
+    "rating": 4.7
+  },
+  {
+    "title": "Soulful Sonata",
+    "author": "Eleanor Harmony",
+    "genre": "Romance",
+    "publication_year": 2017,
+    "pages": 390,
+    "rating": 4.5
+  },
+  {
+    "title": "Beyond the Horizon",
+    "author": "Adrian Cosmos",
+    "genre": "Science Fiction",
+    "publication_year": 2021,
+    "pages": 340,
+    "rating": 4.8
+  },
+  {
+    "title": "Lost in Reflections",
+    "author": "Diana Echo",
+    "genre": "Fantasy",
+    "publication_year": 2019,
+    "pages": 380,
+    "rating": 4.6
+  },
+  {
+    "title": "Riddles of the Mind",
+    "author": "Lucius Quantum",
+    "genre": "Mystery",
+    "publication_year": 2018,
+    "pages": 400,
+    "rating": 4.9
+  },
+  {
+    "title": "Harmony of the Spheres",
+    "author": "Athena Stardust",
+    "genre": "Philosophy",
+    "publication_year": 2020,
+    "pages": 310,
+    "rating": 4.7
+  },
+  {
+    "title": "Midnight Serenade",
+    "author": "Sebastian Eclipse",
+    "genre": "Romance",
+    "publication_year": 2016,
+    "pages": 370,
+    "rating": 4.5
+  },
+  {
+    "title": "The Illusionist's Legacy",
+    "author": "Lydia Mirage",
+    "genre": "Thriller",
+    "publication_year": 2022,
+    "pages": 320,
+    "rating": 4.8
+  },
+  {
+    "title": "Celestial Whispers",
+    "author": "Oscar Nebula",
+    "genre": "Fantasy",
+    "publication_year": 2017,
+    "pages": 430,
+    "rating": 4.6
+  },
+  {
+    "title": "Mysteries of the Mind",
+    "author": "Selene Enigma",
+    "genre": "Mystery",
+    "publication_year": 2019,
+    "pages": 290,
+    "rating": 4.7
+  },
+  {
+    "title": "Ephemeral Echos",
+    "author": "Silas Echo",
+    "genre": "Philosophy",
+    "publication_year": 2018,
+    "pages": 370,
+    "rating": 4.5
+  },
+  {
+    "title": "Stardust Sonata",
+    "author": "Luna Crescendo",
+    "genre": "Romance",
+    "publication_year": 2021,
+    "pages": 350,
+    "rating": 4.9
+  },
+  {
+    "title": "Whispers of Destiny",
+    "author": "Felix Destiny",
+    "genre": "Fantasy",
+    "publication_year": 2016,
+    "pages": 400,
+    "rating": 4.7
+  },
+  {
+    "title": "Shadows in the Silence",
+    "author": "Mira Midnight",
+    "genre": "Thriller",
+    "publication_year": 2019,
+    "pages": 330,
+    "rating": 4.8
+  },
+  {
+    "title": "Realm of Reflections",
+    "author": "Atlas Reflection",
+    "genre": "Science Fiction",
+    "publication_year": 2017,
+    "pages": 380,
+    "rating": 4.6
+  },
+  {
+    "title": "Symphony of Shadows",
+    "author": "Caleb Shadow",
+    "genre": "Mystery",
+    "publication_year": 2020,
+    "pages": 310,
+    "rating": 4.9
+  },
+  {
+    "title": "Eternal Echoes",
+    "author": "Natalie Serenade",
+    "genre": "Romance",
+    "publication_year": 2018,
+    "pages": 360,
+    "rating": 4.5
+  },
+  {
+    "title": "The Ethereal Enigma",
+    "author": "Eva Enigma",
+    "genre": "Fantasy",
+    "publication_year": 2021,
+    "pages": 340,
+    "rating": 4.7
+  },
+  {
+    "title": "Chronicles of Consciousness",
+    "author": "Orion Conscious",
+    "genre": "Philosophy",
+    "publication_year": 2019,
+    "pages": 320,
+    "rating": 4.8
+  },
+  {
+    "title": "Astral Ascension",
+    "author": "Athena Ascend",
+    "genre": "Science Fiction",
+    "publication_year": 2016,
+    "pages": 400,
+    "rating": 4.6
+  }
+]
