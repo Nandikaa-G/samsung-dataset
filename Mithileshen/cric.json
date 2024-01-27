@@ -1,0 +1,303 @@
+[
+  {
+    "player_name": "David Miller",
+    "country": "South Africa",
+    "matches_played": 78,
+    "runs_scored": 2500,
+    "batting_strike_rate": 134.7
+  },
+  {
+    "player_name": "Sophie Devine",
+    "country": "New Zealand",
+    "matches_played": 62,
+    "runs_scored": 1800,
+    "batting_strike_rate": 142.3
+  },
+  {
+    "player_name": "Rohit Sharma",
+    "country": "India",
+    "matches_played": 92,
+    "runs_scored": 4100,
+    "batting_strike_rate": 128.5
+  },
+  {
+    "player_name": "Joe Root",
+    "country": "England",
+    "matches_played": 84,
+    "runs_scored": 3200,
+    "batting_strike_rate": 122.8
+  },
+  {
+    "player_name": "Ellyse Perry",
+    "country": "Australia",
+    "matches_played": 57,
+    "runs_scored": 1600,
+    "batting_strike_rate": 137.2
+  },
+  {
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "matches_played": 68,
+    "runs_scored": 2800,
+    "batting_strike_rate": 130.6
+  },
+  {
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "matches_played": 75,
+    "runs_scored": 3200,
+    "batting_strike_rate": 123.4
+  },
+  {
+    "player_name": "Meg Lanning",
+    "country": "Australia",
+    "matches_played": 65,
+    "runs_scored": 2200,
+    "batting_strike_rate": 138.9
+  },
+  {
+    "player_name": "Hashim Amla",
+    "country": "South Africa",
+    "matches_played": 82,
+    "runs_scored": 3400,
+    "batting_strike_rate": 127.2
+  },
+  {
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "matches_played": 90,
+    "runs_scored": 4000,
+    "batting_strike_rate": 130.2
+  },
+  {
+    "player_name": "Alyssa Healy",
+    "country": "Australia",
+    "matches_played": 60,
+    "runs_scored": 2000,
+    "batting_strike_rate": 141.8
+  },
+  {
+    "player_name": "Faf du Plessis",
+    "country": "South Africa",
+    "matches_played": 70,
+    "runs_scored": 2900,
+    "batting_strike_rate": 129.7
+  },
+  {
+    "player_name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "matches_played": 75,
+    "runs_scored": 3100,
+    "batting_strike_rate": 125.3
+  },
+  {
+    "player_name": "Eoin Morgan",
+    "country": "England",
+    "matches_played": 80,
+    "runs_scored": 3600,
+    "batting_strike_rate": 124.6
+  },
+  {
+    "player_name": "Mithali Raj",
+    "country": "India",
+    "matches_played": 65,
+    "runs_scored": 1900,
+    "batting_strike_rate": 129.0
+  },
+  {
+    "player_name": "Kagiso Rabada",
+    "country": "South Africa",
+    "matches_played": 55,
+    "runs_scored": 800,
+    "batting_strike_rate": 118.5
+  },
+  {
+    "player_name": "Jofra Archer",
+    "country": "England",
+    "matches_played": 45,
+    "runs_scored": 600,
+    "batting_strike_rate": 121.8
+  },
+  {
+    "player_name": "Smriti Mandhana",
+    "country": "India",
+    "matches_played": 50,
+    "runs_scored": 1800,
+    "batting_strike_rate": 135.7
+  },
+  {
+    "player_name": "Pat Cummins",
+    "country": "Australia",
+    "matches_played": 40,
+    "runs_scored": 400,
+    "batting_strike_rate": 112.3
+  },
+  {
+    "player_name": "Shabnim Ismail",
+    "country": "South Africa",
+    "matches_played": 48,
+    "runs_scored": 700,
+    "batting_strike_rate": 120.4
+  },
+  {
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "matches_played": 35,
+    "runs_scored": 300,
+    "batting_strike_rate": 115.6
+  },
+  {
+    "player_name": "Heather Knight",
+    "country": "England",
+    "matches_played": 55,
+    "runs_scored": 1200,
+    "batting_strike_rate": 129.2
+  },
+  {
+    "player_name": "Kusal Perera",
+    "country": "Sri Lanka",
+    "matches_played": 60,
+    "runs_scored": 2500,
+    "batting_strike_rate": 133.8
+  },
+  {
+    "player_name": "Chris Gayle",
+    "country": "West Indies",
+    "matches_played": 70,
+    "runs_scored": 3800,
+    "batting_strike_rate": 145.0
+  },
+  {
+    "player_name": "Stafanie Taylor",
+    "country": "West Indies",
+    "matches_played": 50,
+    "runs_scored": 1300,
+    "batting_strike_rate": 132.5
+  },
+  {
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "matches_played": 30,
+    "runs_scored": 100,
+    "batting_strike_rate": 105.8
+  },
+  {
+    "player_name": "Moeen Ali",
+    "country": "England",
+    "matches_played": 42,
+    "runs_scored": 700,
+    "batting_strike_rate": 124.9
+  },
+  {
+    "player_name": "Suzie Bates",
+    "country": "New Zealand",
+    "matches_played": 58,
+    "runs_scored": 1600,
+    "batting_strike_rate": 130.3
+  },
+  {
+    "player_name": "Quinton de Kock",
+    "country": "South Africa",
+    "matches_played": 68,
+    "runs_scored": 2800,
+    "batting_strike_rate": 135.6
+  },
+  {
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "matches_played": 38,
+    "runs_scored": 200,
+    "batting_strike_rate": 111.2
+  },
+  {
+    "player_name": "Laura Wolvaardt",
+    "country": "South Africa",
+    "matches_played": 55,
+    "runs_scored": 1400,
+    "batting_strike_rate": 136.8
+  },
+  {
+    "player_name": "Shikhar Dhawan",
+    "country": "India",
+    "matches_played": 78,
+    "runs_scored": 3200,
+    "batting_strike_rate": 127.4
+  },
+  {
+    "player_name": "Natalie Sciver",
+    "country": "England",
+    "matches_played": 45,
+    "runs_scored": 900,
+    "batting_strike_rate": 128.6
+  },
+  {
+    "player_name": "Tom Latham",
+    "country": "New Zealand",
+    "matches_played": 50,
+    "runs_scored": 1800,
+    "batting_strike_rate": 123.5
+  },
+  {
+    "player_name": "Imran Tahir",
+    "country": "South Africa",
+    "matches_played": 32,
+    "runs_scored": 120,
+    "batting_strike_rate": 106.7
+  },
+  {
+    "player_name": "Deandra Dottin",
+    "country": "West Indies",
+    "matches_played": 40,
+    "runs_scored": 1100,
+    "batting_strike_rate": 134.2
+  },
+  {
+    "player_name": "Jason Roy",
+    "country": "England",
+    "matches_played": 60,
+    "runs_scored": 2400,
+    "batting_strike_rate": 130.9
+  },
+  {
+    "player_name": "Chamari Athapaththu",
+    "country": "Sri Lanka",
+    "matches_played": 52,
+    "runs_scored": 1700,
+    "batting_strike_rate": 136.5
+  },
+  {
+    "player_name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "matches_played": 35,
+    "runs_scored": 500,
+    "batting_strike_rate": 115.4
+  },
+  {
+    "player_name": "Dane van Niekerk",
+    "country": "South Africa",
+    "matches_played": 50,
+    "runs_scored": 1200,
+    "batting_strike_rate": 125.8
+  },
+  {
+    "player_name": "Shoaib Malik",
+    "country": "Pakistan",
+    "matches_played": 65,
+    "runs_scored": 2300,
+    "batting_strike_rate": 129.4
+  },
+  {
+    "player_name": "Ravindra Jadeja",
+    "country": "India",
+    "matches_played": 55,
+    "runs_scored": 900,
+    "batting_strike_rate": 116.2
+  },
+  {
+    "player_name": "Elyse Villani",
+    "country": "Australia",
+    "matches_played": 40,
+    "runs_scored": 800,
+    "batting_strike_rate": 128.7
+  }
+]
