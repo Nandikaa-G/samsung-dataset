@@ -1,0 +1,272 @@
+[
+  {
+    "food_name": "Grilled Chicken Salad",
+    "category": "Salad",
+    "calories": 320
+  },
+  {
+    "food_name": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "calories": 480
+  },
+  {
+    "food_name": "Vegetarian Pizza",
+    "category": "Pizza",
+    "calories": 380
+  },
+  {
+    "food_name": "Salmon Fillet",
+    "category": "Seafood",
+    "calories": 290
+  },
+  {
+    "food_name": "Quinoa Bowl",
+    "category": "Grains",
+    "calories": 340
+  },
+  {
+    "food_name": "Cheeseburger",
+    "category": "Burger",
+    "calories": 590
+  },
+  {
+    "food_name": "Greek Yogurt Parfait",
+    "category": "Dessert",
+    "calories": 240
+  },
+  {
+    "food_name": "Steamed Broccoli",
+    "category": "Vegetables",
+    "calories": 45
+  },
+  {
+    "food_name": "Chocolate Brownie",
+    "category": "Dessert",
+    "calories": 420
+  },
+  {
+    "food_name": "Fruit Smoothie",
+    "category": "Beverage",
+    "calories": 130
+  },
+  {
+    "food_name": "Chicken Alfredo",
+    "category": "Pasta",
+    "calories": 550
+  },
+  {
+    "food_name": "Margarita Pizza",
+    "category": "Pizza",
+    "calories": 400
+  },
+  {
+    "food_name": "Shrimp Scampi",
+    "category": "Seafood",
+    "calories": 320
+  },
+  {
+    "food_name": "Brown Rice Bowl",
+    "category": "Grains",
+    "calories": 300
+  },
+  {
+    "food_name": "BBQ Bacon Burger",
+    "category": "Burger",
+    "calories": 650
+  },
+  {
+    "food_name": "Tiramisu",
+    "category": "Dessert",
+    "calories": 280
+  },
+  {
+    "food_name": "Roasted Brussels Sprouts",
+    "category": "Vegetables",
+    "calories": 60
+  },
+  {
+    "food_name": "Red Velvet Cupcake",
+    "category": "Dessert",
+    "calories": 380
+  },
+  {
+    "food_name": "Chicken Caesar Salad",
+    "category": "Salad",
+    "calories": 350
+  },
+  {
+    "food_name": "Lasagna",
+    "category": "Pasta",
+    "calories": 520
+  },
+  {
+    "food_name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "calories": 430
+  },
+  {
+    "food_name": "Grilled Salmon",
+    "category": "Seafood",
+    "calories": 280
+  },
+  {
+    "food_name": "Wild Rice Pilaf",
+    "category": "Grains",
+    "calories": 310
+  },
+  {
+    "food_name": "Double Bacon Cheeseburger",
+    "category": "Burger",
+    "calories": 720
+  },
+  {
+    "food_name": "Chocolate Mousse",
+    "category": "Dessert",
+    "calories": 350
+  },
+  {
+    "food_name": "Sauteed Spinach",
+    "category": "Vegetables",
+    "calories": 50
+  },
+  {
+    "food_name": "Key Lime Pie",
+    "category": "Dessert",
+    "calories": 400
+  },
+  {
+    "food_name": "Caesar Salad",
+    "category": "Salad",
+    "calories": 300
+  },
+  {
+    "food_name": "Carbonara",
+    "category": "Pasta",
+    "calories": 490
+  },
+  {
+    "food_name": "Vegetable Pizza",
+    "category": "Pizza",
+    "calories": 360
+  },
+  {
+    "food_name": "Garlic Butter Shrimp",
+    "category": "Seafood",
+    "calories": 310
+  },
+  {
+    "food_name": "Quinoa Salad",
+    "category": "Grains",
+    "calories": 270
+  },
+  {
+    "food_name": "Turkey Burger",
+    "category": "Burger",
+    "calories": 480
+  },
+  {
+    "food_name": "Strawberry Shortcake",
+    "category": "Dessert",
+    "calories": 260
+  },
+  {
+    "food_name": "Grilled Asparagus",
+    "category": "Vegetables",
+    "calories": 70
+  },
+  {
+    "food_name": "Blueberry Cheesecake",
+    "category": "Dessert",
+    "calories": 410
+  },
+  {
+    "food_name": "Chicken Taco Salad",
+    "category": "Salad",
+    "calories": 330
+  },
+  {
+    "food_name": "Penne Alfredo",
+    "category": "Pasta",
+    "calories": 510
+  },
+  {
+    "food_name": "Hawaiian Pizza",
+    "category": "Pizza",
+    "calories": 420
+  },
+  {
+    "food_name": "Lemon Garlic Butter Salmon",
+    "category": "Seafood",
+    "calories": 320
+  },
+  {
+    "food_name": "Couscous Salad",
+    "category": "Grains",
+    "calories": 290
+  },
+  {
+    "food_name": "Veggie Burger",
+    "category": "Burger",
+    "calories": 550
+  },
+  {
+    "food_name": "Raspberry Sorbet",
+    "category": "Dessert",
+    "calories": 230
+  },
+  {
+    "food_name": "Grilled Zucchini",
+    "category": "Vegetables",
+    "calories": 65
+  },
+  {
+    "food_name": "Chocolate Fondue",
+    "category": "Dessert",
+    "calories": 380
+  },
+  {
+    "food_name": "Turkey Caesar Salad",
+    "category": "Salad",
+    "calories": 310
+  },
+  {
+    "food_name": "Shrimp Scampi Linguine",
+    "category": "Pasta",
+    "calories": 490
+  },
+  {
+    "food_name": "Mushroom Pizza",
+    "category": "Pizza",
+    "calories": 360
+  },
+  {
+    "food_name": "Grilled Tuna Steak",
+    "category": "Seafood",
+    "calories": 300
+  },
+  {
+    "food_name": "Brown Butter Sage Risotto",
+    "category": "Grains",
+    "calories": 330
+  },
+  {
+    "food_name": "Bison Burger",
+    "category": "Burger",
+    "calories": 600
+  },
+  {
+    "food_name": "Mango Sorbet",
+    "category": "Dessert",
+    "calories": 220
+  },
+  {
+    "food_name": "Roasted Sweet Potatoes",
+    "category": "Vegetables",
+    "calories": 80
+  },
+  {
+    "food_name": "Pecan Pie",
+    "category": "Dessert",
+    "calories": 400
+  }
+]
