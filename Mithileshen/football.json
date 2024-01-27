@@ -1,0 +1,354 @@
+[
+  {
+    "player_name": "Lionel Messi",
+    "position": "Forward",
+    "club": "Paris Saint-Germain",
+    "matches_played": 25,
+    "goals_scored": 20,
+    "assists": 12
+  },
+  {
+    "player_name": "Cristiano Ronaldo",
+    "position": "Forward",
+    "club": "Manchester United",
+    "matches_played": 23,
+    "goals_scored": 18,
+    "assists": 10
+  },
+  {
+    "player_name": "Robert Lewandowski",
+    "position": "Forward",
+    "club": "Bayern Munich",
+    "matches_played": 27,
+    "goals_scored": 25,
+    "assists": 8
+  },
+  {
+    "player_name": "Kevin De Bruyne",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "matches_played": 28,
+    "goals_scored": 10,
+    "assists": 18
+  },
+  {
+    "player_name": "Kylian Mbappe",
+    "position": "Forward",
+    "club": "Paris Saint-Germain",
+    "matches_played": 26,
+    "goals_scored": 22,
+    "assists": 15
+  },
+  {
+    "player_name": "Erling Haaland",
+    "position": "Forward",
+    "club": "Borussia Dortmund",
+    "matches_played": 24,
+    "goals_scored": 21,
+    "assists": 7
+  },
+  {
+    "player_name": "Neymar Jr.",
+    "position": "Forward",
+    "club": "Paris Saint-Germain",
+    "matches_played": 22,
+    "goals_scored": 14,
+    "assists": 10
+  },
+  {
+    "player_name": "Mohamed Salah",
+    "position": "Forward",
+    "club": "Liverpool",
+    "matches_played": 29,
+    "goals_scored": 17,
+    "assists": 12
+  },
+  {
+    "player_name": "Luis Suarez",
+    "position": "Forward",
+    "club": "Atletico Madrid",
+    "matches_played": 26,
+    "goals_scored": 19,
+    "assists": 9
+  },
+  {
+    "player_name": "Bruno Fernandes",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "matches_played": 27,
+    "goals_scored": 11,
+    "assists": 16
+  },
+  {
+    "player_name": "Harry Kane",
+    "position": "Forward",
+    "club": "Tottenham Hotspur",
+    "matches_played": 28,
+    "goals_scored": 23,
+    "assists": 11
+  },
+  {
+    "player_name": "Joshua Kimmich",
+    "position": "Midfielder",
+    "club": "Bayern Munich",
+    "matches_played": 25,
+    "goals_scored": 8,
+    "assists": 20
+  },
+  {
+    "player_name": "Sadio Mane",
+    "position": "Forward",
+    "club": "Liverpool",
+    "matches_played": 26,
+    "goals_scored": 16,
+    "assists": 14
+  },
+  {
+    "player_name": "Raheem Sterling",
+    "position": "Forward",
+    "club": "Manchester City",
+    "matches_played": 24,
+    "goals_scored": 12,
+    "assists": 11
+  },
+  {
+    "player_name": "Antoine Griezmann",
+    "position": "Forward",
+    "club": "Barcelona",
+    "matches_played": 22,
+    "goals_scored": 13,
+    "assists": 9
+  },
+  {
+    "player_name": "Thomas Muller",
+    "position": "Forward",
+    "club": "Bayern Munich",
+    "matches_played": 27,
+    "goals_scored": 9,
+    "assists": 16
+  },
+  {
+    "player_name": "Karim Benzema",
+    "position": "Forward",
+    "club": "Real Madrid",
+    "matches_played": 29,
+    "goals_scored": 21,
+    "assists": 10
+  },
+  {
+    "player_name": "Son Heung-min",
+    "position": "Forward",
+    "club": "Tottenham Hotspur",
+    "matches_played": 28,
+    "goals_scored": 15,
+    "assists": 14
+  },
+  {
+    "player_name": "Jadon Sancho",
+    "position": "Forward",
+    "club": "Manchester United",
+    "matches_played": 23,
+    "goals_scored": 7,
+    "assists": 12
+  },
+  {
+    "player_name": "Paul Pogba",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "matches_played": 25,
+    "goals_scored": 9,
+    "assists": 15
+  },
+  {
+    "player_name": "Gareth Bale",
+    "position": "Forward",
+    "club": "Real Madrid",
+    "matches_played": 20,
+    "goals_scored": 11,
+    "assists": 8
+  },
+  {
+    "player_name": "Romelu Lukaku",
+    "position": "Forward",
+    "club": "Chelsea",
+    "matches_played": 26,
+    "goals_scored": 20,
+    "assists": 11
+  },
+  {
+    "player_name": "Timo Werner",
+    "position": "Forward",
+    "club": "Chelsea",
+    "matches_played": 24,
+    "goals_scored": 14,
+    "assists": 10
+  },
+  {
+    "player_name": "Marco Reus",
+    "position": "Forward",
+    "club": "Borussia Dortmund",
+    "matches_played": 21,
+    "goals_scored": 10,
+    "assists": 7
+  },
+  {
+    "player_name": "Phil Foden",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "matches_played": 22,
+    "goals_scored": 6,
+    "assists": 14
+  },
+  {
+    "player_name": "Hakim Ziyech",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "matches_played": 19,
+    "goals_scored": 5,
+    "assists": 10
+  },
+  {
+    "player_name": "Angel Di Maria",
+    "position": "Midfielder",
+    "club": "Paris Saint-Germain",
+    "matches_played": 26,
+    "goals_scored": 9,
+    "assists": 12
+  },
+  {
+    "player_name": "David Silva",
+    "position": "Midfielder",
+    "club": "Real Sociedad",
+    "matches_played": 24,
+    "goals_scored": 7,
+    "assists": 16
+  },
+  {
+    "player_name": "Leroy Sane",
+    "position": "Forward",
+    "club": "Bayern Munich",
+    "matches_played": 20,
+    "goals_scored": 8,
+    "assists": 9
+  },
+  {
+    "player_name": "Christian Pulisic",
+    "position": "Forward",
+    "club": "Chelsea",
+    "matches_played": 22,
+    "goals_scored": 10,
+    "assists": 7
+  },
+  {
+    "player_name": "Rodrygo",
+    "position": "Forward",
+    "club": "Real Madrid",
+    "matches_played": 18,
+    "goals_scored": 6,
+    "assists": 5
+  },
+  {
+    "player_name": "Jack Grealish",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "matches_played": 20,
+    "goals_scored": 4,
+    "assists": 13
+  },
+  {
+    "player_name": "Jorginho",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "matches_played": 25,
+    "goals_scored": 3,
+    "assists": 18
+  },
+  {
+    "player_name": "Wojciech Szczesny",
+    "position": "Goalkeeper",
+    "club": "Juventus",
+    "matches_played": 23,
+    "goals_scored": 0,
+    "assists": 0
+  },
+  {
+    "player_name": "N'Golo Kante",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "matches_played": 26,
+    "goals_scored": 5,
+    "assists": 8
+  },
+  {
+    "player_name": "Andrew Robertson",
+    "position": "Defender",
+    "club": "Liverpool",
+    "matches_played": 28,
+    "goals_scored": 1,
+    "assists": 14
+  },
+  {
+    "player_name": "Ruben Dias",
+    "position": "Defender",
+    "club": "Manchester City",
+    "matches_played": 26,
+    "goals_scored": 2,
+    "assists": 1
+  },
+  {
+    "player_name": "Kalidou Koulibaly",
+    "position": "Defender",
+    "club": "Napoli",
+    "matches_played": 27,
+    "goals_scored": 0,
+    "assists": 2
+  },
+  {
+    "player_name": "Trent Alexander-Arnold",
+    "position": "Defender",
+    "club": "Liverpool",
+    "matches_played": 24,
+    "goals_scored": 2,
+    "assists": 15
+  },
+  {
+    "player_name": "Aymeric Laporte",
+    "position": "Defender",
+    "club": "Manchester City",
+    "matches_played": 21,
+    "goals_scored": 1,
+    "assists": 3
+  },
+  {
+    "player_name": "Marquinhos",
+    "position": "Defender",
+    "club": "Paris Saint-Germain",
+    "matches_played": 22,
+    "goals_scored": 3,
+    "assists": 4
+  },
+  {
+    "player_name": "Raphael Varane",
+    "position": "Defender",
+    "club": "Manchester United",
+    "matches_played": 20,
+    "goals_scored": 0,
+    "assists": 1
+  },
+  {
+    "player_name": "Lucas Hernandez",
+    "position": "Defender",
+    "club": "Bayern Munich",
+    "matches_played": 23,
+    "goals_scored": 1,
+    "assists": 5
+  },
+  {
+    "player_name": "Danilo Pereira",
+    "position": "Midfielder",
+    "club": "Paris Saint-Germain",
+    "matches_played": 19,
+    "goals_scored": 1,
+    "assists": 4
+  }
+]
