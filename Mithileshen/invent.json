@@ -1,0 +1,238 @@
+[
+  {
+    "product_name": "Laptop X1",
+    "category": "Electronics",
+    "price": 999.99
+  },
+  {
+    "product_name": "Coffee Maker",
+    "category": "Appliances",
+    "price": 49.99
+  },
+  {
+    "product_name": "Running Shoes",
+    "category": "Footwear",
+    "price": 79.99
+  },
+  {
+    "product_name": "Smartphone Z",
+    "category": "Electronics",
+    "price": 599.99
+  },
+  {
+    "product_name": "Backpack Pro",
+    "category": "Fashion",
+    "price": 29.99
+  },
+  {
+    "product_name": "Desk Lamp",
+    "category": "Home & Living",
+    "price": 34.99
+  },
+  {
+    "product_name": "Dumbbell Set",
+    "category": "Fitness",
+    "price": 89.99
+  },
+  {
+    "product_name": "Graphic Novel XYZ",
+    "category": "Books",
+    "price": 14.99
+  },
+  {
+    "product_name": "Gaming Mouse",
+    "category": "Gaming",
+    "price": 49.99
+  },
+  {
+    "product_name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 19.99
+  },
+  {
+    "product_name": "Digital Camera",
+    "category": "Electronics",
+    "price": 299.99
+  },
+  {
+    "product_name": "Chef's Knife",
+    "category": "Kitchen",
+    "price": 39.99
+  },
+  {
+    "product_name": "Sunglasses",
+    "category": "Fashion",
+    "price": 24.99
+  },
+  {
+    "product_name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 79.99
+  },
+  {
+    "product_name": "Gardening Kit",
+    "category": "Home & Living",
+    "price": 44.99
+  },
+  {
+    "product_name": "Camping Tent",
+    "category": "Outdoor",
+    "price": 129.99
+  },
+  {
+    "product_name": "Artificial Plant",
+    "category": "Home & Living",
+    "price": 19.99
+  },
+  {
+    "product_name": "Cookware Set",
+    "category": "Kitchen",
+    "price": 129.99
+  },
+  {
+    "product_name": "Smart Watch",
+    "category": "Wearables",
+    "price": 149.99
+  },
+  {
+    "product_name": "Electric Toothbrush",
+    "category": "Personal Care",
+    "price": 39.99
+  },
+  {
+    "product_name": "Running Jacket",
+    "category": "Sportswear",
+    "price": 59.99
+  },
+  {
+    "product_name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 79.99
+  },
+  {
+    "product_name": "Duffle Bag",
+    "category": "Travel",
+    "price": 34.99
+  },
+  {
+    "product_name": "Hair Dryer",
+    "category": "Personal Care",
+    "price": 29.99
+  },
+  {
+    "product_name": "Hiking Boots",
+    "category": "Footwear",
+    "price": 89.99
+  },
+  {
+    "product_name": "Telescope",
+    "category": "Hobbies",
+    "price": 199.99
+  },
+  {
+    "product_name": "Stainless Steel Bottle",
+    "category": "Outdoor",
+    "price": 17.99
+  },
+  {
+    "product_name": "Desk Organizer",
+    "category": "Office",
+    "price": 24.99
+  },
+  {
+    "product_name": "E-reader",
+    "category": "Books",
+    "price": 119.99
+  },
+  {
+    "product_name": "Tennis Racket",
+    "category": "Sports",
+    "price": 79.99
+  },
+  {
+    "product_name": "Wall Clock",
+    "category": "Home & Living",
+    "price": 19.99
+  },
+  {
+    "product_name": "Protein Powder",
+    "category": "Fitness",
+    "price": 29.99
+  },
+  {
+    "product_name": "Candle Set",
+    "category": "Home & Living",
+    "price": 14.99
+  },
+  {
+    "product_name": "Portable Charger",
+    "category": "Electronics",
+    "price": 29.99
+  },
+  {
+    "product_name": "Board Game",
+    "category": "Entertainment",
+    "price": 39.99
+  },
+  {
+    "product_name": "Smart Thermostat",
+    "category": "Home & Living",
+    "price": 69.99
+  },
+  {
+    "product_name": "Yoga Block",
+    "category": "Fitness",
+    "price": 9.99
+  },
+  {
+    "product_name": "Rolling Backpack",
+    "category": "Travel",
+    "price": 54.99
+  },
+  {
+    "product_name": "Gaming Keyboard",
+    "category": "Gaming",
+    "price": 69.99
+  },
+  {
+    "product_name": "Puzzle Set",
+    "category": "Entertainment",
+    "price": 19.99
+  },
+  {
+    "product_name": "Digital Art Tablet",
+    "category": "Art",
+    "price": 129.99
+  },
+  {
+    "product_name": "Fitness Tracker",
+    "category": "Fitness",
+    "price": 49.99
+  },
+  {
+    "product_name": "Pet Bed",
+    "category": "Pets",
+    "price": 34.99
+  },
+  {
+    "product_name": "Car Phone Holder",
+    "category": "Automotive",
+    "price": 14.99
+  },
+  {
+    "product_name": "Memory Foam Pillow",
+    "category": "Home & Living",
+    "price": 19.99
+  },
+  {
+    "product_name": "Resistance Bands",
+    "category": "Fitness",
+    "price": 14.99
+  },
+  {
+    "product_name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 24.99
+  }
+
+]
