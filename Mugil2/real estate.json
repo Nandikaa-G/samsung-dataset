@@ -1,0 +1,616 @@
+[
+  {
+    "property_id": "001",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 350000,
+    "agent": "John Smith"
+  },
+  {
+    "property_id": "002",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 200000,
+    "agent": "Emily Johnson"
+  },
+  {
+    "property_id": "003",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 3,
+    "price_usd": 450000,
+    "agent": "Michael Brown"
+  },
+  {
+    "property_id": "004",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 300000,
+    "agent": "Jessica Miller"
+  },
+  {
+    "property_id": "005",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 5,
+    "price_usd": 550000,
+    "agent": "David Wilson"
+  }
+]
+[
+  {
+    "property_id": "006",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 320000,
+    "agent": "Jennifer Garcia"
+  },
+  {
+    "property_id": "007",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 1,
+    "price_usd": 150000,
+    "agent": "Christopher Martinez"
+  },
+  {
+    "property_id": "008",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 400000,
+    "agent": "Amanda Robinson"
+  },
+  {
+    "property_id": "009",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 2,
+    "price_usd": 280000,
+    "agent": "Daniel Lopez"
+  },
+  {
+    "property_id": "010",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 500000,
+    "agent": "Sarah Hernandez"
+  },
+  {
+    "property_id": "011",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 370000,
+    "agent": "Ryan Lee"
+  },
+  {
+    "property_id": "012",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 3,
+    "price_usd": 220000,
+    "agent": "Laura Clark"
+  },
+  {
+    "property_id": "013",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 1,
+    "price_usd": 380000,
+    "agent": "Kevin Scott"
+  },
+  {
+    "property_id": "014",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 290000,
+    "agent": "Jessica Baker"
+  },
+  {
+    "property_id": "015",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 480000,
+    "agent": "Matthew Taylor"
+  }
+]
+[
+  {
+    "property_id": "016",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 335000,
+    "agent": "Emily White"
+  },
+  {
+    "property_id": "017",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 190000,
+    "agent": "Michael Rodriguez"
+  },
+  {
+    "property_id": "018",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 1,
+    "price_usd": 420000,
+    "agent": "Michelle Harris"
+  },
+  {
+    "property_id": "019",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 310000,
+    "agent": "David Martinez"
+  },
+  {
+    "property_id": "020",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 5,
+    "price_usd": 550000,
+    "agent": "Jennifer Thompson"
+  },
+  {
+    "property_id": "021",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 385000,
+    "agent": "Andrew Lee"
+  },
+  {
+    "property_id": "022",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 1,
+    "price_usd": 180000,
+    "agent": "Jessica Gonzalez"
+  },
+  {
+    "property_id": "023",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 410000,
+    "agent": "Brian Lewis"
+  },
+  {
+    "property_id": "024",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 2,
+    "price_usd": 295000,
+    "agent": "Amanda Wright"
+  },
+  {
+    "property_id": "025",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 495000,
+    "agent": "Christopher Moore"
+  }
+]
+[
+  {
+    "property_id": "026",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 320000,
+    "agent": "Sarah Clark"
+  },
+  {
+    "property_id": "027",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 195000,
+    "agent": "Daniel Ward"
+  },
+  {
+    "property_id": "028",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 1,
+    "price_usd": 430000,
+    "agent": "Lisa Taylor"
+  },
+  {
+    "property_id": "029",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 340000,
+    "agent": "Kevin Scott"
+  },
+  {
+    "property_id": "030",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 6,
+    "price_usd": 580000,
+    "agent": "Stephanie Turner"
+  },
+  {
+    "property_id": "031",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 5,
+    "price_usd": 400000,
+    "agent": "John Carter"
+  },
+  {
+    "property_id": "032",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 1,
+    "price_usd": 185000,
+    "agent": "Laura Rodriguez"
+  },
+  {
+    "property_id": "033",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 420000,
+    "agent": "Erica Hernandez"
+  },
+  {
+    "property_id": "034",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 300000,
+    "agent": "Steven Turner"
+  },
+  {
+    "property_id": "035",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 510000,
+    "agent": "Rachel White"
+  }
+]
+[
+  {
+    "property_id": "036",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 380000,
+    "agent": "Michael Thompson"
+  },
+  {
+    "property_id": "037",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 3,
+    "price_usd": 220000,
+    "agent": "Jessica Martinez"
+  },
+  {
+    "property_id": "038",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 450000,
+    "agent": "Brian Harris"
+  },
+  {
+    "property_id": "039",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 320000,
+    "agent": "Michelle Lewis"
+  },
+  {
+    "property_id": "040",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 5,
+    "price_usd": 620000,
+    "agent": "David Turner"
+  },
+  {
+    "property_id": "041",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 360000,
+    "agent": "Jennifer Walker"
+  },
+  {
+    "property_id": "042",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 210000,
+    "agent": "Matthew Harris"
+  },
+  {
+    "property_id": "043",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 1,
+    "price_usd": 480000,
+    "agent": "Emily Carter"
+  },
+  {
+    "property_id": "044",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 360000,
+    "agent": "Jonathan Scott"
+  },
+  {
+    "property_id": "045",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 3,
+    "price_usd": 540000,
+    "agent": "Olivia Turner"
+  }
+]
+[
+  {
+    "property_id": "046",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 410000,
+    "agent": "Andrew Roberts"
+  },
+  {
+    "property_id": "047",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 190000,
+    "agent": "Sarah Evans"
+  },
+  {
+    "property_id": "048",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 3,
+    "price_usd": 520000,
+    "agent": "Daniel White"
+  },
+  {
+    "property_id": "049",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 340000,
+    "agent": "Rebecca Lee"
+  },
+  {
+    "property_id": "050",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 6,
+    "price_usd": 720000,
+    "agent": "Nathan Collins"
+  },
+  {
+    "property_id": "051",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 390000,
+    "agent": "Megan Phillips"
+  },
+  {
+    "property_id": "052",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 1,
+    "price_usd": 175000,
+    "agent": "Brandon Stewart"
+  },
+  {
+    "property_id": "053",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 490000,
+    "agent": "Victoria Wilson"
+  },
+  {
+    "property_id": "054",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 380000,
+    "agent": "Dylan Thompson"
+  },
+  {
+    "property_id": "055",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 620000,
+    "agent": "Grace Adams"
+  }
+]
+[
+  {
+    "property_id": "056",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 5,
+    "price_usd": 480000,
+    "agent": "Michael Johnson"
+  },
+  {
+    "property_id": "057",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 3,
+    "price_usd": 250000,
+    "agent": "Emily Rodriguez"
+  },
+  {
+    "property_id": "058",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 560000,
+    "agent": "Christopher Martinez"
+  },
+  {
+    "property_id": "059",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 410000,
+    "agent": "Jessica Thompson"
+  },
+  {
+    "property_id": "060",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 690000,
+    "agent": "Andrew Carter"
+  },
+  {
+    "property_id": "061",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 550000,
+    "agent": "Sophia Walker"
+  },
+  {
+    "property_id": "062",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 210000,
+    "agent": "Jacob Hall"
+  },
+  {
+    "property_id": "063",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 3,
+    "price_usd": 620000,
+    "agent": "Olivia Moore"
+  },
+  {
+    "property_id": "064",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 430000,
+    "agent": "Matthew Clark"
+  },
+  {
+    "property_id": "065",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 5,
+    "price_usd": 750000,
+    "agent": "Ella Hill"
+  }
+]
+[
+  {
+    "property_id": "066",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 520000,
+    "agent": "Nathan Baker"
+  },
+  {
+    "property_id": "067",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 1,
+    "price_usd": 180000,
+    "agent": "Isabella Scott"
+  },
+  {
+    "property_id": "068",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 2,
+    "price_usd": 590000,
+    "agent": "Ethan Green"
+  },
+  {
+    "property_id": "069",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 3,
+    "price_usd": 390000,
+    "agent": "Ava King"
+  },
+  {
+    "property_id": "070",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 3,
+    "price_usd": 680000,
+    "agent": "Liam Hall"
+  },
+  {
+    "property_id": "071",
+    "property_type": "House",
+    "location": "Suburban",
+    "bedrooms": 5,
+    "price_usd": 580000,
+    "agent": "Aiden Adams"
+  },
+  {
+    "property_id": "072",
+    "property_type": "Apartment",
+    "location": "Urban",
+    "bedrooms": 2,
+    "price_usd": 230000,
+    "agent": "Mia Martinez"
+  },
+  {
+    "property_id": "073",
+    "property_type": "Condo",
+    "location": "Downtown",
+    "bedrooms": 3,
+    "price_usd": 640000,
+    "agent": "Lucas Wilson"
+  },
+  {
+    "property_id": "074",
+    "property_type": "Townhouse",
+    "location": "Suburban",
+    "bedrooms": 4,
+    "price_usd": 450000,
+    "agent": "Zoe Taylor"
+  },
+  {
+    "property_id": "075",
+    "property_type": "Single-Family Home",
+    "location": "Rural",
+    "bedrooms": 4,
+    "price_usd": 710000,
+    "agent": "Noah Anderson"
+  }
+]
