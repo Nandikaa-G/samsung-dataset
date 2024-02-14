@@ -1,0 +1,11 @@
+Summary:
+The dataset contains information on 50 different languages, including their names, the number of speakers, and the countries where they are spoken. The most widely spoken language is English, with 1.5 billion speakers, followed by Mandarin Chinese with 1.1 billion speakers. Other major languages include Hindi, Spanish, French, Arabic, and Bengali. The least widely spoken language is Komi, with only 200,000 speakers.
+
+Statistics:
+
+Total number of languages: 50
+Total number of speakers: Approximately 8.13 billion (this is an estimate based on the given numbers)
+Most widely spoken language: English (1.5 billion speakers)
+Least widely spoken language: Komi (200,000 speakers)
+Average number of speakers per language: Approximately 162.6 million
+Countries with the most languages spoken: India (7 languages), Russia (6 languages), China (5 languages), and Iran (5 languages)
