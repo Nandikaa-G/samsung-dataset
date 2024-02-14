@@ -1,0 +1,436 @@
+[
+  {
+    "species": "African Elephant",
+    "type": "Mammal",
+    "habitat": "African savannas and forests",
+    "prevalence": "Africa",
+    "conservation_status": "Vulnerable",
+    "threats": ["Poaching", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Bengal Tiger",
+    "type": "Mammal",
+    "habitat": "Tropical and subtropical forests",
+    "prevalence": "India, Bangladesh, Nepal, Bhutan",
+    "conservation_status": "Endangered",
+    "threats": ["Poaching", "Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Giant Panda",
+    "type": "Mammal",
+    "habitat": "Bamboo forests",
+    "prevalence": "China",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Low birth rates in captivity"],
+    "population_trend": "Stable"
+  },
+  {
+    "species": "Snow Leopard",
+    "type": "Mammal",
+    "habitat": "Mountain ranges of Central and South Asia",
+    "prevalence": "Himalayas, Altai Mountains",
+    "conservation_status": "Vulnerable",
+    "threats": ["Poaching", "Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Amur Leopard",
+    "type": "Mammal",
+    "habitat": "Temperate forests",
+    "prevalence": "Russia, China, North Korea",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Poaching", "Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Blue Whale",
+    "type": "Mammal",
+    "habitat": "All oceans",
+    "prevalence": "Worldwide",
+    "conservation_status": "Endangered",
+    "threats": ["Whaling", "Marine pollution", "Collisions with ships"],
+    "population_trend": "Stable"
+  },
+  {
+    "species": "Orangutan",
+    "type": "Mammal",
+    "habitat": "Tropical rainforests",
+    "prevalence": "Borneo, Sumatra",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Deforestation", "Illegal pet trade"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Black Rhino",
+    "type": "Mammal",
+    "habitat": "Savannas, grasslands, forests",
+    "prevalence": "Eastern and Southern Africa",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Poaching", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sumatran Elephant",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Sumatra",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Deforestation", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Mountain Gorilla",
+    "type": "Mammal",
+    "habitat": "Mountain forests",
+    "prevalence": "Central Africa",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Poaching", "Human-wildlife conflict"],
+    "population_trend": "Increasing"
+  },
+  {
+    "species": "Pangolin",
+    "type": "Mammal",
+    "habitat": "Forests, grasslands, savannas",
+    "prevalence": "Africa, Asia",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Illegal trade", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Vaquita",
+    "type": "Mammal",
+    "habitat": "Gulf of California",
+    "prevalence": "Mexico",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Bycatch in illegal fishing gear", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Javan Rhino",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Java, Indonesia",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Loggerhead Sea Turtle",
+    "type": "Reptile",
+    "habitat": "Oceans, seas",
+    "prevalence": "Worldwide",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Marine pollution", "Bycatch"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Siberian Tiger",
+    "type": "Mammal",
+    "habitat": "Boreal forests",
+    "prevalence": "Russia",
+    "conservation_status": "Endangered",
+    "threats": ["Poaching", "Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Stable"
+  },
+  {
+    "species": "Indochinese Tiger",
+    "type": "Mammal",
+    "habitat": "Tropical and subtropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Poaching", "Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Asian Elephant",
+    "type": "Mammal",
+    "habitat": "Grasslands, forests",
+    "prevalence": "Asia",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+    {
+    "species": "Leatherback Sea Turtle",
+    "type": "Reptile",
+    "habitat": "Oceans",
+    "prevalence": "Worldwide",
+    "conservation_status": "Vulnerable",
+    "threats": ["Bycatch", "Marine pollution", "Illegal trade"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Iberian Lynx",
+    "type": "Mammal",
+    "habitat": "Mediterranean forests",
+    "prevalence": "Spain, Portugal",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Poaching", "Road accidents"],
+    "population_trend": "Increasing"
+  },
+  {
+    "species": "Philippine Eagle",
+    "type": "Bird",
+    "habitat": "Tropical forests",
+    "prevalence": "Philippines",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Illegal trade", "Hunting"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Saola",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Vietnam, Laos",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Hunting"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Red Panda",
+    "type": "Mammal",
+    "habitat": "Temperate forests",
+    "prevalence": "Himalayas, China",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Poaching", "Illegal trade"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Jaguar",
+    "type": "Mammal",
+    "habitat": "Rainforests, grasslands",
+    "prevalence": "Central and South America",
+    "conservation_status": "Near Threatened",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Bald Eagle",
+    "type": "Bird",
+    "habitat": "Forests, lakes",
+    "prevalence": "North America",
+    "conservation_status": "Least Concern",
+    "threats": ["Habitat loss", "Pollution"],
+    "population_trend": "Increasing"
+  },
+  {
+    "species": "California Condor",
+    "type": "Bird",
+    "habitat": "Mountains, canyons",
+    "prevalence": "United States",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Lead poisoning", "Collisions with power lines"],
+    "population_trend": "Increasing"
+  },
+  {
+    "species": "Bonobo",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Democratic Republic of Congo",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sunda Pangolin",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Illegal trade", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Bornean Elephant",
+    "type": "Mammal",
+    "habitat": "Rainforests",
+    "prevalence": "Borneo",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Red Wolf",
+    "type": "Mammal",
+    "habitat": "Forests, swamps",
+    "prevalence": "United States",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "African Wild Dog",
+    "type": "Mammal",
+    "habitat": "Savannas, grasslands",
+    "prevalence": "Sub-Saharan Africa",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Irrawaddy Dolphin",
+    "type": "Mammal",
+    "habitat": "Rivers, estuaries",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Endangered",
+    "threats": ["Bycatch", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Humphead Wrasse",
+    "type": "Fish",
+    "habitat": "Coral reefs",
+    "prevalence": "Indo-Pacific",
+    "conservation_status": "Endangered",
+    "threats": ["Overfishing", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "African Lion",
+    "type": "Mammal",
+    "habitat": "Grasslands, savannas",
+    "prevalence": "Sub-Saharan Africa",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sloth Bear",
+    "type": "Mammal",
+    "habitat": "Forests, grasslands",
+    "prevalence": "India, Nepal, Sri Lanka",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sunda Clouded Leopard",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Asian Golden Cat",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Near Threatened",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Saola",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Vietnam, Laos",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Borneo Pygmy Elephant",
+    "type": "Mammal",
+    "habitat": "Rainforests",
+    "prevalence": "Borneo",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sunda Pangolin",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Illegal trade", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Bornean Elephant",
+    "type": "Mammal",
+    "habitat": "Rainforests",
+    "prevalence": "Borneo",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Red Wolf",
+    "type": "Mammal",
+    "habitat": "Forests, swamps",
+    "prevalence": "United States",
+    "conservation_status": "Critically Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "African Wild Dog",
+    "type": "Mammal",
+    "habitat": "Savannas, grasslands",
+    "prevalence": "Sub-Saharan Africa",
+    "conservation_status": "Endangered",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Irrawaddy Dolphin",
+    "type": "Mammal",
+    "habitat": "Rivers, estuaries",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Endangered",
+    "threats": ["Bycatch", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Humphead Wrasse",
+    "type": "Fish",
+    "habitat": "Coral reefs",
+    "prevalence": "Indo-Pacific",
+    "conservation_status": "Endangered",
+    "threats": ["Overfishing", "Habitat loss"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "African Lion",
+    "type": "Mammal",
+    "habitat": "Grasslands, savannas",
+    "prevalence": "Sub-Saharan Africa",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sloth Bear",
+    "type": "Mammal",
+    "habitat": "Forests, grasslands",
+    "prevalence": "India, Nepal, Sri Lanka",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Human-wildlife conflict"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Sunda Clouded Leopard",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Vulnerable",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  },
+  {
+    "species": "Asian Golden Cat",
+    "type": "Mammal",
+    "habitat": "Tropical forests",
+    "prevalence": "Southeast Asia",
+    "conservation_status": "Near Threatened",
+    "threats": ["Habitat loss", "Poaching"],
+    "population_trend": "Decreasing"
+  }
+]
+
+  
