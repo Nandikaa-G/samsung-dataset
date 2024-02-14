@@ -1,0 +1,784 @@
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "product_name": "Air Max 270",
+    "category": "Shoes",
+    "color": "Black/White",
+    "size": "US 10",
+    "price": 150,
+    "inventory": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "brand": "Adidas",
+    "product_name": "UltraBoost",
+    "category": "Shoes",
+    "color": "White/Black",
+    "size": "US 9.5",
+    "price": 180,
+    "inventory": 30,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "brand": "Levi's",
+    "product_name": "501 Original Fit Jeans",
+    "category": "Jeans",
+    "color": "Indigo",
+    "size": "32x32",
+    "price": 50,
+    "inventory": 100,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "brand": "H&M",
+    "product_name": "Slim-fit Shirt",
+    "category": "Shirt",
+    "color": "Blue",
+    "size": "Medium",
+    "price": 25,
+    "inventory": 80,
+    "rating": 4.1
+  },
+  {
+    "id": 5,
+    "brand": "Gucci",
+    "product_name": "Gucci Horsebit Loafers",
+    "category": "Shoes",
+    "color": "Brown",
+    "size": "US 11",
+    "price": 750,
+    "inventory": 20,
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "brand": "Zara",
+    "product_name": "Checked Blazer",
+    "category": "Blazer",
+    "color": "Grey/Black",
+    "size": "Large",
+    "price": 90,
+    "inventory": 60,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "brand": "Calvin Klein",
+    "product_name": "Cotton Boxer Briefs (Pack of 3)",
+    "category": "Underwear",
+    "color": "Assorted",
+    "size": "Medium",
+    "price": 30,
+    "inventory": 120,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "brand": "Tommy Hilfiger",
+    "product_name": "Classic Polo Shirt",
+    "category": "Shirt",
+    "color": "Red",
+    "size": "Large",
+    "price": 35,
+    "inventory": 70,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "brand": "Ralph Lauren",
+    "product_name": "Polo Ralph Lauren Belt",
+    "category": "Accessories",
+    "color": "Brown",
+    "size": "One Size",
+    "price": 80,
+    "inventory": 40,
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "brand": "Versace",
+    "product_name": "Medusa Head T-shirt",
+    "category": "T-shirt",
+    "color": "Black",
+    "size": "Medium",
+    "price": 200,
+    "inventory": 25,
+    "rating": 4.8
+  }
+]
+[
+  {
+    "id": 11,
+    "brand": "Hollister",
+    "product_name": "Skinny Jeans",
+    "category": "Jeans",
+    "color": "Light Blue",
+    "size": "28x32",
+    "price": 45,
+    "inventory": 60,
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "brand": "Puma",
+    "product_name": "Essential Logo Hoodie",
+    "category": "Hoodie",
+    "color": "Black",
+    "size": "Large",
+    "price": 60,
+    "inventory": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "brand": "Forever 21",
+    "product_name": "Ribbed Knit Sweater",
+    "category": "Sweater",
+    "color": "Beige",
+    "size": "Small",
+    "price": 30,
+    "inventory": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "brand": "Guess",
+    "product_name": "Quilted Leather Jacket",
+    "category": "Jacket",
+    "color": "Black",
+    "size": "Medium",
+    "price": 150,
+    "inventory": 25,
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "brand": "Converse",
+    "product_name": "Chuck Taylor All Star High Top",
+    "category": "Shoes",
+    "color": "Red",
+    "size": "US 9",
+    "price": 55,
+    "inventory": 55,
+    "rating": 4.7
+  },
+  {
+    "id": 16,
+    "brand": "The North Face",
+    "product_name": "Denali Fleece Jacket",
+    "category": "Jacket",
+    "color": "Grey",
+    "size": "Large",
+    "price": 120,
+    "inventory": 35,
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "brand": "Burberry",
+    "product_name": "Check Scarf",
+    "category": "Accessories",
+    "color": "Beige",
+    "size": "One Size",
+    "price": 250,
+    "inventory": 15,
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "brand": "Fendi",
+    "product_name": "Monster Eyes Wallet",
+    "category": "Accessories",
+    "color": "Black",
+    "size": "One Size",
+    "price": 400,
+    "inventory": 10,
+    "rating": 4.4
+  },
+  {
+    "id": 19,
+    "brand": "Champion",
+    "product_name": "Reverse Weave Crewneck Sweatshirt",
+    "category": "Sweatshirt",
+    "color": "Navy",
+    "size": "Medium",
+    "price": 70,
+    "inventory": 45,
+    "rating": 4.3
+  },
+  {
+    "id": 20,
+    "brand": "Oakley",
+    "product_name": "Holbrook Sunglasses",
+    "category": "Accessories",
+    "color": "Matte Black",
+    "size": "One Size",
+    "price": 120,
+    "inventory": 20,
+    "rating": 4.6
+  }
+]
+[
+  {
+    "id": 21,
+    "brand": "Under Armour",
+    "product_name": "Tech 2.0 Short Sleeve T-Shirt",
+    "category": "T-shirt",
+    "color": "Grey",
+    "size": "Large",
+    "price": 25,
+    "inventory": 65,
+    "rating": 4.7
+  },
+  {
+    "id": 22,
+    "brand": "Gap",
+    "product_name": "1969 Denim Jacket",
+    "category": "Jacket",
+    "color": "Light Wash",
+    "size": "Medium",
+    "price": 80,
+    "inventory": 30,
+    "rating": 4.5
+  },
+  {
+    "id": 23,
+    "brand": "Fila",
+    "product_name": "Disruptor II Sneakers",
+    "category": "Shoes",
+    "color": "White",
+    "size": "US 8",
+    "price": 75,
+    "inventory": 50,
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "brand": "Lululemon",
+    "product_name": "Align Pant II 25\"",
+    "category": "Pants",
+    "color": "Black",
+    "size": "6",
+    "price": 98,
+    "inventory": 40,
+    "rating": 4.8
+  },
+  {
+    "id": 25,
+    "brand": "Patagonia",
+    "product_name": "Better Sweater Fleece Jacket",
+    "category": "Jacket",
+    "color": "Navy Blue",
+    "size": "Large",
+    "price": 139,
+    "inventory": 20,
+    "rating": 4.9
+  },
+  {
+    "id": 26,
+    "brand": "Urban Outfitters",
+    "product_name": "Chunky Knit Cardigan",
+    "category": "Cardigan",
+    "color": "Cream",
+    "size": "Small",
+    "price": 65,
+    "inventory": 55,
+    "rating": 4.3
+  },
+  {
+    "id": 27,
+    "brand": "Steve Madden",
+    "product_name": "Troopa Combat Boots",
+    "category": "Shoes",
+    "color": "Brown",
+    "size": "US 7",
+    "price": 99,
+    "inventory": 25,
+    "rating": 4.4
+  },
+  {
+    "id": 28,
+    "brand": "Vans",
+    "product_name": "Classic Slip-On Sneakers",
+    "category": "Shoes",
+    "color": "Checkerboard",
+    "size": "US 9.5",
+    "price": 60,
+    "inventory": 35,
+    "rating": 4.7
+  },
+  {
+    "id": 29,
+    "brand": "Columbia",
+    "product_name": "Watertight II Rain Jacket",
+    "category": "Jacket",
+    "color": "Black",
+    "size": "Large",
+    "price": 69.99,
+    "inventory": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "brand": "New Balance",
+    "product_name": "Fresh Foam Roav Sneakers",
+    "category": "Shoes",
+    "color": "Grey/Pink",
+    "size": "US 8",
+    "price": 79.99,
+    "inventory": 40,
+    "rating": 4.5
+  }
+]
+[
+  {
+    "id": 31,
+    "brand": "Nike",
+    "product_name": "Air Max 97",
+    "category": "Shoes",
+    "color": "Silver/Black",
+    "size": "US 8",
+    "price": 170,
+    "inventory": 45,
+    "rating": 4.8
+  },
+  {
+    "id": 32,
+    "brand": "Tommy Hilfiger",
+    "product_name": "Slim Fit Dress Shirt",
+    "category": "Shirt",
+    "color": "Blue",
+    "size": "Medium",
+    "price": 60,
+    "inventory": 35,
+    "rating": 4.6
+  },
+  {
+    "id": 33,
+    "brand": "Ralph Lauren",
+    "product_name": "Cable Knit Sweater",
+    "category": "Sweater",
+    "color": "Navy",
+    "size": "Large",
+    "price": 120,
+    "inventory": 25,
+    "rating": 4.7
+  },
+  {
+    "id": 34,
+    "brand": "H&M",
+    "product_name": "Tailored Suit Jacket",
+    "category": "Suit",
+    "color": "Black",
+    "size": "42R",
+    "price": 99,
+    "inventory": 20,
+    "rating": 4.5
+  },
+  {
+    "id": 35,
+    "brand": "GAP",
+    "product_name": "Ribbed Tank Top",
+    "category": "Top",
+    "color": "White",
+    "size": "Small",
+    "price": 20,
+    "inventory": 60,
+    "rating": 4.2
+  },
+  {
+    "id": 36,
+    "brand": "Adidas",
+    "product_name": "Essentials Fleece Pants",
+    "category": "Pants",
+    "color": "Grey",
+    "size": "Large",
+    "price": 45,
+    "inventory": 50,
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "brand": "Calvin Klein",
+    "product_name": "Scoop Neck Bikini Top",
+    "category": "Swimwear",
+    "color": "Black",
+    "size": "Medium",
+    "price": 35,
+    "inventory": 30,
+    "rating": 4.3
+  },
+  {
+    "id": 38,
+    "brand": "Levi's",
+    "product_name": "501 Skinny Jeans",
+    "category": "Jeans",
+    "color": "Black",
+    "size": "30x32",
+    "price": 60,
+    "inventory": 40,
+    "rating": 4.5
+  },
+  {
+    "id": 39,
+    "brand": "Converse",
+    "product_name": "Chuck Taylor All Star Low Top",
+    "category": "Shoes",
+    "color": "White",
+    "size": "US 7",
+    "price": 55,
+    "inventory": 55,
+    "rating": 4.6
+  },
+  {
+    "id": 40,
+    "brand": "Zara",
+    "product_name": "Pleated Mini Skirt",
+    "category": "Skirt",
+    "color": "Pink",
+    "size": "Small",
+    "price": 29.90,
+    "inventory": 35,
+    "rating": 4.2
+  }
+]
+[
+  {
+    "id": 41,
+    "brand": "Forever 21",
+    "product_name": "Button-Front Denim Skirt",
+    "category": "Skirt",
+    "color": "Blue",
+    "size": "Medium",
+    "price": 24.99,
+    "inventory": 40,
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "brand": "Puma",
+    "product_name": "Cali Sport Sneakers",
+    "category": "Shoes",
+    "color": "White",
+    "size": "US 9",
+    "price": 80,
+    "inventory": 30,
+    "rating": 4.7
+  },
+  {
+    "id": 43,
+    "brand": "Zara",
+    "product_name": "Ribbed Knit Sweater",
+    "category": "Sweater",
+    "color": "Grey",
+    "size": "Small",
+    "price": 39.90,
+    "inventory": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 44,
+    "brand": "Tommy Hilfiger",
+    "product_name": "Classic Fit Chino Pants",
+    "category": "Pants",
+    "color": "Khaki",
+    "size": "32x32",
+    "price": 69.99,
+    "inventory": 25,
+    "rating": 4.6
+  },
+  {
+    "id": 45,
+    "brand": "Nike",
+    "product_name": "Sportswear Club Fleece Hoodie",
+    "category": "Hoodie",
+    "color": "Black",
+    "size": "Large",
+    "price": 55,
+    "inventory": 35,
+    "rating": 4.5
+  },
+  {
+    "id": 46,
+    "brand": "Adidas",
+    "product_name": "Originals Santiago Duffel Bag",
+    "category": "Accessories",
+    "color": "Black",
+    "size": "One Size",
+    "price": 45,
+    "inventory": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 47,
+    "brand": "Calvin Klein",
+    "product_name": "Modern Cotton Thong",
+    "category": "Underwear",
+    "color": "White",
+    "size": "Small",
+    "price": 20,
+    "inventory": 70,
+    "rating": 4.8
+  },
+  {
+    "id": 48,
+    "brand": "GAP",
+    "product_name": "Essential Crewneck T-Shirt",
+    "category": "T-shirt",
+    "color": "Black",
+    "size": "Medium",
+    "price": 15,
+    "inventory": 80,
+    "rating": 4.6
+  },
+  {
+    "id": 49,
+    "brand": "H&M",
+    "product_name": "Jersey Wrapover Dress",
+    "category": "Dress",
+    "color": "Red",
+    "size": "US 6",
+    "price": 29.99,
+    "inventory": 40,
+    "rating": 4.7
+  },
+  {
+    "id": 50,
+    "brand": "Under Armour",
+    "product_name": "Rival Fleece Joggers",
+    "category": "Pants",
+    "color": "Grey",
+    "size": "Large",
+    "price": 55,
+    "inventory": 45,
+    "rating": 4.4
+  }
+]
+[
+  {
+    "id": 51,
+    "brand": "Levi's",
+    "product_name": "Sherpa Trucker Jacket",
+    "category": "Jacket",
+    "color": "Black",
+    "size": "Medium",
+    "price": 98,
+    "inventory": 30,
+    "rating": 4.7
+  },
+  {
+    "id": 52,
+    "brand": "ASOS",
+    "product_name": "Skinny Jeans",
+    "category": "Jeans",
+    "color": "Dark Blue",
+    "size": "32x32",
+    "price": 45,
+    "inventory": 40,
+    "rating": 4.5
+  },
+  {
+    "id": 53,
+    "brand": "Gucci",
+    "product_name": "GG Marmont Matelassé Shoulder Bag",
+    "category": "Accessories",
+    "color": "Pink",
+    "size": "One Size",
+    "price": 1980,
+    "inventory": 10,
+    "rating": 4.9
+  },
+  {
+    "id": 54,
+    "brand": "Adidas",
+    "product_name": "Essentials Linear Hoodie",
+    "category": "Hoodie",
+    "color": "Grey",
+    "size": "Large",
+    "price": 50,
+    "inventory": 60,
+    "rating": 4.6
+  },
+  {
+    "id": 55,
+    "brand": "Hollister",
+    "product_name": "High Rise Super Skinny Jeans",
+    "category": "Jeans",
+    "color": "Light Wash",
+    "size": "26x30",
+    "price": 49.95,
+    "inventory": 20,
+    "rating": 4.3
+  },
+  {
+    "id": 56,
+    "brand": "Nike",
+    "product_name": "Sportswear Essential Fleece Pants",
+    "category": "Pants",
+    "color": "Navy",
+    "size": "Large",
+    "price": 55,
+    "inventory": 35,
+    "rating": 4.7
+  },
+  {
+    "id": 57,
+    "brand": "Zara",
+    "product_name": "Textured Weave Blazer",
+    "category": "Blazer",
+    "color": "Black",
+    "size": "Medium",
+    "price": 89.90,
+    "inventory": 25,
+    "rating": 4.5
+  },
+  {
+    "id": 58,
+    "brand": "Tommy Hilfiger",
+    "product_name": "Striped Cotton T-shirt",
+    "category": "T-shirt",
+    "color": "Blue/White",
+    "size": "Large",
+    "price": 35,
+    "inventory": 50,
+    "rating": 4.8
+  },
+  {
+    "id": 59,
+    "brand": "Forever 21",
+    "product_name": "Faux Leather Moto Jacket",
+    "category": "Jacket",
+    "color": "Brown",
+    "size": "Small",
+    "price": 39.99,
+    "inventory": 30,
+    "rating": 4.4
+  },
+  {
+    "id": 60,
+    "brand": "Puma",
+    "product_name": "Essentials Jersey Shorts",
+    "category": "Shorts",
+    "color": "Black",
+    "size": "Large",
+    "price": 25,
+    "inventory": 40,
+    "rating": 4.6
+  }
+]
+[
+  {
+    "id": 61,
+    "brand": "H&M",
+    "product_name": "Hooded Sweatshirt",
+    "category": "Sweatshirt",
+    "color": "Grey",
+    "size": "Medium",
+    "price": 29.99,
+    "inventory": 55,
+    "rating": 4.3
+  },
+  {
+    "id": 62,
+    "brand": "GAP",
+    "product_name": "Denim Jacket",
+    "category": "Jacket",
+    "color": "Dark Blue",
+    "size": "Large",
+    "price": 79.95,
+    "inventory": 25,
+    "rating": 4.5
+  },
+  {
+    "id": 63,
+    "brand": "Adidas",
+    "product_name": "Essentials 3-Stripes Tights",
+    "category": "Leggings",
+    "color": "Black",
+    "size": "Medium",
+    "price": 35,
+    "inventory": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 64,
+    "brand": "Zara",
+    "product_name": "Ruffled Blouse",
+    "category": "Blouse",
+    "color": "White",
+    "size": "Small",
+    "price": 45.90,
+    "inventory": 20,
+    "rating": 4.4
+  },
+  {
+    "id": 65,
+    "brand": "Levi's",
+    "product_name": "501 Original Fit Jeans",
+    "category": "Jeans",
+    "color": "Dark Wash",
+    "size": "34x32",
+    "price": 59.99,
+    "inventory": 35,
+    "rating": 4.7
+  },
+  {
+    "id": 66,
+    "brand": "Nike",
+    "product_name": "Pro Cap",
+    "category": "Hat",
+    "color": "Black",
+    "size": "One Size",
+    "price": 25,
+    "inventory": 60,
+    "rating": 4.8
+  },
+  {
+    "id": 67,
+    "brand": "Forever 21",
+    "product_name": "Printed Mini Skirt",
+    "category": "Skirt",
+    "color": "Multicolor",
+    "size": "Small",
+    "price": 19.99,
+    "inventory": 40,
+    "rating": 4.2
+  },
+  {
+    "id": 68,
+    "brand": "Under Armour",
+    "product_name": "Sportstyle Pique Polo",
+    "category": "Shirt",
+    "color": "Red",
+    "size": "Large",
+    "price": 45,
+    "inventory": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 69,
+    "brand": "Tommy Hilfiger",
+    "product_name": "Basic Logo Crew Neck Sweatshirt",
+    "category": "Sweatshirt",
+    "color": "Navy",
+    "size": "Medium",
+    "price": 70,
+    "inventory": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 70,
+    "brand": "Gucci",
+    "product_name": "Gucci Web Belt with G Buckle",
+    "category": "Accessories",
+    "color": "Green/Red",
+    "size": "90cm",
+    "price": 450,
+    "inventory": 15,
+    "rating": 4.9
+  }
+]
