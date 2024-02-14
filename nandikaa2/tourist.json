@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "overall_rating": 4.5,
+    "reviews_count": 1500
+  },
+  {
+    "name": "Great Wall of China",
+    "location": "China",
+    "overall_rating": 4.7,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Machu Picchu",
+    "location": "Peru",
+    "overall_rating": 4.8,
+    "reviews_count": 1800
+  },
+  {
+    "name": "Taj Mahal",
+    "location": "India",
+    "overall_rating": 4.6,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Colosseum",
+    "location": "Rome, Italy",
+    "overall_rating": 4.4,
+    "reviews_count": 1700
+  },
+  {
+    "name": "Statue of Liberty",
+    "location": "New York City, USA",
+    "overall_rating": 4.3,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Petra",
+    "location": "Jordan",
+    "overall_rating": 4.9,
+    "reviews_count": 2100
+  },
+  {
+    "name": "Christ the Redeemer",
+    "location": "Rio de Janeiro, Brazil",
+    "overall_rating": 4.5,
+    "reviews_count": 1600
+  },
+  {
+    "name": "Angkor Wat",
+    "location": "Cambodia",
+    "overall_rating": 4.7,
+    "reviews_count": 2300
+  },
+  {
+    "name": "Mumbai",
+    "location": "India",
+    "overall_rating": 4.6,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "location": "San Francisco, USA",
+    "overall_rating": 4.4,
+    "reviews_count": 1800
+  },
+  {
+    "name": "Sydney Opera House",
+    "location": "Sydney, Australia",
+    "overall_rating": 4.5,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Hagia Sophia",
+    "location": "Istanbul, Turkey",
+    "overall_rating": 4.7,
+    "reviews_count": 2100
+  },
+  {
+    "name": "Alhambra",
+    "location": "Granada, Spain",
+    "overall_rating": 4.8,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Burj Khalifa",
+    "location": "Dubai, UAE",
+    "overall_rating": 4.6,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Chichen Itza",
+    "location": "Mexico",
+    "overall_rating": 4.7,
+    "reviews_count": 1800
+  },
+  {
+    "name": "Pompeii",
+    "location": "Italy",
+    "overall_rating": 4.6,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Acropolis of Athens",
+    "location": "Athens, Greece",
+    "overall_rating": 4.5,
+    "reviews_count": 2100
+  },
+  {
+    "name": "Santorini",
+    "location": "Greece",
+    "overall_rating": 4.8,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Venice",
+    "location": "Italy",
+    "overall_rating": 4.7,
+    "reviews_count": 2300
+  },
+  {
+    "name": "Louvre Museum",
+    "location": "Paris, France",
+    "overall_rating": 4.7,
+    "reviews_count": 2400
+  },
+  {
+    "name": "Museum of Modern Art (MoMA)",
+    "location": "New York City, USA",
+    "overall_rating": 4.6,
+    "reviews_count": 2300
+  },
+  {
+    "name": "British Museum",
+    "location": "London, UK",
+    "overall_rating": 4.5,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "location": "New York City, USA",
+    "overall_rating": 4.6,
+    "reviews_count": 2100
+  },
+  {
+    "name": "National Museum of China",
+    "location": "Beijing, China",
+    "overall_rating": 4.7,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Tokyo National Museum",
+    "location": "Tokyo, Japan",
+    "overall_rating": 4.6,
+    "reviews_count": 1900
+  },
+  {
+    "name": "State Hermitage Museum",
+    "location": "St. Petersburg, Russia",
+    "overall_rating": 4.8,
+    "reviews_count": 1800
+  },
+  {
+    "name": "Vatican Museums",
+    "location": "Vatican City",
+    "overall_rating": 4.6,
+    "reviews_count": 1700
+  },
+  {
+    "name": "Museo del Prado",
+    "location": "Madrid, Spain",
+    "overall_rating": 4.7,
+    "reviews_count": 1600
+  },
+  {
+    "name": "Rijksmuseum",
+    "location": "Amsterdam, Netherlands",
+    "overall_rating": 4.7,
+    "reviews_count": 1400
+  },
+  {
+    "name": "Uffizi Gallery",
+    "location": "Florence, Italy",
+    "overall_rating": 4.7,
+    "reviews_count": 1300
+  },
+  {
+    "name": "Empire State Building",
+    "location": "New York City, USA",
+    "overall_rating": 4.5,
+    "reviews_count": 1500
+  },
+  {
+    "name": "Leaning Tower of Pisa",
+    "location": "Pisa, Italy",
+    "overall_rating": 4.7,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Big Ben",
+    "location": "London, UK",
+    "overall_rating": 4.8,
+    "reviews_count": 1800
+  },
+  {
+    "name": "St. Basil's Cathedral",
+    "location": "Moscow, Russia",
+    "overall_rating": 4.6,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Sagrada Familia",
+    "location": "Barcelona, Spain",
+    "overall_rating": 4.4,
+    "reviews_count": 1700
+  },
+  {
+    "name": "Mount Everest",
+    "location": "Nepal",
+    "overall_rating": 4.3,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Piazza San Marco",
+    "location": "Venice, Italy",
+    "overall_rating": 4.9,
+    "reviews_count": 2100
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "location": "Bavaria, Germany",
+    "overall_rating": 4.5,
+    "reviews_count": 1600
+  },
+  {
+    "name": "Forbidden City",
+    "location": "Beijing, China",
+    "overall_rating": 4.7,
+    "reviews_count": 2300
+  },
+  {
+    "name": "Yellowstone National Park",
+    "location": "Wyoming, USA",
+    "overall_rating": 4.6,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Grand Canyon",
+    "location": "Arizona, USA",
+    "overall_rating": 4.4,
+    "reviews_count": 1800
+  },
+  {
+    "name": "Victoria Falls",
+    "location": "Zambia/Zimbabwe",
+    "overall_rating": 4.5,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Niagara Falls",
+    "location": "Ontario, Canada",
+    "overall_rating": 4.7,
+    "reviews_count": 2100
+  },
+  {
+    "name": "Mesa Verde National Park",
+    "location": "Colorado, USA",
+    "overall_rating": 4.8,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Yosemite National Park",
+    "location": "California, USA",
+    "overall_rating": 4.6,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Blue Lagoon",
+    "location": "Grindavik, Iceland",
+    "overall_rating": 4.7,
+    "reviews_count": 1800
+  },
+  {
+    "name": "Antelope Canyon",
+    "location": "Arizona, USA",
+    "overall_rating": 4.6,
+    "reviews_count": 2000
+  },
+  {
+    "name": "Great Barrier Reef",
+    "location": "Queensland, Australia",
+    "overall_rating": 4.5,
+    "reviews_count": 2100
+  },
+  {
+    "name": "Ayers Rock (Uluru)",
+    "location": "Northern Territory, Australia",
+    "overall_rating": 4.8,
+    "reviews_count": 2200
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "location": "Tanzania",
+    "overall_rating": 4.6,
+    "reviews_count": 1900
+  },
+  {
+    "name": "Matterhorn",
+    "location": "Switzerland/Italy",
+    "overall_rating": 4.7,
+    "reviews_count": 2300
+  }
+]
+
