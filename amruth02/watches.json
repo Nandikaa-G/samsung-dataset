@@ -1,0 +1,200 @@
+{
+  "watches": [
+    {
+      "Brand": "Rolex",
+      "Model": "Submariner",
+      "Style": "Diver",
+      "Price": "$8,000",
+      "Water Resistance": "300m"
+    },
+    {
+      "Brand": "Omega",
+      "Model": "Speedmaster Professional",
+      "Style": "Chronograph",
+      "Price": "$5,000",
+      "Water Resistance": "50m"
+    },
+    {
+      "Brand": "Tag Heuer",
+      "Model": "Carrera",
+      "Style": "Racing",
+      "Price": "$3,000",
+      "Water Resistance": "100m"
+    },
+    {
+      "Brand": "Seiko",
+      "Model": "SKX007",
+      "Style": "Diver",
+      "Price": "$200",
+      "Water Resistance": "200m"
+    },
+    {
+      "Brand": "Citizen",
+      "Model": "Eco-Drive",
+      "Style": "Casual",
+      "Price": "$300",
+      "Water Resistance": "100m"
+    },
+    {
+      "Brand": "Casio",
+      "Model": "G-Shock DW5600E-1V",
+      "Style": "Sport",
+      "Price": "$50",
+      "Water Resistance": "200m"
+    },
+    {
+      "Brand": "Apple",
+      "Model": "Watch Series 6",
+      "Style": "Smartwatch",
+      "Price": "$400",
+      "Water Resistance": "50m"
+    },
+    {
+      "Brand": "Fossil",
+      "Model": "Gen 5",
+      "Style": "Smartwatch",
+      "Price": "$200",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Timex",
+      "Model": "Weekender",
+      "Style": "Casual",
+      "Price": "$40",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Bulova",
+      "Model": "Precisionist",
+      "Style": "Dress",
+      "Price": "$300",
+      "Water Resistance": "100m"
+    },
+    {
+      "Brand": "Longines",
+      "Model": "Master Collection",
+      "Style": "Dress",
+      "Price": "$2,000",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Tissot",
+      "Model": "Le Locle",
+      "Style": "Dress",
+      "Price": "$500",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Hamilton",
+      "Model": "Khaki Field",
+      "Style": "Military",
+      "Price": "$400",
+      "Water Resistance": "100m"
+    },
+    {
+      "Brand": "Panerai",
+      "Model": "Luminor",
+      "Style": "Diver",
+      "Price": "$7,000",
+      "Water Resistance": "300m"
+    },
+    {
+      "Brand": "IWC",
+      "Model": "Portugieser",
+      "Style": "Dress",
+      "Price": "$10,000",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Breitling",
+      "Model": "Navitimer",
+      "Style": "Pilot",
+      "Price": "$7,500",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Cartier",
+      "Model": "Tank",
+      "Style": "Dress",
+      "Price": "$3,000",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Patek Philippe",
+      "Model": "Nautilus",
+      "Style": "Dress",
+      "Price": "$30,000",
+      "Water Resistance": "120m"
+    },
+    {
+      "Brand": "Audemars Piguet",
+      "Model": "Royal Oak",
+      "Style": "Dress",
+      "Price": "$50,000",
+      "Water Resistance": "50m"
+    },
+    {
+      "Brand": "Rado",
+      "Model": "HyperChrome",
+      "Style": "Dress",
+      "Price": "$2,000",
+      "Water Resistance": "50m"
+    },
+    {
+      "Brand": "Oris",
+      "Model": "Aquis",
+      "Style": "Diver",
+      "Price": "$1,500",
+      "Water Resistance": "300m"
+    },
+    {
+      "Brand": "Bell & Ross",
+      "Model": "BR 03-92",
+      "Style": "Diver",
+      "Price": "$3,500",
+      "Water Resistance": "300m"
+    },
+    {
+      "Brand": "Bremont",
+      "Model": "MBII",
+      "Style": "Pilot",
+      "Price": "$5,000",
+      "Water Resistance": "100m"
+    },
+    {
+      "Brand": "Zenith",
+      "Model": "El Primero",
+      "Style": "Chronograph",
+      "Price": "$6,000",
+      "Water Resistance": "100m"
+    },
+    {
+      "Brand": "Movado",
+      "Model": "Museum Classic",
+      "Style": "Dress",
+      "Price": "$800",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Swatch",
+      "Model": "Sistem51",
+      "Style": "Casual",
+      "Price": "$150",
+      "Water Resistance": "30m"
+    },
+    {
+      "Brand": "Gucci",
+      "Model": "G-Timeless",
+      "Style": "Fashion",
+      "Price": "$1,000",
+      "Water Resistance": "50m"
+    },
+    {
+      "Brand": "Hermès",
+      "Model": "Slim d'Hermès",
+      "Style": "Dress",
+      "Price": "$8,000",
+      "Water Resistance": "30m"
+    }
+  ]
+}
