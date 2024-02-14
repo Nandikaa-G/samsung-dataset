@@ -1,0 +1,352 @@
+{
+  "gift_items": [
+    {
+      "Item": "Scented Candle",
+      "Category": "Home Decor",
+      "Price": "$20",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Wine Glasses Set",
+      "Category": "Kitchen & Dining",
+      "Price": "$30",
+      "Occasion": "Wedding"
+    },
+    {
+      "Item": "Spa Gift Basket",
+      "Category": "Health & Wellness",
+      "Price": "$50",
+      "Occasion": "Birthday"
+    },
+    {
+      "Item": "Personalized Photo Frame",
+      "Category": "Home Decor",
+      "Price": "$25",
+      "Occasion": "Anniversary"
+    },
+    {
+      "Item": "Gourmet Chocolate Box",
+      "Category": "Food & Drink",
+      "Price": "$40",
+      "Occasion": "Valentine's Day"
+    },
+    {
+      "Item": "Leather Wallet",
+      "Category": "Fashion & Accessories",
+      "Price": "$50",
+      "Occasion": "Father's Day"
+    },
+    {
+      "Item": "Succulent Plant",
+      "Category": "Home Decor",
+      "Price": "$15",
+      "Occasion": "Get Well Soon"
+    },
+    {
+      "Item": "Bluetooth Speaker",
+      "Category": "Electronics",
+      "Price": "$80",
+      "Occasion": "Graduation"
+    },
+    {
+      "Item": "Jewelry Box",
+      "Category": "Fashion & Accessories",
+      "Price": "$35",
+      "Occasion": "Mother's Day"
+    },
+    {
+      "Item": "Outdoor Hammock",
+      "Category": "Outdoor & Adventure",
+      "Price": "$60",
+      "Occasion": "Summer"
+    },
+    {
+      "Item": "Funny Mug",
+      "Category": "Home & Kitchen",
+      "Price": "$10",
+      "Occasion": "Office Party"
+    },
+    {
+      "Item": "Cookbook Set",
+      "Category": "Books",
+      "Price": "$45",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Fitness Tracker",
+      "Category": "Health & Wellness",
+      "Price": "$70",
+      "Occasion": "New Year"
+    },
+    {
+      "Item": "Tea Sampler Set",
+      "Category": "Food & Drink",
+      "Price": "$25",
+      "Occasion": "Thanksgiving"
+    },
+    {
+      "Item": "Travel Journal",
+      "Category": "Travel & Adventure",
+      "Price": "$20",
+      "Occasion": "Bon Voyage"
+    },
+    {
+      "Item": "Aromatherapy Diffuser",
+      "Category": "Home Decor",
+      "Price": "$30",
+      "Occasion": "Relaxation"
+    },
+    {
+      "Item": "Artisanal Cheese Board",
+      "Category": "Food & Drink",
+      "Price": "$55",
+      "Occasion": "Holiday"
+    },
+    {
+      "Item": "Camping Cookware Set",
+      "Category": "Outdoor & Adventure",
+      "Price": "$45",
+      "Occasion": "Camping Trip"
+    },
+    {
+      "Item": "Gardening Tool Set",
+      "Category": "Home & Garden",
+      "Price": "$40",
+      "Occasion": "Spring"
+    },
+    {
+      "Item": "Yoga Mat",
+      "Category": "Health & Wellness",
+      "Price": "$30",
+      "Occasion": "Fitness"
+    },
+    {
+      "Item": "Puzzle Game",
+      "Category": "Toys & Games",
+      "Price": "$15",
+      "Occasion": "Family Gathering"
+    },
+    {
+      "Item": "Scrapbooking Kit",
+      "Category": "Crafts",
+      "Price": "$25",
+      "Occasion": "Creative"
+    },
+    {
+      "Item": "Digital Photo Frame",
+      "Category": "Electronics",
+      "Price": "$70",
+      "Occasion": "Family"
+    },
+    {
+      "Item": "Cocktail Shaker Set",
+      "Category": "Food & Drink",
+      "Price": "$35",
+      "Occasion": "House Party"
+    },
+    {
+      "Item": "Leather Journal",
+      "Category": "Stationery",
+      "Price": "$25",
+      "Occasion": "Graduation"
+    },
+    {
+      "Item": "BBQ Tool Set",
+      "Category": "Outdoor & Adventure",
+      "Price": "$50",
+      "Occasion": "Summer BBQ"
+    },
+    {
+      "Item": "Smart Home Assistant",
+      "Category": "Electronics",
+      "Price": "$100",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Gourmet Coffee Sampler",
+      "Category": "Food & Drink",
+      "Price": "$20",
+      "Occasion": "Thank You"
+    },
+    {
+      "Item": "Luxury Bathrobe",
+      "Category": "Fashion & Accessories",
+      "Price": "$70",
+      "Occasion": "Pampering"
+    },
+    {
+      "Item": "Portable Blender",
+      "Category": "Kitchen & Dining",
+      "Price": "$40",
+      "Occasion": "Healthy Living"
+    },
+    {
+      "Item": "Plant Pot Set",
+      "Category": "Home Decor",
+      "Price": "$25",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Candle Making Kit",
+      "Category": "Crafts",
+      "Price": "$30",
+      "Occasion": "Creative"
+    },
+    {
+      "Item": "Leather Watch Box",
+      "Category": "Fashion & Accessories",
+      "Price": "$50",
+      "Occasion": "Anniversary"
+    },
+    {
+      "Item": "Sushi Making Kit",
+      "Category": "Food & Drink",
+      "Price": "$35",
+      "Occasion": "Date Night"
+    },
+    {
+      "Item": "Indoor Herb Garden Kit",
+      "Category": "Home & Garden",
+      "Price": "$30",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Wooden Chess Set",
+      "Category": "Toys & Games",
+      "Price": "$50",
+      "Occasion": "Family Game Night"
+    },
+    {
+      "Item": "Fitness Resistance Bands Set",
+      "Category": "Health & Wellness",
+      "Price": "$20",
+      "Occasion": "Fitness"
+    },
+    {
+      "Item": "Calligraphy Set",
+      "Category": "Stationery",
+      "Price": "$25",
+      "Occasion": "Creative"
+    },
+    {
+      "Item": "Gourmet Popcorn Gift Set",
+      "Category": "Food & Drink",
+      "Price": "$25",
+      "Occasion": "Movie Night"
+    },
+    {
+      "Item": "Bluetooth Headphones",
+      "Category": "Electronics",
+      "Price": "$50",
+      "Occasion": "Birthday"
+    },
+    {
+      "Item": "Solar Powered Mobile Charger",
+      "Category": "Tech Gadgets",
+      "Price": "$40",
+      "Occasion": "Outdoor Adventure"
+    },
+    {
+      "Item": "Travel Neck Pillow",
+      "Category": "Travel Accessories",
+      "Price": "$20",
+      "Occasion": "Bon Voyage"
+    },
+    {
+      "Item": "Watercolor Paint Set",
+      "Category": "Art Supplies",
+      "Price": "$30",
+      "Occasion": "Creative"
+    },
+    {
+      "Item": "Gourmet Tea Gift Set",
+      "Category": "Food & Drink",
+      "Price": "$30",
+      "Occasion": "Relaxation"
+    },
+    {
+      "Item": "Hammock Chair",
+      "Category": "Outdoor & Adventure",
+      "Price": "$60",
+      "Occasion": "Summer"
+    },
+    {
+      "Item": "Yoga Starter Kit",
+      "Category": "Health & Wellness",
+      "Price": "$40",
+      "Occasion": "Fitness"
+    },
+    {
+      "Item": "Board Game",
+      "Category": "Toys & Games",
+      "Price": "$30",
+      "Occasion": "Family Game Night"
+    },
+    {
+      "Item": "Wooden Wine Rack",
+      "Category": "Home Decor",
+      "Price": "$45",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Cocktail Recipe Book",
+      "Category": "Books",
+      "Price": "$20",
+      "Occasion": "Housewarming"
+    },
+    {
+      "Item": "Smartphone Tripod",
+      "Category": "Electronics",
+      "Price": "$15",
+      "Occasion": "Travel"
+    },
+    {
+      "Item": "Gourmet Chocolate Truffles",
+      "Category": "Food & Drink",
+      "Price": "$25",
+      "Occasion": "Thank You"
+    },
+    {
+      "Item": "Fitness Jump Rope",
+      "Category": "Health & Wellness",
+      "Price": "$15",
+      "Occasion": "Fitness"
+    },
+    {
+      "Item": "Vintage Vinyl Record",
+      "Category": "Music & Entertainment",
+      "Price": "$30",
+      "Occasion": "Birthday"
+    },
+    {
+      "Item": "Gardening Gloves Set",
+      "Category": "Home & Garden",
+      "Price": "$20",
+      "Occasion": "Spring"
+    },
+    {
+      "Item": "Reusable Eco-Friendly Straws",
+      "Category": "Kitchen & Dining",
+      "Price": "$10",
+      "Occasion": "Earth Day"
+    },
+    {
+      "Item": "Essential Oil Diffuser Bracelet",
+      "Category": "Fashion & Accessories",
+      "Price": "$25",
+      "Occasion": "Relaxation"
+    },
+    {
+      "Item": "Portable Outdoor Picnic Table",
+      "Category": "Outdoor & Adventure",
+      "Price": "$50",
+      "Occasion": "Summer BBQ"
+    },
+    {
+      "Item": "Framed Wall Art",
+      "Category": "Home Decor",
+      "Price": "$40",
+      "Occasion": "Housewarming"
+    }
+  ]
+}
