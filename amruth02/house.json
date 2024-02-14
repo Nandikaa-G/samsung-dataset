@@ -1,0 +1,372 @@
+{
+  "houses": [
+    {
+      "Type": "Single Family Home",
+      "Location": "123 Main St, Anytown, USA",
+      "Price": "$300,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,500 sqft"
+    },
+    {
+      "Type": "Condo",
+      "Location": "456 Elm St, Another Town, USA",
+      "Price": "$200,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "1,000 sqft"
+    },
+    {
+      "Type": "Townhouse",
+      "Location": "789 Oak St, Yet Another Town, USA",
+      "Price": "$250,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2.5,
+      "Area": "1,200 sqft"
+    },
+    {
+      "Type": "Ranch",
+      "Location": "101 Pine St, Smalltown, USA",
+      "Price": "$350,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "2,000 sqft"
+    },
+    {
+      "Type": "Duplex",
+      "Location": "111 Cedar St, Countryside, USA",
+      "Price": "$400,000",
+      "Bedrooms": 4,
+      "Bathrooms": 2,
+      "Area": "2,500 sqft"
+    },
+    {
+      "Type": "Cottage",
+      "Location": "222 Maple St, Lakeside, USA",
+      "Price": "$150,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "800 sqft"
+    },
+    {
+      "Type": "Mansion",
+      "Location": "333 Oak Hill, Hilltop, USA",
+      "Price": "$1,500,000",
+      "Bedrooms": 6,
+      "Bathrooms": 5,
+      "Area": "5,000 sqft"
+    },
+    {
+      "Type": "Mobile Home",
+      "Location": "444 Sunset Blvd, Suburbia, USA",
+      "Price": "$50,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "600 sqft"
+    },
+    {
+      "Type": "Tiny House",
+      "Location": "555 Willow Ln, Riverside, USA",
+      "Price": "$100,000",
+      "Bedrooms": 1,
+      "Bathrooms": 1,
+      "Area": "400 sqft"
+    },
+    {
+      "Type": "Penthouse",
+      "Location": "666 Sky Tower, Cityscape, USA",
+      "Price": "$2,000,000",
+      "Bedrooms": 4,
+      "Bathrooms": 4,
+      "Area": "4,000 sqft"
+    },
+    {
+      "Type": "Log Cabin",
+      "Location": "777 Bear Creek, Mountainview, USA",
+      "Price": "$300,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,800 sqft"
+    },
+    {
+      "Type": "Bungalow",
+      "Location": "888 Oakwood Dr, Woodland, USA",
+      "Price": "$180,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "1,000 sqft"
+    },
+    {
+      "Type": "Farmhouse",
+      "Location": "999 Farm Rd, Farmland, USA",
+      "Price": "$500,000",
+      "Bedrooms": 5,
+      "Bathrooms": 3.5,
+      "Area": "3,500 sqft"
+    },
+    {
+      "Type": "Castle",
+      "Location": "1010 Royal Ct, Kingdom, USA",
+      "Price": "$10,000,000",
+      "Bedrooms": 10,
+      "Bathrooms": 8,
+      "Area": "10,000 sqft"
+    },
+    {
+      "Type": "Villa",
+      "Location": "1212 Paradise Ln, Beachfront, USA",
+      "Price": "$3,500,000",
+      "Bedrooms": 7,
+      "Bathrooms": 6,
+      "Area": "6,000 sqft"
+    },
+    {
+      "Type": "Lighthouse",
+      "Location": "1313 Beacon Point, Coastal, USA",
+      "Price": "$750,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "2,000 sqft"
+    },
+    {
+      "Type": "Cabin",
+      "Location": "1414 Lakeview Dr, Forest, USA",
+      "Price": "$120,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "900 sqft"
+    },
+    {
+      "Type": "Tudor House",
+      "Location": "1515 Tudor Ln, Old Town, USA",
+      "Price": "$400,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "2,500 sqft"
+    },
+    {
+      "Type": "Geodesic Dome",
+      "Location": "1616 Dome Rd, Modernville, USA",
+      "Price": "$250,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,500 sqft"
+    },
+    {
+      "Type": "A-frame House",
+      "Location": "1717 Slope Dr, Hillside, USA",
+      "Price": "$180,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "1,000 sqft"
+    },
+    {
+      "Type": "Rustic Chalet",
+      "Location": "1818 Alpine Way, Mountainside, USA",
+      "Price": "$300,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,800 sqft"
+    },
+    {
+      "Type": "Mediterranean Villa",
+      "Location": "1919 Mediterranean Ave, Coastal, USA",
+      "Price": "$1,200,000",
+      "Bedrooms": 5,
+      "Bathrooms": 4,
+      "Area": "4,000 sqft"
+    },
+    {
+      "Type": "Ranch Style House",
+      "Location": "2020 Ranch Rd, Countryside, USA",
+      "Price": "$280,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,600 sqft"
+    },
+    {
+      "Type": "Victorian House",
+      "Location": "2121 Victorian Dr, Historic District, USA",
+      "Price": "$500,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "2,800 sqft"
+    },
+    {
+      "Type": "Contemporary House",
+      "Location": "2222 Modern St, Urban, USA",
+      "Price": "$600,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "3,000 sqft"
+    },
+    {
+      "Type": "Craftsman House",
+      "Location": "2323 Craftsman Ln, Suburban, USA",
+      "Price": "$400,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2.5,
+      "Area": "2,200 sqft"
+    },
+    {
+      "Type": "Colonial House",
+      "Location": "2424 Colonial Ave, Historical District, USA",
+      "Price": "$450,000",
+      "Bedrooms": 4,
+      "Bathrooms": 2.5,
+      "Area": "2,500 sqft"
+    },
+    {
+      "Type": "Modern Farmhouse",
+      "Location": "2525 Farmhouse Rd, Rural, USA",
+      "Price": "$350,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2.5,
+      "Area": "2,000 sqft"
+    },
+    {
+      "Type": "Cape Cod House",
+      "Location": "2626 Cape Cod Blvd, Coastal, USA",
+      "Price": "$380,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,800 sqft"
+    },
+    {
+      "Type": "Mid-Century Modern House",
+      "Location": "2727 Mid-Century Dr, Vintage, USA",
+      "Price": "$500,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "2,800 sqft"
+    },
+    {
+      "Type": "Beach House",
+      "Location": "2828 Oceanfront Ave, Coastal, USA",
+      "Price": "$700,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2.5,
+      "Area": "2,500 sqft"
+    },
+     {
+      "Type": "Cottage",
+      "Location": "2929 Lakeview Dr, Lakeside, USA",
+      "Price": "$200,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "1,200 sqft"
+    },
+    {
+      "Type": "Craftsman Bungalow",
+      "Location": "3030 Craftsman Ave, Suburban, USA",
+      "Price": "$320,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,800 sqft"
+    },
+    {
+      "Type": "Spanish Revival House",
+      "Location": "3131 Spanish Way, Southwest, USA",
+      "Price": "$450,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "2,500 sqft"
+    },
+    {
+      "Type": "Rustic Cabin",
+      "Location": "3232 Mountain Rd, Woodland, USA",
+      "Price": "$150,000",
+      "Bedrooms": 1,
+      "Bathrooms": 1,
+      "Area": "800 sqft"
+    },
+    {
+      "Type": "Tropical Retreat",
+      "Location": "3333 Palm Ave, Coastal, USA",
+      "Price": "$550,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2.5,
+      "Area": "2,000 sqft"
+    },
+    {
+      "Type": "Mountain Chalet",
+      "Location": "3434 Summit View, Mountainside, USA",
+      "Price": "$400,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,800 sqft"
+    },
+    {
+      "Type": "Modern Loft",
+      "Location": "3535 Loft St, Urban, USA",
+      "Price": "$700,000",
+      "Bedrooms": 2,
+      "Bathrooms": 2,
+      "Area": "1,500 sqft"
+    },
+    {
+      "Type": "Sustainable Green Home",
+      "Location": "3636 Eco Way, Eco-Friendly, USA",
+      "Price": "$350,000",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "1,500 sqft"
+    },
+    {
+      "Type": "Lakefront Cabin",
+      "Location": "3737 Lakeview Dr, Lakeside, USA",
+      "Price": "$250,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "1,000 sqft"
+    },
+    {
+      "Type": "Historic Victorian Mansion",
+      "Location": "3838 Historic Ave, Heritage District, USA",
+      "Price": "$1,000,000",
+      "Bedrooms": 6,
+      "Bathrooms": 4,
+      "Area": "4,500 sqft"
+    },
+    {
+      "Type": "Beachfront Villa",
+      "Location": "3939 Beachfront Dr, Coastal, USA",
+      "Price": "$900,000",
+      "Bedrooms": 5,
+      "Bathrooms": 4,
+      "Area": "3,500 sqft"
+    },
+    {
+      "Type": "Ranch Style Mansion",
+      "Location": "4040 Ranch Rd, Countryside, USA",
+      "Price": "$1,200,000",
+      "Bedrooms": 5,
+      "Bathrooms": 4,
+      "Area": "5,000 sqft"
+    },
+    {
+      "Type": "Mountain View Estate",
+      "Location": "4141 Mountain Dr, Scenic Valley, USA",
+      "Price": "$800,000",
+      "Bedrooms": 4,
+      "Bathrooms": 3.5,
+      "Area": "3,200 sqft"
+    },
+    {
+      "Type": "Luxury Lakeside Retreat",
+      "Location": "4242 Lakeview Ave, Lakeside, USA",
+      "Price": "$1,500,000",
+      "Bedrooms": 5,
+      "Bathrooms": 4,
+      "Area": "4,500 sqft"
+    },
+    {
+      "Type": "Cozy Mountain Cabin",
+      "Location": "4343 Mountain Ln, Mountain Town, USA",
+      "Price": "$180,000",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "900 sqft"
+    }
+  ]
+}
