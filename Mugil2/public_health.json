@@ -1,0 +1,691 @@
+[
+  {
+    "country": "United States",
+    "year": 2020,
+    "life_expectancy": 78.8,
+    "infant_mortality_rate": 5.3,
+    "obesity_rate": 42.4,
+    "smoking_rate": 16.5,
+    "healthcare_expenditure_gdp": 17.7
+  },
+  {
+    "country": "United Kingdom",
+    "year": 2020,
+    "life_expectancy": 81.3,
+    "infant_mortality_rate": 3.9,
+    "obesity_rate": 29.7,
+    "smoking_rate": 14.4,
+    "healthcare_expenditure_gdp": 9.8
+  },
+  {
+    "country": "Canada",
+    "year": 2020,
+    "life_expectancy": 82.1,
+    "infant_mortality_rate": 4.5,
+    "obesity_rate": 29.4,
+    "smoking_rate": 14.0,
+    "healthcare_expenditure_gdp": 11.6
+  },
+  {
+    "country": "Germany",
+    "year": 2020,
+    "life_expectancy": 81.1,
+    "infant_mortality_rate": 3.3,
+    "obesity_rate": 23.6,
+    "smoking_rate": 24.9,
+    "healthcare_expenditure_gdp": 11.2
+  },
+  {
+    "country": "Japan",
+    "year": 2020,
+    "life_expectancy": 84.6,
+    "infant_mortality_rate": 1.8,
+    "obesity_rate": 4.3,
+    "smoking_rate": 17.9,
+    "healthcare_expenditure_gdp": 10.9
+  }
+]
+[
+  {
+    "country": "Australia",
+    "year": 2020,
+    "life_expectancy": 83.4,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 31.3,
+    "smoking_rate": 13.8,
+    "healthcare_expenditure_gdp": 10.3
+  },
+  {
+    "country": "France",
+    "year": 2020,
+    "life_expectancy": 82.7,
+    "infant_mortality_rate": 3.2,
+    "obesity_rate": 23.9,
+    "smoking_rate": 29.4,
+    "healthcare_expenditure_gdp": 11.5
+  },
+  {
+    "country": "Italy",
+    "year": 2020,
+    "life_expectancy": 83.5,
+    "infant_mortality_rate": 2.7,
+    "obesity_rate": 21.1,
+    "smoking_rate": 19.8,
+    "healthcare_expenditure_gdp": 9.6
+  },
+  {
+    "country": "Spain",
+    "year": 2020,
+    "life_expectancy": 83.6,
+    "infant_mortality_rate": 2.9,
+    "obesity_rate": 23.8,
+    "smoking_rate": 22.2,
+    "healthcare_expenditure_gdp": 9.6
+  },
+  {
+    "country": "Sweden",
+    "year": 2020,
+    "life_expectancy": 83.3,
+    "infant_mortality_rate": 2.2,
+    "obesity_rate": 20.6,
+    "smoking_rate": 9.3,
+    "healthcare_expenditure_gdp": 11.9
+  },
+  {
+    "country": "Netherlands",
+    "year": 2020,
+    "life_expectancy": 82.5,
+    "infant_mortality_rate": 3.3,
+    "obesity_rate": 20.4,
+    "smoking_rate": 24.5,
+    "healthcare_expenditure_gdp": 11.6
+  },
+  {
+    "country": "Norway",
+    "year": 2020,
+    "life_expectancy": 83.9,
+    "infant_mortality_rate": 2.1,
+    "obesity_rate": 23.1,
+    "smoking_rate": 11.0,
+    "healthcare_expenditure_gdp": 10.7
+  },
+  {
+    "country": "Switzerland",
+    "year": 2020,
+    "life_expectancy": 83.8,
+    "infant_mortality_rate": 3.4,
+    "obesity_rate": 19.5,
+    "smoking_rate": 22.6,
+    "healthcare_expenditure_gdp": 12.2
+  },
+  {
+    "country": "New Zealand",
+    "year": 2020,
+    "life_expectancy": 82.5,
+    "infant_mortality_rate": 3.8,
+    "obesity_rate": 30.9,
+    "smoking_rate": 15.7,
+    "healthcare_expenditure_gdp": 10.3
+  },
+  {
+    "country": "Belgium",
+    "year": 2020,
+    "life_expectancy": 81.9,
+    "infant_mortality_rate": 3.4,
+    "obesity_rate": 24.5,
+    "smoking_rate": 20.0,
+    "healthcare_expenditure_gdp": 10.9
+  }
+]
+[
+  {
+    "country": "Germany",
+    "year": 2020,
+    "life_expectancy": 81.2,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 23.6,
+    "smoking_rate": 25.4,
+    "healthcare_expenditure_gdp": 11.3
+  },
+  {
+    "country": "Canada",
+    "year": 2020,
+    "life_expectancy": 82.3,
+    "infant_mortality_rate": 4.3,
+    "obesity_rate": 28.0,
+    "smoking_rate": 15.6,
+    "healthcare_expenditure_gdp": 11.0
+  },
+  {
+    "country": "United Kingdom",
+    "year": 2020,
+    "life_expectancy": 81.4,
+    "infant_mortality_rate": 3.9,
+    "obesity_rate": 27.8,
+    "smoking_rate": 14.1,
+    "healthcare_expenditure_gdp": 9.8
+  },
+  {
+    "country": "Japan",
+    "year": 2020,
+    "life_expectancy": 84.6,
+    "infant_mortality_rate": 1.9,
+    "obesity_rate": 4.3,
+    "smoking_rate": 17.9,
+    "healthcare_expenditure_gdp": 10.9
+  },
+  {
+    "country": "South Korea",
+    "year": 2020,
+    "life_expectancy": 83.5,
+    "infant_mortality_rate": 2.4,
+    "obesity_rate": 5.3,
+    "smoking_rate": 21.4,
+    "healthcare_expenditure_gdp": 7.5
+  },
+  {
+    "country": "Singapore",
+    "year": 2020,
+    "life_expectancy": 84.8,
+    "infant_mortality_rate": 2.0,
+    "obesity_rate": 6.2,
+    "smoking_rate": 12.6,
+    "healthcare_expenditure_gdp": 4.9
+  },
+  {
+    "country": "China",
+    "year": 2020,
+    "life_expectancy": 77.3,
+    "infant_mortality_rate": 8.2,
+    "obesity_rate": 6.6,
+    "smoking_rate": 27.7,
+    "healthcare_expenditure_gdp": 5.0
+  },
+  {
+    "country": "India",
+    "year": 2020,
+    "life_expectancy": 69.7,
+    "infant_mortality_rate": 28.3,
+    "obesity_rate": 3.9,
+    "smoking_rate": 9.3,
+    "healthcare_expenditure_gdp": 3.5
+  },
+  {
+    "country": "Brazil",
+    "year": 2020,
+    "life_expectancy": 75.9,
+    "infant_mortality_rate": 14.3,
+    "obesity_rate": 22.1,
+    "smoking_rate": 14.8,
+    "healthcare_expenditure_gdp": 9.0
+  },
+  {
+    "country": "Mexico",
+    "year": 2020,
+    "life_expectancy": 75.6,
+    "infant_mortality_rate": 12.1,
+    "obesity_rate": 28.9,
+    "smoking_rate": 15.0,
+    "healthcare_expenditure_gdp": 5.7
+  }
+]
+[
+  {
+    "country": "Australia",
+    "year": 2020,
+    "life_expectancy": 83.4,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 29.0,
+    "smoking_rate": 14.5,
+    "healthcare_expenditure_gdp": 9.3
+  },
+  {
+    "country": "France",
+    "year": 2020,
+    "life_expectancy": 82.7,
+    "infant_mortality_rate": 3.5,
+    "obesity_rate": 21.6,
+    "smoking_rate": 27.7,
+    "healthcare_expenditure_gdp": 11.2
+  },
+  {
+    "country": "Italy",
+    "year": 2020,
+    "life_expectancy": 83.5,
+    "infant_mortality_rate": 3.2,
+    "obesity_rate": 21.2,
+    "smoking_rate": 22.4,
+    "healthcare_expenditure_gdp": 9.5
+  },
+  {
+    "country": "Spain",
+    "year": 2020,
+    "life_expectancy": 83.0,
+    "infant_mortality_rate": 2.7,
+    "obesity_rate": 23.8,
+    "smoking_rate": 25.2,
+    "healthcare_expenditure_gdp": 9.6
+  },
+  {
+    "country": "Netherlands",
+    "year": 2020,
+    "life_expectancy": 82.3,
+    "infant_mortality_rate": 3.4,
+    "obesity_rate": 20.4,
+    "smoking_rate": 24.1,
+    "healthcare_expenditure_gdp": 10.5
+  },
+  {
+    "country": "Sweden",
+    "year": 2020,
+    "life_expectancy": 83.2,
+    "infant_mortality_rate": 2.8,
+    "obesity_rate": 22.6,
+    "smoking_rate": 12.8,
+    "healthcare_expenditure_gdp": 11.1
+  },
+  {
+    "country": "Switzerland",
+    "year": 2020,
+    "life_expectancy": 83.8,
+    "infant_mortality_rate": 3.0,
+    "obesity_rate": 19.5,
+    "smoking_rate": 25.0,
+    "healthcare_expenditure_gdp": 12.0
+  },
+  {
+    "country": "Norway",
+    "year": 2020,
+    "life_expectancy": 83.6,
+    "infant_mortality_rate": 2.5,
+    "obesity_rate": 23.1,
+    "smoking_rate": 16.2,
+    "healthcare_expenditure_gdp": 10.7
+  },
+  {
+    "country": "Denmark",
+    "year": 2020,
+    "life_expectancy": 81.4,
+    "infant_mortality_rate": 3.0,
+    "obesity_rate": 23.8,
+    "smoking_rate": 18.4,
+    "healthcare_expenditure_gdp": 10.8
+  },
+  {
+    "country": "Austria",
+    "year": 2020,
+    "life_expectancy": 81.9,
+    "infant_mortality_rate": 2.9,
+    "obesity_rate": 22.4,
+    "smoking_rate": 26.0,
+    "healthcare_expenditure_gdp": 10.4
+  }
+]
+[
+  {
+    "country": "Germany",
+    "year": 2020,
+    "life_expectancy": 81.2,
+    "infant_mortality_rate": 3.6,
+    "obesity_rate": 23.6,
+    "smoking_rate": 21.9,
+    "healthcare_expenditure_gdp": 11.3
+  },
+  {
+    "country": "United Kingdom",
+    "year": 2020,
+    "life_expectancy": 81.1,
+    "infant_mortality_rate": 3.7,
+    "obesity_rate": 27.8,
+    "smoking_rate": 14.4,
+    "healthcare_expenditure_gdp": 10.0
+  },
+  {
+    "country": "United States",
+    "year": 2020,
+    "life_expectancy": 78.8,
+    "infant_mortality_rate": 5.7,
+    "obesity_rate": 36.2,
+    "smoking_rate": 14.0,
+    "healthcare_expenditure_gdp": 17.7
+  },
+  {
+    "country": "Canada",
+    "year": 2020,
+    "life_expectancy": 82.5,
+    "infant_mortality_rate": 4.5,
+    "obesity_rate": 29.4,
+    "smoking_rate": 15.8,
+    "healthcare_expenditure_gdp": 10.9
+  },
+  {
+    "country": "Japan",
+    "year": 2020,
+    "life_expectancy": 84.6,
+    "infant_mortality_rate": 2.0,
+    "obesity_rate": 4.3,
+    "smoking_rate": 18.5,
+    "healthcare_expenditure_gdp": 10.9
+  },
+  {
+    "country": "South Korea",
+    "year": 2020,
+    "life_expectancy": 83.5,
+    "infant_mortality_rate": 2.3,
+    "obesity_rate": 4.7,
+    "smoking_rate": 21.4,
+    "healthcare_expenditure_gdp": 7.6
+  },
+  {
+    "country": "China",
+    "year": 2020,
+    "life_expectancy": 76.9,
+    "infant_mortality_rate": 8.2,
+    "obesity_rate": 6.2,
+    "smoking_rate": 26.6,
+    "healthcare_expenditure_gdp": 6.6
+  },
+  {
+    "country": "India",
+    "year": 2020,
+    "life_expectancy": 69.7,
+    "infant_mortality_rate": 28.3,
+    "obesity_rate": 3.9,
+    "smoking_rate": 11.2,
+    "healthcare_expenditure_gdp": 3.6
+  },
+  {
+    "country": "Brazil",
+    "year": 2020,
+    "life_expectancy": 75.9,
+    "infant_mortality_rate": 13.9,
+    "obesity_rate": 22.1,
+    "smoking_rate": 14.7,
+    "healthcare_expenditure_gdp": 9.0
+  },
+  {
+    "country": "Mexico",
+    "year": 2020,
+    "life_expectancy": 75.1,
+    "infant_mortality_rate": 12.5,
+    "obesity_rate": 28.9,
+    "smoking_rate": 17.0,
+    "healthcare_expenditure_gdp": 6.4
+  }
+]
+[
+  {
+    "country": "Australia",
+    "year": 2020,
+    "life_expectancy": 83.4,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 29.0,
+    "smoking_rate": 12.2,
+    "healthcare_expenditure_gdp": 9.6
+  },
+  {
+    "country": "France",
+    "year": 2020,
+    "life_expectancy": 82.7,
+    "infant_mortality_rate": 3.2,
+    "obesity_rate": 23.0,
+    "smoking_rate": 25.0,
+    "healthcare_expenditure_gdp": 11.5
+  },
+  {
+    "country": "Italy",
+    "year": 2020,
+    "life_expectancy": 83.5,
+    "infant_mortality_rate": 2.7,
+    "obesity_rate": 22.2,
+    "smoking_rate": 21.7,
+    "healthcare_expenditure_gdp": 8.8
+  },
+  {
+    "country": "Spain",
+    "year": 2020,
+    "life_expectancy": 83.6,
+    "infant_mortality_rate": 3.0,
+    "obesity_rate": 23.8,
+    "smoking_rate": 22.7,
+    "healthcare_expenditure_gdp": 10.0
+  },
+  {
+    "country": "Russia",
+    "year": 2020,
+    "life_expectancy": 72.6,
+    "infant_mortality_rate": 5.1,
+    "obesity_rate": 23.1,
+    "smoking_rate": 30.1,
+    "healthcare_expenditure_gdp": 5.3
+  },
+  {
+    "country": "Turkey",
+    "year": 2020,
+    "life_expectancy": 77.5,
+    "infant_mortality_rate": 10.9,
+    "obesity_rate": 32.1,
+    "smoking_rate": 30.0,
+    "healthcare_expenditure_gdp": 4.2
+  },
+  {
+    "country": "Saudi Arabia",
+    "year": 2020,
+    "life_expectancy": 74.6,
+    "infant_mortality_rate": 8.1,
+    "obesity_rate": 35.4,
+    "smoking_rate": 12.2,
+    "healthcare_expenditure_gdp": 4.4
+  },
+  {
+    "country": "South Africa",
+    "year": 2020,
+    "life_expectancy": 64.1,
+    "infant_mortality_rate": 28.7,
+    "obesity_rate": 28.3,
+    "smoking_rate": 21.4,
+    "healthcare_expenditure_gdp": 8.1
+  },
+  {
+    "country": "Nigeria",
+    "year": 2020,
+    "life_expectancy": 54.5,
+    "infant_mortality_rate": 59.3,
+    "obesity_rate": 8.7,
+    "smoking_rate": 4.5,
+    "healthcare_expenditure_gdp": 3.9
+  },
+  {
+    "country": "Egypt",
+    "year": 2020,
+    "life_expectancy": 72.0,
+    "infant_mortality_rate": 17.3,
+    "obesity_rate": 35.0,
+    "smoking_rate": 13.0,
+    "healthcare_expenditure_gdp": 5.5
+  }
+]
+[
+  {
+    "country": "Japan",
+    "year": 2020,
+    "life_expectancy": 84.6,
+    "infant_mortality_rate": 1.8,
+    "obesity_rate": 4.3,
+    "smoking_rate": 17.9,
+    "healthcare_expenditure_gdp": 10.9
+  },
+  {
+    "country": "Germany",
+    "year": 2020,
+    "life_expectancy": 81.4,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 23.6,
+    "smoking_rate": 23.4,
+    "healthcare_expenditure_gdp": 11.2
+  },
+  {
+    "country": "United Kingdom",
+    "year": 2020,
+    "life_expectancy": 81.2,
+    "infant_mortality_rate": 3.8,
+    "obesity_rate": 27.8,
+    "smoking_rate": 14.1,
+    "healthcare_expenditure_gdp": 9.8
+  },
+  {
+    "country": "Canada",
+    "year": 2020,
+    "life_expectancy": 82.6,
+    "infant_mortality_rate": 4.2,
+    "obesity_rate": 29.4,
+    "smoking_rate": 14.5,
+    "healthcare_expenditure_gdp": 10.4
+  },
+  {
+    "country": "Brazil",
+    "year": 2020,
+    "life_expectancy": 75.9,
+    "infant_mortality_rate": 14.0,
+    "obesity_rate": 22.1,
+    "smoking_rate": 14.8,
+    "healthcare_expenditure_gdp": 9.2
+  },
+  {
+    "country": "Mexico",
+    "year": 2020,
+    "life_expectancy": 75.1,
+    "infant_mortality_rate": 12.2,
+    "obesity_rate": 28.9,
+    "smoking_rate": 13.8,
+    "healthcare_expenditure_gdp": 5.8
+  },
+  {
+    "country": "India",
+    "year": 2020,
+    "life_expectancy": 69.7,
+    "infant_mortality_rate": 28.3,
+    "obesity_rate": 3.9,
+    "smoking_rate": 11.5,
+    "healthcare_expenditure_gdp": 3.7
+  },
+  {
+    "country": "China",
+    "year": 2020,
+    "life_expectancy": 76.9,
+    "infant_mortality_rate": 8.1,
+    "obesity_rate": 6.6,
+    "smoking_rate": 24.0,
+    "healthcare_expenditure_gdp": 5.5
+  },
+  {
+    "country": "South Korea",
+    "year": 2020,
+    "life_expectancy": 83.3,
+    "infant_mortality_rate": 2.4,
+    "obesity_rate": 5.3,
+    "smoking_rate": 20.5,
+    "healthcare_expenditure_gdp": 7.5
+  },
+  {
+    "country": "New Zealand",
+    "year": 2020,
+    "life_expectancy": 82.4,
+    "infant_mortality_rate": 4.1,
+    "obesity_rate": 30.9,
+    "smoking_rate": 13.8,
+    "healthcare_expenditure_gdp": 10.3
+  }
+]
+[
+  {
+    "country": "Australia",
+    "year": 2020,
+    "life_expectancy": 83.7,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 29.0,
+    "smoking_rate": 14.5,
+    "healthcare_expenditure_gdp": 9.4
+  },
+  {
+    "country": "France",
+    "year": 2020,
+    "life_expectancy": 82.9,
+    "infant_mortality_rate": 3.7,
+    "obesity_rate": 21.6,
+    "smoking_rate": 24.7,
+    "healthcare_expenditure_gdp": 11.2
+  },
+  {
+    "country": "Italy",
+    "year": 2020,
+    "life_expectancy": 83.4,
+    "infant_mortality_rate": 2.7,
+    "obesity_rate": 21.2,
+    "smoking_rate": 19.1,
+    "healthcare_expenditure_gdp": 9.0
+  },
+  {
+    "country": "Spain",
+    "year": 2020,
+    "life_expectancy": 83.6,
+    "infant_mortality_rate": 2.5,
+    "obesity_rate": 23.8,
+    "smoking_rate": 25.0,
+    "healthcare_expenditure_gdp": 9.6
+  },
+  {
+    "country": "Sweden",
+    "year": 2020,
+    "life_expectancy": 83.4,
+    "infant_mortality_rate": 2.6,
+    "obesity_rate": 22.0,
+    "smoking_rate": 13.0,
+    "healthcare_expenditure_gdp": 11.0
+  },
+  {
+    "country": "Netherlands",
+    "year": 2020,
+    "life_expectancy": 81.9,
+    "infant_mortality_rate": 3.8,
+    "obesity_rate": 20.4,
+    "smoking_rate": 21.9,
+    "healthcare_expenditure_gdp": 10.9
+  },
+  {
+    "country": "Switzerland",
+    "year": 2020,
+    "life_expectancy": 83.8,
+    "infant_mortality_rate": 3.3,
+    "obesity_rate": 19.5,
+    "smoking_rate": 23.5,
+    "healthcare_expenditure_gdp": 12.2
+  },
+  {
+    "country": "Norway",
+    "year": 2020,
+    "life_expectancy": 82.4,
+    "infant_mortality_rate": 2.4,
+    "obesity_rate": 23.1,
+    "smoking_rate": 14.8,
+    "healthcare_expenditure_gdp": 10.7
+  },
+  {
+    "country": "Finland",
+    "year": 2020,
+    "life_expectancy": 82.4,
+    "infant_mortality_rate": 2.5,
+    "obesity_rate": 21.6,
+    "smoking_rate": 17.2,
+    "healthcare_expenditure_gdp": 9.1
+  },
+  {
+    "country": "Denmark",
+    "year": 2020,
+    "life_expectancy": 81.8,
+    "infant_mortality_rate": 3.1,
+    "obesity_rate": 21.7,
+    "smoking_rate": 17.2,
+    "healthcare_expenditure_gdp": 10.5
+  }
+]
