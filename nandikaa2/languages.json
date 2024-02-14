@@ -1,0 +1,252 @@
+[
+  {
+    "language": "English",
+    "speakers": "1.5 billion",
+    "countries": ["United States", "United Kingdom", "Australia", "Canada", "India"]
+  },
+  {
+    "language": "Mandarin Chinese",
+    "speakers": "1.1 billion",
+    "countries": ["China", "Taiwan", "Singapore"]
+  },
+  {
+    "language": "Hindi",
+    "speakers": "600 million",
+    "countries": ["India", "Nepal", "Fiji"]
+  },
+  {
+    "language": "Spanish",
+    "speakers": "460 million",
+    "countries": ["Spain", "Mexico", "Colombia", "Argentina"]
+  },
+  {
+    "language": "French",
+    "speakers": "280 million",
+    "countries": ["France", "Canada", "Belgium", "Switzerland"]
+  },
+  {
+    "language": "Arabic",
+    "speakers": "274 million",
+    "countries": ["Saudi Arabia", "Egypt", "Iraq", "Morocco"]
+  },
+  {
+    "language": "Bengali",
+    "speakers": "273 million",
+    "countries": ["Bangladesh", "India"]
+  },
+  {
+    "language": "Russian",
+    "speakers": "258 million",
+    "countries": ["Russia", "Ukraine", "Belarus", "Kazakhstan"]
+  },
+  {
+    "language": "Portuguese",
+    "speakers": "258 million",
+    "countries": ["Brazil", "Portugal", "Angola", "Mozambique"]
+  },
+  {
+    "language": "Urdu",
+    "speakers": "230 million",
+    "countries": ["Pakistan", "India"]
+  },
+  {
+    "language": "German",
+    "speakers": "229 million",
+    "countries": ["Germany", "Austria", "Switzerland", "Belgium"]
+  },
+  {
+    "language": "Japanese",
+    "speakers": "129 million",
+    "countries": ["Japan"]
+  },
+  {
+    "language": "Swahili",
+    "speakers": "50 million",
+    "countries": ["Tanzania", "Kenya", "Uganda"]
+  },
+  {
+    "language": "Korean",
+    "speakers": "77 million",
+    "countries": ["South Korea", "North Korea"]
+  },
+  {
+    "language": "Italian",
+    "speakers": "67 million",
+    "countries": ["Italy", "Switzerland"]
+  },
+  {
+    "language": "Dutch",
+    "speakers": "28 million",
+    "countries": ["Netherlands", "Belgium"]
+  },
+  {
+    "language": "Turkish",
+    "speakers": "70 million",
+    "countries": ["Turkey", "Cyprus"]
+  },
+  {
+    "language": "Vietnamese",
+    "speakers": "76 million",
+    "countries": ["Vietnam"]
+  },
+  {
+    "language": "Thai",
+    "speakers": "69 million",
+    "countries": ["Thailand"]
+  },
+  {
+    "language": "Persian",
+    "speakers": "75 million",
+    "countries": ["Iran", "Afghanistan", "Tajikistan"]
+  },
+  {
+    "language": "Polish",
+    "speakers": "48 million",
+    "countries": ["Poland"]
+  },
+  {
+    "language": "Greek",
+    "speakers": "13 million",
+    "countries": ["Greece", "Cyprus"]
+  },
+  {
+    "language": "Swedish",
+    "speakers": "10 million",
+    "countries": ["Sweden", "Finland"]
+  },
+  {
+    "language": "Danish",
+    "speakers": "6 million",
+    "countries": ["Denmark", "Greenland"]
+  },
+  {
+    "language": "Czech",
+    "speakers": "10 million",
+    "countries": ["Czech Republic"]
+  },
+  {
+    "language": "Finnish",
+    "speakers": "6 million",
+    "countries": ["Finland"]
+  },
+  {
+    "language": "Norwegian",
+    "speakers": "5 million",
+    "countries": ["Norway"]
+  },
+  {
+    "language": "Hungarian",
+    "speakers": "13 million",
+    "countries": ["Hungary", "Romania"]
+  },
+  {
+    "language": "Romanian",
+    "speakers": "24 million",
+    "countries": ["Romania", "Moldova"]
+  },
+  {
+    "language": "Icelandic",
+    "speakers": "0.3 million",
+    "countries": ["Iceland"]
+  },
+  {
+    "language": "Indonesian",
+    "speakers": "43 million",
+    "countries": ["Indonesia"]
+  },
+  {
+    "language": "Filipino",
+    "speakers": "45 million",
+    "countries": ["Philippines"]
+  },
+  {
+    "language": "Malay",
+    "speakers": "77 million",
+    "countries": ["Malaysia", "Indonesia", "Singapore"]
+  },
+  {
+    "language": "Kurdish",
+    "speakers": "25 million",
+    "countries": ["Iraq", "Iran", "Turkey", "Syria"]
+  },
+  {
+    "language": "Pashto",
+    "speakers": "40 million",
+    "countries": ["Afghanistan", "Pakistan"]
+  },
+  {
+    "language": "Tamil",
+    "speakers": "78 million",
+    "countries": ["India", "Sri Lanka", "Singapore"]
+  },
+  {
+    "language": "Telugu",
+    "speakers": "81 million",
+    "countries": ["India"]
+  },
+  {
+    "language": "Marathi",
+    "speakers": "83 million",
+    "countries": ["India"]
+  },
+  {
+    "language": "Turkmen",
+    "speakers": "15 million",
+    "countries": ["Turkmenistan", "Iran", "Afghanistan"]
+  },
+  {
+    "language": "Uzbek",
+    "speakers": "32 million",
+    "countries": ["Uzbekistan", "Afghanistan", "Tajikistan"]
+  },
+  {
+    "language": "Kazakh",
+    "speakers": "23 million",
+    "countries": ["Kazakhstan", "China", "Russia", "Mongolia"]
+  },
+  {
+    "language": "Kyrgyz",
+    "speakers": "6 million",
+    "countries": ["Kyrgyzstan", "China", "Tajikistan", "Afghanistan"]
+  },
+  {
+    "language": "Azerbaijani",
+    "speakers": "31 million",
+    "countries": ["Azerbaijan", "Iran", "Russia", "Georgia"]
+  },
+  {
+    "language": "Georgian",
+    "speakers": "4 million",
+    "countries": ["Georgia", "Russia", "Turkey", "Iran"]
+  },
+  {
+    "language": "Armenian",
+    "speakers": "6 million",
+    "countries": ["Armenia", "Russia", "Georgia", "Iran"]
+  },
+  {
+    "language": "Tatar",
+    "speakers": "6 million",
+    "countries": ["Russia", "Ukraine", "Kazakhstan"]
+  },
+  {
+    "language": "Bashkir",
+    "speakers": "1.5 million",
+    "countries": ["Russia"]
+  },
+  {
+    "language": "Chuvash",
+    "speakers": "1.8 million",
+    "countries": ["Russia"]
+  },
+  {
+    "language": "Komi",
+    "speakers": "200,000",
+    "countries": ["Russia"]
+  },
+  {
+    "language": "Moldavian",
+    "speakers": "3 million",
+    "countries": ["Moldova"]
+  }
+]
