@@ -1,0 +1,16 @@
+Average Amount of Transactions: The average amount of transactions is approximately $206.00 USD.
+Minimum Transaction Amount: The minimum transaction amount is $30.00 USD.
+Maximum Transaction Amount: The maximum transaction amount is $1000.00 USD.
+Most Common Transaction Type: The most common transaction type is "Deposit", followed by "Withdrawal" and "Transfer".
+Total Number of Transactions: There are 50 transactions in total.
+Total Amount of Deposits: The total amount of deposits is $10,200.00 USD.
+Total Amount of Withdrawals: The total amount of withdrawals is $1,250.00 USD.
+Total Amount of Transfers: The total amount of transfers is $4,000.00 USD.
+Average Deposit Amount: The average deposit amount is approximately $204.00 USD.
+Average Withdrawal Amount: The average withdrawal amount is approximately $62.50 USD.
+Average Transfer Amount: The average transfer amount is approximately $200.00 USD.
+Frequency of Transactions: Deposits are the most frequent type of transaction, followed by withdrawals and transfers.
+Dates of Transactions: Transactions are spread out over a period of time, with at least one transaction occurring on each day.
+Variety of Transaction Descriptions: The descriptions of transactions vary, indicating a wide range of financial activities.
+Number of Unique Account Numbers: There are 5 unique account numbers involved in these transactions.
+Currency: All transactions are in USD.
