@@ -1,0 +1,502 @@
+[
+  {
+    "visit_id": "VISIT001",
+    "date": "2024-02-01T08:30:00Z",
+    "user_id": "USER001",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT002",
+    "date": "2024-02-01T10:30:00Z",
+    "user_id": "USER002",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT003",
+    "date": "2024-02-02T09:00:00Z",
+    "user_id": "USER003",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT004",
+    "date": "2024-02-02T12:00:00Z",
+    "user_id": "USER004",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT005",
+    "date": "2024-02-03T08:30:00Z",
+    "user_id": "USER005",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT006",
+    "date": "2024-02-03T10:30:00Z",
+    "user_id": "USER006",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT007",
+    "date": "2024-02-04T09:00:00Z",
+    "user_id": "USER007",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT008",
+    "date": "2024-02-04T12:00:00Z",
+    "user_id": "USER008",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT009",
+    "date": "2024-02-05T08:30:00Z",
+    "user_id": "USER009",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT010",
+    "date": "2024-02-05T10:30:00Z",
+    "user_id": "USER010",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT011",
+    "date": "2024-02-06T09:00:00Z",
+    "user_id": "USER011",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT012",
+    "date": "2024-02-06T12:00:00Z",
+    "user_id": "USER012",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT013",
+    "date": "2024-02-07T08:30:00Z",
+    "user_id": "USER013",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT014",
+    "date": "2024-02-07T10:30:00Z",
+    "user_id": "USER014",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT015",
+    "date": "2024-02-08T09:00:00Z",
+    "user_id": "USER015",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT016",
+    "date": "2024-02-08T12:00:00Z",
+    "user_id": "USER016",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT017",
+    "date": "2024-02-09T08:30:00Z",
+    "user_id": "USER017",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT018",
+    "date": "2024-02-09T10:30:00Z",
+    "user_id": "USER018",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT019",
+    "date": "2024-02-10T09:00:00Z",
+    "user_id": "USER019",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT020",
+    "date": "2024-02-10T12:00:00Z",
+    "user_id": "USER020",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT021",
+    "date": "2024-02-11T08:30:00Z",
+    "user_id": "USER021",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT022",
+    "date": "2024-02-11T10:30:00Z",
+    "user_id": "USER022",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT023",
+    "date": "2024-02-12T09:00:00Z",
+    "user_id": "USER023",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT024",
+    "date": "2024-02-12T12:00:00Z",
+    "user_id": "USER024",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT025",
+    "date": "2024-02-13T08:30:00Z",
+    "user_id": "USER025",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT026",
+    "date": "2024-02-13T10:30:00Z",
+    "user_id": "USER026",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT027",
+    "date": "2024-02-14T09:00:00Z",
+    "user_id": "USER027",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT028",
+    "date": "2024-02-14T12:00:00Z",
+    "user_id": "USER028",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT029",
+    "date": "2024-02-15T08:30:00Z",
+    "user_id": "USER029",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT030",
+    "date": "2024-02-15T10:30:00Z",
+    "user_id": "USER030",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT031",
+    "date": "2024-02-16T09:00:00Z",
+    "user_id": "USER031",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT032",
+    "date": "2024-02-16T12:00:00Z",
+    "user_id": "USER032",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT033",
+    "date": "2024-02-17T08:30:00Z",
+    "user_id": "USER033",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT034",
+    "date": "2024-02-17T10:30:00Z",
+    "user_id": "USER034",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT035",
+    "date": "2024-02-18T09:00:00Z",
+    "user_id": "USER035",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT036",
+    "date": "2024-02-18T12:00:00Z",
+    "user_id": "USER036",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT037",
+    "date": "2024-02-19T08:30:00Z",
+    "user_id": "USER037",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT038",
+    "date": "2024-02-19T10:30:00Z",
+    "user_id": "USER038",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT039",
+    "date": "2024-02-20T09:00:00Z",
+    "user_id": "USER039",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT040",
+    "date": "2024-02-20T12:00:00Z",
+    "user_id": "USER040",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT041",
+    "date": "2024-02-21T08:30:00Z",
+    "user_id": "USER041",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT042",
+    "date": "2024-02-21T10:30:00Z",
+    "user_id": "USER042",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT043",
+    "date": "2024-02-22T09:00:00Z",
+    "user_id": "USER043",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT044",
+    "date": "2024-02-22T12:00:00Z",
+    "user_id": "USER044",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT045",
+    "date": "2024-02-23T08:30:00Z",
+    "user_id": "USER045",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT046",
+    "date": "2024-02-23T10:30:00Z",
+    "user_id": "USER046",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  },
+  {
+    "visit_id": "VISIT047",
+    "date": "2024-02-24T09:00:00Z",
+    "user_id": "USER047",
+    "website": "example.com",
+    "duration": 90,
+    "device": "Desktop",
+    "referrer": "twitter.com",
+    "page_views": 3
+  },
+  {
+    "visit_id": "VISIT048",
+    "date": "2024-02-24T12:00:00Z",
+    "user_id": "USER048",
+    "website": "example.com",
+    "duration": 180,
+    "device": "Mobile",
+    "referrer": "linkedin.com",
+    "page_views": 5
+  },
+  {
+    "visit_id": "VISIT049",
+    "date": "2024-02-25T08:30:00Z",
+    "user_id": "USER049",
+    "website": "example.com",
+    "duration": 60,
+    "device": "Desktop",
+    "referrer": "google.com",
+    "page_views": 2
+  },
+  {
+    "visit_id": "VISIT050",
+    "date": "2024-02-25T10:30:00Z",
+    "user_id": "USER050",
+    "website": "example.com",
+    "duration": 120,
+    "device": "Mobile",
+    "referrer": "facebook.com",
+    "page_views": 4
+  }
+]
