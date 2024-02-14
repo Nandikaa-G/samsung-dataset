@@ -1,0 +1,691 @@
+[
+  {
+    "object": "Sun",
+    "type": "Star",
+    "distance_from_earth_ly": 0,
+    "mass_kg": 1.989e30,
+    "radius_km": 695700,
+    "temperature_kelvin": 5778,
+    "discovery_year": null
+  },
+  {
+    "object": "Mercury",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0000157,
+    "mass_kg": 3.3011e23,
+    "radius_km": 2439.7,
+    "temperature_kelvin": 440,
+    "discovery_year": null
+  },
+  {
+    "object": "Venus",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0000158,
+    "mass_kg": 4.8675e24,
+    "radius_km": 6051.8,
+    "temperature_kelvin": 737,
+    "discovery_year": null
+  },
+  {
+    "object": "Earth",
+    "type": "Planet",
+    "distance_from_earth_ly": 0,
+    "mass_kg": 5.972e24,
+    "radius_km": 6371,
+    "temperature_kelvin": 288,
+    "discovery_year": null
+  },
+  {
+    "object": "Mars",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0000241,
+    "mass_kg": 6.39e23,
+    "radius_km": 3389.5,
+    "temperature_kelvin": 210,
+    "discovery_year": null
+  }
+]
+[
+  {
+    "object": "Jupiter",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0000635,
+    "mass_kg": 1.898e27,
+    "radius_km": 69911,
+    "temperature_kelvin": 165,
+    "discovery_year": null
+  },
+  {
+    "object": "Saturn",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0001106,
+    "mass_kg": 5.683e26,
+    "radius_km": 58232,
+    "temperature_kelvin": 134,
+    "discovery_year": null
+  },
+  {
+    "object": "Uranus",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0001885,
+    "mass_kg": 8.681e25,
+    "radius_km": 25362,
+    "temperature_kelvin": 76,
+    "discovery_year": 1781
+  },
+  {
+    "object": "Neptune",
+    "type": "Planet",
+    "distance_from_earth_ly": 0.0002957,
+    "mass_kg": 1.024e26,
+    "radius_km": 24622,
+    "temperature_kelvin": 72,
+    "discovery_year": 1846
+  },
+  {
+    "object": "Pluto",
+    "type": "Dwarf Planet",
+    "distance_from_earth_ly": 0.0004243,
+    "mass_kg": 1.309e22,
+    "radius_km": 1188.3,
+    "temperature_kelvin": 44,
+    "discovery_year": 1930
+  },
+  {
+    "object": "Moon",
+    "type": "Natural Satellite",
+    "distance_from_earth_ly": 0,
+    "mass_kg": 7.3477e22,
+    "radius_km": 1737.5,
+    "temperature_kelvin": 220,
+    "discovery_year": null
+  },
+  {
+    "object": "Milky Way",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 0,
+    "mass_kg": 1.5e42,
+    "radius_km": 100000,
+    "temperature_kelvin": 2.7,
+    "discovery_year": null
+  },
+  {
+    "object": "Andromeda Galaxy",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 2.537e6,
+    "mass_kg": 1.76e42,
+    "radius_km": 110000,
+    "temperature_kelvin": 2.73,
+    "discovery_year": 964
+  },
+  {
+    "object": "Crab Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 6.523,
+    "mass_kg": 4.6e29,
+    "radius_km": 11,
+    "temperature_kelvin": 7100,
+    "discovery_year": 1054
+  },
+  {
+    "object": "Pillars of Creation",
+    "type": "Nebula",
+    "distance_from_earth_ly": 0,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  }
+]
+[
+  {
+    "object": "Orion Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 1.344,
+    "mass_kg": 2.16e28,
+    "radius_km": 12,
+    "temperature_kelvin": 8000,
+    "discovery_year": null
+  },
+  {
+    "object": "Horsehead Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 1.6,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": 1888
+  },
+  {
+    "object": "Andromeda Galaxy (M31)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 2.537e6,
+    "mass_kg": 1.76e42,
+    "radius_km": 110000,
+    "temperature_kelvin": 2.73,
+    "discovery_year": 964
+  },
+  {
+    "object": "Whirlpool Galaxy (M51)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 23.1e6,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": 1773
+  },
+  {
+    "object": "Triangulum Galaxy (M33)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 2.73e6,
+    "mass_kg": 5e41,
+    "radius_km": 60000,
+    "temperature_kelvin": 2.7,
+    "discovery_year": 1764
+  },
+  {
+    "object": "Great Red Spot",
+    "type": "Storm",
+    "distance_from_earth_ly": 0,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": 1665
+  },
+  {
+    "object": "Oort Cloud",
+    "type": "Region",
+    "distance_from_earth_ly": 0,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": 1950
+  },
+  {
+    "object": "Kuiper Belt",
+    "type": "Region",
+    "distance_from_earth_ly": 0,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": 1992
+  },
+  {
+    "object": "Boötes Void",
+    "type": "Void",
+    "distance_from_earth_ly": 0,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  },
+  {
+    "object": "Big Bang",
+    "type": "Cosmic Event",
+    "distance_from_earth_ly": 13.8e9,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": 2.73,
+    "discovery_year": 1927
+  }
+]
+[
+  {
+    "object": "Crab Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 6.5e3,
+    "mass_kg": 4.6e30,
+    "radius_km": 10,
+    "temperature_kelvin": 1.5e4,
+    "discovery_year": 1054
+  },
+  {
+    "object": "Eagle Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 7e3,
+    "mass_kg": 1.57e31,
+    "radius_km": 70,
+    "temperature_kelvin": 7.7e3,
+    "discovery_year": 1745
+  },
+  {
+    "object": "Pillars of Creation",
+    "type": "Nebula",
+    "distance_from_earth_ly": 7e3,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": 1995
+  },
+  {
+    "object": "Lagoon Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 4.1e3,
+    "mass_kg": 3.5e31,
+    "radius_km": 110,
+    "temperature_kelvin": 10e3,
+    "discovery_year": 1747
+  },
+  {
+    "object": "Trifid Nebula",
+    "type": "Nebula",
+    "distance_from_earth_ly": 5.4e3,
+    "mass_kg": 5e31,
+    "radius_km": 50,
+    "temperature_kelvin": 9e3,
+    "discovery_year": 1764
+  },
+  {
+    "object": "Pleiades (Seven Sisters)",
+    "type": "Star Cluster",
+    "distance_from_earth_ly": 440,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  },
+  {
+    "object": "Hyades Cluster",
+    "type": "Star Cluster",
+    "distance_from_earth_ly": 153,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  },
+  {
+    "object": "Virgo Supercluster",
+    "type": "Supercluster",
+    "distance_from_earth_ly": 110e6,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  },
+  {
+    "object": "Boötes Supercluster",
+    "type": "Supercluster",
+    "distance_from_earth_ly": 2.3e8,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  },
+  {
+    "object": "Shapley Supercluster",
+    "type": "Supercluster",
+    "distance_from_earth_ly": 650e6,
+    "mass_kg": null,
+    "radius_km": null,
+    "temperature_kelvin": null,
+    "discovery_year": null
+  }
+]
+[
+  {
+    "object": "Centaurus A",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 13e6,
+    "mass_kg": 2e41,
+    "radius_km": 100e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1826
+  },
+  {
+    "object": "Whirlpool Galaxy (Messier 51)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 23e6,
+    "mass_kg": 1e42,
+    "radius_km": 60e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1773
+  },
+  {
+    "object": "Andromeda Galaxy (Messier 31)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 2.537e6,
+    "mass_kg": 1.5e42,
+    "radius_km": 110e3,
+    "temperature_kelvin": null,
+    "discovery_year": 964
+  },
+  {
+    "object": "Triangulum Galaxy (Messier 33)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 3e6,
+    "mass_kg": 5e41,
+    "radius_km": 60e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1654
+  },
+  {
+    "object": "Sombrero Galaxy (Messier 104)",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 29.3e6,
+    "mass_kg": 1.5e42,
+    "radius_km": 50e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1781
+  },
+  {
+    "object": "Large Magellanic Cloud",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 163e3,
+    "mass_kg": 1e41,
+    "radius_km": 14e3,
+    "temperature_kelvin": null,
+    "discovery_year": prehistoric
+  },
+  {
+    "object": "Small Magellanic Cloud",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 200e3,
+    "mass_kg": 7e40,
+    "radius_km": 7.6e3,
+    "temperature_kelvin": null,
+    "discovery_year": prehistoric
+  },
+  {
+    "object": "Sagittarius Dwarf Spheroidal Galaxy",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 70e3,
+    "mass_kg": 3.6e40,
+    "radius_km": 10e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1994
+  },
+  {
+    "object": "Leo I Dwarf Galaxy",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 800e3,
+    "mass_kg": 1.3e40,
+    "radius_km": 6e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1950
+  },
+  {
+    "object": "Leo II Dwarf Galaxy",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 900e3,
+    "mass_kg": 5e39,
+    "radius_km": 3.5e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1950
+  }
+]
+[
+  {
+    "object": "Hydra II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 154e3,
+    "mass_kg": 8.1e38,
+    "radius_km": 2.5e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2015
+  },
+  {
+    "object": "Fornax II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 458e3,
+    "mass_kg": 1.2e38,
+    "radius_km": 1.7e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2015
+  },
+  {
+    "object": "Canes Venatici II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 160e3,
+    "mass_kg": 5.5e37,
+    "radius_km": 1.5e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  },
+  {
+    "object": "Sagittarius II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 65e3,
+    "mass_kg": 1.1e37,
+    "radius_km": 1.2e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1994
+  },
+  {
+    "object": "Retiarius II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 30e3,
+    "mass_kg": 7.5e36,
+    "radius_km": 0.9e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2016
+  },
+  {
+    "object": "Leo IV",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 160e3,
+    "mass_kg": 2.5e37,
+    "radius_km": 1.3e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  },
+  {
+    "object": "Phoenix II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 1.5e6,
+    "mass_kg": 1.5e38,
+    "radius_km": 2.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2009
+  },
+  {
+    "object": "Tucana II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 58e3,
+    "mass_kg": 1.4e37,
+    "radius_km": 1.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2010
+  },
+  {
+    "object": "Segue II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 35e3,
+    "mass_kg": 9.2e35,
+    "radius_km": 0.8e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2009
+  },
+  {
+    "object": "Coma Berenices II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 420e3,
+    "mass_kg": 2.6e37,
+    "radius_km": 1.4e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2010
+  }
+]
+[
+  {
+    "object": "Columba II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 194e3,
+    "mass_kg": 1.8e37,
+    "radius_km": 1.2e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2016
+  },
+  {
+    "object": "Horologium II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 90e3,
+    "mass_kg": 7.2e36,
+    "radius_km": 0.9e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2016
+  },
+  {
+    "object": "Eridanus II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 375e3,
+    "mass_kg": 1.3e37,
+    "radius_km": 1.3e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2014
+  },
+  {
+    "object": "Grus II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 217e3,
+    "mass_kg": 9.5e36,
+    "radius_km": 1.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2016
+  },
+  {
+    "object": "Triangulum II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 30e3,
+    "mass_kg": 6.5e36,
+    "radius_km": 0.8e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  },
+  {
+    "object": "Cetus II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 155e3,
+    "mass_kg": 1.1e37,
+    "radius_km": 1.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2014
+  },
+  {
+    "object": "Leo V",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 170e3,
+    "mass_kg": 1.6e37,
+    "radius_km": 1.2e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2007
+  },
+  {
+    "object": "Ursa Major I",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 300e3,
+    "mass_kg": 2.3e37,
+    "radius_km": 1.5e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  },
+  {
+    "object": "Pegasus III",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 85e3,
+    "mass_kg": 8.7e36,
+    "radius_km": 1.0e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2014
+  },
+  {
+    "object": "Sextans II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 85e3,
+    "mass_kg": 7.9e36,
+    "radius_km": 0.9e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  }
+]
+[
+  {
+    "object": "Draco II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 160e3,
+    "mass_kg": 1.4e37,
+    "radius_km": 1.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2015
+  },
+  {
+    "object": "Boötes II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 136e3,
+    "mass_kg": 8.3e36,
+    "radius_km": 1.0e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2007
+  },
+  {
+    "object": "Coma Berenices I",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 44e3,
+    "mass_kg": 4.6e36,
+    "radius_km": 0.8e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  },
+  {
+    "object": "Ursa Major II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 30e3,
+    "mass_kg": 5.9e36,
+    "radius_km": 0.9e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  },
+  {
+    "object": "Columba I",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 145e3,
+    "mass_kg": 1.2e37,
+    "radius_km": 1.0e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2016
+  },
+  {
+    "object": "Tucana II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 162e3,
+    "mass_kg": 1.7e37,
+    "radius_km": 1.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2012
+  },
+  {
+    "object": "Segue II",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 35e3,
+    "mass_kg": 6.3e36,
+    "radius_km": 0.8e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2009
+  },
+  {
+    "object": "Boötes III",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 46e3,
+    "mass_kg": 4.1e36,
+    "radius_km": 0.7e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2007
+  },
+  {
+    "object": "Sextans I",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 85e3,
+    "mass_kg": 7.2e36,
+    "radius_km": 0.9e3,
+    "temperature_kelvin": null,
+    "discovery_year": 1990
+  },
+  {
+    "object": "Leo IV",
+    "type": "Galaxy",
+    "distance_from_earth_ly": 160e3,
+    "mass_kg": 1.5e37,
+    "radius_km": 1.1e3,
+    "temperature_kelvin": null,
+    "discovery_year": 2006
+  }
+]
