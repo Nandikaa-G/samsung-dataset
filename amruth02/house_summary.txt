@@ -1,0 +1,7 @@
+Castle at 1010 Royal Ct, Kingdom, USA is the costliest house priced at $10,000,000.
+Penthouse: 666 Sky Tower, Cityscape, USA has area over 4000sqft.
+The houses located in coastal areas (e.g., 1313 Beacon Point, Coastal, USA; 2828 Oceanfront Ave, Coastal, USA) are likely to have higher prices.
+Houses with 5 or more bedrooms (e.g., Mansion at 333 Oak Hill, Hilltop, USA) are likely to be spacious and suitable for large families .
+Houses priced below $200,000 (e.g., 4343 Mountain Ln, Mountain Town, USA) are likely to be smaller or require renovations.
+Houses with 2 bedrooms and 1 bathroom (e.g., 4343 Mountain Ln, Mountain Town, USA) are likely to be smaller and more suitable for individuals or small families.
+House at 3030 Craftsman Ave, Suburban, USA has area around 1,000 sqft.
