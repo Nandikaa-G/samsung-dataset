@@ -1,0 +1,616 @@
+[
+  {
+    "crop": "Wheat",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 3.5,
+    "average_price_per_ton": 250,
+    "total_production_tons": 7000,
+    "year": 2023
+  },
+  {
+    "crop": "Corn",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 4.2,
+    "average_price_per_ton": 200,
+    "total_production_tons": 8500,
+    "year": 2023
+  },
+  {
+    "crop": "Soybeans",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 2.8,
+    "average_price_per_ton": 300,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Rice",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 5.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 5000,
+    "year": 2023
+  },
+  {
+    "crop": "Cotton",
+    "region": "Southwest",
+    "yield_tons_per_hectare": 2.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 3000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Barley",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 3.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 4000,
+    "year": 2023
+  },
+  {
+    "crop": "Potatoes",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 120,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Apples",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 20.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Oranges",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Grapes",
+    "region": "California",
+    "yield_tons_per_hectare": 18.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 12000,
+    "year": 2023
+  },
+  {
+    "crop": "Tomatoes",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 35.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 9000,
+    "year": 2023
+  },
+  {
+    "crop": "Strawberries",
+    "region": "California",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 800,
+    "total_production_tons": 15000,
+    "year": 2023
+  },
+  {
+    "crop": "Cabbage",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 15.0,
+    "average_price_per_ton": 150,
+    "total_production_tons": 5000,
+    "year": 2023
+  },
+  {
+    "crop": "Carrots",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 22.0,
+    "average_price_per_ton": 200,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Lettuce",
+    "region": "California",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 8000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Peanuts",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 2.5,
+    "average_price_per_ton": 500,
+    "total_production_tons": 3000,
+    "year": 2023
+  },
+  {
+    "crop": "Almonds",
+    "region": "California",
+    "yield_tons_per_hectare": 1.8,
+    "average_price_per_ton": 2000,
+    "total_production_tons": 5000,
+    "year": 2023
+  },
+  {
+    "crop": "Peaches",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 12.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Blueberries",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 15.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 4500,
+    "year": 2023
+  },
+  {
+    "crop": "Watermelons",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 100,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Avocados",
+    "region": "California",
+    "yield_tons_per_hectare": 20.0,
+    "average_price_per_ton": 1200,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Cucumbers",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 150,
+    "total_production_tons": 7000,
+    "year": 2023
+  },
+  {
+    "crop": "Broccoli",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 18.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 4000,
+    "year": 2023
+  },
+  {
+    "crop": "Onions",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Spinach",
+    "region": "California",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 350,
+    "total_production_tons": 5000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Apples",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Oranges",
+    "region": "California",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Tomatoes",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 35.0,
+    "average_price_per_ton": 200,
+    "total_production_tons": 12000,
+    "year": 2023
+  },
+  {
+    "crop": "Corn",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 50.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 15000,
+    "year": 2023
+  },
+  {
+    "crop": "Potatoes",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Wheat",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 60.0,
+    "average_price_per_ton": 220,
+    "total_production_tons": 20000,
+    "year": 2023
+  },
+  {
+    "crop": "Rice",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 70.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 18000,
+    "year": 2023
+  },
+  {
+    "crop": "Soybeans",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 45.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 17000,
+    "year": 2023
+  },
+  {
+    "crop": "Cotton",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 55.0,
+    "average_price_per_ton": 150,
+    "total_production_tons": 14000,
+    "year": 2023
+  },
+  {
+    "crop": "Sugar Beets",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 65.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 16000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Barley",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 55.0,
+    "average_price_per_ton": 200,
+    "total_production_tons": 18000,
+    "year": 2023
+  },
+  {
+    "crop": "Sorghum",
+    "region": "Texas",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 220,
+    "total_production_tons": 12000,
+    "year": 2023
+  },
+  {
+    "crop": "Almonds",
+    "region": "California",
+    "yield_tons_per_hectare": 20.0,
+    "average_price_per_ton": 3000,
+    "total_production_tons": 5000,
+    "year": 2023
+  },
+  {
+    "crop": "Peanuts",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 500,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Cabbage",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 45.0,
+    "average_price_per_ton": 150,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Carrots",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 35.0,
+    "average_price_per_ton": 200,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Lettuce",
+    "region": "California",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 7000,
+    "year": 2023
+  },
+  {
+    "crop": "Broccoli",
+    "region": "West",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Grapes",
+    "region": "California",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 1000,
+    "total_production_tons": 9000,
+    "year": 2023
+  },
+  {
+    "crop": "Peaches",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 800,
+    "total_production_tons": 7000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Corn",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 60.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 22000,
+    "year": 2023
+  },
+  {
+    "crop": "Potatoes",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 50.0,
+    "average_price_per_ton": 120,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Cotton",
+    "region": "South",
+    "yield_tons_per_hectare": 35.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Soybeans",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 45.0,
+    "average_price_per_ton": 350,
+    "total_production_tons": 18000,
+    "year": 2023
+  },
+  {
+    "crop": "Tomatoes",
+    "region": "California",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 7000,
+    "year": 2023
+  },
+  {
+    "crop": "Strawberries",
+    "region": "California",
+    "yield_tons_per_hectare": 20.0,
+    "average_price_per_ton": 800,
+    "total_production_tons": 4000,
+    "year": 2023
+  },
+  {
+    "crop": "Apples",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 9000,
+    "year": 2023
+  },
+  {
+    "crop": "Oranges",
+    "region": "Florida",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Rice",
+    "region": "South",
+    "yield_tons_per_hectare": 55.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 15000,
+    "year": 2023
+  },
+  {
+    "crop": "Wheat",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 50.0,
+    "average_price_per_ton": 220,
+    "total_production_tons": 18000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Barley",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 38.0,
+    "average_price_per_ton": 200,
+    "total_production_tons": 8500,
+    "year": 2023
+  },
+  {
+    "crop": "Sugar Beets",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 45.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Almonds",
+    "region": "California",
+    "yield_tons_per_hectare": 2.5,
+    "average_price_per_ton": 5000,
+    "total_production_tons": 1250,
+    "year": 2023
+  },
+  {
+    "crop": "Peanuts",
+    "region": "Southeast",
+    "yield_tons_per_hectare": 1.8,
+    "average_price_per_ton": 1200,
+    "total_production_tons": 540,
+    "year": 2023
+  },
+  {
+    "crop": "Sorghum",
+    "region": "Plains",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 6500,
+    "year": 2023
+  },
+  {
+    "crop": "Sunflower",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 350,
+    "total_production_tons": 5000,
+    "year": 2023
+  },
+  {
+    "crop": "Oats",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 35.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 4000,
+    "year": 2023
+  },
+  {
+    "crop": "Canola",
+    "region": "Plains",
+    "yield_tons_per_hectare": 28.0,
+    "average_price_per_ton": 450,
+    "total_production_tons": 6200,
+    "year": 2023
+  },
+  {
+    "crop": "Cherries",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 18.0,
+    "average_price_per_ton": 1200,
+    "total_production_tons": 3600,
+    "year": 2023
+  },
+  {
+    "crop": "Grapes",
+    "region": "California",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 800,
+    "total_production_tons": 5000,
+    "year": 2023
+  }
+]
+[
+  {
+    "crop": "Corn",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 45.0,
+    "average_price_per_ton": 220,
+    "total_production_tons": 9000,
+    "year": 2023
+  },
+  {
+    "crop": "Rice",
+    "region": "South",
+    "yield_tons_per_hectare": 5.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 2500,
+    "year": 2023
+  },
+  {
+    "crop": "Cotton",
+    "region": "South",
+    "yield_tons_per_hectare": 2.0,
+    "average_price_per_ton": 1200,
+    "total_production_tons": 1000,
+    "year": 2023
+  },
+  {
+    "crop": "Wheat",
+    "region": "Plains",
+    "yield_tons_per_hectare": 40.0,
+    "average_price_per_ton": 250,
+    "total_production_tons": 8000,
+    "year": 2023
+  },
+  {
+    "crop": "Potatoes",
+    "region": "Northwest",
+    "yield_tons_per_hectare": 30.0,
+    "average_price_per_ton": 180,
+    "total_production_tons": 6000,
+    "year": 2023
+  },
+  {
+    "crop": "Apples",
+    "region": "Northeast",
+    "yield_tons_per_hectare": 20.0,
+    "average_price_per_ton": 300,
+    "total_production_tons": 4000,
+    "year": 2023
+  },
+  {
+    "crop": "Soybeans",
+    "region": "Midwest",
+    "yield_tons_per_hectare": 35.0,
+    "average_price_per_ton": 350,
+    "total_production_tons": 7000,
+    "year": 2023
+  },
+  {
+    "crop": "Tomatoes",
+    "region": "California",
+    "yield_tons_per_hectare": 50.0,
+    "average_price_per_ton": 400,
+    "total_production_tons": 10000,
+    "year": 2023
+  },
+  {
+    "crop": "Peppers",
+    "region": "South",
+    "yield_tons_per_hectare": 20.0,
+    "average_price_per_ton": 600,
+    "total_production_tons": 4000,
+    "year": 2023
+  },
+  {
+    "crop": "Lettuce",
+    "region": "California",
+    "yield_tons_per_hectare": 25.0,
+    "average_price_per_ton": 350,
+    "total_production_tons": 5000,
+    "year": 2023
+  }
+]
