@@ -1,0 +1,9 @@
+Total Number of Visits: 50
+Total Duration of Visits: 800 minutes or 13 hours and 20 minutes
+Average Duration of Visit: 16 minutes
+Minimum Duration of Visit: 2 minutes
+Maximum Duration of Visit: 180 minutes
+Most Common Referrer: "google.com" (12 occurrences)
+Average Page Views per Visit: 3.4
+Average Page Views per User: 17.2
+Unique Users: 50
