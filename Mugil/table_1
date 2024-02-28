@@ -1,5 +1,4 @@
 {
-  "albums": [
     {
       "title": "Thriller",
       "artist": "Michael Jackson",
@@ -60,10 +59,8 @@
       "release_year": 1987,
       "genre": "Pop"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "A Night at the Opera",
       "artist": "Queen",
@@ -124,10 +121,8 @@
       "release_year": 1980,
       "genre": "Hard Rock"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "A Day at the Races",
       "artist": "Queen",
@@ -188,10 +183,8 @@
       "release_year": 1987,
       "genre": "Rock"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "Legend",
       "artist": "Bob Marley & The Wailers",
@@ -252,10 +245,8 @@
       "release_year": 1967,
       "genre": "Rock"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "Raising Sand",
       "artist": "Robert Plant & Alison Krauss",
@@ -316,10 +307,8 @@
       "release_year": 1999,
       "genre": "Hip Hop"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "Achtung Baby",
       "artist": "U2",
@@ -380,10 +369,8 @@
       "release_year": 1970,
       "genre": "Heavy Metal"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "Lemonade",
       "artist": "Beyoncé",
@@ -444,10 +431,8 @@
       "release_year": 1968,
       "genre": "Country"
     }
-  ]
 }
 {
-  "albums": [
     {
       "title": "Dark Side of the Moon",
       "artist": "Pink Floyd",
@@ -508,5 +493,4 @@
       "release_year": 2009,
       "genre": "Alternative Rock"
     }
-  ]
 }
