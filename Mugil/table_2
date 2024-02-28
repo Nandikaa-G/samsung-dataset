@@ -1,5 +1,4 @@
 {
-  "books": [
     {
       "title": "The Midnight Library",
       "author": "Matt Haig",
@@ -60,10 +59,8 @@
       "genre": "Memoir",
       "year": 2018
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
@@ -124,10 +121,8 @@
       "genre": "Dystopian",
       "year": 1932
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "The Road",
       "author": "Cormac McCarthy",
@@ -188,10 +183,8 @@
       "genre": "Fantasy",
       "year": 2007
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "The Count of Monte Cristo",
       "author": "Alexandre Dumas",
@@ -252,10 +245,8 @@
       "genre": "Mystery",
       "year": 2013
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "The Odyssey",
       "author": "Homer",
@@ -316,10 +307,8 @@
       "genre": "Fantasy",
       "year": 1937
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "The Brothers Karamazov",
       "author": "Fyodor Dostoevsky",
@@ -380,10 +369,8 @@
       "genre": "Satire",
       "year": 1961
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
@@ -444,10 +431,8 @@
       "genre": "Gothic",
       "year": 1890
     }
-  ]
 }
 {
-  "books": [
     {
       "title": "One Hundred Years of Solitude",
       "author": "Gabriel García Márquez",
@@ -508,5 +493,4 @@
       "genre": "Dystopian",
       "year": 1932
     }
-  ]
 }
