@@ -1,4 +1,4 @@
-{
+[
     {
       "title": "The Midnight Library",
       "author": "Matt Haig",
@@ -58,9 +58,7 @@
       "author": "Michelle Obama",
       "genre": "Memoir",
       "year": 2018
-    }
-}
-{
+    },
     {
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
@@ -120,9 +118,7 @@
       "author": "Aldous Huxley",
       "genre": "Dystopian",
       "year": 1932
-    }
-}
-{
+    },
     {
       "title": "The Road",
       "author": "Cormac McCarthy",
@@ -182,9 +178,7 @@
       "author": "Patrick Rothfuss",
       "genre": "Fantasy",
       "year": 2007
-    }
-}
-{
+    },
     {
       "title": "The Count of Monte Cristo",
       "author": "Alexandre Dumas",
@@ -244,9 +238,7 @@
       "author": "Donna Tartt",
       "genre": "Mystery",
       "year": 2013
-    }
-}
-{
+    },
     {
       "title": "The Odyssey",
       "author": "Homer",
@@ -306,9 +298,7 @@
       "author": "J.R.R. Tolkien",
       "genre": "Fantasy",
       "year": 1937
-    }
-}
-{
+    },
     {
       "title": "The Brothers Karamazov",
       "author": "Fyodor Dostoevsky",
@@ -368,9 +358,7 @@
       "author": "Joseph Heller",
       "genre": "Satire",
       "year": 1961
-    }
-}
-{
+    },
     {
       "title": "To Kill a Mockingbird",
       "author": "Harper Lee",
@@ -430,9 +418,7 @@
       "author": "Oscar Wilde",
       "genre": "Gothic",
       "year": 1890
-    }
-}
-{
+    },
     {
       "title": "One Hundred Years of Solitude",
       "author": "Gabriel García Márquez",
@@ -493,4 +479,4 @@
       "genre": "Dystopian",
       "year": 1932
     }
-}
+]
