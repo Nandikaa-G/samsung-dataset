@@ -43,9 +43,7 @@
     "obesity_rate": 4.3,
     "smoking_rate": 17.9,
     "healthcare_expenditure_gdp": 10.9
-  }
-]
-[
+  },
   {
     "country": "Australia",
     "year": 2020,
@@ -135,9 +133,7 @@
     "obesity_rate": 24.5,
     "smoking_rate": 20.0,
     "healthcare_expenditure_gdp": 10.9
-  }
-]
-[
+  },
   {
     "country": "Germany",
     "year": 2020,
@@ -227,9 +223,7 @@
     "obesity_rate": 28.9,
     "smoking_rate": 15.0,
     "healthcare_expenditure_gdp": 5.7
-  }
-]
-[
+  },
   {
     "country": "Australia",
     "year": 2020,
@@ -319,9 +313,7 @@
     "obesity_rate": 22.4,
     "smoking_rate": 26.0,
     "healthcare_expenditure_gdp": 10.4
-  }
-]
-[
+  },
   {
     "country": "Germany",
     "year": 2020,
@@ -411,9 +403,7 @@
     "obesity_rate": 28.9,
     "smoking_rate": 17.0,
     "healthcare_expenditure_gdp": 6.4
-  }
-]
-[
+  },
   {
     "country": "Australia",
     "year": 2020,
@@ -503,9 +493,7 @@
     "obesity_rate": 35.0,
     "smoking_rate": 13.0,
     "healthcare_expenditure_gdp": 5.5
-  }
-]
-[
+  },
   {
     "country": "Japan",
     "year": 2020,
@@ -595,9 +583,7 @@
     "obesity_rate": 30.9,
     "smoking_rate": 13.8,
     "healthcare_expenditure_gdp": 10.3
-  }
-]
-[
+  },
   {
     "country": "Australia",
     "year": 2020,
