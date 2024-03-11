@@ -1,5 +1,4 @@
-{
-  "employees": [
+[
     {
       "employeeID": "E101",
       "fullName": "Alice Johnson",
@@ -59,11 +58,7 @@
       "fullName": "Jack Harris",
       "position": "Research Analyst",
       "department": "Research and Development"
-    }
-  ]
-}
-{
-  "employees": [
+    },
     {
       "employeeID": "E111",
       "fullName": "Katherine Adams",
@@ -123,11 +118,7 @@
       "fullName": "Thomas Evans",
       "position": "Research Scientist",
       "department": "Research and Development"
-    }
-  ]
-}
-{
-  "employees": [
+    },
     {
       "employeeID": "E121",
       "fullName": "Ursula Foster",
@@ -187,11 +178,7 @@
       "fullName": "Dylan Morris",
       "position": "Operations Analyst",
       "department": "Operations"
-    }
-  ]
-}
-{
-  "employees": [
+    },
     {
       "employeeID": "E131",
       "fullName": "Eleanor Carter",
@@ -251,11 +238,7 @@
       "fullName": "Nathan Adams",
       "position": "Research Manager",
       "department": "Research and Development"
-    }
-  ]
-}
-{
-  "employees": [
+    },
     {
       "employeeID": "E141",
       "fullName": "Olivia Grant",
@@ -315,11 +298,7 @@
       "fullName": "Xander Mitchell",
       "position": "Research Scientist",
       "department": "Research and Development"
-    }
-  ]
-}
-{
-  "employees": [
+    },
     {
       "employeeID": "E151",
       "fullName": "Yara Sullivan",
@@ -379,11 +358,7 @@
       "fullName": "Harrison Wilson",
       "position": "Data Scientist",
       "department": "Research and Development"
-    }
-  ]
-}
-{
-  "employees": [
+    },
     {
       "employeeID": "E161",
       "fullName": "Isabella Torres",
@@ -444,5 +419,4 @@
       "position": "Research Coordinator",
       "department": "Research and Development"
     }
-  ]
-}
+]
