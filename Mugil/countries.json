@@ -1,4 +1,4 @@
-{
+[
     {
       "name": "Canada",
       "population": 38000000,
@@ -98,9 +98,7 @@
       "languages": ["French"],
       "currency": "Euro",
       "major_cities": ["Marseille", "Lyon", "Toulouse"]
-    }
-}
-{
+    },
     {
       "name": "Kenya",
       "population": 53770000,
@@ -200,11 +198,7 @@
       "languages": ["Korean"],
       "currency": "South Korean Won",
       "major_cities": ["Busan", "Incheon", "Daegu"]
-    }
-  ]
-}
-{
-  "countries": [
+    },
     {
       "name": "Egypt",
       "population": 104258327,
@@ -304,11 +298,7 @@
       "languages": ["English"],
       "currency": "Ghanaian Cedi",
       "major_cities": ["Kumasi", "Tamale", "Sekondi-Takoradi"]
-    }
-  ]
-}
-{
-  "countries": [
+    },
     {
       "name": "Sweden",
       "population": 10380000,
@@ -408,11 +398,7 @@
       "languages": ["Russian"],
       "currency": "Russian Ruble",
       "major_cities": ["Saint Petersburg", "Novosibirsk", "Yekaterinburg"]
-    }
-  ]
-}
-{
-  "countries": [
+    },
     {
       "name": "Ireland",
       "population": 4977400,
@@ -512,11 +498,7 @@
       "languages": ["Hebrew", "Arabic"],
       "currency": "Israeli New Shekel",
       "major_cities": ["Tel Aviv", "Haifa", "Rishon LeZion"]
-    }
-  ]
-}
-{
-  "countries": [
+    },
     {
       "name": "Spain",
       "population": 47351567,
@@ -616,11 +598,7 @@
       "languages": ["Malay"],
       "currency": "Malaysian Ringgit",
       "major_cities": ["George Town", "Johor Bahru", "Ipoh"]
-    }
-  ]
-}
-{
-  "countries": [
+    },
     {
       "name": "Netherlands",
       "population": 17430000,
@@ -721,5 +699,5 @@
       "currency": "Argentine Peso",
       "major_cities": ["Cordoba", "Rosario", "Mendoza"]
     }
-  ]
-}
+]
+
