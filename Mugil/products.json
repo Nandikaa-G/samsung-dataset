@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "id": 1,
       "name": "Laptop",
@@ -89,12 +88,7 @@
       "price": 150.00,
       "stock": 60,
       "description": "Smartwatch with fitness tracking and heart rate monitoring."
-    }
-    // Add more products as needed
-  ]
-}
-{
-  "products": [
+    },
     {
       "id": 11,
       "name": "4K Smart TV",
@@ -184,12 +178,7 @@
       "price": 50.00,
       "stock": 80,
       "description": "Portable Bluetooth speaker with high-quality audio output."
-    }
-    // Add more products as needed
-  ]
-}
-{
-  "products": [
+    },
     {
       "id": 21,
       "name": "Drones with Camera",
@@ -279,12 +268,7 @@
       "price": 200.00,
       "stock": 15,
       "description": "Immersive virtual reality headset for gaming and entertainment."
-    }
-    // Add more products as needed
-  ]
-}
-{
-  "products": [
+    },
     {
       "id": 31,
       "name": "Ergonomic Office Chair",
@@ -374,12 +358,7 @@
       "price": 70.00,
       "stock": 20,
       "description": "Compact telescope for stargazing during travel and outdoor adventures."
-    }
-    // Add more products as needed
-  ]
-}
-{
-  "products": [
+    },
     {
       "id": 41,
       "name": "Wireless Charging Desk Lamp",
@@ -469,12 +448,7 @@
       "price": 40.00,
       "stock": 30,
       "description": "Compact solar charger for powering electronic devices during outdoor activities."
-    }
-    // Add more products as needed
-  ]
-}
-{
-  "products": [
+    },
     {
       "id": 51,
       "name": "Smart Home Security Camera",
@@ -564,12 +538,7 @@
       "price": 180.00,
       "stock": 20,
       "description": "Compact and foldable drone with HD camera for aerial photography and exploration."
-    }
-    // Add more products as needed
-  ]
-}
-{
-  "products": [
+    },
     {
       "id": 61,
       "name": "Smart Plant Monitoring System",
@@ -660,6 +629,4 @@
       "stock": 25,
       "description": "Wi-Fi-enabled pet feeder with programmable feeding schedules and camera."
     }
-    // Add more products as needed
-  ]
-}
+]
