@@ -1,0 +1,482 @@
+[
+    {
+      "company": "AT&T",
+      "description": "One of the largest telecommunications companies in the world, providing a wide range of services including wireless, internet, and TV.",
+      "headquarters": "Dallas, Texas, USA",
+      "founded_year": 1877
+    },
+    {
+      "company": "Verizon Communications",
+      "description": "A leading telecommunications company offering wireless services, internet, and TV to millions of customers.",
+      "headquarters": "New York City, USA",
+      "founded_year": 1983
+    },
+    {
+      "company": "T-Mobile US",
+      "description": "A major wireless network operator offering voice, messaging, and data services.",
+      "headquarters": "Bellevue, Washington, USA",
+      "founded_year": 1994
+    },
+    {
+      "company": "Vodafone Group",
+      "description": "A multinational telecommunications company providing services in over 65 countries.",
+      "headquarters": "London, UK",
+      "founded_year": 1991
+    },
+    {
+      "company": "China Mobile",
+      "description": "The largest mobile telecommunications corporation by market capitalization and subscribers.",
+      "headquarters": "Beijing, China",
+      "founded_year": 1997
+    },
+    {
+      "company": "Telefónica",
+      "description": "A multinational telecommunications company headquartered in Madrid, Spain, operating in Europe and Latin America.",
+      "headquarters": "Madrid, Spain",
+      "founded_year": 1924
+    },
+    {
+      "company": "NTT DoCoMo",
+      "description": "Japan's largest mobile phone operator and a pioneer in mobile internet services.",
+      "headquarters": "Tokyo, Japan",
+      "founded_year": 1991
+    },
+    {
+      "company": "Orange S.A.",
+      "description": "A French multinational telecommunications corporation, formerly known as France Télécom.",
+      "headquarters": "Paris, France",
+      "founded_year": 1988
+    },
+    {
+      "company": "SK Telecom",
+      "description": "The largest wireless carrier in South Korea, offering a variety of telecommunications services.",
+      "headquarters": "Seoul, South Korea",
+      "founded_year": 1984
+    },
+    {
+      "company": "BT Group",
+      "description": "A British multinational telecommunications holding company with operations in broadband, TV, and mobile services.",
+      "headquarters": "London, UK",
+      "founded_year": 1969
+    },
+    {
+      "company": "Deutsche Telekom AG",
+      "description": "A German telecommunications company operating in Europe and the United States.",
+      "headquarters": "Bonn, Germany",
+      "founded_year": 1995
+    },
+    {
+      "company": "SoftBank Group Corp",
+      "description": "A Japanese multinational conglomerate with investments in telecommunications, internet, and technology.",
+      "headquarters": "Tokyo, Japan",
+      "founded_year": 1981
+    },
+    {
+      "company": "Comcast Corporation",
+      "description": "A leading telecommunications conglomerate in the United States, offering cable, internet, and phone services.",
+      "headquarters": "Philadelphia, Pennsylvania, USA",
+      "founded_year": 1963
+    },
+    {
+      "company": "Telecom Italia",
+      "description": "Italy's largest telecommunications company, providing fixed and mobile services.",
+      "headquarters": "Rome, Italy",
+      "founded_year": 1994
+    },
+    {
+      "company": "Singtel",
+      "description": "A Singaporean telecommunications company offering a range of services in Asia and beyond.",
+      "headquarters": "Singapore",
+      "founded_year": 1879
+    },
+    {
+      "company": "KDDI Corporation",
+      "description": "A Japanese telecommunications operator providing mobile and fixed-line services.",
+      "headquarters": "Tokyo, Japan",
+      "founded_year": 1984
+    },
+    {
+      "company": "Telecom Egypt",
+      "description": "Egypt's first integrated telecommunications operator, providing landline and mobile services.",
+      "headquarters": "Cairo, Egypt",
+      "founded_year": 1854
+    },
+    {
+      "company": "Telkom Indonesia",
+      "description": "Indonesia's largest telecommunications services company, providing a range of services.",
+      "headquarters": "Jakarta, Indonesia",
+      "founded_year": 1856
+    },
+    {
+      "company": "Saudi Telecom Company (STC)",
+      "description": "The leading telecommunications company in Saudi Arabia, providing a variety of services.",
+      "headquarters": "Riyadh, Saudi Arabia",
+      "founded_year": 1998
+    },
+    {
+      "company": "Telecom Argentina",
+      "description": "One of the largest telecommunications companies in Argentina, offering fixed-line and mobile services.",
+      "headquarters": "Buenos Aires, Argentina",
+      "founded_year": 1990
+    },
+    {
+      "company": "Telekom Malaysia Berhad",
+      "description": "A leading telecommunications company in Malaysia, providing various services including fixed-line and mobile.",
+      "headquarters": "Kuala Lumpur, Malaysia",
+      "founded_year": 1946
+    },
+    {
+      "company": "Turkcell",
+      "description": "A leading Turkish telecommunications company offering mobile and fixed-line services.",
+      "headquarters": "Istanbul, Turkey",
+      "founded_year": 1994
+    },
+    {
+      "company": "SKY Brasil",
+      "description": "One of the largest pay-TV providers in Brazil, also offering internet and phone services.",
+      "headquarters": "São Paulo, Brazil",
+      "founded_year": 1996
+    },
+    {
+      "company": "Telstra Corporation Limited",
+      "description": "Australia's largest telecommunications and media company.",
+      "headquarters": "Melbourne, Australia",
+      "founded_year": 1975
+    },
+    {
+      "company": "Etisalat Group",
+      "description": "A multinational Emirati telecommunications services provider.",
+      "headquarters": "Abu Dhabi, UAE",
+      "founded_year": 1976
+    },
+    {
+      "company": "MTN Group",
+      "description": "A multinational telecommunications group operating in Africa and the Middle East.",
+      "headquarters": "Johannesburg, South Africa",
+      "founded_year": 1994
+    },
+    {
+      "company": "Rostelecom",
+      "description": "Russia's leading telecommunications company providing fixed-line and mobile services.",
+      "headquarters": "Moscow, Russia",
+      "founded_year": 1993
+    },
+    {
+      "company": "PLDT",
+      "description": "The leading telecommunications and digital services provider in the Philippines.",
+      "headquarters": "Makati, Philippines",
+      "founded_year": 1928
+    },
+    {
+      "company": "Ooredoo Group",
+      "description": "A multinational telecommunications company headquartered in Doha, Qatar.",
+      "headquarters": "Doha, Qatar",
+      "founded_year": 1987
+    },
+    {
+      "company": "Telecom Namibia",
+      "description": "Namibia's leading telecommunications service provider.",
+      "headquarters": "Windhoek, Namibia",
+      "founded_year": 1992
+    },
+    {
+      "company": "Telekom Austria Group",
+      "description": "A leading telecommunications provider in Austria and Central and Eastern Europe.",
+      "headquarters": "Vienna, Austria",
+      "founded_year": 1998
+    },
+    {
+      "company": "Telenor Group",
+      "description": "A multinational telecommunications company with operations in Scandinavia, Eastern Europe, and Asia.",
+      "headquarters": "Fornebu, Norway",
+      "founded_year": 1855
+    },
+    {
+      "company": "SK hynix",
+      "description": "A South Korean memory semiconductor supplier and part of the SK Group.",
+      "headquarters": "Icheon, South Korea",
+      "founded_year": 1949
+    },
+    {
+      "company": "Vivacom",
+      "description": "Bulgaria's largest telecommunications company offering fixed-line and mobile services.",
+      "headquarters": "Sofia, Bulgaria",
+      "founded_year": 2004
+    },
+    {
+      "company": "TELUS Corporation",
+      "description": "A Canadian telecommunications company providing wireless and internet services.",
+      "headquarters": "Vancouver, Canada",
+      "founded_year": 1990
+    },
+    {
+      "company": "Zain Group",
+      "description": "A leading mobile telecommunications provider in the Middle East and Africa.",
+      "headquarters": "Kuwait City, Kuwait",
+      "founded_year": 1983
+    },
+    {
+      "company": "Hutchison Telecommunications Hong Kong Holdings",
+      "description": "A Hong Kong-based telecommunications operator offering mobile and fixed-line services.",
+      "headquarters": "Hong Kong",
+      "founded_year": 1994
+    },
+    {
+      "company": "Maxis Berhad",
+      "description": "Malaysia's leading telecommunications company offering mobile and fixed-line services.",
+      "headquarters": "Kuala Lumpur, Malaysia",
+      "founded_year": 1995
+    },
+    {
+      "company": "Turk Telekom",
+      "description": "Turkey's leading integrated telecommunications operator.",
+      "headquarters": "Ankara, Turkey",
+      "founded_year": 1840
+    },
+    {
+      "company": "Telkom South Africa",
+      "description": "South Africa's largest integrated communications company.",
+      "headquarters": "Johannesburg, South Africa",
+      "founded_year": 1991
+    },
+    {
+      "company": "Reliance Jio Infocomm",
+      "description": "A leading Indian telecommunications company offering 4G and broadband services.",
+      "headquarters": "Mumbai, India",
+      "founded_year": 2016
+    },
+    {
+      "company": "Saudi Telecom Company (STC)",
+      "description": "The leading telecommunications company in Saudi Arabia, providing a variety of services.",
+      "headquarters": "Riyadh, Saudi Arabia",
+      "founded_year": 1998
+    },
+    {
+      "company": "Tata Communications",
+      "description": "A global telecommunications and digital services company headquartered in Mumbai, India.",
+      "headquarters": "Mumbai, India",
+      "founded_year": 1986
+    },
+    {
+      "company": "Viettel Group",
+      "description": "A Vietnamese multinational telecommunications company with operations in Asia, Africa, and America.",
+      "headquarters": "Hanoi, Vietnam",
+      "founded_year": 1989
+    },
+    {
+      "company": "Nokia Corporation",
+      "description": "A Finnish multinational telecommunications, information technology, and consumer electronics company.",
+      "headquarters": "Espoo, Finland",
+      "founded_year": 1865
+    },
+    {
+      "company": "Orange S.A.",
+      "description": "A French multinational telecommunications corporation, formerly known as France Télécom.",
+      "headquarters": "Paris, France",
+      "founded_year": 1988
+    },
+    {
+      "company": "Altice USA",
+      "description": "One of the largest broadband and video services providers in the United States.",
+      "headquarters": "Long Island City, New York, USA",
+      "founded_year": 2001
+    },
+    {
+      "company": "Charter Communications",
+      "description": "A leading broadband communications company and the second-largest cable operator in the United States.",
+      "headquarters": "Stamford, Connecticut, USA",
+      "founded_year": 1993
+    },
+    {
+      "company": "Telia Company",
+      "description": "A Swedish multinational telecommunications company operating in Europe and Asia.",
+      "headquarters": "Stockholm, Sweden",
+      "founded_year": 1853
+    },
+    {
+      "company": "China Telecom",
+      "description": "One of the largest state-owned telecommunications companies in China.",
+      "headquarters": "Beijing, China",
+      "founded_year": 2002
+    },
+    {
+      "company": "SKY Perfect JSAT Group",
+      "description": "A Japanese telecommunications and satellite broadcasting company.",
+      "headquarters": "Tokyo, Japan",
+      "founded_year": 1985
+    },
+    {
+      "company": "Tigo",
+      "description": "A leading telecommunications brand in Latin America, offering mobile and internet services.",
+      "headquarters": "Luxembourg",
+      "founded_year": 1991
+    },
+    {
+      "company": "Spark New Zealand",
+      "description": "New Zealand's largest telecommunications and digital services company.",
+      "headquarters": "Auckland, New Zealand",
+      "founded_year": 1987
+    },
+    {
+      "company": "Telkom Kenya",
+      "description": "A telecommunications company providing integrated telecommunications services in Kenya.",
+      "headquarters": "Nairobi, Kenya",
+      "founded_year": 1999
+    },
+    {
+      "company": "Telekom Romania",
+      "description": "A Romanian telecommunications company offering fixed-line and mobile services.",
+      "headquarters": "Bucharest, Romania",
+      "founded_year": 2014
+    },
+    {
+      "company": "Telia Eesti",
+      "description": "Estonia's leading telecommunications company providing a range of services.",
+      "headquarters": "Tallinn, Estonia",
+      "founded_year": 2002
+    },
+    {
+      "company": "MTS Group",
+      "description": "A Russian telecommunications company offering mobile and fixed-line services.",
+      "headquarters": "Moscow, Russia",
+      "founded_year": 1993
+    },
+    {
+      "company": "Swisscom",
+      "description": "Switzerland's leading telecommunications provider offering mobile, internet, and TV services.",
+      "headquarters": "Bern, Switzerland",
+      "founded_year": 1998
+    },
+    {
+      "company": "Telefónica Movistar",
+      "description": "A subsidiary of Telefónica, providing mobile and fixed-line services in Spain and Latin America.",
+      "headquarters": "Madrid, Spain",
+      "founded_year": 2005
+    },
+    {
+      "company": "Vodacom Group",
+      "description": "A leading African mobile communications company.",
+      "headquarters": "Johannesburg, South Africa",
+      "founded_year": 1994
+    },
+    {
+      "company": "Tele2",
+      "description": "A telecommunications company operating in Europe, offering mobile and fixed-line services.",
+      "headquarters": "Stockholm, Sweden",
+      "founded_year": 1993
+    },
+    {
+      "company": "Telekom Slovenije",
+      "description": "Slovenia's leading telecommunications provider offering a wide range of services.",
+      "headquarters": "Ljubljana, Slovenia",
+      "founded_year": 1994
+    },
+    {
+      "company": "Omantel",
+      "description": "The first and leading integrated telecommunications services provider in Oman.",
+      "headquarters": "Muscat, Oman",
+      "founded_year": 1996
+    },
+    {
+      "company": "Telkomcel",
+      "description": "The first telecommunications company in Timor-Leste, offering mobile services.",
+      "headquarters": "Dili, Timor-Leste",
+      "founded_year": 2003
+    },
+    {
+      "company": "Globe Telecom",
+      "description": "A leading telecommunications company in the Philippines, offering mobile and fixed-line services.",
+      "headquarters": "Taguig, Philippines",
+      "founded_year": 1935
+    },
+    {
+      "company": "Telemar Norte Leste (Oi)",
+      "description": "One of the largest telecommunications companies in Brazil, offering mobile and fixed-line services.",
+      "headquarters": "Rio de Janeiro, Brazil",
+      "founded_year": 1998
+    },
+    {
+      "company": "Telia Norge",
+      "description": "Norway's second-largest telecommunications company offering mobile and fixed-line services.",
+      "headquarters": "Oslo, Norway",
+      "founded_year": 1853
+    },
+    {
+      "company": "Airtel Africa",
+      "description": "A leading telecommunications company with operations across Africa.",
+      "headquarters": "Nairobi, Kenya",
+      "founded_year": 2010
+    },
+    {
+      "company": "Zain Kuwait",
+      "description": "A leading telecommunications company in Kuwait, offering mobile and data services.",
+      "headquarters": "Kuwait City, Kuwait",
+      "founded_year": 1983
+    },
+    {
+      "company": "Singtel Optus",
+      "description": "Australia's second-largest telecommunications company, offering mobile, internet, and TV services.",
+      "headquarters": "Sydney, Australia",
+      "founded_year": 1992
+    },
+    {
+      "company": "MTN Nigeria",
+      "description": "Nigeria's leading telecommunications company, offering mobile and data services.",
+      "headquarters": "Lagos, Nigeria",
+      "founded_year": 2001
+    },
+    {
+      "company": "Axiata Group Berhad",
+      "description": "A telecommunications conglomerate operating in Southeast Asia and South Asia.",
+      "headquarters": "Kuala Lumpur, Malaysia",
+      "founded_year": 2008
+    },
+    {
+      "company": "PLDT",
+      "description": "The leading telecommunications and digital services provider in the Philippines.",
+      "headquarters": "Makati, Philippines",
+      "founded_year": 1928
+    },
+    {
+      "company": "Telkom Indonesia",
+      "description": "Indonesia's largest telecommunications services company, providing a range of services.",
+      "headquarters": "Jakarta, Indonesia",
+      "founded_year": 1856
+    },
+    {
+      "company": "China Unicom",
+      "description": "One of the largest telecommunications companies in China, providing mobile and fixed-line services.",
+      "headquarters": "Beijing, China",
+      "founded_year": 2000
+    },
+    {
+      "company": "Turk Telekom",
+      "description": "Turkey's leading integrated telecommunications operator.",
+      "headquarters": "Ankara, Turkey",
+      "founded_year": 1840
+    },
+    {
+      "company": "Ooredoo Group",
+      "description": "A multinational telecommunications company headquartered in Doha, Qatar.",
+      "headquarters": "Doha, Qatar",
+      "founded_year": 1987
+    },
+    {
+      "company": "Telia Company",
+      "description": "A Swedish multinational telecommunications company operating in Europe and Asia.",
+      "headquarters": "Stockholm, Sweden",
+      "founded_year": 1853
+    },
+    {
+      "company": "Vivacom",
+      "description": "Bulgaria's largest telecommunications company offering fixed-line and mobile services.",
+      "headquarters": "Sofia, Bulgaria",
+      "founded_year": 2004
+    },
+    {
+      "company": "Etisalat Group",
+      "description": "A multinational Emirati telecommunications services provider.",
+      "headquarters": "Abu Dhabi, UAE",
+      "founded_year": 1976
+    }
+]
