@@ -2,60 +2,6 @@
     {
       "case_name": "State v. Smith",
       "court": "Supreme Court of the State",
-      "case_type": "Homicide",
-      "date": "2023-04-15",
-      "details": "The defendant, John Smith, was charged with first-degree homicide...",
-      "verdict": "Guilty",
-      "sentence": "Life imprisonment without parole"
-    },
-    {
-      "case_name": "City v. Johnson",
-      "court": "City Municipal Court",
-      "case_type": "Drug Possession",
-      "date": "2023-07-22",
-      "details": "The defendant, Sarah Johnson, was arrested for possession of narcotics...",
-      "verdict": "Guilty",
-      "sentence": "6 months probation and drug rehabilitation"
-    },
-    {
-      "case_name": "State v. Rodriguez",
-      "court": "Circuit Court",
-      "case_type": "Robbery",
-      "date": "2023-10-10",
-      "details": "The defendant, Miguel Rodriguez, was accused of armed robbery...",
-      "verdict": "Not Guilty",
-      "sentence": "Acquitted"
-    },
-    {
-      "case_name": "City v. Nguyen",
-      "court": "District Court",
-      "case_type": "Assault",
-      "date": "2024-02-05",
-      "details": "The defendant, Linh Nguyen, was charged with assault and battery...",
-      "verdict": "Guilty",
-      "sentence": "1 year in county jail"
-    },
-    {
-      "case_name": "State v. Lee",
-      "court": "County Criminal Court",
-      "case_type": "Burglary",
-      "date": "2024-05-20",
-      "details": "The defendant, Michael Lee, was accused of breaking and entering...",
-      "verdict": "Guilty",
-      "sentence": "3 years in state prison"
-    },
-    {
-      "case_name": "State v. Patel",
-      "court": "Supreme Court of the State",
-      "case_type": "Fraud",
-      "date": "2024-08-12",
-      "details": "The defendant, Priya Patel, was charged with financial fraud...",
-      "verdict": "Guilty",
-      "sentence": "Restitution
-    },
-    {
-      "case_name": "State v. Smith",
-      "court": "Supreme Court of the State",
       "date": "2023-04-15",
       "verdict": "Guilty"
     },
