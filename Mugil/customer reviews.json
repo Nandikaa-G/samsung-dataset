@@ -1,5 +1,4 @@
-{
-  "customer_reviews": [
+[
     {
       "review_id": "R001",
       "product_id": "P001",
@@ -39,12 +38,7 @@
       "rating": 4.0,
       "date": "2022-05-15",
       "review_text": "I'm satisfied with the purchase. The product is good, and the customer service was helpful."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R006",
       "product_id": "P002",
@@ -84,12 +78,7 @@
       "rating": 4.5,
       "date": "2022-10-18",
       "review_text": "Great purchase! The product arrived on time, and it works perfectly. I'm happy with my decision."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R011",
       "product_id": "P002",
@@ -129,12 +118,7 @@
       "rating": 5.0,
       "date": "2023-03-05",
       "review_text": "Excellent product! Exactly as described. The company's attention to detail is commendable."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R016",
       "product_id": "P002",
@@ -174,12 +158,7 @@
       "rating": 3.2,
       "date": "2023-08-20",
       "review_text": "Decent product. Some features could be improved, but overall, it serves its purpose."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R021",
       "product_id": "P002",
@@ -219,12 +198,7 @@
       "rating": 4.2,
       "date": "2024-01-05",
       "review_text": "Pleased with the purchase. The product is durable, and the company's communication was excellent."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R026",
       "product_id": "P002",
@@ -264,12 +238,7 @@
       "rating": 3.2,
       "date": "2024-06-02",
       "review_text": "Average product. It works fine, but I expected more features for the price."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R031",
       "product_id": "P002",
@@ -309,12 +278,7 @@
       "rating": 4.5,
       "date": "2024-11-05",
       "review_text": "Very satisfied! The product exceeded my expectations, and the customer service was excellent."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R036",
       "product_id": "P002",
@@ -354,12 +318,7 @@
       "rating": 3.0,
       "date": "2025-02-01",
       "review_text": "Not entirely satisfied. The product had some flaws, and it didn't meet my expectations."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R041",
       "product_id": "P002",
@@ -399,12 +358,7 @@
       "rating": 4.5,
       "date": "2025-04-15",
       "review_text": "Fantastic product! Exactly as described. The company's attention to detail is commendable."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R046",
       "product_id": "P002",
@@ -444,12 +398,7 @@
       "rating": 3.2,
       "date": "2025-07-01",
       "review_text": "Decent product. It works fine, but there are some minor improvements that could be made."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R051",
       "product_id": "P002",
@@ -489,12 +438,7 @@
       "rating": 4.5,
       "date": "2025-09-15",
       "review_text": "Fantastic product! Exactly what I needed. The design and functionality are excellent."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R056",
       "product_id": "P002",
@@ -534,12 +478,7 @@
       "rating": 3.2,
       "date": "2025-12-01",
       "review_text": "Decent product. It works fine, but there's room for improvement in the design."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R061",
       "product_id": "P002",
@@ -579,12 +518,7 @@
       "rating": 4.5,
       "date": "2026-02-15",
       "review_text": "Fantastic product! Exactly what I needed. The design and functionality are excellent."
-    }
-    // Add more customer reviews as needed
-  ]
-}
-{
-  "customer_reviews": [
+    },
     {
       "review_id": "R066",
       "product_id": "P002",
@@ -625,6 +559,4 @@
       "date": "2026-05-01",
       "review_text": "Decent product. It works fine, but there's room for improvement in the design."
     }
-    // Add more customer reviews as needed
-  ]
-}
+]
