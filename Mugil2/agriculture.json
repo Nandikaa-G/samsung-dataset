@@ -38,9 +38,7 @@
     "average_price_per_ton": 600,
     "total_production_tons": 3000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Barley",
     "region": "Northwest",
@@ -120,9 +118,7 @@
     "average_price_per_ton": 300,
     "total_production_tons": 8000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Peanuts",
     "region": "Southeast",
@@ -202,9 +198,7 @@
     "average_price_per_ton": 350,
     "total_production_tons": 5000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Apples",
     "region": "Northwest",
@@ -284,9 +278,7 @@
     "average_price_per_ton": 180,
     "total_production_tons": 16000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Barley",
     "region": "Midwest",
@@ -366,9 +358,7 @@
     "average_price_per_ton": 800,
     "total_production_tons": 7000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Corn",
     "region": "Midwest",
@@ -448,9 +438,7 @@
     "average_price_per_ton": 220,
     "total_production_tons": 18000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Barley",
     "region": "Midwest",
@@ -530,9 +518,7 @@
     "average_price_per_ton": 800,
     "total_production_tons": 5000,
     "year": 2023
-  }
-]
-[
+  },
   {
     "crop": "Corn",
     "region": "Midwest",
