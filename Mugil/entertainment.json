@@ -1,5 +1,4 @@
-{
-  "entertainment_data": [
+[
     {
       "title": "The Great Gatsby",
       "genre": "Drama",
@@ -78,12 +77,7 @@
       "directors": ["Anthony Russo", "Joe Russo"],
       "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
       "rating": 8.4
-    }
-    // Add more entertainment entries as needed
-  ]
-}
-{
-  "entertainment_data": [
+    },
     {
       "title": "Inception",
       "genre": "Science Fiction",
@@ -162,12 +156,7 @@
       "release_date": "2020-09-14",
       "artist": "Stray Kids",
       "rating": 9.6
-    }
-    // Add more entertainment entries as needed
-  ]
-}
-{
-  "entertainment_data": [
+    },
     {
       "title": "The Dark Knight",
       "genre": "Action",
@@ -246,12 +235,7 @@
       "release_date": "2020-08-21",
       "artist": "BTS",
       "rating": 9.7
-    }
-    // Add more entertainment entries as needed
-  ]
-}
-{
-  "entertainment_data": [
+    },
     {
       "title": "The Matrix",
       "genre": "Science Fiction",
@@ -330,12 +314,7 @@
       "release_date": "2015-10-23",
       "artist": "Adele",
       "rating": 9.2
-    }
-    // Add more entertainment entries as needed
-  ]
-}
-{
-  "entertainment_data": [
+    },
     {
       "title": "Jurassic Park",
       "genre": "Adventure",
@@ -415,12 +394,7 @@
       "director": "Bradley Cooper",
       "actors": ["Lady Gaga", "Bradley Cooper", "Sam Elliott"],
       "rating": 7.7
-    }
-    // Add more entertainment entries as needed
-  ]
-}
-{
-  "entertainment_data": [
+    },
     {
       "title": "Interstellar",
       "genre": "Science Fiction",
@@ -500,12 +474,7 @@
       "creator": "Hwang Dong-hyuk",
       "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
       "rating": 8.3
-    }
-    // Add more entertainment entries as needed
-  ]
-}
-{
-  "entertainment_data": [
+    },
     {
       "title": "Harry Potter and the Prisoner of Azkaban",
       "genre": "Fantasy",
@@ -586,6 +555,4 @@
       "actors": ["Timothée Chalamet", "Rebecca Ferguson", "Oscar Isaac"],
       "rating": 8.5
     }
-    // Add more entertainment entries as needed
-  ]
 }
