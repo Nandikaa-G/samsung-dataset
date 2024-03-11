@@ -1,5 +1,4 @@
-{
-  "human_resources_data": [
+[
     {
       "employee_id": "EMP001",
       "first_name": "John",
@@ -49,12 +48,7 @@
       "salary": 90000,
       "hire_date": "2017-07-05",
       "performance_rating": 4.6
-    }
-    // Add more human resources entries as needed
-  ]
-}
-{
-  "human_resources_data": [
+    },
     {
       "employee_id": "EMP006",
       "first_name": "Sarah",
@@ -154,12 +148,7 @@
       "salary": 80000,
       "hire_date": "2019-05-30",
       "performance_rating": 4.6
-    }
-    // Add more human resources entries as needed
-  ]
-}
-{
-  "human_resources_data": [
+    },
     {
       "employee_id": "EMP016",
       "first_name": "Emma",
@@ -259,12 +248,7 @@
       "salary": 76000,
       "hire_date": "2018-07-15",
       "performance_rating": 4.0
-    }
-    // Add more human resources entries as needed
-  ]
-}
-{
-  "human_resources_data": [
+    },
     {
       "employee_id": "EMP026",
       "first_name": "Aiden",
@@ -364,12 +348,7 @@
       "salary": 92000,
       "hire_date": "2018-08-20",
       "performance_rating": 4.9
-    }
-    // Add more human resources entries as needed
-  ]
-}
-{
-  "human_resources_data": [
+    },
     {
       "employee_id": "EMP036",
       "first_name": "Landon",
@@ -469,12 +448,7 @@
       "salary": 80000,
       "hire_date": "2019-05-30",
       "performance_rating": 4.8
-    }
-    // Add more human resources entries as needed
-  ]
-}
-{
-  "human_resources_data": [
+    },
     {
       "employee_id": "EMP046",
       "first_name": "Elijah",
@@ -574,12 +548,7 @@
       "salary": 82000,
       "hire_date": "2021-06-15",
       "performance_rating": 4.0
-    }
-    // Add more human resources entries as needed
-  ]
-}
-{
-  "human_resources_data": [
+    },
     {
       "employee_id": "EMP056",
       "first_name": "Zoe",
@@ -680,6 +649,4 @@
       "hire_date": "2019-05-30",
       "performance_rating": 4.8
     }
-    // Add more human resources entries as needed
-  ]
-}
+]
