@@ -38,9 +38,7 @@
     "location": "France",
     "status": "Operational",
     "commissioned_date": "2019-12-01"
-  }
-]
-[
+  },
   {
     "energy_source": "Geothermal",
     "capacity": 800,
@@ -120,9 +118,7 @@
     "location": "South Korea",
     "status": "Planned",
     "expected_completion_date": "2025-06-15"
-  }
-]
-[
+  },
   {
     "energy_source": "Solar",
     "capacity": 4500,
@@ -202,9 +198,7 @@
     "location": "Portugal",
     "status": "Under Development",
     "expected_completion_date": "2025-01-15"
-  }
-]
-[
+  },
   {
     "energy_source": "Hybrid (Solar-Wind)",
     "capacity": 1200,
@@ -284,9 +278,7 @@
     "location": "Australia",
     "status": "Testing",
     "expected_completion_date": "2024-02-18"
-  }
-]
-[
+  },
   {
     "energy_source": "Solar",
     "capacity": 4200,
@@ -366,9 +358,7 @@
     "location": "Ireland",
     "status": "Planned",
     "expected_completion_date": "2023-07-18"
-  }
-]
-[
+  },
   {
     "energy_source": "Hybrid (Solar-Wind)",
     "capacity": 1100,
