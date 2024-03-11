@@ -1,5 +1,4 @@
-{
-  "restaurants": [
+[
     {
       "name": "Bella Italia",
       "location": "123 Main St, Cityville",
@@ -59,11 +58,7 @@
       "location": "707 Fern St, Laketown",
       "cuisine": "Vegan",
       "rating": 4.4
-    }
-  ]
-}
-{
-  "restaurants": [
+    },
     {
       "name": "Seafood Sensations",
       "location": "808 Pine St, Beachville",
@@ -123,11 +118,7 @@
       "location": "1717 Spruce St, Riverside",
       "cuisine": "Desserts",
       "rating": 4.4
-    }
-  ]
-}
-{
-  "restaurants": [
+    },
     {
       "name": "Cajun Corner",
       "location": "1818 Pine St, Bayouville",
@@ -187,11 +178,7 @@
       "location": "2727 Spruce St, Shakeville",
       "cuisine": "Desserts",
       "rating": 4.4
-    }
-  ]
-}
-{
-  "restaurants": [
+    },
     {
       "name": "Tandoori Tales",
       "location": "2828 Pine St, Spiceville",
@@ -251,11 +238,7 @@
       "location": "3737 Spruce St, Pancake Plaza",
       "cuisine": "French",
       "rating": 4.6
-    }
-  ]
-}
-{
-  "restaurants": [
+    },
     {
       "name": "Sizzling Seoul",
       "location": "3838 Pine St, Kimchitown",
@@ -315,11 +298,7 @@
       "location": "4747 Spruce St, Stirfryville",
       "cuisine": "Asian",
       "rating": 4.6
-    }
-  ]
-}
-{
-  "restaurants": [
+    },
     {
       "name": "Noodle Nook",
       "location": "4848 Pine St, Ramen City",
@@ -379,11 +358,7 @@
       "location": "5757 Spruce St, Sushiville",
       "cuisine": "Japanese",
       "rating": 4.6
-    }
-  ]
-}
-{
-  "restaurants": [
+    },
     {
       "name": "Pasta Perfection",
       "location": "5858 Pine St, Alfredoville",
@@ -444,5 +419,4 @@
       "cuisine": "Small Bites",
       "rating": 4.6
     }
-  ]
-}
+]
