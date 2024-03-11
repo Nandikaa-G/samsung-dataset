@@ -1,0 +1,482 @@
+[
+    {
+      "name": "Marriott International",
+      "description": "One of the largest hotel chains in the world, offering a range of luxury and budget accommodations.",
+      "location": "Bethesda, Maryland, USA",
+      "founded_year": 1927
+    },
+    {
+      "name": "Hilton Worldwide",
+      "description": "A global hospitality company with a portfolio of hotel brands, resorts, and timeshare properties.",
+      "location": "McLean, Virginia, USA",
+      "founded_year": 1919
+    },
+    {
+      "name": "AccorHotels",
+      "description": "A multinational hospitality company with hotels, resorts, and vacation properties worldwide.",
+      "location": "Paris, France",
+      "founded_year": 1967
+    },
+    {
+      "name": "InterContinental Hotels Group (IHG)",
+      "description": "An international hotel company with a broad portfolio of hotel brands in various segments.",
+      "location": "Denham, Buckinghamshire, UK",
+      "founded_year": 2003
+    },
+    {
+      "name": "Hyatt Hotels Corporation",
+      "description": "A global hospitality company known for its luxury hotels and resorts.",
+      "location": "Chicago, Illinois, USA",
+      "founded_year": 1957
+    },
+    {
+      "name": "Wyndham Hotels & Resorts",
+      "description": "One of the largest hotel franchisors in the world with a diverse portfolio of hotel brands.",
+      "location": "Parsippany, New Jersey, USA",
+      "founded_year": 1981
+    },
+    {
+      "name": "Choice Hotels International",
+      "description": "A hotel franchisor with a wide range of brands catering to various segments of the market.",
+      "location": "Rockville, Maryland, USA",
+      "founded_year": 1939
+    },
+    {
+      "name": "Marriott Vacations Worldwide",
+      "description": "A leading global vacation ownership company with resorts and timeshare properties.",
+      "location": "Orlando, Florida, USA",
+      "founded_year": 1984
+    },
+    {
+      "name": "Radisson Hotel Group",
+      "description": "A multinational hotel group with a portfolio of hotels in various segments across the globe.",
+      "location": "Minnetonka, Minnesota, USA",
+      "founded_year": 1962
+    },
+    {
+      "name": "Four Seasons Hotels and Resorts",
+      "description": "A luxury hospitality company known for its high-end hotels, resorts, and private residences.",
+      "location": "Toronto, Ontario, Canada",
+      "founded_year": 1960
+    },
+    {
+      "name": "Best Western Hotels & Resorts",
+      "description": "A global hotel brand with independently owned and operated hotels in over 100 countries.",
+      "location": "Phoenix, Arizona, USA",
+      "founded_year": 1946
+    },
+    {
+      "name": "IHG Hotels & Resorts",
+      "description": "A leading hotel company with a diverse portfolio of hotel brands catering to various market segments.",
+      "location": "Denham, Buckinghamshire, UK",
+      "founded_year": 2003
+    },
+    {
+      "name": "Hilton Grand Vacations",
+      "description": "A vacation ownership company offering a range of vacation experiences and resorts.",
+      "location": "Orlando, Florida, USA",
+      "founded_year": 1992
+    },
+    {
+      "name": "JW Marriott",
+      "description": "A luxury hotel brand under Marriott International, known for its upscale accommodations and services.",
+      "location": "Bethesda, Maryland, USA",
+      "founded_year": 1984
+    },
+    {
+      "name": "Ritz-Carlton",
+      "description": "A luxury hotel brand under Marriott International, offering exceptional service and elegant accommodations.",
+      "location": "Chevy Chase, Maryland, USA",
+      "founded_year": 1983
+    },
+    {
+      "name": "Shangri-La Hotels and Resorts",
+      "description": "A luxury hotel chain with properties in major cities and exotic destinations across Asia and beyond.",
+      "location": "Hong Kong",
+      "founded_year": 1971
+    },
+    {
+      "name": "Melia Hotels International",
+      "description": "A Spanish hotel chain with a portfolio of upscale and luxury hotels in Europe, Asia, and the Americas.",
+      "location": "Palma de Mallorca, Spain",
+      "founded_year": 1956
+    },
+    {
+      "name": "Fairmont Hotels & Resorts",
+      "description": "A luxury hotel brand with iconic properties in destinations around the world, known for its grandeur and elegance.",
+      "location": "Toronto, Ontario, Canada",
+      "founded_year": 1907
+    },
+    {
+      "name": "Raffles Hotels & Resorts",
+      "description": "An upscale hotel brand with a history of luxury and refinement, offering unique and memorable experiences.",
+      "location": "Singapore",
+      "founded_year": 1887
+    },
+    {
+      "name": "Rosewood Hotels & Resorts",
+      "description": "An ultra-luxury hotel group with properties in major cities and idyllic destinations worldwide.",
+      "location": "Hong Kong",
+      "founded_year": 1979
+    },
+    {
+      "name": "Mandarin Oriental Hotel Group",
+      "description": "A luxury hotel chain known for its impeccable service, elegant design, and exceptional dining experiences.",
+      "location": "Hong Kong",
+      "founded_year": 1963
+    },
+    {
+      "name": "W Hotels",
+      "description": "A contemporary luxury hotel brand under Marriott International, offering stylish accommodations and vibrant nightlife.",
+      "location": "New York City, USA",
+      "founded_year": 1998
+    },
+    {
+      "name": "Kimpton Hotels & Restaurants",
+      "description": "A boutique hotel brand known for its unique design, personalized service, and culinary experiences.",
+      "location": "San Francisco, California, USA",
+      "founded_year": 1981
+    },
+    {
+      "name": "Movenpick Hotels & Resorts",
+      "description": "A Swiss hotel chain offering upscale accommodations, culinary delights, and wellness experiences.",
+      "location": "Baar, Switzerland",
+      "founded_year": 1973
+    },
+    {
+      "name": "NH Hotel Group",
+      "description": "A Spanish hotel chain with a portfolio of hotels in Europe and the Americas, known for its modern design and comfort.",
+      "location": "Madrid, Spain",
+      "founded_year": 1978
+    },
+    {
+      "name": "Shinola Hotel",
+      "description": "A boutique hotel in Detroit, Michigan, offering a blend of modern luxury and Detroit's rich history.",
+      "location": "Detroit, Michigan, USA",
+      "founded_year": 2018
+    },
+    {
+      "name": "Oberoi Hotels & Resorts",
+      "description": "An Indian luxury hotel chain known for its exquisite properties, impeccable service, and attention to detail.",
+      "location": "New Delhi, India",
+      "founded_year": 1934
+    },
+    {
+      "name": "Anantara Hotels, Resorts & Spas",
+      "description": "A luxury hotel brand with properties in exotic destinations, offering authentic experiences and wellness retreats.",
+      "location": "Bangkok, Thailand",
+      "founded_year": 2001
+    },
+    {
+      "name": "Dorchester Collection",
+      "description": "A luxury hotel chain with iconic properties in major cities, known for its timeless elegance and impeccable service.",
+      "location": "London, UK",
+      "founded_year": 2006
+    },
+    {
+      "name": "Langham Hospitality Group",
+      "description": "An international luxury hotel chain with a heritage of over 150 years, offering timeless elegance and exceptional service.",
+      "location": "Hong Kong",
+      "founded_year": 1865
+    },
+    {
+      "name": "The Peninsula Hotels",
+      "description": "A luxury hotel brand with iconic properties in major cities worldwide, known for its legendary service and attention to detail.",
+      "location": "Hong Kong",
+      "founded_year": 1928
+    },
+    {
+      "name": "Rocco Forte Hotels",
+      "description": "An exclusive hotel group with luxury properties in Europe and the Middle East, offering bespoke experiences and exceptional service.",
+      "location": "London, UK",
+      "founded_year": 1996
+    },
+    {
+      "name": "Jumeirah Hotels and Resorts",
+      "description": "A luxury hotel chain with stunning properties in exotic destinations, known for its distinctive design and world-class service.",
+      "location": "Dubai, UAE",
+      "founded_year": 1997
+    },
+    {
+      "name": "MGM Resorts International",
+      "description": "A global hospitality and entertainment company with iconic resorts and casinos in Las Vegas and worldwide destinations.",
+      "location": "Las Vegas, Nevada, USA",
+      "founded_year": 1986
+    },
+    {
+      "name": "Rosewood Hotels & Resorts",
+      "description": "An ultra-luxury hotel group with properties in major cities and idyllic destinations worldwide.",
+      "location": "Hong Kong",
+      "founded_year": 1979
+    },
+    {
+      "name": "Aman Resorts",
+      "description": "A collection of ultra-luxury resorts in breathtaking destinations, offering unparalleled privacy and tranquility.",
+      "location": "Singapore",
+      "founded_year": 1988
+    },
+    {
+      "name": "Mandarin Oriental Hotel Group",
+      "description": "A luxury hotel chain known for its impeccable service, elegant design, and exceptional dining experiences.",
+      "location": "Hong Kong",
+      "founded_year": 1963
+    },
+    {
+      "name": "St. Regis Hotels & Resorts",
+      "description": "An iconic luxury hotel brand under Marriott International, offering timeless elegance and personalized service.",
+      "location": "New York City, USA",
+      "founded_year": 1904
+    },
+    {
+      "name": "Conrad Hotels & Resorts",
+      "description": "A luxury hotel brand under Hilton Worldwide, known for its sophisticated accommodations and personalized service.",
+      "location": "McLean, Virginia, USA",
+      "founded_year": 1982
+    },
+    {
+      "name": "Langham Hospitality Group",
+      "description": "An international luxury hotel chain with a heritage of over 150 years, offering timeless elegance and exceptional service.",
+      "location": "Hong Kong",
+      "founded_year": 1865
+    },
+    {
+      "name": "Belmond Hotels",
+      "description": "A luxury hotel and travel company with iconic hotels, trains, and river cruises in exotic destinations.",
+      "location": "London, UK",
+      "founded_year": 1976
+    },
+    {
+      "name": "Mandarin Oriental Hotel Group",
+      "description": "A luxury hotel chain known for its impeccable service, elegant design, and exceptional dining experiences.",
+      "location": "Hong Kong",
+      "founded_year": 1963
+    },
+    {
+      "name": "Shangri-La Hotels and Resorts",
+      "description": "A luxury hotel chain with properties in major cities and exotic destinations across Asia and beyond.",
+      "location": "Hong Kong",
+      "founded_year": 1971
+    },
+    {
+      "name": "Regent Hotels & Resorts",
+      "description": "An international luxury hotel chain offering exquisite accommodations and personalized service.",
+      "location": "Taipei, Taiwan",
+      "founded_year": 1970
+    },
+    {
+      "name": "Hilton Grand Vacations",
+      "description": "A vacation ownership company offering a range of vacation experiences and resorts.",
+      "location": "Orlando, Florida, USA",
+      "founded_year": 1992
+    },
+    {
+      "name": "Anantara Hotels, Resorts & Spas",
+      "description": "A luxury hotel brand with properties in exotic destinations, offering authentic experiences and wellness retreats.",
+      "location": "Bangkok, Thailand",
+      "founded_year": 2001
+    },
+    {
+      "name": "The Ritz-Carlton Hotel Company",
+      "description": "A luxury hotel brand under Marriott International, offering exceptional service and elegant accommodations.",
+      "location": "Chevy Chase, Maryland, USA",
+      "founded_year": 1983
+    },
+    {
+      "name": "Six Senses Hotels Resorts Spas",
+      "description": "An eco-luxury hotel brand with a focus on sustainability, wellness, and authentic experiences.",
+      "location": "Bangkok, Thailand",
+      "founded_year": 1995
+    },
+    {
+      "name": "Oetker Collection",
+      "description": "A collection of masterpiece hotels and resorts in stunning locations worldwide, known for their luxury and heritage.",
+      "location": "Paris, France",
+      "founded_year": 2005
+    },
+    {
+      "name": "Capella Hotels and Resorts",
+      "description": "An ultra-luxury hotel brand with properties in exotic destinations, offering personalized service and unique experiences.",
+      "location": "Singapore",
+      "founded_year": 2002
+    },
+    {
+      "name": "Aman Resorts",
+      "description": "A collection of ultra-luxury resorts in breathtaking destinations, offering unparalleled privacy and tranquility.",
+      "location": "Singapore",
+      "founded_year": 1988
+    },
+    {
+      "name": "Dorchester Collection",
+      "description": "A luxury hotel chain with iconic properties in major cities, known for its timeless elegance and impeccable service.",
+      "location": "London, UK",
+      "founded_year": 2006
+    },
+    {
+      "name": "JW Marriott",
+      "description": "A luxury hotel brand under Marriott International, known for its upscale accommodations and services.",
+      "location": "Bethesda, Maryland, USA",
+      "founded_year": 1984
+    },
+    {
+      "name": "Raffles Hotels & Resorts",
+      "description": "An upscale hotel brand with a history of luxury and refinement, offering unique and memorable experiences.",
+      "location": "Singapore",
+      "founded_year": 1887
+    },
+    {
+      "name": "Kimpton Hotels & Restaurants",
+      "description": "A boutique hotel brand known for its unique design, personalized service, and culinary experiences.",
+      "location": "San Francisco, California, USA",
+      "founded_year": 1981
+    },
+    {
+      "name": "Movenpick Hotels & Resorts",
+      "description": "A Swiss hotel chain offering upscale accommodations, culinary delights, and wellness experiences.",
+      "location": "Baar, Switzerland",
+      "founded_year": 1973
+    },
+    {
+      "name": "NH Hotel Group",
+      "description": "A Spanish hotel chain with a portfolio of hotels in Europe and the Americas, known for its modern design and comfort.",
+      "location": "Madrid, Spain",
+      "founded_year": 1978
+    },
+    {
+      "name": "Rocco Forte Hotels",
+      "description": "An exclusive hotel group with luxury properties in Europe and the Middle East, offering bespoke experiences and exceptional service.",
+      "location": "London, UK",
+      "founded_year": 1996
+    },
+    {
+      "name": "Shinola Hotel",
+      "description": "A boutique hotel in Detroit, Michigan, offering a blend of modern luxury and Detroit's rich history.",
+      "location": "Detroit, Michigan, USA",
+      "founded_year": 2018
+    },
+    {
+      "name": "Belmond Hotels",
+      "description": "A luxury hotel and travel company with iconic hotels, trains, and river cruises in exotic destinations.",
+      "location": "London, UK",
+      "founded_year": 1976
+    },
+    {
+      "name": "Jumeirah Hotels and Resorts",
+      "description": "A luxury hotel chain with stunning properties in exotic destinations, known for its distinctive design and world-class service.",
+      "location": "Dubai, UAE",
+      "founded_year": 1997
+    },
+    {
+      "name": "Langham Hospitality Group",
+      "description": "An international luxury hotel chain with a heritage of over 150 years, offering timeless elegance and exceptional service.",
+      "location": "Hong Kong",
+      "founded_year": 1865
+    },
+    {
+      "name": "Marriott Vacations Worldwide",
+      "description": "A leading global vacation ownership company with resorts and timeshare properties.",
+      "location": "Orlando, Florida, USA",
+      "founded_year": 1984
+    },
+    {
+      "name": "MGM Resorts International",
+      "description": "A global hospitality and entertainment company with iconic resorts and casinos in Las Vegas and worldwide destinations.",
+      "location": "Las Vegas, Nevada, USA",
+      "founded_year": 1986
+    },
+    {
+      "name": "Movenpick Hotels & Resorts",
+      "description": "A Swiss hotel chain offering upscale accommodations, culinary delights, and wellness experiences.",
+      "location": "Baar, Switzerland",
+      "founded_year": 1973
+    },
+    {
+      "name": "Oberoi Hotels & Resorts",
+      "description": "An Indian luxury hotel chain known for its exquisite properties, impeccable service, and attention to detail.",
+      "location": "New Delhi, India",
+      "founded_year": 1934
+    },
+    {
+      "name": "Radisson Hotel Group",
+      "description": "A multinational hotel group with a portfolio of hotels in various segments across the globe.",
+      "location": "Minnetonka, Minnesota, USA",
+      "founded_year": 1962
+    },
+    {
+      "name": "Regent Hotels & Resorts",
+      "description": "An international luxury hotel chain offering exquisite accommodations and personalized service.",
+      "location": "Taipei, Taiwan",
+      "founded_year": 1970
+    },
+    {
+      "name": "Shangri-La Hotels and Resorts",
+      "description": "A luxury hotel chain with properties in major cities and exotic destinations across Asia and beyond.",
+      "location": "Hong Kong",
+      "founded_year": 1971
+    },
+    {
+      "name": "Six Senses Hotels Resorts Spas",
+      "description": "An eco-luxury hotel brand with a focus on sustainability, wellness, and authentic experiences.",
+      "location": "Bangkok, Thailand",
+      "founded_year": 1995
+    },
+    {
+      "name": "St. Regis Hotels & Resorts",
+      "description": "An iconic luxury hotel brand under Marriott International, offering timeless elegance and personalized service.",
+      "location": "New York City, USA",
+      "founded_year": 1904
+    },
+    {
+      "name": "The Peninsula Hotels",
+      "description": "A luxury hotel brand with iconic properties in major cities worldwide, known for its legendary service and attention to detail.",
+      "location": "Hong Kong",
+      "founded_year": 1928
+    },
+    {
+      "name": "The Ritz-Carlton Hotel Company",
+      "description": "A luxury hotel brand under Marriott International, offering exceptional service and elegant accommodations.",
+      "location": "Chevy Chase, Maryland, USA",
+      "founded_year": 1983
+    },
+    {
+      "name": "W Hotels",
+      "description": "A contemporary luxury hotel brand under Marriott International, offering stylish accommodations and vibrant nightlife.",
+      "location": "New York City, USA",
+      "founded_year": 1998
+    },
+    {
+      "name": "Wyndham Hotels & Resorts",
+      "description": "One of the largest hotel franchisors in the world with a diverse portfolio of hotel brands.",
+      "location": "Parsippany, New Jersey, USA",
+      "founded_year": 1981
+    },
+    {
+      "name": "Aman Resorts",
+      "description": "A collection of ultra-luxury resorts in breathtaking destinations, offering unparalleled privacy and tranquility.",
+      "location": "Singapore",
+      "founded_year": 1988
+    },
+    {
+      "name": "Capella Hotels and Resorts",
+      "description": "An ultra-luxury hotel brand with properties in exotic destinations, offering personalized service and unique experiences.",
+      "location": "Singapore",
+      "founded_year": 2002
+    },
+    {
+      "name": "Dorchester Collection",
+      "description": "A luxury hotel chain with iconic properties in major cities, known for its timeless elegance and impeccable service.",
+      "location": "London, UK",
+      "founded_year": 2006
+    },
+    {
+      "name": "JW Marriott",
+      "description": "A luxury hotel brand under Marriott International, known for its upscale accommodations and services.",
+      "location": "Bethesda, Maryland, USA",
+      "founded_year": 1984
+    },
+    {
+      "name": "Langham Hospitality Group",
+      "description": "An international luxury hotel chain with a heritage of over 150 years, offering timeless elegance and exceptional service.",
+      "location": "Hong Kong",
+      "founded_year": 1865
+    }
+]
