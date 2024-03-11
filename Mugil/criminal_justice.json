@@ -1,0 +1,512 @@
+[
+    {
+      "case_name": "State v. Smith",
+      "court": "Supreme Court of the State",
+      "case_type": "Homicide",
+      "date": "2023-04-15",
+      "details": "The defendant, John Smith, was charged with first-degree homicide...",
+      "verdict": "Guilty",
+      "sentence": "Life imprisonment without parole"
+    },
+    {
+      "case_name": "City v. Johnson",
+      "court": "City Municipal Court",
+      "case_type": "Drug Possession",
+      "date": "2023-07-22",
+      "details": "The defendant, Sarah Johnson, was arrested for possession of narcotics...",
+      "verdict": "Guilty",
+      "sentence": "6 months probation and drug rehabilitation"
+    },
+    {
+      "case_name": "State v. Rodriguez",
+      "court": "Circuit Court",
+      "case_type": "Robbery",
+      "date": "2023-10-10",
+      "details": "The defendant, Miguel Rodriguez, was accused of armed robbery...",
+      "verdict": "Not Guilty",
+      "sentence": "Acquitted"
+    },
+    {
+      "case_name": "City v. Nguyen",
+      "court": "District Court",
+      "case_type": "Assault",
+      "date": "2024-02-05",
+      "details": "The defendant, Linh Nguyen, was charged with assault and battery...",
+      "verdict": "Guilty",
+      "sentence": "1 year in county jail"
+    },
+    {
+      "case_name": "State v. Lee",
+      "court": "County Criminal Court",
+      "case_type": "Burglary",
+      "date": "2024-05-20",
+      "details": "The defendant, Michael Lee, was accused of breaking and entering...",
+      "verdict": "Guilty",
+      "sentence": "3 years in state prison"
+    },
+    {
+      "case_name": "State v. Patel",
+      "court": "Supreme Court of the State",
+      "case_type": "Fraud",
+      "date": "2024-08-12",
+      "details": "The defendant, Priya Patel, was charged with financial fraud...",
+      "verdict": "Guilty",
+      "sentence": "Restitution
+    },
+    {
+      "case_name": "State v. Smith",
+      "court": "Supreme Court of the State",
+      "date": "2023-04-15",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Johnson",
+      "court": "City Municipal Court",
+      "date": "2023-07-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Rodriguez",
+      "court": "Circuit Court",
+      "date": "2023-10-10",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Nguyen",
+      "court": "District Court",
+      "date": "2024-02-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Lee",
+      "court": "County Criminal Court",
+      "date": "2024-05-20",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Patel",
+      "court": "Supreme Court of the State",
+      "date": "2024-08-12",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Williams",
+      "court": "Circuit Court",
+      "date": "2025-03-10",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Garcia",
+      "court": "City Municipal Court",
+      "date": "2025-06-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Brown",
+      "court": "County Criminal Court",
+      "date": "2025-09-15",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Kim",
+      "court": "District Court",
+      "date": "2026-01-08",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Jones",
+      "court": "Supreme Court of the State",
+      "date": "2026-04-20",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Martinez",
+      "court": "City Municipal Court",
+      "date": "2026-07-12",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Anderson",
+      "court": "Circuit Court",
+      "date": "2026-10-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Wilson",
+      "court": "District Court",
+      "date": "2027-02-18",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Thompson",
+      "court": "County Criminal Court",
+      "date": "2027-06-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Nguyen",
+      "court": "City Municipal Court",
+      "date": "2027-09-10",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Rivera",
+      "court": "Supreme Court of the State",
+      "date": "2028-01-15",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Carter",
+      "court": "City Municipal Court",
+      "date": "2028-04-05",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Allen",
+      "court": "Circuit Court",
+      "date": "2028-07-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Cooper",
+      "court": "District Court",
+      "date": "2028-10-10",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Evans",
+      "court": "County Criminal Court",
+      "date": "2029-02-18",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Baker",
+      "court": "City Municipal Court",
+      "date": "2029-05-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Torres",
+      "court": "Circuit Court",
+      "date": "2029-08-20",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Reyes",
+      "court": "District Court",
+      "date": "2029-11-12",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Hall",
+      "court": "County Criminal Court",
+      "date": "2030-03-30",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Khan",
+      "court": "City Municipal Court",
+      "date": "2030-06-18",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Cooper",
+      "court": "Supreme Court of the State",
+      "date": "2030-09-10",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Lee",
+      "court": "City Municipal Court",
+      "date": "2030-12-02",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Mitchell",
+      "court": "Circuit Court",
+      "date": "2031-03-20",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Hayes",
+      "court": "District Court",
+      "date": "2031-06-15",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Kelly",
+      "court": "County Criminal Court",
+      "date": "2031-09-25",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Patel",
+      "court": "City Municipal Court",
+      "date": "2032-01-12",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Sullivan",
+      "court": "Circuit Court",
+      "date": "2032-04-05",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Stewart",
+      "court": "District Court",
+      "date": "2032-07-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Nguyen",
+      "court": "County Criminal Court",
+      "date": "2032-10-15",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Reynolds",
+      "court": "City Municipal Court",
+      "date": "2033-01-30",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Parker",
+      "court": "Supreme Court of the State",
+      "date": "2033-05-20",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Griffin",
+      "court": "City Municipal Court",
+      "date": "2033-08-12",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Henderson",
+      "court": "Circuit Court",
+      "date": "2033-11-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Campbell",
+      "court": "District Court",
+      "date": "2034-02-18",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Ross",
+      "court": "County Criminal Court",
+      "date": "2034-05-10",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Murphy",
+      "court": "City Municipal Court",
+      "date": "2034-08-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Simmons",
+      "court": "Circuit Court",
+      "date": "2034-11-15",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Woods",
+      "court": "District Court",
+      "date": "2035-03-30",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Hughes",
+      "court": "County Criminal Court",
+      "date": "2035-06-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Baker",
+      "court": "City Municipal Court",
+      "date": "2035-09-10",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Foster",
+      "court": "Supreme Court of the State",
+      "date": "2036-01-15",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Peterson",
+      "court": "City Municipal Court",
+      "date": "2036-04-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Reynolds",
+      "court": "Circuit Court",
+      "date": "2036-07-22",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Fisher",
+      "court": "District Court",
+      "date": "2036-10-10",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Dunn",
+      "court": "County Criminal Court",
+      "date": "2037-02-18",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Marshall",
+      "court": "City Municipal Court",
+      "date": "2037-05-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Riley",
+      "court": "Circuit Court",
+      "date": "2037-08-20",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Harper",
+      "court": "District Court",
+      "date": "2037-11-12",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Stewart",
+      "court": "County Criminal Court",
+      "date": "2038-03-30",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Wells",
+      "court": "City Municipal Court",
+      "date": "2038-06-18",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Watson",
+      "court": "Supreme Court of the State",
+      "date": "2038-09-10",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Bennett",
+      "court": "City Municipal Court",
+      "date": "2038-12-02",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Brooks",
+      "court": "Circuit Court",
+      "date": "2039-03-20",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Hamilton",
+      "court": "District Court",
+      "date": "2039-06-15",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Olson",
+      "court": "County Criminal Court",
+      "date": "2039-09-25",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Graham",
+      "court": "City Municipal Court",
+      "date": "2039-12-12",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Hunt",
+      "court": "Circuit Court",
+      "date": "2040-03-05",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Coleman",
+      "court": "District Court",
+      "date": "2040-06-22",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. West",
+      "court": "County Criminal Court",
+      "date": "2040-09-15",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Grant",
+      "court": "City Municipal Court",
+      "date": "2040-12-02",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Torres",
+      "court": "Supreme Court of the State",
+      "date": "2041-01-20",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Mason",
+      "court": "City Municipal Court",
+      "date": "2041-04-10",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Fisher",
+      "court": "Circuit Court",
+      "date": "2041-07-05",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "City v. Campbell",
+      "court": "District Court",
+      "date": "2041-10-25",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "State v. Reyes",
+      "court": "County Criminal Court",
+      "date": "2042-02-12",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Parker",
+      "court": "City Municipal Court",
+      "date": "2042-05-01",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Griffin",
+      "court": "Circuit Court",
+      "date": "2042-08-20",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Morgan",
+      "court": "District Court",
+      "date": "2042-11-15",
+      "verdict": "Not Guilty"
+    },
+    {
+      "case_name": "State v. Cooper",
+      "court": "County Criminal Court",
+      "date": "2043-03-05",
+      "verdict": "Guilty"
+    },
+    {
+      "case_name": "City v. Edwards",
+      "court": "City Municipal Court",
+      "date": "2043-06-22",
+      "verdict": "Not Guilty"
+    }
+]
