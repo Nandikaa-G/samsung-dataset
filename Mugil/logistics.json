@@ -1,0 +1,562 @@
+[
+    {
+      "company": "UPS",
+      "headquarters": "Atlanta, Georgia, USA",
+      "description": "United Parcel Service, a global package delivery and supply chain management company.",
+      "founded": "1907",
+      "services": ["Package delivery", "Freight forwarding", "Logistics services"]
+    },
+    {
+      "company": "DHL",
+      "headquarters": "Bonn, Germany",
+      "description": "DHL Express, a division of the German logistics company Deutsche Post DHL Group.",
+      "founded": "1969",
+      "services": ["Express shipping", "Freight transportation", "Warehousing"]
+    },
+    {
+      "company": "FedEx",
+      "headquarters": "Memphis, Tennessee, USA",
+      "description": "Federal Express Corporation, an American multinational delivery services company.",
+      "founded": "1971",
+      "services": ["Express shipping", "Freight forwarding", "E-commerce solutions"]
+    },
+    {
+      "company": "Maersk",
+      "headquarters": "Copenhagen, Denmark",
+      "description": "A.P. Moller - Maersk Group, a Danish shipping and logistics company.",
+      "founded": "1904",
+      "services": ["Container shipping", "Logistics solutions", "Port operations"]
+    },
+    {
+      "company": "Kuehne + Nagel",
+      "headquarters": "Schindellegi, Switzerland",
+      "description": "Kuehne + Nagel International AG, a global transport and logistics company.",
+      "founded": "1890",
+      "services": ["Sea freight", "Air freight", "Contract logistics"]
+    },
+    {
+      "company": "C.H. Robinson",
+      "headquarters": "Eden Prairie, Minnesota, USA",
+      "description": "C.H. Robinson Worldwide, Inc., a third-party logistics provider.",
+      "founded": "1905",
+      "services": ["Transportation management", "Freight brokerage", "Supply chain consulting"]
+    },
+    {
+      "company": "XPO Logistics",
+      "headquarters": "Greenwich, Connecticut, USA",
+      "description": "XPO Logistics, Inc., an American multinational logistics company.",
+      "founded": "2011",
+      "services": ["Transportation", "Supply chain solutions", "E-commerce fulfillment"]
+    },
+    {
+      "company": "DB Schenker",
+      "headquarters": "Frankfurt, Germany",
+      "description": "DB Schenker, a division of the German rail company Deutsche Bahn AG, providing logistics services.",
+      "founded": "1872",
+      "services": ["Land transport", "Air and ocean freight", "Contract logistics"]
+    },
+    {
+      "company": "Expeditors",
+      "headquarters": "Seattle, Washington, USA",
+      "description": "Expeditors International of Washington, Inc., a global logistics company.",
+      "founded": "1979",
+      "services": ["Customs brokerage", "Warehousing", "Supply chain solutions"]
+    },
+    {
+      "company": "Panalpina",
+      "headquarters": "Basel, Switzerland",
+      "description": "Panalpina World Transport (Holding) Ltd., a Swiss logistics and freight forwarding company.",
+      "founded": "1935",
+      "services": ["Air freight", "Ocean freight", "Customs clearance"]
+    },
+    {
+      "company": "Ceva Logistics",
+      "headquarters": "Baar, Switzerland",
+      "description": "Ceva Logistics AG, a global logistics and supply chain management company.",
+      "founded": "2007",
+      "services": ["Freight management", "Contract logistics", "Supply chain solutions"]
+    },
+    {
+      "company": "Penske Logistics",
+      "headquarters": "Reading, Pennsylvania, USA",
+      "description": "Penske Logistics, a subsidiary of Penske Truck Leasing, offering logistics and supply chain services.",
+      "founded": "1969",
+      "services": ["Transportation management", "Warehousing", "Distribution"]
+    },
+    {
+      "company": "Geodis",
+      "headquarters": "Levallois-Perret, France",
+      "description": "Geodis, a French logistics company providing a range of logistics and transport services.",
+      "founded": "1904",
+      "services": ["Transportation", "Supply chain optimization", "E-commerce logistics"]
+    },
+    {
+      "company": "Nippon Express",
+      "headquarters": "Tokyo, Japan",
+      "description": "Nippon Express Co., Ltd., a Japanese logistics company offering air, sea, and land transport services.",
+      "founded": "1937",
+      "services": ["Freight forwarding", "Warehousing", "Customs clearance"]
+    },
+    {
+      "company": "Dachser",
+      "headquarters": "Kempten, Germany",
+      "description": "Dachser SE, a German logistics company specializing in road transport and logistics solutions.",
+      "founded": "1930",
+      "services": ["Road transport", "Air and sea freight", "Contract logistics"]
+    },
+    {
+      "company": "XPO Logistics Europe",
+      "headquarters": "Lyon, France",
+      "description": "XPO Logistics Europe SA, a division of XPO Logistics, focusing on European logistics solutions.",
+      "founded": "1989",
+      "services": ["Transportation", "Supply chain management", "Last-mile delivery"]
+    },
+    {
+      "company": "J.B. Hunt Transport Services",
+      "headquarters": "Lowell, Arkansas, USA",
+      "description": "J.B. Hunt Transport Services, Inc., a transportation and logistics company in North America.",
+      "founded": "1961",
+      "services": ["Intermodal transportation", "Trucking", "Dedicated contract services"]
+    },
+    {
+      "company": "Hellmann Worldwide Logistics",
+      "headquarters": "Osnabrück, Germany",
+      "description": "Hellmann Worldwide Logistics GmbH & Co. KG, a German logistics company with global operations.",
+      "founded": "1871",
+      "services": ["Air and sea freight", "Warehousing", "Customs services"]
+    },
+    {
+      "company": "Ryder",
+      "headquarters": "Miami, Florida, USA",
+      "description": "Ryder System, Inc., a transportation and logistics company offering fleet management and supply chain solutions.",
+      "founded": "1933",
+      "services": ["Fleet management", "Supply chain solutions", "Dedicated transportation"]
+    },
+    {
+      "company": "Sinotrans",
+      "headquarters": "Beijing, China",
+      "description": "China National Foreign Trade Transportation (Group) Corporation, known as Sinotrans, a Chinese logistics and shipping company.",
+      "founded": "1950",
+      "services": ["Logistics services", "Freight forwarding", "Warehousing"]
+    },
+    {
+      "company": "Rhenus Logistics",
+      "headquarters": "Holzwickede, Germany",
+      "description": "Rhenus Group, a global logistics service provider offering a wide range of logistics solutions.",
+      "founded": "1912",
+      "services": ["Freight forwarding", "Warehousing", "Customs services"]
+    },
+    {
+      "company": "Yusen Logistics",
+      "headquarters": "Tokyo, Japan",
+      "description": "Yusen Logistics Co., Ltd., a Japanese logistics company with a global network.",
+      "founded": "1955",
+      "services": ["Supply chain management", "Freight forwarding", "Warehousing"]
+    },
+    {
+      "company": "CMA CGM",
+      "headquarters": "Marseille, France",
+      "description": "CMA CGM Group, a French container transportation and shipping company.",
+      "founded": "1978",
+      "services": ["Container shipping", "Logistics solutions", "Freight forwarding"]
+    },
+    {
+      "company": "Agility",
+      "headquarters": "Kuwait City, Kuwait",
+      "description": "Agility Public Warehousing Company K.S.C.P., a Kuwaiti logistics company with global operations.",
+      "founded": "1979",
+      "services": ["Supply chain management", "Freight forwarding", "Contract logistics"]
+    },
+    {
+      "company": "Gebrüder Weiss",
+      "headquarters": "Lauterach, Austria",
+      "description": "Gebrüder Weiss GmbH, an Austrian logistics company providing transport and logistics services.",
+      "founded": "1823",
+      "services": ["Road transport", "Air and sea freight", "Warehousing"]
+    },
+    {
+      "company": "DHL Global Forwarding",
+      "headquarters": "Bonn, Germany",
+      "description": "DHL Global Forwarding, the air and ocean freight forwarding division of Deutsche Post DHL Group.",
+      "founded": "1815",
+      "services": ["Air freight", "Ocean freight", "Customs clearance"]
+    },
+    {
+      "company": "OOCL Logistics",
+      "headquarters": "Hong Kong",
+      "description": "OOCL Logistics Limited, the logistics arm of Orient Overseas Container Line (OOCL).",
+      "founded": "1969",
+      "services": ["Freight forwarding", "Warehousing", "Supply chain management"]
+    },
+    {
+      "company": "Bolloré Logistics",
+      "headquarters": "Puteaux, France",
+      "description": "Bolloré Logistics, a global logistics company offering end-to-end supply chain solutions.",
+      "founded": "1822",
+      "services": ["Transportation", "Warehousing", "Customs brokerage"]
+    },
+    {
+      "company": "Schenker AG",
+      "headquarters": "Essen, Germany",
+      "description": "Schenker AG, a German logistics company and part of the DB Schenker division.",
+      "founded": "1872",
+      "services": ["Land transport", "Air and ocean freight", "Contract logistics"]
+    },
+    {
+      "company": "Dimerco Express Group",
+      "headquarters": "Taipei, Taiwan",
+      "description": "Dimerco Express Group, a global logistics and freight forwarding company.",
+      "founded": "1971",
+      "services": ["Freight forwarding", "Customs brokerage", "Supply chain management"]
+    },
+    {
+      "company": "NVOCC Logistics",
+      "headquarters": "Shenzhen, China",
+      "description": "NVOCC Logistics Co., Ltd., a Chinese logistics company specializing in non-vessel operating common carrier services.",
+      "founded": "2004",
+      "services": ["Ocean freight", "Customs clearance", "Supply chain management"]
+    },
+    {
+      "company": "Toll Group",
+      "headquarters": "Melbourne, Australia",
+      "description": "Toll Group, an Australian logistics and transportation company with operations globally.",
+      "founded": "1888",
+      "services": ["Road freight", "Warehousing", "Express parcel delivery"]
+    },
+    {
+      "company": "Sinotrans Shipping",
+      "headquarters": "Hong Kong",
+      "description": "Sinotrans Shipping Limited, a Hong Kong-based shipping and logistics company.",
+      "founded": "2002",
+      "services": ["Shipping services", "Logistics solutions", "Port operations"]
+    },
+    {
+      "company": "UPS Supply Chain Solutions",
+      "headquarters": "Atlanta, Georgia, USA",
+      "description": "UPS Supply Chain Solutions, the supply chain management division of United Parcel Service (UPS).",
+      "founded": "2000",
+      "services": ["Supply chain management", "Freight forwarding", "Customs brokerage"]
+    },
+    {
+      "company": "Kerry Logistics",
+      "headquarters": "Hong Kong",
+      "description": "Kerry Logistics Network Limited, a Hong Kong-based logistics company with a global presence.",
+      "founded": "1981",
+      "services": ["Freight forwarding", "Warehousing", "E-commerce logistics"]
+    },
+    {
+      "company": "Yamato Transport",
+      "headquarters": "Tokyo, Japan",
+      "description": "Yamato Holdings Co., Ltd., a Japanese transportation and logistics company best known for its delivery services.",
+      "founded": "1919",
+      "services": ["Parcel delivery", "Logistics solutions", "Temperature-controlled transport"]
+    },
+    {
+      "company": "Kerry EAS Logistics",
+      "headquarters": "Shanghai, China",
+      "description": "Kerry EAS Logistics Co., Ltd., a joint venture between Kerry Logistics and EAS International.",
+      "founded": "1996",
+      "services": ["Freight forwarding", "Supply chain solutions", "Customs clearance"]
+    },
+    {
+      "company": "Pilot Freight Services",
+      "headquarters": "Glen Mills, Pennsylvania, USA",
+      "description": "Pilot Freight Services, a U.S.-based freight and logistics services provider.",
+      "founded": "1970",
+      "services": ["Air freight", "Ocean freight", "Logistics solutions"]
+    },
+    {
+      "company": "Mainfreight",
+      "headquarters": "Auckland, New Zealand",
+      "description": "Mainfreight Limited, a New Zealand-based international supply chain logistics provider.",
+      "founded": "1978",
+      "services": ["Transportation", "Warehousing", "Freight forwarding"]
+    },
+    {
+      "company": "Kintetsu World Express",
+      "headquarters": "Tokyo, Japan",
+      "description": "Kintetsu World Express, Inc., a Japanese logistics company with a global network.",
+      "founded": "1948",
+      "services": ["Freight forwarding", "Warehousing", "Customs brokerage"]
+    },
+    {
+      "company": "Ryder System, Inc.",
+      "headquarters": "Miami, Florida, USA",
+      "description": "Ryder System, Inc., a transportation and supply chain management solutions company.",
+      "founded": "1933",
+      "services": ["Fleet management", "Supply chain solutions", "Dedicated transportation"]
+    },
+    {
+      "company": "Penske Logistics",
+      "headquarters": "Reading, Pennsylvania, USA",
+      "description": "Penske Logistics, a subsidiary of Penske Truck Leasing, offering logistics and supply chain services.",
+      "founded": "1969",
+      "services": ["Transportation management", "Warehousing", "Distribution"]
+    },
+    {
+      "company": "CH Robinson",
+      "headquarters": "Eden Prairie, Minnesota, USA",
+      "description": "CH Robinson, a global third-party logistics provider.",
+      "founded": "1905",
+      "services": ["Transportation", "Freight brokerage", "Supply chain consulting"]
+    },
+    {
+      "company": "XPO Logistics",
+      "headquarters": "Greenwich, Connecticut, USA",
+      "description": "XPO Logistics, Inc., a global logistics company.",
+      "founded": "2011",
+      "services": ["Transportation", "Supply chain solutions", "E-commerce fulfillment"]
+    },
+    {
+      "company": "Kuehne + Nagel",
+      "headquarters": "Schindellegi, Switzerland",
+      "description": "Kuehne + Nagel International AG, a global transport and logistics company.",
+      "founded": "1890",
+      "services": ["Sea freight", "Air freight", "Contract logistics"]
+    },
+    {
+      "company": "CEVA Logistics",
+      "headquarters": "Marseille, France",
+      "description": "CEVA Logistics, a global logistics company.",
+      "founded": "2007",
+      "services": ["Freight management", "Contract logistics", "Supply chain solutions"]
+    },
+    {
+      "company": "Expeditors International",
+      "headquarters": "Seattle, Washington, USA",
+      "description": "Expeditors International of Washington, Inc., a global logistics company.",
+      "founded": "1979",
+      "services": ["Customs brokerage", "Warehousing", "Supply chain solutions"]
+    },
+    {
+      "company": "Dachser",
+      "headquarters": "Kempten, Germany",
+      "description": "Dachser SE, a global logistics provider.",
+      "founded": "1930",
+      "services": ["Road transport", "Air and sea freight", "Contract logistics"]
+    },
+    {
+      "company": "Panalpina",
+      "headquarters": "Basel, Switzerland",
+      "description": "Panalpina World Transport (Holding) Ltd., a Swiss-based global provider of forwarding and logistics services.",
+      "founded": "1935",
+      "services": ["Air freight", "Ocean freight", "Customs clearance"]
+    },
+    {
+      "company": "Hellmann Worldwide Logistics",
+      "headquarters": "Osnabrück, Germany",
+      "description": "Hellmann Worldwide Logistics GmbH & Co. KG, a German logistics company.",
+      "founded": "1871",
+      "services": ["Air and sea freight", "Warehousing", "Customs services"]
+    },
+    {
+      "company": "UPS Supply Chain Solutions",
+      "headquarters": "Atlanta, Georgia, USA",
+      "description": "UPS Supply Chain Solutions, the supply chain management division of United Parcel Service (UPS).",
+      "founded": "2000",
+      "services": ["Supply chain management", "Freight forwarding", "Customs brokerage"]
+    },
+    {
+      "company": "Kerry Logistics",
+      "headquarters": "Hong Kong",
+      "description": "Kerry Logistics Network Limited, a Hong Kong-based logistics company with a global presence.",
+      "founded": "1981",
+      "services": ["Freight forwarding", "Warehousing", "E-commerce logistics"]
+    },
+    {
+      "company": "Yamato Transport",
+      "headquarters": "Tokyo, Japan",
+      "description": "Yamato Holdings Co., Ltd., a Japanese transportation and logistics company best known for its delivery services.",
+      "founded": "1919",
+      "services": ["Parcel delivery", "Logistics solutions", "Temperature-controlled transport"]
+    },
+    {
+      "company": "Kerry EAS Logistics",
+      "headquarters": "Shanghai, China",
+      "description": "Kerry EAS Logistics Co., Ltd., a joint venture between Kerry Logistics and EAS International.",
+      "founded": "1996",
+      "services": ["Freight forwarding", "Supply chain solutions", "Customs clearance"]
+    },
+    {
+      "company": "Pilot Freight Services",
+      "headquarters": "Glen Mills, Pennsylvania, USA",
+      "description": "Pilot Freight Services, a U.S.-based freight and logistics services provider.",
+      "founded": "1970",
+      "services": ["Air freight", "Ocean freight", "Logistics solutions"]
+    },
+    {
+      "company": "Mainfreight",
+      "headquarters": "Auckland, New Zealand",
+      "description": "Mainfreight Limited, a New Zealand-based international supply chain logistics provider.",
+      "founded": "1978",
+      "services": ["Transportation", "Warehousing", "Freight forwarding"]
+    },
+    {
+      "company": "Kintetsu World Express",
+      "headquarters": "Tokyo, Japan",
+      "description": "Kintetsu World Express, Inc., a Japanese logistics company with a global network.",
+      "founded": "1948",
+      "services": ["Freight forwarding", "Warehousing", "Customs brokerage"]
+    },
+    {
+      "company": "NVOCC Logistics",
+      "headquarters": "Shenzhen, China",
+      "description": "NVOCC Logistics Co., Ltd., a Chinese logistics company specializing in non-vessel operating common carrier services.",
+      "founded": "2004",
+      "services": ["Ocean freight", "Customs clearance", "Supply chain management"]
+    },
+    {
+      "company": "Toll Group",
+      "headquarters": "Melbourne, Australia",
+      "description": "Toll Group, an Australian logistics and transportation company with operations globally.",
+      "founded": "1888",
+      "services": ["Road freight", "Warehousing", "Express parcel delivery"]
+    },
+    {
+      "company": "Sinotrans Shipping",
+      "headquarters": "Hong Kong",
+      "description": "Sinotrans Shipping Limited, a Hong Kong-based shipping and logistics company.",
+      "founded": "2002",
+      "services": ["Shipping services", "Logistics solutions", "Port operations"]
+    },
+    {
+      "company": "Kuehne + Nagel",
+      "headquarters": "Schindellegi, Switzerland",
+      "description": "Kuehne + Nagel International AG, a global transport and logistics company.",
+      "founded": "1890",
+      "services": ["Sea freight", "Air freight", "Contract logistics"]
+    },
+    {
+      "company": "CEVA Logistics",
+      "headquarters": "Marseille, France",
+      "description": "CEVA Logistics, a global logistics company.",
+      "founded": "2007",
+      "services": ["Freight management", "Contract logistics", "Supply chain solutions"]
+    },
+    {
+      "company": "Expeditors International",
+      "headquarters": "Seattle, Washington, USA",
+      "description": "Expeditors International of Washington, Inc., a global logistics company.",
+      "founded": "1979",
+      "services": ["Customs brokerage", "Warehousing", "Supply chain solutions"]
+    },
+    {
+      "company": "Dachser",
+      "headquarters": "Kempten, Germany",
+      "description": "Dachser SE, a global logistics provider.",
+      "founded": "1930",
+      "services": ["Road transport", "Air and sea freight", "Contract logistics"]
+    },
+    {
+      "company": "Panalpina",
+      "headquarters": "Basel, Switzerland",
+      "description": "Panalpina World Transport (Holding) Ltd., a Swiss-based global provider of forwarding and logistics services.",
+      "founded": "1935",
+      "services": ["Air freight", "Ocean freight", "Customs clearance"]
+    },
+    {
+      "company": "Hellmann Worldwide Logistics",
+      "headquarters": "Osnabrück, Germany",
+      "description": "Hellmann Worldwide Logistics GmbH & Co. KG, a German logistics company.",
+      "founded": "1871",
+      "services": ["Air and sea freight", "Warehousing", "Customs services"]
+    },
+    {
+      "company": "Ryder System, Inc.",
+      "headquarters": "Miami, Florida, USA",
+      "description": "Ryder System, Inc., a transportation and supply chain management solutions company.",
+      "founded": "1933",
+      "services": ["Fleet management", "Supply chain solutions", "Dedicated transportation"]
+    },
+    {
+      "company": "Penske Logistics",
+      "headquarters": "Reading, Pennsylvania, USA",
+      "description": "Penske Logistics, a subsidiary of Penske Truck Leasing, offering logistics and supply chain services.",
+      "founded": "1969",
+      "services": ["Transportation management", "Warehousing", "Distribution"]
+    },
+    {
+      "company": "CH Robinson",
+      "headquarters": "Eden Prairie, Minnesota, USA",
+      "description": "CH Robinson, a global third-party logistics provider.",
+      "founded": "1905",
+      "services": ["Transportation", "Freight brokerage", "Supply chain consulting"]
+    },
+    {
+      "company": "XPO Logistics",
+      "headquarters": "Greenwich, Connecticut, USA",
+      "description": "XPO Logistics, Inc., a global logistics company.",
+      "founded": "2011",
+      "services": ["Transportation", "Supply chain solutions", "E-commerce fulfillment"]
+    },
+    {
+      "company": "DHL Supply Chain",
+      "headquarters": "Bonn, Germany",
+      "description": "DHL Supply Chain, a division of Deutsche Post DHL Group, providing contract logistics solutions.",
+      "founded": "2005",
+      "services": ["Contract logistics", "Warehouse management", "Transportation"]
+    },
+    {
+      "company": "DB Schenker",
+      "headquarters": "Frankfurt, Germany",
+      "description": "DB Schenker, a global logistics provider and a subsidiary of Deutsche Bahn.",
+      "founded": "1872",
+      "services": ["Air and ocean freight", "Land transport", "Contract logistics"]
+    },
+    {
+      "company": "JAS Worldwide",
+      "headquarters": "Atlanta, Georgia, USA",
+      "description": "JAS Worldwide, a global freight forwarding and logistics company.",
+      "founded": "1978",
+      "services": ["Freight forwarding", "Customs brokerage", "Supply chain solutions"]
+    },
+    {
+      "company": "Nippon Express",
+      "headquarters": "Tokyo, Japan",
+      "description": "Nippon Express Co., Ltd., a Japanese logistics company offering air, sea, and land transport services.",
+      "founded": "1937",
+      "services": ["Freight forwarding", "Warehousing", "Customs clearance"]
+    },
+    {
+      "company": "GEODIS",
+      "headquarters": "Levallois-Perret, France",
+      "description": "GEODIS, a global logistics provider offering a range of services.",
+      "founded": "1904",
+      "services": ["Transportation", "Supply chain optimization", "E-commerce logistics"]
+    },
+    {
+      "company": "UPS Freight",
+      "headquarters": "Richmond, Virginia, USA",
+      "description": "UPS Freight, a division of UPS providing less-than-truckload (LTL) transportation services.",
+      "founded": "2005",
+      "services": ["Less-than-truckload (LTL) transportation", "Logistics solutions"]
+    },
+    {
+      "company": "Kintetsu World Express",
+      "headquarters": "Tokyo, Japan",
+      "description": "Kintetsu World Express, Inc., a Japanese logistics company with a global network.",
+      "founded": "1948",
+      "services": ["Freight forwarding", "Warehousing", "Customs brokerage"]
+    },
+    {
+      "company": "Kerry Logistics",
+      "headquarters": "Hong Kong",
+      "description": "Kerry Logistics Network Limited, a Hong Kong-based logistics company with a global presence.",
+      "founded": "1981",
+      "services": ["Freight forwarding", "Warehousing", "E-commerce logistics"]
+    },
+    {
+      "company": "CMA CGM Logistics",
+      "headquarters": "Marseille, France",
+      "description": "CMA CGM Logistics, a subsidiary of CMA CGM Group offering logistics services.",
+      "founded": "2001",
+      "services": ["Freight management", "Warehousing", "Supply chain solutions"]
+    },
+    {
+      "company": "Damco",
+      "headquarters": "The Hague, Netherlands",
+      "description": "Damco, a global logistics company and a part of the A.P. Moller – Maersk Group.",
+      "founded": "1908",
+      "services": ["Freight forwarding", "Supply chain management", "Customs brokerage"]
+    }
+]
