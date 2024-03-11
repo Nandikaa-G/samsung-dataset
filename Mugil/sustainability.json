@@ -1,0 +1,422 @@
+[
+    {
+      "organization": "World Wildlife Fund (WWF)",
+      "focus_area": "Conservation and preservation of wildlife and ecosystems.",
+      "location": "Gland, Switzerland",
+      "website": "https://www.worldwildlife.org/"
+    },
+    {
+      "organization": "Greenpeace",
+      "focus_area": "Environmental activism and protection of biodiversity.",
+      "location": "Amsterdam, Netherlands",
+      "website": "https://www.greenpeace.org/"
+    },
+    {
+      "organization": "United Nations Environment Programme (UNEP)",
+      "focus_area": "Global environmental issues and sustainability.",
+      "location": "Nairobi, Kenya",
+      "website": "https://www.unep.org/"
+    },
+    {
+      "organization": "The Nature Conservancy",
+      "focus_area": "Land and water conservation, addressing climate change.",
+      "location": "Arlington, Virginia, USA",
+      "website": "https://www.nature.org/"
+    },
+    {
+      "organization": "Sustainable Development Solutions Network (SDSN)",
+      "focus_area": "Promoting sustainable development goals (SDGs).",
+      "location": "New York City, USA",
+      "website": "https://www.unsdsn.org/"
+    },
+    {
+      "organization": "Rainforest Alliance",
+      "focus_area": "Conserving biodiversity and promoting sustainable livelihoods.",
+      "location": "New York City, USA",
+      "website": "https://www.rainforest-alliance.org/"
+    },
+    {
+      "organization": "Carbon Trust",
+      "focus_area": "Reducing carbon emissions and advancing low carbon technologies.",
+      "location": "London, UK",
+      "website": "https://www.carbontrust.com/"
+    },
+    {
+      "organization": "350.org",
+      "focus_area": "Campaigning against fossil fuels and promoting renewable energy.",
+      "location": "Brooklyn, New York, USA",
+      "website": "https://350.org/"
+    },
+    {
+      "organization": "B Lab",
+      "focus_area": "Promoting B Corporations and businesses that meet high social and environmental standards.",
+      "location": "Berwyn, Pennsylvania, USA",
+      "website": "https://bcorporation.net/"
+    },
+    {
+      "organization": "Conservation International",
+      "focus_area": "Protecting nature for the well-being of humanity.",
+      "location": "Arlington, Virginia, USA",
+      "website": "https://www.conservation.org/"
+    },
+    {
+      "organization": "Environmental Defense Fund",
+      "focus_area": "Using science and economics to find practical solutions to environmental problems.",
+      "location": "New York City, USA",
+      "website": "https://www.edf.org/"
+    },
+    {
+      "organization": "Green Building Councils (WorldGBC)",
+      "focus_area": "Promoting green building practices and sustainability in the construction industry.",
+      "location": "Geneva, Switzerland",
+      "website": "https://www.worldgbc.org/"
+    },
+    {
+      "organization": "Ocean Conservancy",
+      "focus_area": "Protecting the ocean from challenges like pollution and climate change.",
+      "location": "Washington, D.C., USA",
+      "website": "https://oceanconservancy.org/"
+    },
+    {
+      "organization": "Rocky Mountain Institute",
+      "focus_area": "Advancing market-based solutions for energy efficiency and renewable energy.",
+      "location": "Boulder, Colorado, USA",
+      "website": "https://rmi.org/"
+    },
+    {
+      "organization": "Sierra Club",
+      "focus_area": "Promoting clean energy, conservation, and addressing climate change.",
+      "location": "Oakland, California, USA",
+      "website": "https://www.sierraclub.org/"
+    },
+    {
+      "organization": "Zero Waste International Alliance",
+      "focus_area": "Advocating for zero waste practices and policies.",
+      "location": "Lafayette, California, USA",
+      "website": "https://zwia.org/"
+    },
+    {
+      "organization": "Solar Energy Industries Association (SEIA)",
+      "focus_area": "Promoting solar energy and advocating for policies to support its growth.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.seia.org/"
+    },
+    {
+      "organization": "Earthjustice",
+      "focus_area": "Using the power of law and advocacy to protect the environment and public health.",
+      "location": "San Francisco, California, USA",
+      "website": "https://earthjustice.org/"
+    },
+    {
+      "organization": "Green Climate Fund",
+      "focus_area": "Supporting climate projects in developing countries to reduce greenhouse gas emissions.",
+      "location": "Incheon, South Korea",
+      "website": "https://www.greenclimate.fund/"
+    },
+    {
+      "organization": "ICLEI - Local Governments for Sustainability",
+      "focus_area": "Working with local governments to promote sustainability and resilience.",
+      "location": "Bonn, Germany",
+      "website": "https://iclei.org/"
+    },
+    {
+      "organization": "Global Footprint Network",
+      "focus_area": "Advancing the science of sustainability and ecological footprinting.",
+      "location": "Oakland, California, USA",
+      "website": "https://www.footprintnetwork.org/"
+    },
+    {
+      "organization": "World Resources Institute (WRI)",
+      "focus_area": "Research and advocacy for sustainable natural resource management.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.wri.org/"
+    },
+    {
+      "organization": "C40 Cities Climate Leadership Group",
+      "focus_area": "Supporting cities in addressing climate change and sustainability.",
+      "location": "London, UK",
+      "website": "https://www.c40.org/"
+    },
+    {
+      "organization": "The Ellen MacArthur Foundation",
+      "focus_area": "Promoting the circular economy to eliminate waste and promote reuse.",
+      "location": "Cowes, Isle of Wight, UK",
+      "website": "https://www.ellenmacarthurfoundation.org/"
+    },
+    {
+      "organization": "Global Green Growth Institute (GGGI)",
+      "focus_area": "Promoting green growth strategies for sustainable development.",
+      "location": "Seoul, South Korea",
+      "website": "https://www.gggi.org/"
+    },
+    {
+      "organization": "Carbon Disclosure Project (CDP)",
+      "focus_area": "Encouraging companies and cities to disclose their environmental impact.",
+      "location": "London, UK",
+      "website": "https://www.cdp.net/"
+    },
+    {
+      "organization": "The Conservation Fund",
+      "focus_area": "Protecting America's natural and historic treasures.",
+      "location": "Arlington, Virginia, USA",
+      "website": "https://www.conservationfund.org/"
+    },
+    {
+      "organization": "Sustainable Agriculture Network (SAN)",
+      "focus_area": "Promoting sustainable farming practices and certification.",
+      "location": "Bonn, Germany",
+      "website": "https://www.san.ag/"
+    },
+    {
+      "organization": "Clean Energy States Alliance (CESA)",
+      "focus_area": "Supporting state policies and programs for clean energy development.",
+      "location": "Montpelier, Vermont, USA",
+      "website": "https://www.cleanegroup.org/"
+    },
+    {
+      "organization": "International Union for Conservation of Nature (IUCN)",
+      "focus_area": "Conservation and sustainable use of biodiversity.",
+      "location": "Gland, Switzerland",
+      "website": "https://www.iucn.org/"
+    },
+    {
+      "organization": "Union of Concerned Scientists",
+      "focus_area": "Using science to address climate change, sustainability, and environmental issues.",
+      "location": "Cambridge, Massachusetts, USA",
+      "website": "https://www.ucsusa.org/"
+    },
+    {
+      "organization": "Sustainable Apparel Coalition",
+      "focus_area": "Improving sustainability in the apparel, footwear, and textile industry.",
+      "location": "San Francisco, California, USA",
+      "website": "https://apparelcoalition.org/"
+    },
+    {
+      "organization": "Climate Reality Project",
+      "focus_area": "Educating and advocating for solutions to the climate crisis.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.climaterealityproject.org/"
+    },
+    {
+      "organization": "Global Sustainable Tourism Council (GSTC)",
+      "focus_area": "Promoting sustainable tourism practices and certification.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.gstcouncil.org/"
+    },
+    {
+      "organization": "International Renewable Energy Agency (IRENA)",
+      "focus_area": "Promoting renewable energy adoption globally.",
+      "location": "Abu Dhabi, UAE",
+      "website": "https://www.irena.org/"
+    },
+    {
+      "organization": "Sustainable Fisheries Partnership",
+      "focus_area": "Improving the sustainability of global fisheries.",
+      "location": "Santa Cruz, California, USA",
+      "website": "https://www.sustainablefish.org/"
+    },
+    {
+      "organization": "The Green Belt Movement",
+      "focus_area": "Promoting environmental conservation and women's empowerment.",
+      "location": "Nairobi, Kenya",
+      "website": "https://www.greenbeltmovement.org/"
+    },
+    {
+      "organization": "ICLEI - Local Governments for Sustainability",
+      "focus_area": "Working with local governments to promote sustainability and resilience.",
+      "location": "Bonn, Germany",
+      "website": "https://iclei.org/"
+    },
+    {
+      "organization": "ClimateWorks Foundation",
+      "focus_area": "Supporting policies and programs to reduce greenhouse gas emissions.",
+      "location": "San Francisco, California, USA",
+      "website": "https://www.climateworks.org/"
+    },
+    {
+      "organization": "Conservation International",
+      "focus_area": "Protecting nature for the well-being of humanity.",
+      "location": "Arlington, Virginia, USA",
+      "website": "https://www.conservation.org/"
+    },
+    {
+      "organization": "EcoHealth Alliance",
+      "focus_area": "Researching the connections between human and environmental health.",
+      "location": "New York City, USA",
+      "website": "https://www.ecohealthalliance.org/"
+    },
+    {
+      "organization": "Sustainability Accounting Standards Board (SASB)",
+      "focus_area": "Developing sustainability accounting standards for businesses.",
+      "location": "San Francisco, California, USA",
+      "website": "https://www.sasb.org/"
+    },
+    {
+      "organization": "World Wide Fund for Nature (WWF) International",
+      "focus_area": "Conservation and sustainable development on a global scale.",
+      "location": "Gland, Switzerland",
+      "website": "https://wwf.panda.org/"
+    },
+    {
+      "organization": "Renewable Energy Policy Network for the 21st Century (REN21)",
+      "focus_area": "Advancing renewable energy policies and practices worldwide.",
+      "location": "Paris, France",
+      "website": "https://www.ren21.net/"
+    },
+    {
+      "organization": "Sustainable Ocean Alliance",
+      "focus_area": "Empowering young leaders to create innovative solutions for ocean health.",
+      "location": "San Francisco, California, USA",
+      "website": "https://www.soalliance.org/"
+    },
+    {
+      "organization": "Global Water Partnership",
+      "focus_area": "Promoting integrated water resources management for sustainability.",
+      "location": "Stockholm, Sweden",
+      "website": "https://www.gwp.org/"
+    },
+    {
+      "organization": "The Climate Group",
+      "focus_area": "Accelerating climate action and clean energy solutions.",
+      "location": "London, UK",
+      "website": "https://www.theclimategroup.org/"
+    },
+    {
+      "organization": "Rockefeller Foundation",
+      "focus_area": "Investing in sustainable development and resilience.",
+      "location": "New York City, USA",
+      "website": "https://www.rockefellerfoundation.org/"
+    },
+    {
+      "organization": "Environmental Working Group (EWG)",
+      "focus_area": "Research and advocacy on environmental health and sustainability.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.ewg.org/"
+    },
+    {
+      "organization": "Global Forest Watch",
+      "focus_area": "Monitoring and protecting the world's forests.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.globalforestwatch.org/"
+    },
+    {
+      "organization": "Conservation International",
+      "focus_area": "Protecting nature for the well-being of humanity.",
+      "location": "Arlington, Virginia, USA",
+      "website": "https://www.conservation.org/"
+    },
+    {
+      "organization": "World Business Council for Sustainable Development (WBCSD)",
+      "focus_area": "Bringing together businesses to accelerate the transition to a sustainable world.",
+      "location": "Geneva, Switzerland",
+      "website": "https://www.wbcsd.org/"
+    },
+    {
+      "organization": "Global Reporting Initiative (GRI)",
+      "focus_area": "Developing sustainability reporting standards for organizations.",
+      "location": "Amsterdam, Netherlands",
+      "website": "https://www.globalreporting.org/"
+    },
+    {
+      "organization": "Forest Stewardship Council (FSC)",
+      "focus_area": "Promoting responsible management of the world's forests.",
+      "location": "Bonn, Germany",
+      "website": "https://www.fsc.org/"
+    },
+    {
+      "organization": "World Wildlife Fund for Nature (WWF) US",
+      "focus_area": "Conservation and sustainable development.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.worldwildlife.org/"
+    },
+    {
+      "organization": "International Institute for Sustainable Development (IISD)",
+      "focus_area": "Advancing sustainable development through research and policy analysis.",
+      "location": "Winnipeg, Canada",
+      "website": "https://www.iisd.org/"
+    },
+    {
+      "organization": "The Ocean Cleanup",
+      "focus_area": "Developing advanced technologies to rid the world's oceans of plastic.",
+      "location": "Rotterdam, Netherlands",
+      "website": "https://theoceancleanup.com/"
+    },
+    {
+      "organization": "Rainforest Trust",
+      "focus_area": "Protecting threatened tropical forests and endangered wildlife.",
+      "location": "Warrenton, Virginia, USA",
+      "website": "https://www.rainforesttrust.org/"
+    },
+    {
+      "organization": "Circular Economy Club (CEC)",
+      "focus_area": "Promoting the circular economy as a solution for sustainability.",
+      "location": "London, UK",
+      "website": "https://www.circulareconomyclub.com/"
+    },
+    {
+      "organization": "Renewable Cities",
+      "focus_area": "Supporting cities in transitioning to 100% renewable energy.",
+      "location": "Vancouver, Canada",
+      "website": "https://renewablecities.ca/"
+    },
+    {
+      "organization": "Sustainable Energy for All (SEforALL)",
+      "focus_area": "Advancing sustainable energy access for all.",
+      "location": "Vienna, Austria",
+      "website": "https://www.seforall.org/"
+    },
+    {
+      "organization": "Climate Emergency Fund",
+      "focus_area": "Supporting urgent action on climate change.",
+      "location": "San Francisco, California, USA",
+      "website": "https://www.climateemergencyfund.org/"
+    },
+    {
+      "organization": "World Food Program (WFP)",
+      "focus_area": "Addressing hunger and food security worldwide.",
+      "location": "Rome, Italy",
+      "website": "https://www.wfp.org/"
+    },
+    {
+      "organization": "The Trust for Public Land",
+      "focus_area": "Protecting land for people to enjoy as parks, gardens, and natural areas.",
+      "location": "San Francisco, California, USA",
+      "website": "https://www.tpl.org/"
+    },
+    {
+      "organization": "Green Schools Alliance",
+      "focus_area": "Empowering schools to adopt sustainable practices.",
+      "location": "New York City, USA",
+      "website": "https://www.greenschoolsalliance.org/"
+    },
+    {
+      "organization": "International Renewable Energy Agency (IRENA)",
+      "focus_area": "Promoting renewable energy adoption globally.",
+      "location": "Abu Dhabi, UAE",
+      "website": "https://www.irena.org/"
+    },
+    {
+      "organization": "Institute for Sustainable Communities (ISC)",
+      "focus_area": "Building resilient communities and addressing climate change.",
+      "location": "Montpelier, Vermont, USA",
+      "website": "https://www.iscvt.org/"
+    },
+    {
+      "organization": "Clean Water Action",
+      "focus_area": "Advocating for clean water and a sustainable environment.",
+      "location": "Washington, D.C., USA",
+      "website": "https://www.cleanwateraction.org/"
+    },
+    {
+      "organization": "Earthwatch Institute",
+      "focus_area": "Engaging people in scientific research and education for a sustainable planet.",
+      "location": "Boston, Massachusetts, USA",
+      "website": "https://earthwatch.org/"
+    },
+    {
+      "organization": "Solar Aid",
+      "focus_area": "Providing access to solar lights in off-grid communities.",
+      "location": "London, UK",
+      "website": "https://solar-aid.org/"
+    }
+]
