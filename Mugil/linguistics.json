@@ -1,0 +1,482 @@
+[
+    {
+      "field": "Phonetics",
+      "description": "The study of the physical sounds of human speech, including how they are produced, transmitted, and perceived.",
+      "branches": ["Articulatory Phonetics", "Acoustic Phonetics", "Auditory Phonetics"],
+      "prominent_figures": ["Peter Ladefoged", "Ken Stevens", "David Crystal"]
+    },
+    {
+      "field": "Syntax",
+      "description": "The study of how words combine to form grammatical sentences.",
+      "branches": ["Generative Grammar", "Dependency Grammar", "Cognitive Grammar"],
+      "prominent_figures": ["Noam Chomsky", "Lucien Tesnière", "Ronald Langacker"]
+    },
+    {
+      "field": "Morphology",
+      "description": "The study of the structure and formation of words.",
+      "branches": ["Inflectional Morphology", "Derivational Morphology", "Analytical Morphology"],
+      "prominent_figures": ["William Dwight Whitney", "Matthews Halle", "Bernard Bloch"]
+    },
+    {
+      "field": "Semantics",
+      "description": "The study of meaning in language, including how words and sentences convey information.",
+      "branches": ["Lexical Semantics", "Compositional Semantics", "Pragmatics"],
+      "prominent_figures": ["Charles Fillmore", "Geoffrey Leech", "Paul Grice"]
+    },
+    {
+      "field": "Pragmatics",
+      "description": "The study of how context influences the interpretation of language.",
+      "branches": ["Speech Act Theory", "Conversational Implicature", "Politeness Theory"],
+      "prominent_figures": ["J.L. Austin", "H.P. Grice", "Penelope Brown"]
+    },
+    {
+      "field": "Historical Linguistics",
+      "description": "The study of language change over time and the relationships between languages.",
+      "branches": ["Comparative Linguistics", "Proto-Indo-European", "Language Family Tree"],
+      "prominent_figures": ["August Schleicher", "Johannes Schmidt", "William Jones"]
+    },
+    {
+      "field": "Sociolinguistics",
+      "description": "The study of how language varies and changes in social contexts.",
+      "branches": ["Dialectology", "Language Variation", "Language and Identity"],
+      "prominent_figures": ["William Labov", "John J. Gumperz", "Penelope Eckert"]
+    },
+    {
+      "field": "Psycholinguistics",
+      "description": "The study of how people acquire, comprehend, and produce language.",
+      "branches": ["Language Acquisition", "Language Processing", "Bilingualism"],
+      "prominent_figures": ["Steven Pinker", "Jean Berko Gleason", "Elizabeth Bates"]
+    },
+    {
+      "field": "Computational Linguistics",
+      "description": "The study of using computer algorithms to process and analyze natural language.",
+      "branches": ["Natural Language Processing", "Machine Translation", "Speech Recognition"],
+      "prominent_figures": ["Noam Chomsky", "Geoffrey Hinton", "Karen Spärck Jones"]
+    },
+    {
+      "field": "Cognitive Linguistics",
+      "description": "The study of how language reflects and shapes thought and cognition.",
+      "branches": ["Conceptual Metaphor Theory", "Cognitive Grammar", "Construction Grammar"],
+      "prominent_figures": ["George Lakoff", "Ronald Langacker", "Leonard Talmy"]
+    },
+    {
+      "field": "Neurolinguistics",
+      "description": "The study of how language is represented in the brain and how brain damage affects language abilities.",
+      "branches": ["Aphasiology", "Language Processing", "Brain Mapping"],
+      "prominent_figures": ["Steven Pinker", "Nina Dronkers", "Alfredo Ardila"]
+    },
+    {
+      "field": "Discourse Analysis",
+      "description": "The study of language in use, including how language functions in different contexts and social interactions.",
+      "branches": ["Conversation Analysis", "Critical Discourse Analysis", "Narrative Analysis"],
+      "prominent_figures": ["Michel Foucault", "Erving Goffman", "Teun A. van Dijk"]
+    },
+    {
+      "field": "Applied Linguistics",
+      "description": "The application of linguistic theories and methods to real-world issues such as language teaching, translation, and language policy.",
+      "branches": ["Language Teaching", "Translation Studies", "Language Policy"],
+      "prominent_figures": ["Henry Widdowson", "Claire Kramsch", "James J. Jenkins"]
+    },
+    {
+      "field": "Cognitive Neuroscience of Language",
+      "description": "The study of the neural mechanisms underlying language processing and production.",
+      "branches": ["Language and Memory", "Language and Attention", "Neuroimaging"],
+      "prominent_figures": ["Angela Friederici", "Loraine K. Obler", "Peter Hagoort"]
+    },
+    {
+      "field": "Language Evolution",
+      "description": "The study of how languages change and develop over time.",
+      "branches": ["Language Contact", "Language Families", "Language Change"],
+      "prominent_figures": ["Steven Pinker", "Mark Pagel", "Noam Chomsky"]
+    },
+    {
+      "field": "Corpus Linguistics",
+      "description": "The study of language based on large collections of texts (corpora), often using computational methods.",
+      "branches": ["Corpus Annotation", "Corpus Analysis Tools", "Corpus-Based Language Teaching"],
+      "prominent_figures": ["John Sinclair", "Michael Stubbs", "Tony McEnery"]
+    },
+    {
+      "field": "Language Acquisition",
+      "description": "The study of how humans acquire language, particularly in children.",
+      "branches": ["First Language Acquisition", "Second Language Acquisition", "Language Development"],
+      "prominent_figures": ["Steven Pinker", "Jean Berko Gleason", "Elaine Funnell"]
+    },
+    {
+      "field": "Lexicography",
+      "description": "The practice of compiling dictionaries and the study of the principles of dictionary-making.",
+      "branches": ["Monolingual Dictionaries", "Bilingual Dictionaries", "Specialized Lexicography"],
+      "prominent_figures": ["Samuel Johnson", "Noah Webster", "Peter Roget"]
+    },
+    {
+      "field": "Psycholinguistics",
+      "description": "The study of the mental processes involved in language use, including how people comprehend, produce, and acquire language.",
+      "branches": ["Language Comprehension", "Language Production", "Language Acquisition"],
+      "prominent_figures": ["Steven Pinker", "Jean Berko Gleason", "Elizabeth Bates"]
+    },
+    {
+      "field": "Language Contact",
+      "description": "The study of how languages influence each other when speakers of different languages come into contact.",
+      "branches": ["Pidgins and Creoles", "Language Borrowing", "Code-Switching"],
+      "prominent_figures": ["Sarah Thomason", "Pieter Muysken", "Nicholas Ostler"]
+    },
+    {
+      "field": "Translation Studies",
+      "description": "The study of the theory, methods, and practice of translating written texts from one language to another.",
+      "branches": ["Literary Translation", "Technical Translation", "Interpreting"],
+      "prominent_figures": ["Lawrence Venuti", "Mona Baker", "Gideon Toury"]
+    },
+    {
+      "field": "Typology",
+      "description": "The study of the common patterns and structures found across the world's languages.",
+      "branches": ["Word Order", "Morphological Typology", "Syntactic Typology"],
+      "prominent_figures": ["Joseph Greenberg", "Bernard Comrie", "Martin Haspelmath"]
+    },
+    {
+      "field": "Endangered Languages",
+      "description": "The study of languages that are at risk of disappearing, often due to political, social, or environmental factors.",
+      "branches": ["Language Documentation", "Language Revitalization", "Language Rights"],
+      "prominent_figures": ["Nicholas Evans", "David Crystal", "K. David Harrison"]
+    },
+    {
+      "field": "Forensic Linguistics",
+      "description": "The application of linguistic knowledge to legal matters, such as analyzing language in legal documents, courtroom discourse, and authorship attribution.",
+      "branches": ["Authorship Analysis", "Language and Law", "Forensic Phonetics"],
+      "prominent_figures": ["Roger Shuy", "Malcolm Coulthard", "Peter French"]
+    },
+    {
+      "field": "Dialectology",
+      "description": "The study of regional variations in language, including differences in pronunciation, vocabulary, and grammar.",
+      "branches": ["Regional Dialects", "Urban Dialects", "Social Dialects"],
+      "prominent_figures": ["William Labov", "Walt Wolfram", "Natalie Schilling-Estes"]
+    },
+    {
+      "field": "Quantitative Linguistics",
+      "description": "The use of statistical methods to analyze linguistic data and study patterns in language.",
+      "branches": ["Corpus Linguistics", "Computational Linguistics", "Statistical Modeling"],
+      "prominent_figures": ["Geoffrey Sampson", "Stefan Th. Gries", "Dennis Preston"]
+    },
+    {
+      "field": "Phonology",
+      "description": "The study of how sounds function in languages and the rules governing their distribution and patterning.",
+      "branches": ["Segmental Phonology", "Suprasegmental Phonology", "Phonological Processes"],
+      "prominent_figures": ["Noam Chomsky", "Morris Halle", "Stephen R. Anderson"]
+    },
+    {
+      "field": "Language Policy",
+      "description": "The study of how governments and institutions make decisions about language use and language planning.",
+      "branches": ["Official Language Policies", "Language Education Policies", "Bilingualism Policies"],
+      "prominent_figures": ["Bernard Spolsky", "James Tollefson", "Tove Skutnabb-Kangas"]
+    },
+    {
+      "field": "Sign Linguistics",
+      "description": "The study of sign languages and how they convey meaning through visual-manual communication.",
+      "branches": ["Gesture Studies", "Deaf Culture", "Sign Language Acquisition"],
+      "prominent_figures": ["William Stokoe", "Carol Padden", "Ronnie Wilbur"]
+    },
+    {
+      "field": "Linguistic Anthropology",
+      "description": "The study of how language and culture are intertwined, including how language shapes social interactions and cultural norms.",
+      "branches": ["Language and Identity", "Language and Power", "Language Ideology"],
+      "prominent_figures": ["Edward Sapir", "Benjamin Lee Whorf", "Michael Silverstein"]
+    },
+    {
+      "field": "Computational Phonology",
+      "description": "The study of formal models and computational methods for describing and analyzing the sound patterns of languages.",
+      "branches": ["Finite-State Phonology", "Optimality Theory", "Phonological Parsing"],
+      "prominent_figures": ["Mark Hasegawa-Johnson", "Ronald Kaplan", "Alan Prince"]
+    },
+    {
+      "field": "Narratology",
+      "description": "The study of narrative structures and how stories are told across different cultures and media.",
+      "branches": ["Plot Structure", "Narrative Voice", "Storytelling Techniques"],
+      "prominent_figures": ["Vladimir Propp", "Roland Barthes", "Gérard Genette"]
+    },
+    {
+      "field": "Cognitive Poetics",
+      "description": "The study of how readers and listeners process and interpret literary texts using cognitive theories.",
+      "branches": ["Metaphor Studies", "Narrative Processing", "Reader Response Theory"],
+      "prominent_figures": ["Reuven Tsur", "Alan Richardson", "Lisa Zunshine"]
+    },
+    {
+      "field": "Language and Gender",
+      "description": "The study of how language reflects and perpetuates gender roles and identities.",
+      "branches": ["Genderlects", "Language and Sexuality", "Feminist Linguistics"],
+      "prominent_figures": ["Deborah Tannen", "Robin Lakoff", "Penelope Eckert"]
+    },
+    {
+      "field": "Multimodal Communication",
+      "description": "The study of how meaning is conveyed through a combination of different modes such as language, gesture, and visual elements.",
+      "branches": ["Multimodal Discourse Analysis", "Embodied Communication", "Digital Multimodal Texts"],
+      "prominent_figures": ["Gunther Kress", "Theo van Leeuwen", "Charles Goodwin"]
+    },
+    {
+      "field": "Psycholinguistic Models of Language",
+      "description": "The study of cognitive models and processing mechanisms involved in language production and comprehension.",
+      "branches": ["Connectionist Models", "Activation-Based Models", "Incremental Processing"],
+      "prominent_figures": ["Steven Pinker", "Gary Dell", "Elizabeth Bates"]
+    },
+    {
+      "field": "Language and Emotion",
+      "description": "The study of how language expresses and influences emotions, including the role of emotional content in communication.",
+      "branches": ["Affective Language Processing", "Emotional Registers", "Language and Empathy"],
+      "prominent_figures": ["Klaus Scherer", "Paul Ekman", "Lisa Feldman Barrett"]
+    },
+    {
+      "field": "Evolutionary Linguistics",
+      "description": "The study of how language has evolved over time and the evolutionary processes that shaped human language.",
+      "branches": ["Language Evolutionary Biology", "Phylogenetics of Languages", "Comparative Linguistics"],
+      "prominent_figures": ["Derek Bickerton", "Steven Pinker", "Michael Tomasello"]
+    },
+    {
+      "field": "Linguistic Relativity",
+      "description": "The hypothesis that the structure of a language affects the way its speakers perceive and think about the world.",
+      "branches": ["Strong Whorfian Hypothesis", "Weak Whorfian Hypothesis", "Language and Thought"],
+      "prominent_figures": ["Edward Sapir", "Benjamin Lee Whorf", "Steven Pinker"]
+    },
+    {
+      "field": "Language and Identity",
+      "description": "The study of how language contributes to the construction of individual and group identities.",
+      "branches": ["Language Ideologies", "Language and Ethnicity", "Language and Nationalism"],
+      "prominent_figures": ["Joshua A. Fishman", "Monica Heller", "Norman Fairclough"]
+    },
+    {
+      "field": "Language Change",
+      "description": "The study of how languages evolve and change over time.",
+      "branches": ["Phonological Change", "Semantic Change", "Grammaticalization"],
+      "prominent_figures": ["William Labov", "Lyle Campbell", "David Lightfoot"]
+    },
+    {
+      "field": "Lexical Semantics",
+      "description": "The study of word meanings and how they are represented in the mind.",
+      "branches": ["Word Sense Disambiguation", "Semantic Networks", "Conceptual Semantics"],
+      "prominent_figures": ["Geoffrey Leech", "Ray Jackendoff", "Charles J. Fillmore"]
+    },
+    {
+      "field": "Pragmatic Markers",
+      "description": "The study of linguistic expressions that convey speaker attitudes, discourse structure, and interactional meanings.",
+      "branches": ["Discourse Particles", "Hedges", "Speech Act Markers"],
+      "prominent_figures": ["Penelope Brown", "Stephen C. Levinson", "Elizabeth Closs Traugott"]
+    },
+    {
+      "field": "Language Processing",
+      "description": "The study of how humans comprehend and produce language in real-time.",
+      "branches": ["Parsing", "Sentence Processing", "Working Memory"],
+      "prominent_figures": ["Michael H. Posner", "Steven Pinker", "Fernanda Ferreira"]
+    },
+    {
+      "field": "Phonological Theory",
+      "description": "The study of how sounds are organized and used in language.",
+      "branches": ["Optimality Theory", "Feature Theory", "Autosegmental Phonology"],
+      "prominent_figures": ["Alan Prince", "John J. McCarthy", "Paul Smolensky"]
+    },
+    {
+      "field": "Language Contact",
+      "description": "The study of how languages influence each other when in contact, leading to borrowing and code-switching.",
+      "branches": ["Bilingualism", "Creole Languages", "Language Shift"],
+      "prominent_figures": ["Sarah G. Thomason", "Pieter Muysken", "Salikoko S. Mufwene"]
+    },
+    {
+      "field": "Linguistic Variation",
+      "description": "The study of how language varies among speakers and across different social, regional, and stylistic contexts.",
+      "branches": ["Sociolinguistics", "Dialectology", "Register Variation"],
+      "prominent_figures": ["William Labov", "John J. Gumperz", "Peter Trudgill"]
+    },
+    {
+      "field": "Language Contact",
+      "description": "The study of how languages influence each other when in contact, leading to borrowing and code-switching.",
+      "branches": ["Bilingualism", "Creole Languages", "Language Shift"],
+      "prominent_figures": ["Sarah G. Thomason", "Pieter Muysken", "Salikoko S. Mufwene"]
+    },
+    {
+      "field": "Neurocognition of Language",
+      "description": "The study of how language is processed in the brain, combining linguistics with cognitive neuroscience.",
+      "branches": ["Brain Imaging", "Language Acquisition", "Language Disorders"],
+      "prominent_figures": ["Alfredo Ardila", "Angela D. Friederici", "Karen Emmorey"]
+    },
+    {
+      "field": "Cognitive Linguistics",
+      "description": "The study of how language reflects and shapes cognitive processes such as perception, memory, and reasoning.",
+      "branches": ["Conceptual Metaphor Theory", "Cognitive Grammar", "Embodied Cognition"],
+      "prominent_figures": ["George Lakoff", "Ronald W. Langacker", "Leonard Talmy"]
+    },
+    {
+      "field": "Gesture Studies",
+      "description": "The study of non-verbal communication through gestures, including their meanings and cultural variations.",
+      "branches": ["Emblems", "Illustrators", "Affect Displays"],
+      "prominent_figures": ["David McNeill", "Adam Kendon", "Judith Holler"]
+    },
+    {
+      "field": "Intercultural Communication",
+      "description": "The study of communication between people from different cultural backgrounds, including language and non-verbal aspects.",
+      "branches": ["Cultural Awareness", "Cross-Cultural Communication", "Cultural Sensitivity"],
+      "prominent_figures": ["Edward T. Hall", "Geert Hofstede", "Stella Ting-Toomey"]
+    },
+    {
+      "field": "Narrative Theory",
+      "description": "The study of how stories are constructed and how they convey meaning, including analysis of narrative structures and genres.",
+      "branches": ["Narrative Discourse", "Storytelling Techniques", "Narrative Identity"],
+      "prominent_figures": ["Roland Barthes", "Gérard Genette", "Walter Benjamin"]
+    },
+    {
+      "field": "Language Typology",
+      "description": "The study of the structural similarities and differences between languages, often focusing on universal patterns and constraints.",
+      "branches": ["Word Order", "Case Systems", "Syntactic Typology"],
+      "prominent_figures": ["Joseph Greenberg", "Bernard Comrie", "Martin Haspelmath"]
+    },
+    {
+      "field": "Computational Discourse Analysis",
+      "description": "The use of computational methods and algorithms to analyze large volumes of discourse data, often for automated text analysis.",
+      "branches": ["Text Segmentation", "Discourse Coherence", "Rhetorical Structure Theory"],
+      "prominent_figures": ["Daniel Marcu", "Marti Hearst", "Ruslan Mitkov"]
+    },
+    {
+      "field": "Translation Theory",
+      "description": "The study of the principles and strategies involved in translating texts from one language to another.",
+      "branches": ["Equivalence", "Functional Translation", "Cultural Translation"],
+      "prominent_figures": ["Eugene Nida", "Gideon Toury", "Lawrence Venuti"]
+    },
+    {
+      "field": "Language Evolutionary Biology",
+      "description": "The study of how language evolved from a biological and evolutionary perspective, considering factors like genetics and natural selection.",
+      "branches": ["Darwinian Linguistics", "Evolutionary Psychology of Language", "Language and Biology"],
+      "prominent_figures": ["Derek Bickerton", "Steven Pinker", "Noam Chomsky"]
+    },
+    {
+      "field": "Discourse Markers",
+      "description": "The study of linguistic expressions that signal the structure of discourse, such as indicating transitions, emphasis, or relation.",
+      "branches": ["Connectives", "Disfluencies", "Pragmatic Markers"],
+      "prominent_figures": ["Deborah Schiffrin", "Anita Fetzer", "Uta Lenk"]
+    },
+    {
+      "field": "Language Planning",
+      "description": "The study of deliberate efforts to influence the use, structure, or prestige of a language within a community or society.",
+      "branches": ["Standardization", "Language Revitalization", "Language Policy"],
+      "prominent_figures": ["Joshua A. Fishman", "Bernard Spolsky", "Richard B. Baldauf Jr."]
+    },
+    {
+      "field": "Language Contact",
+      "description": "The study of the interaction between languages, including borrowing, code-switching, and language convergence.",
+      "branches": ["Pidgins and Creoles", "Language Shift", "Bilingualism"],
+      "prominent_figures": ["Sarah G. Thomason", "Pieter Muysken", "Salikoko S. Mufwene"]
+    },
+    {
+      "field": "Speech Act Theory",
+      "description": "The study of how language is used to perform actions, such as making requests, promises, or assertions.",
+      "branches": ["Illocutionary Acts", "Perlocutionary Acts", "Speech Act Realization"],
+      "prominent_figures": ["J.L. Austin", "John Searle", "H.P. Grice"]
+    },
+    {
+      "field": "Morphosyntax",
+      "description": "The study of the grammatical structure of words and the way they are combined to form sentences.",
+      "branches": ["Inflectional Morphology", "Derivational Morphology", "Syntactic Structures"],
+      "prominent_figures": ["Noam Chomsky", "Mark Aronoff", "Andrew Spencer"]
+    },
+    {
+      "field": "Conversation Analysis",
+      "description": "The study of how people structure their conversations, including turn-taking, repair mechanisms, and sequences of actions.",
+      "branches": ["Adjacency Pairs", "Preference Organization", "Sequential Analysis"],
+      "prominent_figures": ["Harvey Sacks", "Emanuel A. Schegloff", "Gail Jefferson"]
+    },
+    {
+      "field": "Language Acquisition",
+      "description": "The study of how individuals acquire their first language and subsequent languages.",
+      "branches": ["First Language Acquisition", "Second Language Acquisition", "Critical Period Hypothesis"],
+      "prominent_figures": ["Noam Chomsky", "Steven Pinker", "Nina Hyams"]
+    },
+    {
+      "field": "Natural Language Processing",
+      "description": "The study of computational techniques for understanding, generating, and processing human language.",
+      "branches": ["Machine Translation", "Sentiment Analysis", "Named Entity Recognition"],
+      "prominent_figures": ["Karen Spärck Jones", "Christopher Manning", "Yoshua Bengio"]
+    },
+    {
+      "field": "Language and Power",
+      "description": "The study of how language is used to exert influence, control, and authority.",
+      "branches": ["Critical Discourse Analysis", "Language and Politics", "Language and Ideology"],
+      "prominent_figures": ["Michel Foucault", "Teun A. van Dijk", "Norman Fairclough"]
+    },
+    {
+      "field": "Cognitive Neuroscience of Language",
+      "description": "The study of the neural mechanisms underlying language processing and production.",
+      "branches": ["Language and Memory", "Language and Attention", "Neuroimaging"],
+      "prominent_figures": ["Angela Friederici", "Loraine K. Obler", "Peter Hagoort"]
+    },
+    {
+      "field": "Historical Linguistics",
+      "description": "The study of how languages change over time and the relationships between languages.",
+      "branches": ["Comparative Linguistics", "Language Family Classification", "Sound Change"],
+      "prominent_figures": ["William Labov", "Johann Friedrich Blumenbach", "August Schleicher"]
+    },
+    {
+      "field": "Language Revitalization",
+      "description": "The efforts to revive endangered or dormant languages, often through education and cultural programs.",
+      "branches": ["Language Documentation", "Language Maintenance", "Language Reclamation"],
+      "prominent_figures": ["Leanne Hinton", "Tove Skutnabb-Kangas", "Ken Hale"]
+    },
+    {
+      "field": "Sociolinguistics",
+      "description": "The study of how language and society interact, including variations in language use based on social factors.",
+      "branches": ["Language and Identity", "Language Variation", "Language Policy"],
+      "prominent_figures": ["William Labov", "Penelope Eckert", "John J. Gumperz"]
+    },
+    {
+      "field": "Language Documentation",
+      "description": "The process of recording, preserving, and analyzing languages, particularly endangered or minority languages.",
+      "branches": ["Field Linguistics", "Digital Archives", "Community-Based Documentation"],
+      "prominent_figures": ["Nicholas Thieberger", "David Nathan", "Peter K. Austin"]
+    },
+    {
+      "field": "Corpus Linguistics",
+      "description": "The study of language using large collections of texts (corpora) to analyze patterns and usage.",
+      "branches": ["Corpus Compilation", "Text Mining", "Concordancing"],
+      "prominent_figures": ["John Sinclair", "Douglas Biber", "Tony McEnery"]
+    },
+    {
+      "field": "Language and Gender",
+      "description": "The study of how gender influences language use and how language reflects and shapes gender identity.",
+      "branches": ["Genderlects", "Language and Sexuality", "Feminist Linguistics"],
+      "prominent_figures": ["Robin Lakoff", "Deborah Tannen", "Penelope Eckert"]
+    },
+    {
+      "field": "Language and Culture",
+      "description": "The study of how language reflects and influences cultural norms, beliefs, and practices.",
+      "branches": ["Cultural Linguistics", "Ethnolinguistics", "Language Contact"],
+      "prominent_figures": ["Benjamin Lee Whorf", "Edward Sapir", "Boasian Linguists"]
+    },
+    {
+      "field": "Language Policy and Planning",
+      "description": "The study of how governments and communities make decisions about language use, education, and promotion.",
+      "branches": ["Official Language Policies", "Language Revitalization", "Bilingual Education"],
+      "prominent_figures": ["Bernard Spolsky", "Joshua A. Fishman", "Tove Skutnabb-Kangas"]
+    },
+    {
+      "field": "Language Variation and Change",
+      "description": "The study of how language varies within a community or across communities over time.",
+      "branches": ["Sociolinguistics", "Dialectology", "Language Contact"],
+      "prominent_figures": ["William Labov", "Penelope Eckert", "John J. Gumperz"]
+    },
+    {
+      "field": "Cognitive Linguistics",
+      "description": "The study of how language reflects and shapes cognitive processes such as perception, memory, and reasoning.",
+      "branches": ["Conceptual Metaphor Theory", "Cognitive Grammar", "Embodied Cognition"],
+      "prominent_figures": ["George Lakoff", "Ronald W. Langacker", "Leonard Talmy"]
+    },
+    {
+      "field": "Language Evolution",
+      "description": "The study of how human language evolved from its origins to its current forms.",
+      "branches": ["Evolutionary Anthropology of Language", "Biolinguistics", "Darwinian Linguistics"],
+      "prominent_figures": ["Steven Pinker", "Derek Bickerton", "Noam Chomsky"]
+    },
+    {
+      "field": "Language Processing Disorders",
+      "description": "The study of disorders that affect language processing, such as aphasia and dyslexia.",
+      "branches": ["Aphasiology", "Developmental Language Disorders", "Acquired Language Disorders"],
+      "prominent_figures": ["Norman Geschwind", "Broca", "Wernicke"]
+    },
+    {
+      "field": "Neurolinguistics",
+      "description": "The study of how the brain processes language, combining linguistics with neuroscience.",
+      "branches": ["Brain Imaging", "Language and Memory", "Language Development"],
+      "prominent_figures": ["Angela Friederici", "Steven Pinker", "Alfredo Ardila"]
+    }
+]
