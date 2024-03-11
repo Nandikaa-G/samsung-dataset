@@ -38,9 +38,7 @@
     "bedrooms": 5,
     "price_usd": 550000,
     "agent": "David Wilson"
-  }
-]
-[
+  },
   {
     "property_id": "006",
     "property_type": "House",
@@ -120,9 +118,7 @@
     "bedrooms": 4,
     "price_usd": 480000,
     "agent": "Matthew Taylor"
-  }
-]
-[
+  },
   {
     "property_id": "016",
     "property_type": "House",
@@ -202,9 +198,7 @@
     "bedrooms": 4,
     "price_usd": 495000,
     "agent": "Christopher Moore"
-  }
-]
-[
+  },
   {
     "property_id": "026",
     "property_type": "House",
@@ -284,9 +278,7 @@
     "bedrooms": 4,
     "price_usd": 510000,
     "agent": "Rachel White"
-  }
-]
-[
+  },
   {
     "property_id": "036",
     "property_type": "House",
@@ -366,9 +358,7 @@
     "bedrooms": 3,
     "price_usd": 540000,
     "agent": "Olivia Turner"
-  }
-]
-[
+  },
   {
     "property_id": "046",
     "property_type": "House",
@@ -448,9 +438,7 @@
     "bedrooms": 4,
     "price_usd": 620000,
     "agent": "Grace Adams"
-  }
-]
-[
+  },
   {
     "property_id": "056",
     "property_type": "House",
@@ -530,9 +518,7 @@
     "bedrooms": 5,
     "price_usd": 750000,
     "agent": "Ella Hill"
-  }
-]
-[
+  },
   {
     "property_id": "066",
     "property_type": "House",
