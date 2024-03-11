@@ -33,9 +33,7 @@
     "category": "Wearables",
     "price": 49.99,
     "quantity_available": 120
-  }
-]
-[
+  },
   {
     "product_id": "P006",
     "product_name": "4K Smart TV",
@@ -105,9 +103,7 @@
     "category": "Accessories",
     "price": 29.99,
     "quantity_available": 120
-  }
-]
-[
+  },
   {
     "product_id": "P016",
     "product_name": "Digital Camera",
@@ -177,9 +173,7 @@
     "category": "Office",
     "price": 179.99,
     "quantity_available": 15
-  }
-]
-[
+  },
   {
     "product_id": "P026",
     "product_name": "Electric Toothbrush",
@@ -249,9 +243,7 @@
     "category": "Accessories",
     "price": 29.99,
     "quantity_available": 90
-  }
-]
-[
+  },
   {
     "product_id": "P036",
     "product_name": "Smart Kitchen Scale",
@@ -321,9 +313,7 @@
     "category": "Health",
     "price": 44.99,
     "quantity_available": 35
-  }
-]
-[
+  },
   {
     "product_id": "P046",
     "product_name": "Smart Door Lock",
@@ -393,9 +383,7 @@
     "category": "Travel",
     "price": 24.99,
     "quantity_available": 50
-  }
-]
-[
+  },
   {
     "product_id": "P056",
     "product_name": "Portable Espresso Maker",
