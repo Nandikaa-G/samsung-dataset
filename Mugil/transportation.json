@@ -25,9 +25,7 @@
     "destination": "Hotel 3",
     "passengers": 1,
     "timestamp": "2024-01-24T10:15:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 4,
     "type": "Bicycle",
@@ -54,9 +52,7 @@
     "destination": "Exit 15",
     "passengers": 3,
     "timestamp": "2024-01-24T10:50:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 7,
     "type": "Scooter",
@@ -92,9 +88,7 @@
     "destination": "Nature Reserve",
     "passengers": 1,
     "timestamp": "2024-01-24T11:50:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 11,
     "type": "Ride-share",
@@ -139,9 +133,7 @@
     "destination": "Riverfront",
     "passengers": 1,
     "timestamp": "2024-01-24T13:05:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 16,
     "type": "Electric Skateboard",
@@ -186,9 +178,7 @@
     "destination": "Waterfront Plaza",
     "passengers": 30,
     "timestamp": "2024-01-24T14:20:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 21,
     "type": "Maglev Train",
@@ -233,9 +223,7 @@
     "destination": "Space Station",
     "passengers": 7,
     "timestamp": "2024-01-24T15:35:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 26,
     "type": "Electric Unicycle",
@@ -280,9 +268,7 @@
     "destination": "Island Cove",
     "passengers": 2,
     "timestamp": "2024-01-24T16:50:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 31,
     "type": "Camper Van",
@@ -327,9 +313,7 @@
     "destination": "Art Gallery",
     "passengers": 3,
     "timestamp": "2024-01-24T18:05:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 36,
     "type": "Amphibious Vehicle",
@@ -374,9 +358,7 @@
     "destination": "Martian Base",
     "passengers": 0,
     "timestamp": "2024-01-24T19:20:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 41,
     "type": "Zeppelin Taxi",
@@ -421,9 +403,7 @@
     "destination": "Island Resort",
     "passengers": 20,
     "timestamp": "2024-01-24T20:35:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 46,
     "type": "Electric Monowheel",
@@ -468,9 +448,7 @@
     "destination": "Scenic Overlook",
     "passengers": 2,
     "timestamp": "2024-01-24T21:50:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 51,
     "type": "Airship Cruise",
@@ -560,9 +538,7 @@
     "destination": "Skate Park",
     "passengers": 1,
     "timestamp": "2024-01-25T00:20:00"
-  }
-]
-[
+  },
   {
     "vehicle_id": 61,
     "type": "Pegasus Carriage",
