@@ -1,0 +1,486 @@
+[
+    {
+      "issue": "Depression",
+      "description": "A mood disorder that causes a persistent feeling of sadness and loss of interest.",
+      "symptoms": ["Sadness", "Loss of interest or pleasure", "Changes in appetite", "Sleep disturbances"],
+      "treatments": ["Psychotherapy", "Medications", "Exercise", "Mindfulness"]
+    },
+    {
+      "issue": "Anxiety Disorders",
+      "description": "A group of mental illnesses characterized by excessive worry, fear, and avoidance.",
+      "symptoms": ["Excessive worrying", "Restlessness", "Fatigue", "Difficulty concentrating"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications", "Relaxation techniques", "Exercise"]
+    },
+    {
+      "issue": "Bipolar Disorder",
+      "description": "A disorder characterized by extreme mood swings, including emotional highs (mania or hypomania) and lows (depression).",
+      "symptoms": ["Manic episodes", "Depressive episodes", "Impulsivity", "Irritability"],
+      "treatments": ["Mood stabilizers", "Psychotherapy", "Medications", "Support groups"]
+    },
+    {
+      "issue": "Schizophrenia",
+      "description": "A severe mental disorder characterized by distorted thinking, hallucinations, and delusions.",
+      "symptoms": ["Hallucinations", "Delusions", "Disorganized thinking", "Difficulty concentrating"],
+      "treatments": ["Antipsychotic medications", "Psychotherapy", "Social skills training", "Hospitalization"]
+    },
+    {
+      "issue": "Post-Traumatic Stress Disorder (PTSD)",
+      "description": "A disorder that can develop after exposure to a traumatic event, causing flashbacks, nightmares, and severe anxiety.",
+      "symptoms": ["Flashbacks", "Nightmares", "Avoidance", "Hyperarousal"],
+      "treatments": ["Exposure therapy", "Cognitive processing therapy (CPT)", "Eye movement desensitization and reprocessing (EMDR)", "Medications"]
+    },
+    {
+      "issue": "Obsessive-Compulsive Disorder (OCD)",
+      "description": "A disorder characterized by intrusive thoughts and repetitive behaviors or mental acts.",
+      "symptoms": ["Obsessions", "Compulsions", "Anxiety", "Distress"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure and response prevention (ERP)", "Medications", "Mindfulness"]
+    },
+    {
+      "issue": "Eating Disorders",
+      "description": "A group of mental health disorders characterized by abnormal eating habits.",
+      "types": ["Anorexia nervosa", "Bulimia nervosa", "Binge eating disorder"],
+      "symptoms": ["Extreme weight loss", "Binge eating", "Purging behaviors", "Distorted body image"],
+      "treatments": ["Nutritional counseling", "Psychotherapy", "Medications", "Support groups"]
+    },
+    {
+      "issue": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+      "description": "A neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity.",
+      "symptoms": ["Inattention", "Hyperactivity", "Impulsivity", "Difficulty organizing tasks"],
+      "treatments": ["Stimulant medications", "Behavioral therapy", "Parent training", "Educational support"]
+    },
+    {
+      "issue": "Substance Use Disorders",
+      "description": "A range of conditions involving the excessive use of substances such as alcohol, drugs, or medications.",
+      "types": ["Alcohol use disorder", "Drug use disorder", "Prescription medication misuse"],
+      "symptoms": ["Cravings", "Loss of control", "Withdrawal symptoms", "Neglecting responsibilities"],
+      "treatments": ["Detoxification", "Counseling", "Support groups", "Medications"]
+    },
+    {
+      "issue": "Suicidal Thoughts and Behaviors",
+      "description": "Thoughts of ending one's own life, which can range from fleeting considerations to detailed plans.",
+      "risk_factors": ["Mental illness", "Trauma", "Substance abuse", "Social isolation"],
+      "prevention": ["Crisis hotlines", "Therapy", "Support from friends and family", "Safety planning"]
+    },
+    {
+      "issue": "Borderline Personality Disorder (BPD)",
+      "description": "A disorder characterized by unstable relationships, impulsivity, emotional instability, and distorted self-image.",
+      "symptoms": ["Intense fear of abandonment", "Unstable relationships", "Impulsive behaviors", "Mood swings"],
+      "treatments": ["Dialectical behavior therapy (DBT)", "Medications", "Cognitive-behavioral therapy (CBT)", "Group therapy"]
+    },
+    {
+      "issue": "Generalized Anxiety Disorder (GAD)",
+      "description": "A chronic disorder characterized by excessive, uncontrollable worry about everyday things.",
+      "symptoms": ["Excessive worry", "Restlessness", "Difficulty concentrating", "Muscle tension"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications", "Relaxation techniques", "Mindfulness"]
+    },
+    {
+      "issue": "Social Anxiety Disorder (Social Phobia)",
+      "description": "An intense fear of social situations and scrutiny, leading to avoidance of social interactions.",
+      "symptoms": ["Fear of being judged", "Avoidance of social situations", "Physical symptoms of anxiety", "Blushing or sweating"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure therapy", "Medications", "Support groups"]
+    },
+    {
+      "issue": "Panic Disorder",
+      "description": "A type of anxiety disorder characterized by recurrent panic attacks, which are sudden, intense episodes of fear.",
+      "symptoms": ["Sudden feelings of terror", "Heart palpitations", "Sweating", "Fear of losing control"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications", "Relaxation techniques", "Lifestyle changes"]
+    },
+    {
+      "issue": "Dissociative Identity Disorder (DID)",
+      "description": "A disorder characterized by the presence of two or more distinct personality states, often due to severe trauma.",
+      "symptoms": ["Multiple personality states", "Memory gaps", "Depersonalization", "Confusion about identity"],
+      "treatments": ["Psychotherapy", "Medications", "Integration therapy", "Coping strategies"]
+    },
+    {
+      "issue": "Hoarding Disorder",
+      "description": "A disorder characterized by the excessive accumulation of items, often resulting in severe clutter and difficulty discarding possessions.",
+      "symptoms": ["Excessive acquisition of items", "Difficulty discarding", "Cluttered living spaces", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications", "Support groups", "Decluttering strategies"]
+    },
+    {
+      "issue": "Seasonal Affective Disorder (SAD)",
+      "description": "A type of depression that occurs at a specific time of year, usually in the winter months when there is less natural sunlight.",
+      "symptoms": ["Depression", "Fatigue", "Weight gain", "Social withdrawal"],
+      "treatments": ["Light therapy", "Psychotherapy", "Medications", "Exercise"]
+    },
+    {
+      "issue": "Body Dysmorphic Disorder (BDD)",
+      "description": "A disorder characterized by a preoccupation with perceived flaws or defects in one's appearance, often leading to obsessive behaviors.",
+      "symptoms": ["Obsessive thoughts about appearance", "Frequent mirror-checking", "Avoidance of social situations", "Compulsive behaviors"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications", "Exposure therapy", "Support groups"]
+    },
+    {
+      "issue": "Trichotillomania (Hair-Pulling Disorder)",
+      "description": "A disorder characterized by the urge to pull out one's hair, leading to hair loss and distress.",
+      "symptoms": ["Hair pulling", "Tension before pulling", "Sense of relief or gratification", "Embarrassment or shame"],
+      "treatments": ["Behavioral therapy", "Medications", "Habit reversal training", "Mindfulness techniques"]
+    },
+    {
+      "issue": "Insomnia Disorder",
+      "description": "A disorder characterized by persistent difficulty falling asleep or staying asleep, leading to daytime impairment.",
+      "symptoms": ["Difficulty falling asleep", "Waking up too early", "Non-restorative sleep", "Daytime fatigue"],
+      "treatments": ["Cognitive-behavioral therapy for insomnia (CBT-I)", "Medications", "Sleep hygiene practices", "Relaxation techniques"]
+    },
+    {
+      "issue": "Narcissistic Personality Disorder",
+      "description": "A personality disorder characterized by an inflated sense of self-importance, a need for excessive admiration, and a lack of empathy.",
+      "symptoms": ["Grandiosity", "Exaggerated sense of self-importance", "Lack of empathy", "Sense of entitlement"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Group therapy", "Medications"]
+    },
+    {
+      "issue": "Pica",
+      "description": "A disorder characterized by persistent eating of non-nutritive substances such as dirt, clay, or hair.",
+      "symptoms": ["Eating non-food items", "Persistent cravings for non-nutritive substances", "Risk of physical harm", "Shame or embarrassment"],
+      "treatments": ["Behavioral therapy", "Counseling", "Supervision and support", "Medications (in some cases)"]
+    },
+    {
+      "issue": "Oppositional Defiant Disorder (ODD)",
+      "description": "A childhood disorder characterized by a pattern of hostile and defiant behavior towards authority figures.",
+      "symptoms": ["Frequent temper tantrums", "Defiance", "Argumentativeness", "Deliberate attempts to annoy or upset others"],
+      "treatments": ["Parent training", "Behavioral therapy", "Family therapy", "Medications (in some cases)"]
+    },
+    {
+      "issue": "Selective Mutism",
+      "description": "A childhood anxiety disorder characterized by a consistent failure to speak in certain social situations, despite speaking in others.",
+      "symptoms": ["Consistent refusal to speak in specific situations", "Anxiety", "Social withdrawal", "Difficulty making eye contact"],
+      "treatments": ["Behavioral therapy", "Exposure therapy", "Cognitive-behavioral therapy (CBT)", "Family therapy"]
+    },
+    {
+      "issue": "Disruptive Mood Dysregulation Disorder (DMDD)",
+      "description": "A disorder in children characterized by severe temper outbursts that are out of proportion to the situation.",
+      "symptoms": ["Frequent temper tantrums", "Irritability", "Difficulty regulating emotions", "Trouble functioning in multiple settings"],
+      "treatments": ["Parent training", "Behavioral therapy", "Cognitive-behavioral therapy (CBT)", "Medications (in some cases)"]
+    },
+    {
+      "issue": "Paranoid Personality Disorder",
+      "description": "A personality disorder characterized by a pervasive distrust and suspicion of others, often without evidence.",
+      "symptoms": ["Distrust and suspicion of others' motives", "Hypervigilance", "Difficulty forgiving perceived slights", "Lack of close relationships"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Medications (in some cases)", "Supportive therapy"]
+    },
+    {
+      "issue": "Somatic Symptom Disorder",
+      "description": "A disorder characterized by excessive and distressing physical symptoms that cannot be explained by a medical condition.",
+      "symptoms": ["Excessive focus on physical symptoms", "Frequent doctor visits", "Health anxiety", "Impaired functioning"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications (for related conditions)", "Mind-body therapies", "Supportive therapy"]
+    },
+    {
+      "issue": "Cyclothymic Disorder",
+      "description": "A mood disorder characterized by periods of hypomanic symptoms and periods of depressive symptoms that do not meet criteria for major depressive or manic episodes.",
+      "symptoms": ["Hypomanic episodes", "Depressive episodes", "Cycling mood changes", "Chronicity"],
+      "treatments": ["Psychotherapy", "Medications", "Lifestyle changes", "Support groups"]
+    },
+    {
+      "issue": "Factitious Disorder",
+      "description": "A disorder in which a person feigns or induces illness in themselves to gain attention or sympathy.",
+      "symptoms": ["Fabrication of symptoms or illnesses", "Seeking unnecessary medical attention", "Deceptive behavior", "Refusal to accept truth when confronted"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Supportive therapy", "Medications (for related conditions)"]
+    },
+    {
+      "issue": "Depersonalization/Derealization Disorder",
+      "description": "A disorder characterized by feelings of detachment from oneself (depersonalization) and the world around them (derealization).",
+      "symptoms": ["Feeling disconnected from one's body or thoughts", "Feeling like an outside observer of one's life", "Reality distortion", "Anxiety"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Medications (for related conditions)", "Mindfulness practices"]
+    },
+    {
+      "issue": "Gender Dysphoria",
+      "description": "A condition where a person experiences significant distress or discomfort due to a mismatch between their assigned gender at birth and their gender identity.",
+      "symptoms": ["Strong desire to be treated as the opposite gender", "Discomfort with one's assigned gender", "Anxiety or depression related to gender identity"],
+      "treatments": ["Gender-affirming therapy", "Hormone therapy", "Gender-affirming surgeries", "Support groups"]
+    },
+    {
+      "issue": "Autism Spectrum Disorder (ASD)",
+      "description": "A developmental disorder that affects communication and behavior, with symptoms varying widely among individuals.",
+      "symptoms": ["Difficulty with social interaction", "Repetitive behaviors", "Sensory sensitivities", "Difficulty with transitions"],
+      "treatments": ["Behavioral therapy (e.g., ABA)", "Speech therapy", "Occupational therapy", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Specific Phobia",
+      "description": "An intense, irrational fear of a specific object or situation that poses little to no actual danger.",
+      "symptoms": ["Immediate anxiety when exposed to the phobic object", "Avoidance behavior", "Physical symptoms (e.g., rapid heart rate)", "Distress"],
+      "treatments": ["Exposure therapy", "Cognitive-behavioral therapy (CBT)", "Relaxation techniques", "Medications (for severe cases)"]
+    },
+    {
+      "issue": "Adjustment Disorder",
+      "description": "A stress-related disorder characterized by emotional or behavioral symptoms in response to a stressful event or change.",
+      "symptoms": ["Sadness", "Anxiety", "Trouble sleeping", "Impaired social or occupational functioning"],
+      "treatments": ["Supportive therapy", "Cognitive-behavioral therapy (CBT)", "Stress management techniques", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Intermittent Explosive Disorder (IED)",
+      "description": "A disorder characterized by recurrent episodes of aggressive, impulsive, or violent behavior.",
+      "symptoms": ["Outbursts of anger or violence", "Intense rage", "Feeling out of control", "Remorse after the outburst"],
+      "treatments": ["Anger management therapy", "Cognitive-behavioral therapy (CBT)", "Medications (for impulse control)", "Stress reduction techniques"]
+    },
+    {
+      "issue": "Acute Stress Disorder (ASD)",
+      "description": "A disorder characterized by severe anxiety, dissociation, and other symptoms that occur within a month after exposure to an extremely traumatic event.",
+      "symptoms": ["Intrusive memories of the traumatic event", "Avoidance of reminders of the event", "Negative changes in mood and cognition", "Hyperarousal"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure therapy", "Medications (for related symptoms)", "Mindfulness practices"]
+    },
+    {
+      "issue": "Depersonalization Disorder",
+      "description": "A disorder characterized by feeling detached or disconnected from oneself, thoughts, feelings, or sensations.",
+      "symptoms": ["Feeling like a detached observer of oneself", "Emotional numbness", "Loss of sense of self", "Anxiety"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Medications (for related symptoms)", "Grounding techniques"]
+    },
+    {
+      "issue": "Gambling Disorder",
+      "description": "A disorder characterized by persistent and recurrent problematic gambling behavior, leading to significant distress or impairment.",
+      "symptoms": ["Preoccupation with gambling", "Need to gamble with increasing amounts of money", "Failed attempts to stop or control gambling", "Lying about gambling"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Gambling support groups", "Medications (for impulse control)", "Financial counseling"]
+    },
+    {
+      "issue": "Disinhibited Social Engagement Disorder (DSED)",
+      "description": "A disorder in children characterized by a pattern of overly familiar behavior with unfamiliar adults.",
+      "symptoms": ["Indiscriminate social behavior", "Lack of fear or caution with strangers", "Inappropriate physical contact", "Impaired social functioning"],
+      "treatments": ["Therapeutic interventions", "Social skills training", "Parenting support", "Attachment-focused therapy"]
+    },
+    {
+      "issue": "Factitious Disorder Imposed on Another (Munchausen Syndrome by Proxy)",
+      "description": "A disorder in which a person deliberately causes illness or injury to someone else in their care, typically to gain attention or sympathy.",
+      "symptoms": ["Fabrication or induction of symptoms in another person", "Seeking unnecessary medical treatment", "Deceptive behavior", "Refusal to accept truth when confronted"],
+      "treatments": ["Protection of the victim", "Psychiatric evaluation", "Legal interventions", "Therapeutic interventions for both victim and perpetrator"]
+    },
+    {
+      "issue": "Night Eating Syndrome",
+      "description": "A disorder characterized by recurrent episodes of eating during the night, often waking up to eat and consuming a significant portion of daily calories during nighttime.",
+      "symptoms": ["Frequent episodes of eating during the night", "Loss of control during nighttime eating", "Awareness of nighttime eating", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Medications (for related symptoms)", "Regular meal timing", "Stress management techniques"]
+    },
+    {
+      "issue": "Hypochondriasis (Illness Anxiety Disorder)",
+      "description": "A disorder characterized by excessive worry or preoccupation with having a serious illness, despite medical reassurance.",
+      "symptoms": ["Persistent fear of having a serious illness", "Frequent checking of symptoms", "Avoidance of medical appointments", "Interference with daily life"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Education about health anxiety", "Exposure therapy", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Dependent Personality Disorder",
+      "description": "A personality disorder characterized by an excessive need to be taken care of, leading to submissive and clingy behavior.",
+      "symptoms": ["Difficulty making everyday decisions without reassurance", "Need for others to assume responsibility", "Fear of abandonment", "Low self-confidence"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Supportive therapy", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Trichotemnomania (Hair-Cutting Disorder)",
+      "description": "A disorder characterized by the compulsion to cut one's hair, often resulting in significant hair loss.",
+      "symptoms": ["Compulsive desire to cut hair", "Hair loss due to repeated cutting", "Distress or impairment", "Satisfaction or relief after cutting"],
+      "treatments": ["Behavioral therapy", "Cognitive-behavioral therapy (CBT)", "Support groups", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Sexual Dysfunction",
+      "description": "A disorder characterized by persistent problems in sexual response or desire that causes distress or difficulty in relationships.",
+      "types": ["Erectile dysfunction", "Premature ejaculation", "Low libido", "Orgasmic disorders"],
+      "symptoms": ["Difficulty achieving or maintaining arousal", "Lack of interest in sexual activity", "Pain during sex", "Anxiety or depression related to sexual activity"],
+      "treatments": ["Counseling", "Sex therapy", "Medications (for erectile dysfunction)", "Lifestyle changes"]
+    },
+    {
+      "issue": "Bereavement",
+      "description": "The period of grief and mourning after the death of a loved one.",
+      "symptoms": ["Sadness", "Guilt", "Anger", "Fatigue"],
+      "treatments": ["Grief counseling", "Support groups", "Time for healing", "Self-care practices"]
+    },
+    {
+      "issue": "Personality Change Due to Another Medical Condition",
+      "description": "A condition where a person's personality changes significantly due to a medical illness or condition.",
+      "symptoms": ["Noticeable change in behavior or personality", "Difficulty in social or occupational functioning", "Emotional instability", "Confusion"],
+      "treatments": ["Treatment of underlying medical condition", "Supportive therapy", "Cognitive-behavioral therapy (CBT)", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Paraphilic Disorders",
+      "description": "A group of disorders characterized by atypical sexual interests or behaviors that cause distress or impairment.",
+      "types": ["Pedophilic disorder", "Exhibitionistic disorder", "Fetishistic disorder", "Voyeuristic disorder"],
+      "symptoms": ["Sexual fantasies, urges, or behaviors involving non-consenting persons", "Persistent sexual arousal from non-typical objects or situations", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Behavioral therapy", "Medications (for related symptoms)", "Support groups"]
+    },
+    {
+      "issue": "Factitious Disorder Imposed on Self",
+      "description": "A disorder in which a person feigns or exaggerates physical or psychological symptoms to gain attention or sympathy.",
+      "symptoms": ["Intentionally causing or fabricating symptoms", "Seeking medical treatment for nonexistent conditions", "Deceptive behavior", "Refusal to accept truth when confronted"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Supportive therapy", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Premenstrual Dysphoric Disorder (PMDD)",
+      "description": "A severe form of premenstrual syndrome (PMS) characterized by significant mood disturbances and physical symptoms.",
+      "symptoms": ["Severe mood swings", "Irritability or anger", "Depression", "Physical symptoms like bloating or breast tenderness"],
+      "treatments": ["Medications (antidepressants, hormonal treatments)", "Lifestyle changes (diet, exercise)", "Cognitive-behavioral therapy (CBT)", "Stress management techniques"]
+    },
+    {
+      "issue": "Hoarding Disorder",
+      "description": "A disorder characterized by persistent difficulty discarding or parting with possessions, leading to excessive accumulation and clutter.",
+      "symptoms": ["Excessive accumulation of items", "Distress or impairment due to clutter", "Difficulty discarding possessions", "Feeling of attachment to possessions"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure therapy", "Support groups", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Pyromania",
+      "description": "A rare impulse control disorder characterized by the compulsion to set fires, with a fascination or attraction to fire.",
+      "symptoms": ["Fascination with fire", "Deliberate setting of fires", "Tension or excitement before setting fires", "Relief or satisfaction after setting fires"],
+      "treatments": ["Behavioral therapy", "Cognitive-behavioral therapy (CBT)", "Medications (for impulse control)", "Support groups"]
+    },
+    {
+      "issue": "Somatic Symptom Disorder",
+      "description": "A disorder characterized by excessive and distressing physical symptoms, such as pain or fatigue, that are disproportionate to any identified medical condition.",
+      "symptoms": ["Excessive focus on physical symptoms", "Multiple doctor visits", "Health anxiety", "Impaired functioning"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Mind-body therapies", "Medications (for related conditions)", "Supportive therapy"]
+    },
+    {
+      "issue": "Schizoid Personality Disorder",
+      "description": "A personality disorder characterized by a lack of interest in social relationships, a preference for solitary activities, and emotional coldness.",
+      "symptoms": ["Lack of desire for close relationships", "Preference for solitary activities", "Emotional detachment", "Flat affect"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Social skills training", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Borderline Personality Disorder (BPD)",
+      "description": "A disorder characterized by unstable moods, behaviors, and relationships, often leading to impulsive actions and intense emotional reactions.",
+      "symptoms": ["Fear of abandonment", "Unstable relationships", "Impulsive behavior", "Emotional instability"],
+      "treatments": ["Dialectical behavior therapy (DBT)", "Psychotherapy", "Medications (for related symptoms)", "Group therapy"]
+    },
+    {
+      "issue": "Pseudobulbar Affect",
+      "description": "A condition characterized by uncontrollable and inappropriate episodes of laughing or crying that are disproportionate to the situation.",
+      "symptoms": ["Involuntary episodes of laughing or crying", "Lack of emotional control", "Embarrassment or distress about episodes", "Social isolation"],
+      "treatments": ["Medications (for symptom control)", "Counseling", "Support groups", "Education and coping strategies"]
+    },
+    {
+      "issue": "Maladaptive Daydreaming",
+      "description": "A disorder characterized by extensive daydreaming that can interfere with daily functioning and lead to distress or impairment.",
+      "symptoms": ["Excessive daydreaming", "Difficulty stopping daydreaming", "Neglect of daily activities", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Mindfulness techniques", "Medications (for related symptoms)", "Habit reversal training"]
+    },
+    {
+      "issue": "Body Dysmorphic Disorder (BDD)",
+      "description": "A disorder characterized by an excessive preoccupation with perceived flaws or defects in one's appearance, often leading to compulsive behaviors or social withdrawal.",
+      "symptoms": ["Obsessive focus on appearance flaws", "Repetitive behaviors (e.g., checking mirror)", "Avoidance of social situations", "Depression or anxiety"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure therapy", "Medications (for related symptoms)", "Support groups"]
+    },
+    {
+      "issue": "Intermittent Explosive Disorder (IED)",
+      "description": "A disorder characterized by recurrent episodes of impulsive, aggressive, or violent behavior that is disproportionate to the situation.",
+      "symptoms": ["Outbursts of anger or aggression", "Physical fights or property damage", "Feeling of loss of control", "Remorse after the outburst"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Anger management techniques", "Medications (for impulse control)", "Stress reduction techniques"]
+    },
+    {
+      "issue": "Adjustment Disorder",
+      "description": "A stress-related disorder characterized by emotional or behavioral symptoms in response to a specific stressor, such as a major life change.",
+      "symptoms": ["Sadness", "Anxiety", "Difficulty concentrating", "Sleep disturbances"],
+      "treatments": ["Counseling", "Psychotherapy", "Medications (for related symptoms)", "Stress management techniques"]
+    },
+    {
+      "issue": "Avoidant Personality Disorder",
+      "description": "A personality disorder characterized by feelings of inadequacy, hypersensitivity to rejection, and social inhibition.",
+      "symptoms": ["Avoidance of social interactions", "Fear of rejection or criticism", "Reluctance to take risks", "Hypersensitivity to negative feedback"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Social skills training", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Perfectionism",
+      "description": "A personality trait or pattern characterized by a desire for flawlessness and setting excessively high performance standards.",
+      "symptoms": ["Setting unattainable goals", "Harsh self-criticism", "Fear of failure", "Difficulty delegating tasks"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Mindfulness practices", "Stress management techniques", "Self-compassion exercises"]
+    },
+    {
+      "issue": "Selective Mutism",
+      "description": "A childhood anxiety disorder characterized by a consistent failure to speak in certain social situations, despite speaking in other situations.",
+      "symptoms": ["Consistent inability to speak in specific situations", "Extreme shyness", "Fear of social embarrassment", "Avoidance of social situations"],
+      "treatments": ["Behavioral therapy", "Exposure therapy", "Social skills training", "Parental involvement and support"]
+    },
+    {
+      "issue": "Postpartum Depression",
+      "description": "A form of depression that occurs after childbirth and can affect both mothers and fathers.",
+      "symptoms": ["Persistent feelings of sadness or despair", "Mood swings", "Loss of interest in activities", "Difficulty bonding with the baby"],
+      "treatments": ["Psychotherapy", "Support groups", "Medications (for severe cases)", "Self-care practices"]
+    },
+    {
+      "issue": "Separation Anxiety Disorder",
+      "description": "A disorder characterized by excessive anxiety about separation from home or from individuals to whom a child is attached.",
+      "symptoms": ["Excessive distress when separated from loved ones", "Fear of harm coming to loved ones", "Refusal to go to school or leave home", "Physical symptoms (e.g., headaches, stomachaches)"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure therapy", "Parental involvement in therapy", "Medications (for severe cases)"]
+    },
+    {
+      "issue": "Obsessive-Compulsive Disorder (OCD)",
+      "description": "A disorder characterized by unwanted, intrusive thoughts (obsessions) and repetitive behaviors or mental acts (compulsions).",
+      "symptoms": ["Obsessions (e.g., fear of contamination)", "Compulsions (e.g., excessive cleaning)", "Need for reassurance", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Exposure and response prevention (ERP)", "Medications (SSRIs)", "Mindfulness practices"]
+    },
+    {
+      "issue": "Reactive Attachment Disorder (RAD)",
+      "description": "A disorder in children characterized by markedly disturbed and developmentally inappropriate social relatedness due to severe neglect or deprivation.",
+      "symptoms": ["Lack of positive attachments to caregivers", "Avoidance of social interaction", "Anger or sadness", "Difficulty showing genuine affection"],
+      "treatments": ["Attachment-based therapy", "Family therapy", "Social skills training", "Caregiver education"]
+    },
+    {
+      "issue": "Trichotillomania (Hair-Pulling Disorder)",
+      "description": "A disorder characterized by the repetitive pulling out of one's hair, resulting in hair loss and significant distress or impairment.",
+      "symptoms": ["Recurrent hair pulling", "Tension before pulling", "Relief or gratification after pulling", "Embarrassment or distress about hair loss"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Habit reversal training", "Medications (for related symptoms)", "Support groups"]
+    },
+    {
+      "issue": "Fugue State",
+      "description": "A dissociative disorder characterized by temporary amnesia and sudden, unexpected travel away from home or work.",
+      "symptoms": ["Sudden travel or wandering", "Confusion about personal identity", "Memory loss of personal information", "Loss of awareness or understanding of surroundings"],
+      "treatments": ["Psychotherapy", "Medications (for related symptoms)", "Safety planning", "Stress reduction techniques"]
+    },
+    {
+      "issue": "Factitious Disorder Not Otherwise Specified (FDNOS)",
+      "description": "A disorder in which a person fakes physical or psychological symptoms, but does not fit the criteria for other factitious disorders.",
+      "symptoms": ["Intentional exaggeration or fabrication of symptoms", "Seeking medical attention for self-induced symptoms", "Deceptive behavior", "Refusal to accept truth when confronted"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Supportive therapy", "Medications (for related symptoms)"]
+    },
+    {
+      "issue": "Cotard's Syndrome",
+      "description": "A rare condition characterized by the delusional belief that one is dead, does not exist, or has lost their organs or blood.",
+      "symptoms": ["Delusional belief of being dead", "Denial of one's existence", "Belief of having lost organs or blood", "Depersonalization or derealization"],
+      "treatments": ["Antipsychotic medications", "Psychotherapy", "Hospitalization (for severe cases)", "Supportive care"]
+    },
+    {
+      "issue": "Stereotypic Movement Disorder",
+      "description": "A disorder characterized by repetitive, purposeless movements, such as hand-flapping or body rocking, often seen in neurodevelopmental disorders.",
+      "symptoms": ["Repetitive movements (e.g., hand-flapping)", "Absence of functional purpose", "Interference with daily activities", "Relief or pleasure from the movements"],
+      "treatments": ["Behavioral therapy", "Occupational therapy", "Medications (for related conditions)", "Parent education and support"]
+    },
+    {
+      "issue": "Dissociative Fugue",
+      "description": "A dissociative disorder characterized by sudden, unexpected travel and inability to recall one's identity or past.",
+      "symptoms": ["Sudden travel with no memory of purpose", "Confusion about personal identity", "Amnesia for personal information", "Distress or impairment"],
+      "treatments": ["Psychotherapy", "Medications (for related symptoms)", "Safety planning", "Stress reduction techniques"]
+    },
+    {
+      "issue": "Intermittent Explosive Disorder (IED)",
+      "description": "A disorder characterized by recurrent episodes of impulsive, aggressive, or violent behavior that is disproportionate to the situation.",
+      "symptoms": ["Outbursts of anger or aggression", "Physical fights or property damage", "Remorse after the outburst", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Anger management techniques", "Medications (for impulse control)", "Stress reduction techniques"]
+    },
+    {
+      "issue": "Excoriation Disorder (Skin-Picking Disorder)",
+      "description": "A disorder characterized by repetitive picking at one's skin, resulting in skin lesions and significant distress or impairment.",
+      "symptoms": ["Recurrent skin picking", "Attempts to stop but unable to", "Skin lesions or scars", "Distress or impairment"],
+      "treatments": ["Cognitive-behavioral therapy (CBT)", "Habit reversal training", "Medications (for related symptoms)", "Support groups"]
+    },
+    {
+      "issue": "Antisocial Personality Disorder",
+      "description": "A personality disorder characterized by a pattern of disregard for and violation of the rights of others.",
+      "symptoms": ["Disregard for laws and social norms", "Deceitfulness", "Lack of empathy", "Impulsivity"],
+      "treatments": ["Psychotherapy", "Cognitive-behavioral therapy (CBT)", "Medications (for related symptoms)", "Anger management training"]
+    },
+    {
+      "issue": "Gender Dysphoria",
+      "description": "A condition where a person experiences distress due to a mismatch between their gender identity and sex assigned at birth.",
+      "symptoms": ["Persistent discomfort with one's assigned gender", "Desire to be treated as the desired gender", "Distress or impairment", "Social withdrawal"],
+      "treatments": ["Gender-affirming therapy", "Hormone therapy", "Gender-affirming surgeries", "Support groups"]
+    },
+    {
+      "issue": "Avoidant/Restrictive Food Intake Disorder (ARFID)",
+      "description": "A disorder characterized by limited food intake due to sensory sensitivity, fear of aversive consequences, or lack of interest in food.",
+      "symptoms": ["Avoidance of certain foods or textures", "Weight loss or nutritional deficiencies", "Anxiety or fear related to eating", "Lack of interest in eating"],
+      "treatments": ["Nutritional counseling", "Exposure therapy", "Cognitive-behavioral therapy (CBT)", "Family-based treatment"]
+    },
+    {
+      "issue": "Brief Psychotic Disorder",
+      "description": "A disorder characterized by sudden onset of psychotic symptoms, such as delusions, hallucinations, or disorganized speech, lasting less than a month.",
+      "symptoms": ["Delusions (false beliefs)", "Hallucinations (false perceptions)", "Disorganized speech or behavior", "Emotional turmoil"],
+      "treatments": ["Antipsychotic medications", "Hospitalization (for severe cases)", "Psychotherapy", "Supportive care"]
+    },
+    {
+      "issue": "Body Integrity Identity Disorder (BIID)",
+      "description": "A condition where individuals have an intense desire to amputate or disable a healthy limb or body part.",
+      "symptoms": ["Strong desire for amputation or disability", "Psychological distress related to the body part", "Attempts to harm the body part", "Interference with daily life"],
+      "treatments": ["Psychotherapy", "Counseling", "Support groups", "Careful evaluation for potential amputation (rarely done)"]
+    }
+]
