@@ -1,0 +1,562 @@
+[
+    {
+      "name": "Machu Picchu",
+      "location": "Cusco Region, Peru",
+      "description": "An ancient Incan city located in the Andes Mountains, known for its stunning architecture and dramatic landscape.",
+      "year_built": "15th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "The Colosseum",
+      "location": "Rome, Italy",
+      "description": "A famous ancient amphitheater built during the Roman Empire, known for gladiator contests and other public spectacles.",
+      "year_built": "AD 70-80",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "The Great Wall of China",
+      "location": "China",
+      "description": "A series of fortifications built across northern China to protect against invasions, it spans over 13,000 miles.",
+      "year_built": "7th century BC to 17th century AD",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "description": "A magnificent marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "year_built": "1632-1653",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Pyramids of Giza",
+      "location": "Cairo, Egypt",
+      "description": "An ancient complex of pyramids, including the Great Pyramid, built as tombs for the Pharaohs.",
+      "year_built": "2580–2560 BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Angkor Wat",
+      "location": "Siem Reap, Cambodia",
+      "description": "A stunning temple complex built in the 12th century, the largest religious monument in the world.",
+      "year_built": "Early 12th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Petra",
+      "location": "Ma'an Governorate, Jordan",
+      "description": "An ancient city carved into rose-red cliffs, once the capital of the Nabatean kingdom.",
+      "year_built": "5th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Acropolis of Athens",
+      "location": "Athens, Greece",
+      "description": "A hilltop citadel featuring ancient buildings such as the Parthenon, symbolizing the birthplace of democracy.",
+      "year_built": "5th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Stonehenge",
+      "location": "Wiltshire, England",
+      "description": "A prehistoric monument consisting of a ring of massive stones, believed to have been constructed between 3000-2000 BC.",
+      "year_built": "3000-2000 BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Alhambra",
+      "location": "Granada, Spain",
+      "description": "A breathtaking palace and fortress complex built during the Moorish rule in Spain.",
+      "year_built": "13th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Easter Island Moai Statues",
+      "location": "Easter Island, Chile",
+      "description": "A collection of large stone statues called Moai, created by the Rapa Nui people between 1400 and 1650 CE.",
+      "year_built": "1400-1650 CE",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Versailles Palace",
+      "location": "Versailles, France",
+      "description": "A magnificent royal château known for its opulent architecture, gardens, and historical significance.",
+      "year_built": "1623-1715",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Chichen Itza",
+      "location": "Yucatan, Mexico",
+      "description": "An ancient Mayan city known for its impressive pyramid, El Castillo, and astronomical observatory.",
+      "year_built": "600-1200 CE",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "description": "An iconic iron lattice tower and symbol of Paris, built as the entrance arch for the 1889 World's Fair.",
+      "year_built": "1887-1889",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Mesa Verde National Park",
+      "location": "Colorado, USA",
+      "description": "A well-preserved cliff dwelling complex built by the Ancestral Puebloans around 1200 CE.",
+      "year_built": "Around 1200 CE",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Borobudur Temple",
+      "location": "Central Java, Indonesia",
+      "description": "A massive Buddhist temple built in the 9th century, known for its intricate carvings and stupas.",
+      "year_built": "9th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Cologne Cathedral",
+      "location": "Cologne, Germany",
+      "description": "A stunning Gothic cathedral known for its twin spires, UNESCO-listed as a masterpiece of human creative genius.",
+      "year_built": "1248-1880",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Meteora",
+      "location": "Thessaly, Greece",
+      "description": "A complex of rock formations topped with monasteries, dating back to the 14th century.",
+      "year_built": "14th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Göreme National Park and the Rock Sites of Cappadocia",
+      "location": "Cappadocia, Turkey",
+      "description": "A region with unique rock formations and underground cities carved by early Christians.",
+      "year_built": "4th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Pompeii",
+      "location": "Campania, Italy",
+      "description": "An ancient Roman city frozen in time by the eruption of Mount Vesuvius in 79 AD.",
+      "year_built": "7th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Forbidden City",
+      "location": "Beijing, China",
+      "description": "An imperial palace complex that served as the home of Chinese emperors for nearly 500 years.",
+      "year_built": "1406-1420",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "The Louvre",
+      "location": "Paris, France",
+      "description": "One of the world's largest and most visited museums, housed in a historic palace.",
+      "year_built": "12th century (as a fortress), 1793 (as a museum)",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Sistine Chapel",
+      "location": "Vatican City",
+      "description": "The papal chapel in the Vatican Palace known for its stunning frescoes by Michelangelo.",
+      "year_built": "1477-1480",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "The Alhambra",
+      "location": "Granada, Spain",
+      "description": "A breathtaking palace and fortress complex built during the Moorish rule in Spain.",
+      "year_built": "13th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Cusco Region, Peru",
+      "description": "An ancient Incan city located in the Andes Mountains, known for its stunning architecture.",
+      "year_built": "15th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Stone Town of Zanzibar",
+      "location": "Zanzibar City, Zanzibar",
+      "description": "A historic city with intricate architecture and a fusion of African, Arab, Indian, and European cultures.",
+      "year_built": "19th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Mont-Saint-Michel",
+      "location": "Normandy, France",
+      "description": "A stunning island commune with a medieval abbey perched atop a rocky island.",
+      "year_built": "8th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Hagia Sophia",
+      "location": "Istanbul, Turkey",
+      "description": "An iconic former cathedral and mosque with a stunning dome and intricate mosaics.",
+      "year_built": "537 AD",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Ephesus",
+      "location": "Izmir, Turkey",
+      "description": "An ancient Greek city famous for its well-preserved ruins, including the Library of Celsus.",
+      "year_built": "10th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Mesa Verde National Park",
+      "location": "Colorado, USA",
+      "description": "A well-preserved cliff dwelling complex built by the Ancestral Puebloans.",
+      "year_built": "12th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Borobudur Temple Compounds",
+      "location": "Central Java, Indonesia",
+      "description": "A monumental Buddhist temple complex built in the 9th century, featuring elaborate carvings and stupas.",
+      "year_built": "9th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "The Kremlin and Red Square",
+      "location": "Moscow, Russia",
+      "description": "An iconic historic complex in Moscow featuring landmarks like the Kremlin, St. Basil's Cathedral, and Red Square.",
+      "year_built": "15th-17th centuries",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Museum Island",
+      "location": "Berlin, Germany",
+      "description": "An ensemble of five museums located on the Spree River, including the Pergamon Museum and the Altes Museum.",
+      "year_built": "19th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Historic Centre of Florence",
+      "location": "Florence, Italy",
+      "description": "The historic heart of Florence, featuring landmarks like the Florence Cathedral, Uffizi Gallery, and Ponte Vecchio.",
+      "year_built": "Various",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Vatican City",
+      "location": "Vatican City",
+      "description": "An independent city-state within Rome, known for St. Peter's Basilica, Vatican Museums, and the Sistine Chapel.",
+      "year_built": "1929 (as a city-state)",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Old City of Jerusalem and its Walls",
+      "location": "Jerusalem",
+      "description": "A historic walled area containing key religious sites for Judaism, Christianity, and Islam, such as the Western Wall and Church of the Holy Sepulchre.",
+      "year_built": "Various",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Budapest Castle Quarter",
+      "location": "Budapest, Hungary",
+      "description": "A historic castle complex overlooking the Danube River, featuring the Buda Castle and Matthias Church.",
+      "year_built": "13th-19th centuries",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Museum of Islamic Art",
+      "location": "Doha, Qatar",
+      "description": "A museum showcasing Islamic art collections from three continents, housed in a modernist building on the Doha Corniche.",
+      "year_built": "2008",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Mingus Mill",
+      "location": "Great Smoky Mountains National Park, USA",
+      "description": "A historic grist mill built in 1886 and operated until the 1930s, showcasing traditional Appalachian craftsmanship.",
+      "year_built": "1886",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Skellig Michael",
+      "location": "County Kerry, Ireland",
+      "description": "An ancient monastic site on a rugged island, featuring stone beehive huts and a medieval monastery.",
+      "year_built": "6th-8th centuries",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Museum of Modern Art (MoMA)",
+      "location": "New York City, USA",
+      "description": "An influential museum dedicated to modern and contemporary art, with a diverse collection of paintings, sculptures, and more.",
+      "year_built": "1929",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Tower of London",
+      "location": "London, England",
+      "description": "A historic castle and fortress on the River Thames, known for its role in English history and housing the Crown Jewels.",
+      "year_built": "1078",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Palace of Versailles",
+      "location": "Versailles, France",
+      "description": "A grand palace and former royal residence known for its opulent architecture, gardens, and Hall of Mirrors.",
+      "year_built": "1682",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Ellora Caves",
+      "location": "Maharashtra, India",
+      "description": "A complex of rock-cut temples and caves representing Buddhist, Hindu, and Jain cultures, dating from the 6th to 10th century.",
+      "year_built": "6th-10th centuries",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Museo Nacional de Antropología",
+      "location": "Mexico City, Mexico",
+      "description": "A renowned museum showcasing Mexico's diverse indigenous cultures, with artifacts ranging from pre-Columbian times to the present.",
+      "year_built": "1964",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Giza Necropolis",
+      "location": "Cairo, Egypt",
+      "description": "An ancient Egyptian burial site containing the Great Pyramid of Giza, Sphinx, and other tombs and temples.",
+      "year_built": "2580-2560 BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Himeji Castle",
+      "location": "Hyogo Prefecture, Japan",
+      "description": "A stunning hilltop castle complex dating back to the 17th century, known for its white exterior and defensive structures.",
+      "year_built": "1601-1609",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Saint Basil's Cathedral",
+      "location": "Moscow, Russia",
+      "description": "An iconic Russian Orthodox church with colorful onion domes, built to commemorate the capture of Kazan and Astrakhan.",
+      "year_built": "1555-1561",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Auschwitz-Birkenau Concentration Camp",
+      "location": "Oswiecim, Poland",
+      "description": "A former Nazi concentration camp memorializing the victims of the Holocaust during World War II.",
+      "year_built": "1940-1945",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Ephesus",
+      "location": "Izmir, Turkey",
+      "description": "An ancient Greek city famous for its well-preserved ruins, including the Library of Celsus and the Temple of Artemis.",
+      "year_built": "10th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "The Acropolis Museum",
+      "location": "Athens, Greece",
+      "description": "A museum dedicated to the findings of the archaeological site of the Acropolis of Athens.",
+      "year_built": "2009",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "location": "Paris, France",
+      "description": "A Gothic chapel known for its stunning stained glass windows depicting biblical scenes.",
+      "year_built": "1248",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Tomb of Seti I",
+      "location": "Luxor, Egypt",
+      "description": "The tomb of Seti I, a pharaoh of the 19th Dynasty of Egypt, known for its well-preserved wall paintings.",
+      "year_built": "13th century BC",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Palmyra",
+      "location": "Homs Governorate, Syria",
+      "description": "An ancient Semitic city known for its well-preserved ruins, including the Temple of Bel and the Arch of Triumph.",
+      "year_built": "3rd century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Mount Athos",
+      "location": "Halkidiki, Greece",
+      "description": "An autonomous monastic state and UNESCO World Heritage Site, home to 20 Eastern Orthodox monasteries.",
+      "year_built": "9th century AD",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Melk Abbey",
+      "location": "Melk, Austria",
+      "description": "A Benedictine abbey overlooking the Danube River, known for its Baroque architecture and library.",
+      "year_built": "1089",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Carthage",
+      "location": "Tunis, Tunisia",
+      "description": "An ancient Phoenician city-state and later Roman empire, known for its ruins and historical significance.",
+      "year_built": "9th century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Djemila",
+      "location": "Sétif Province, Algeria",
+      "description": "An ancient Roman town known for its well-preserved ruins, including temples, basilicas, and forums.",
+      "year_built": "1st century AD",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Wieliczka Salt Mine",
+      "location": "Wieliczka, Poland",
+      "description": "A historic salt mine known for its underground chambers, chapels, and sculptures made of salt.",
+      "year_built": "13th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Orkney Islands",
+      "location": "Scotland, United Kingdom",
+      "description": "An archipelago off the northeastern coast of Scotland, known for its Neolithic and Viking archaeological sites.",
+      "year_built": "Various",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Terracotta Army",
+      "location": "Xi'an, China",
+      "description": "A collection of life-sized terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China.",
+      "year_built": "210-209 BCE",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Carcassonne",
+      "location": "Occitanie, France",
+      "description": "A fortified medieval city in France, known for its well-preserved walls, towers, and historic buildings.",
+      "year_built": "1st century BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Monte Alban",
+      "location": "Oaxaca, Mexico",
+      "description": "An ancient Zapotec city atop a hill, featuring impressive ruins, pyramids, and tombs.",
+      "year_built": "500 BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Brú na Bóinne",
+      "location": "County Meath, Ireland",
+      "description": "A complex of Neolithic chamber tombs, passage graves, and other ancient structures.",
+      "year_built": "35th-32nd centuries BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Potala Palace",
+      "location": "Lhasa, Tibet",
+      "description": "A majestic palace complex perched on Marpo Ri hill, once the winter residence of the Dalai Lamas.",
+      "year_built": "7th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Blenheim Palace",
+      "location": "Oxfordshire, England",
+      "description": "A grand country house and UNESCO World Heritage Site, birthplace of Sir Winston Churchill.",
+      "year_built": "1705-1722",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Cinque Terre",
+      "location": "Liguria, Italy",
+      "description": "A picturesque coastal area featuring five colorful villages clinging to cliffs along the Italian Riviera.",
+      "year_built": "11th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Nara Historic Monuments",
+      "location": "Nara, Japan",
+      "description": "A collection of ancient Japanese temples, shrines, and ruins, including Todai-ji and Kasuga Taisha.",
+      "year_built": "8th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Salisbury Cathedral",
+      "location": "Wiltshire, England",
+      "description": "A magnificent Gothic cathedral known for its towering spire, clock, and historic Magna Carta.",
+      "year_built": "1220-1258",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Taos Pueblo",
+      "location": "New Mexico, USA",
+      "description": "An ancient pueblo community continuously inhabited for over 1,000 years by the Taos Pueblo people.",
+      "year_built": "1000 AD",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Petra",
+      "location": "Ma'an Governorate, Jordan",
+      "description": "An ancient city carved into rose-red cliffs, famous for its rock-cut architecture and water conduit system.",
+      "year_built": "312 BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Mausoleum at Halicarnassus",
+      "location": "Bodrum, Turkey",
+      "description": "A monumental tomb built for Mausolus, a satrap of the Persian Empire, considered one of the Seven Wonders of the Ancient World.",
+      "year_built": "351 BC",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Taj Mahal",
+      "location": "Agra, India",
+      "description": "A magnificent white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "year_built": "1632-1653",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Great Wall of China",
+      "location": "Various provinces, China",
+      "description": "An ancient series of fortifications built to protect Chinese states and empires from invasions.",
+      "year_built": "7th century BC - 16th century AD",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Bryggen",
+      "location": "Bergen, Norway",
+      "description": "A series of historic Hanseatic buildings along the waterfront of Bergen, showcasing medieval architecture.",
+      "year_built": "12th-16th centuries",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Lalibela",
+      "location": "Amhara Region, Ethiopia",
+      "description": "A town known for its rock-hewn churches, carved out of solid rock, dating back to the 12th and 13th centuries.",
+      "year_built": "12th-13th centuries",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Persepolis",
+      "location": "Fars Province, Iran",
+      "description": "An ancient capital of the Achaemenid Empire, featuring impressive ceremonial palaces, gates, and sculptures.",
+      "year_built": "518-515 BC",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Sagrada Familia",
+      "location": "Barcelona, Spain",
+      "description": "A breathtaking basilica designed by Antoni Gaudí, known for its intricate facades and stunning interior.",
+      "year_built": "1882-present",
+      "status": "Not UNESCO World Heritage Site"
+    },
+    {
+      "name": "Machu Picchu",
+      "location": "Cusco Region, Peru",
+      "description": "An ancient Incan city located in the Andes Mountains, known for its stunning architecture and scenic setting.",
+      "year_built": "15th century",
+      "status": "UNESCO World Heritage Site"
+    },
+    {
+      "name": "Angkor Wat",
+      "location": "Siem Reap, Cambodia",
+      "description": "A vast temple complex built by the Khmer Empire, dedicated to the Hindu god Vishnu.",
+      "year_built": "12th century",
+      "status": "UNESCO World Heritage Site"
+    }
+]
