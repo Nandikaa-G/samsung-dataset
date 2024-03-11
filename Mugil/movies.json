@@ -1,5 +1,4 @@
-{
-  "movies": [
+[
     {
       "title": "Inception",
       "director": "Christopher Nolan",
@@ -59,11 +58,7 @@
       "director": "James Cameron",
       "genre": "Sci-Fi",
       "year": 2009
-    }
-  ]
-}
-{
-  "movies": [
+    },
     {
       "title": "The Dark Knight",
       "director": "Christopher Nolan",
@@ -123,11 +118,7 @@
       "director": "Roger Allers & Rob Minkoff",
       "genre": "Animation",
       "year": 1994
-    }
-  ]
-}
-{
-  "movies": [
+    },
     {
       "title": "Forrest Gump",
       "director": "Robert Zemeckis",
@@ -187,11 +178,7 @@
       "director": "Martin McDonagh",
       "genre": "Crime",
       "year": 2008
-    }
-  ]
-}
-{
-  "movies": [
+    },
     {
       "title": "Interstellar",
       "director": "Christopher Nolan",
@@ -251,11 +238,7 @@
       "director": "Damien Chazelle",
       "genre": "Musical",
       "year": 2016
-    }
-  ]
-}
-{
-  "movies": [
+    },
     {
       "title": "Fight Club",
       "director": "David Fincher",
@@ -315,11 +298,7 @@
       "director": "Joel Coen, Ethan Coen",
       "genre": "Comedy",
       "year": 1998
-    }
-  ]
-}
-{
-  "movies": [
+    },
     {
       "title": "The Avengers",
       "director": "Joss Whedon",
@@ -379,11 +358,7 @@
       "director": "M. Night Shyamalan",
       "genre": "Thriller",
       "year": 1999
-    }
-  ]
-}
-{
-  "movies": [
+    },
     {
       "title": "The Matrix",
       "director": "Lana Wachowski, Lilly Wachowski",
@@ -444,5 +419,4 @@
       "genre": "Thriller",
       "year": 2019
     }
-  ]
-}
+]
