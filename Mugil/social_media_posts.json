@@ -1,5 +1,4 @@
-{
-  "social_media_posts": [
+[
     {
       "post_id": "P001",
       "author": "User123",
@@ -29,12 +28,7 @@
       "author": "TechGeek",
       "timestamp": "2022-05-15T20:22:00",
       "content": "Just got my hands on the latest tech gadget. It's amazing! 📱 #TechEnthusiast #GadgetLove"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P006",
       "author": "ArtisticSoul",
@@ -64,12 +58,7 @@
       "author": "GamingGuru",
       "timestamp": "2022-10-20T19:55:00",
       "content": "Leveling up in my favorite game. 🎮 Exciting gaming session ahead! #GamerLife #GameOn"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P011",
       "author": "NatureExplorer",
@@ -99,12 +88,7 @@
       "author": "MotivationSpeaker",
       "timestamp": "2023-03-10T21:00:00",
       "content": "Believe in yourself and your dreams. 💪✨ You have the power to make it happen. #MotivationMonday #DreamBig"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P016",
       "author": "TravelExplorer",
@@ -134,12 +118,7 @@
       "author": "FitnessFreak",
       "timestamp": "2023-08-08T12:15:00",
       "content": "Pushing my limits at the gym. 💪 Hard work pays off! #FitnessJourney #WorkoutMotivation"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P021",
       "author": "AdventureSeeker",
@@ -169,12 +148,7 @@
       "author": "TechSavvy",
       "timestamp": "2024-01-10T14:55:00",
       "content": "Geeking out over the latest gadgets. 🤓 Exciting times in the tech world. #TechGeek #GadgetObsessed"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P026",
       "author": "MindfulExplorer",
@@ -204,12 +178,7 @@
       "author": "TechInnovator",
       "timestamp": "2024-06-10T19:30:00",
       "content": "Exploring the future of technology at a tech conference. 🚀 Exciting innovations ahead. #TechConference #InnovationHub"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P031",
       "author": "GastronomyGuru",
@@ -239,12 +208,7 @@
       "author": "AstroExplorer",
       "timestamp": "2024-11-15T22:00:00",
       "content": "Stargazing under the clear night sky. 🌌✨ Connecting with the cosmos. #Astrology #StarryNights"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P036",
       "author": "AdventurePhotog",
@@ -274,12 +238,7 @@
       "author": "TechEnthusiast",
       "timestamp": "2025-04-18T16:55:00",
       "content": "Attending a tech expo to witness cutting-edge innovations. 🚀 Exciting times for tech enthusiasts. #TechExpo #InnovationShowcase"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P041",
       "author": "FitnessExplorer",
@@ -309,12 +268,7 @@
       "author": "BookLover",
       "timestamp": "2025-09-15T16:20:00",
       "content": "Diving into a captivating fantasy novel. 📖✨ Escaping into magical realms. #BookMagic #ReadingEscape"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P046",
       "author": "NatureAdventurer",
@@ -344,12 +298,7 @@
       "author": "StyleIcon",
       "timestamp": "2026-02-15T17:45:00",
       "content": "Showcasing eclectic fashion choices and creating a unique style statement. 👗🕶️ #FashionInnovation #StyleDiversity"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P051",
       "author": "TechVisionary",
@@ -379,12 +328,7 @@
       "author": "FitnessExplorer",
       "timestamp": "2026-07-10T08:00:00",
       "content": "Diversifying fitness routines with a mix of martial arts and yoga. 🥋🧘‍♀️ #FitnessVariety #MindBodyBalance"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P056",
       "author": "TechInnovator",
@@ -414,12 +358,7 @@
       "author": "AdventureNomad",
       "timestamp": "2026-12-01T21:15:00",
       "content": "Celebrating the end of the year with an adventurous journey. 🌟✈️ Excited for new horizons in the coming year. #NewYearAdventure #AdventurousSpirit"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P061",
       "author": "WellnessWarrior",
@@ -449,12 +388,7 @@
       "author": "MindfulTechie",
       "timestamp": "2027-05-01T11:30:00",
       "content": "Sharing tips on maintaining digital wellness in a hyper-connected world. 📱🧘‍♂️ #DigitalWellness #MindfulTech"
-    }
-    // Add more social media posts as needed
-  ]
-}
-{
-  "social_media_posts": [
+    },
     {
       "post_id": "P066",
       "author": "FitnessFanatic",
@@ -485,6 +419,4 @@
       "timestamp": "2027-10-10T12:30:00",
       "content": "Mindful moments amidst autumn leaves. 🍁🧘‍♂️ Finding serenity in seasonal beauty. #AutumnMindfulness #NatureReflection"
     }
-    // Add more social media posts as needed
-  ]
-}
+]
