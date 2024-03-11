@@ -1,4 +1,4 @@
-{
+[
     {
       "title": "Thriller",
       "artist": "Michael Jackson",
@@ -58,9 +58,7 @@
       "artist": "Michael Jackson",
       "release_year": 1987,
       "genre": "Pop"
-    }
-}
-{
+    },
     {
       "title": "A Night at the Opera",
       "artist": "Queen",
@@ -120,9 +118,7 @@
       "artist": "AC/DC",
       "release_year": 1980,
       "genre": "Hard Rock"
-    }
-}
-{
+    },
     {
       "title": "A Day at the Races",
       "artist": "Queen",
@@ -182,9 +178,7 @@
       "artist": "U2",
       "release_year": 1987,
       "genre": "Rock"
-    }
-}
-{
+    },
     {
       "title": "Legend",
       "artist": "Bob Marley & The Wailers",
@@ -244,9 +238,7 @@
       "artist": "The Beatles",
       "release_year": 1967,
       "genre": "Rock"
-    }
-}
-{
+    },
     {
       "title": "Raising Sand",
       "artist": "Robert Plant & Alison Krauss",
@@ -306,9 +298,7 @@
       "artist": "Eminem",
       "release_year": 1999,
       "genre": "Hip Hop"
-    }
-}
-{
+    },
     {
       "title": "Achtung Baby",
       "artist": "U2",
@@ -368,9 +358,7 @@
       "artist": "Black Sabbath",
       "release_year": 1970,
       "genre": "Heavy Metal"
-    }
-}
-{
+    },
     {
       "title": "Lemonade",
       "artist": "Beyoncé",
@@ -430,9 +418,7 @@
       "artist": "Johnny Cash",
       "release_year": 1968,
       "genre": "Country"
-    }
-}
-{
+    },
     {
       "title": "Dark Side of the Moon",
       "artist": "Pink Floyd",
@@ -493,4 +479,4 @@
       "release_year": 2009,
       "genre": "Alternative Rock"
     }
-}
+]
