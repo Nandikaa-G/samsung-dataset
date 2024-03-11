@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "category": "Environment",
       "title": "Climate Change and Its Impacts",
@@ -69,11 +68,7 @@
       "description": "Analyzing the intersection of human rights principles and international legal frameworks in promoting justice and equality.",
       "publication_date": "2023-04-05",
       "author": "Human Rights Law Journal"
-    }
-  ]
-}
-{
-  "data": [
+    },
     {
       "category": "Environment",
       "title": "Ocean Conservation Initiatives",
@@ -143,12 +138,7 @@
       "description": "Investigating the intersection of international trade agreements and climate change policies, evaluating their effectiveness in addressing environmental concerns.",
       "publication_date": "2023-10-30",
       "author": "Trade and Environment Research Institute"
-    }
-    // Add more entries as needed
-  ]
-}
-{
-  "data": [
+    },
     {
       "category": "Environment",
       "title": "Renewable Energy Transition Policies",
@@ -218,12 +208,7 @@
       "description": "Investigating the role of media in shaping public opinion, political narratives, and the challenges posed by misinformation and disinformation in contemporary politics.",
       "publication_date": "2024-03-01",
       "author": "Media and Politics Observatory"
-    }
-    // Add more entries as needed
-  ]
-}
-{
-  "data": [
+    },
     {
       "category": "Environment",
       "title": "Green Building Certification Programs",
@@ -293,12 +278,7 @@
       "description": "Analyzing the impact of demographic changes on political representation, including considerations of age, ethnicity, and gender in shaping diverse and inclusive governance.",
       "publication_date": "2024-08-01",
       "author": "Demographic Politics Research Group"
-    }
-    // Add more entries as needed
-  ]
-}
-{
-  "data": [
+    },
     {
       "category": "Environment",
       "title": "Eco-Friendly Tourism Practices",
@@ -368,12 +348,7 @@
       "description": "Assessing strategies and challenges in post-conflict reconstruction, focusing on rebuilding institutions, fostering reconciliation, and establishing stable governance.",
       "publication_date": "2025-01-05",
       "author": "Post-Conflict Governance Studies Center"
-    }
-    // Add more entries as needed
-  ]
-}
-{
-  "data": [
+    },
     {
       "category": "Environment",
       "title": "Climate Resilient Agriculture Practices",
@@ -443,12 +418,7 @@
       "description": "Assessing the role of humanitarian diplomacy in crisis response, facilitating international cooperation, aid distribution, and diplomatic efforts in times of emergencies.",
       "publication_date": "2025-06-01",
       "author": "Humanitarian Diplomacy Research Center"
-    }
-    // Add more entries as needed
-  ]
-}
-{
-  "data": [
+    },
     {
       "category": "Environment",
       "title": "Natural Disaster Preparedness in Coastal Areas",
@@ -519,6 +489,4 @@
       "publication_date": "2025-11-05",
       "author": "Global Pandemic Governance Consortium"
     }
-    // Add more entries as needed
-  ]
 }
