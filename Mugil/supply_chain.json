@@ -1,0 +1,562 @@
+[
+    {
+      "company": "Amazon",
+      "industry": "E-commerce",
+      "description": "Amazon, an American multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "headquarters": "Seattle, Washington, USA",
+      "services": ["E-commerce platform", "Logistics services", "Cloud computing"]
+    },
+    {
+      "company": "Walmart",
+      "industry": "Retail",
+      "description": "Walmart, an American multinational retail corporation operating a chain of hypermarkets, discount department stores, and grocery stores.",
+      "headquarters": "Bentonville, Arkansas, USA",
+      "services": ["Retail operations", "Supply chain management", "E-commerce"]
+    },
+    {
+      "company": "UPS",
+      "industry": "Logistics",
+      "description": "United Parcel Service (UPS), an American multinational package delivery and supply chain management company.",
+      "headquarters": "Atlanta, Georgia, USA",
+      "services": ["Package delivery", "Freight forwarding", "Supply chain solutions"]
+    },
+    {
+      "company": "FedEx",
+      "industry": "Logistics",
+      "description": "FedEx Corporation, an American multinational delivery services company.",
+      "headquarters": "Memphis, Tennessee, USA",
+      "services": ["Express delivery", "Freight services", "Logistics solutions"]
+    },
+    {
+      "company": "IBM",
+      "industry": "Technology",
+      "description": "International Business Machines Corporation (IBM), an American multinational technology company.",
+      "headquarters": "Armonk, New York, USA",
+      "services": ["Blockchain solutions", "Supply chain analytics", "Cloud services"]
+    },
+    {
+      "company": "Procter & Gamble",
+      "industry": "Consumer Goods",
+      "description": "Procter & Gamble (P&G), an American multinational consumer goods corporation.",
+      "headquarters": "Cincinnati, Ohio, USA",
+      "services": ["Manufacturing", "Supply chain optimization", "Product distribution"]
+    },
+    {
+      "company": "Maersk",
+      "industry": "Shipping",
+      "description": "A.P. Moller - Maersk, a Danish shipping company.",
+      "headquarters": "Copenhagen, Denmark",
+      "services": ["Container shipping", "Logistics services", "Supply chain management"]
+    },
+    {
+      "company": "Coca-Cola",
+      "industry": "Beverages",
+      "description": "The Coca-Cola Company, an American multinational beverage corporation.",
+      "headquarters": "Atlanta, Georgia, USA",
+      "services": ["Beverage production", "Distribution", "Supply chain management"]
+    },
+    {
+      "company": "Apple",
+      "industry": "Technology",
+      "description": "Apple Inc., an American multinational technology company known for its consumer electronics and software products.",
+      "headquarters": "Cupertino, California, USA",
+      "services": ["Product manufacturing", "Supply chain management", "Retail operations"]
+    },
+    {
+      "company": "Nike",
+      "industry": "Apparel",
+      "description": "Nike, Inc., an American multinational corporation known for its athletic footwear, apparel, and accessories.",
+      "headquarters": "Beaverton, Oregon, USA",
+      "services": ["Apparel manufacturing", "Supply chain management", "Retail operations"]
+    },
+    {
+      "company": "Intel",
+      "industry": "Technology",
+      "description": "Intel Corporation, an American multinational corporation and technology company known for its semiconductor chips.",
+      "headquarters": "Santa Clara, California, USA",
+      "services": ["Semiconductor manufacturing", "Supply chain management", "Data center solutions"]
+    },
+    {
+      "company": "Nestlé",
+      "industry": "Food & Beverage",
+      "description": "Nestlé S.A., a Swiss multinational food and drink processing conglomerate.",
+      "headquarters": "Vevey, Switzerland",
+      "services": ["Food production", "Supply chain optimization", "Distribution"]
+    },
+    {
+      "company": "Samsung",
+      "industry": "Technology",
+      "description": "Samsung Electronics Co., Ltd., a South Korean multinational electronics company.",
+      "headquarters": "Suwon, South Korea",
+      "services": ["Electronics manufacturing", "Supply chain management", "Consumer electronics"]
+    },
+    {
+      "company": "Mitsubishi Corporation",
+      "industry": "Trading & Investment",
+      "description": "Mitsubishi Corporation, a Japanese multinational conglomerate with interests in various industries.",
+      "headquarters": "Tokyo, Japan",
+      "services": ["Trading", "Investments", "Supply chain solutions"]
+    },
+    {
+      "company": "Toyota",
+      "industry": "Automotive",
+      "description": "Toyota Motor Corporation, a Japanese multinational automotive manufacturer.",
+      "headquarters": "Toyota City, Japan",
+      "services": ["Automobile manufacturing", "Supply chain management", "Hybrid vehicles"]
+    },
+    {
+      "company": "General Electric",
+      "industry": "Conglomerate",
+      "description": "General Electric (GE), an American multinational conglomerate corporation.",
+      "headquarters": "Boston, Massachusetts, USA",
+      "services": ["Aviation", "Healthcare", "Renewable energy", "Supply chain solutions"]
+    },
+    {
+      "company": "Unilever",
+      "industry": "Consumer Goods",
+      "description": "Unilever, a British-Dutch multinational consumer goods company.",
+      "headquarters": "London, United Kingdom",
+      "services": ["Consumer products", "Supply chain management", "Sustainability initiatives"]
+    },
+    {
+      "company": "DHL Global Forwarding",
+      "industry": "Logistics",
+      "description": "DHL Global Forwarding, the air and ocean freight forwarding division of Deutsche Post DHL Group.",
+      "headquarters": "Bonn, Germany",
+      "services": ["Freight forwarding", "Logistics solutions", "Customs brokerage"]
+    },
+    {
+      "company": "Bayer",
+      "industry": "Pharmaceuticals",
+      "description": "Bayer AG, a German multinational pharmaceutical and life sciences company.",
+      "headquarters": "Leverkusen, Germany",
+      "services": ["Pharmaceuticals", "Agriculture", "Supply chain management"]
+    },
+    {
+      "company": "Siemens",
+      "industry": "Technology",
+      "description": "Siemens AG, a German multinational conglomerate company.",
+      "headquarters": "Munich, Germany",
+      "services": ["Electronics", "Energy", "Supply chain solutions"]
+    },
+    {
+      "company": "Alibaba Group",
+      "industry": "E-commerce",
+      "description": "Alibaba Group Holding Limited, a Chinese multinational conglomerate specializing in e-commerce, retail, internet, and technology.",
+      "headquarters": "Hangzhou, Zhejiang, China",
+      "services": ["E-commerce platform", "Cloud computing", "Logistics services"]
+    },
+    {
+      "company": "3M",
+      "industry": "Manufacturing",
+      "description": "3M Company, an American multinational conglomerate corporation involved in technology, manufacturing, and innovation.",
+      "headquarters": "St. Paul, Minnesota, USA",
+      "services": ["Manufacturing", "Supply chain solutions", "Healthcare products"]
+    },
+    {
+      "company": "Schneider Electric",
+      "industry": "Energy Management",
+      "description": "Schneider Electric SE, a European multinational corporation specializing in energy management and automation solutions.",
+      "headquarters": "Rueil-Malmaison, France",
+      "services": ["Energy management", "Automation", "Supply chain optimization"]
+    },
+    {
+      "company": "IKEA",
+      "industry": "Retail",
+      "description": "IKEA, a Swedish multinational conglomerate known for its ready-to-assemble furniture, home accessories, and kitchen appliances.",
+      "headquarters": "Delft, Netherlands",
+      "services": ["Furniture retail", "Supply chain management", "Home furnishings"]
+    },
+    {
+      "company": "Cisco Systems",
+      "industry": "Technology",
+      "description": "Cisco Systems, Inc., an American multinational technology conglomerate known for networking hardware, software, and services.",
+      "headquarters": "San Jose, California, USA",
+      "services": ["Networking solutions", "Cloud services", "Supply chain management"]
+    },
+    {
+      "company": "Johnson & Johnson",
+      "industry": "Healthcare",
+      "description": "Johnson & Johnson, an American multinational corporation specializing in pharmaceuticals, medical devices, and consumer health products.",
+      "headquarters": "New Brunswick, New Jersey, USA",
+      "services": ["Pharmaceuticals", "Medical devices", "Supply chain optimization"]
+    },
+    {
+      "company": "The Home Depot",
+      "industry": "Retail",
+      "description": "The Home Depot, Inc., an American home improvement retail company.",
+      "headquarters": "Atlanta, Georgia, USA",
+      "services": ["Home improvement retail", "Supply chain management", "Building materials"]
+    },
+    {
+      "company": "Sony",
+      "industry": "Technology",
+      "description": "Sony Corporation, a Japanese multinational conglomerate known for electronics, gaming, entertainment, and financial services.",
+      "headquarters": "Tokyo, Japan",
+      "services": ["Consumer electronics", "Entertainment", "Supply chain management"]
+    },
+    {
+      "company": "PepsiCo",
+      "industry": "Beverages",
+      "description": "PepsiCo, Inc., an American multinational food, snack, and beverage corporation.",
+      "headquarters": "Purchase, New York, USA",
+      "services": ["Beverage production", "Snack foods", "Supply chain optimization"]
+    },
+    {
+      "company": "Maersk Line",
+      "industry": "Shipping",
+      "description": "Maersk Line, the global container division of the A.P. Moller – Maersk Group.",
+      "headquarters": "Copenhagen, Denmark",
+      "services": ["Container shipping", "Logistics services", "Supply chain solutions"]
+    },
+    {
+      "company": "Siemens Healthineers",
+      "industry": "Healthcare",
+      "description": "Siemens Healthineers, a German multinational medical technology company.",
+      "headquarters": "Erlangen, Germany",
+      "services": ["Medical imaging", "Laboratory diagnostics", "Healthcare IT"]
+    },
+    {
+      "company": "DHL Express",
+      "industry": "Logistics",
+      "description": "DHL Express, the express division of Deutsche Post DHL Group.",
+      "headquarters": "Bonn, Germany",
+      "services": ["Express delivery", "International shipping", "Logistics solutions"]
+    },
+    {
+      "company": "Caterpillar Inc.",
+      "industry": "Manufacturing",
+      "description": "Caterpillar Inc., an American corporation that designs, manufactures, and sells construction equipment, engines, and industrial equipment.",
+      "headquarters": "Deerfield, Illinois, USA",
+      "services": ["Construction equipment", "Mining equipment", "Supply chain solutions"]
+    },
+    {
+      "company": "L'Oréal",
+      "industry": "Cosmetics",
+      "description": "L'Oréal S.A., a French multinational cosmetics and beauty company.",
+      "headquarters": "Clichy, France",
+      "services": ["Cosmetics manufacturing", "Beauty products", "Supply chain management"]
+    },
+    {
+      "company": "Carrefour",
+      "industry": "Retail",
+      "description": "Carrefour S.A., a French multinational retail corporation.",
+      "headquarters": "Massy, France",
+      "services": ["Hypermarkets", "Supermarkets", "Supply chain optimization"]
+    },
+    {
+      "company": "Pfizer",
+      "industry": "Pharmaceuticals",
+      "description": "Pfizer Inc., an American multinational pharmaceutical corporation.",
+      "headquarters": "New York City, New York, USA",
+      "services": ["Pharmaceuticals", "Vaccines", "Supply chain management"]
+    },
+    {
+      "company": "Lenovo",
+      "industry": "Technology",
+      "description": "Lenovo Group Limited, a Chinese multinational technology company.",
+      "headquarters": "Beijing, China",
+      "services": ["Computers", "Smartphones", "Supply chain solutions"]
+    },
+    {
+      "company": "Nissan",
+      "industry": "Automotive",
+      "description": "Nissan Motor Co., Ltd., a Japanese multinational automobile manufacturer.",
+      "headquarters": "Yokohama, Japan",
+      "services": ["Automobile manufacturing", "Supply chain management", "Electric vehicles"]
+    },
+    {
+      "company": "H&M",
+      "industry": "Apparel",
+      "description": "Hennes & Mauritz AB (H&M), a Swedish multinational clothing-retail company.",
+      "headquarters": "Stockholm, Sweden",
+      "services": ["Apparel retail", "Fashion", "Supply chain optimization"]
+    },
+    {
+      "company": "Accenture",
+      "industry": "Consulting",
+      "description": "Accenture plc, a global professional services company.",
+      "headquarters": "Dublin, Ireland",
+      "services": ["Consulting", "Technology services", "Supply chain management"]
+    },
+    {
+      "company": "Boeing",
+      "industry": "Aerospace",
+      "description": "The Boeing Company, an American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and more.",
+      "headquarters": "Chicago, Illinois, USA",
+      "services": ["Aircraft manufacturing", "Spacecraft", "Supply chain solutions"]
+    },
+    {
+      "company": "Dell Technologies",
+      "industry": "Technology",
+      "description": "Dell Technologies, an American multinational technology company known for its computers, servers, data storage devices, and more.",
+      "headquarters": "Round Rock, Texas, USA",
+      "services": ["Computer hardware", "IT services", "Supply chain management"]
+    },
+    {
+      "company": "ExxonMobil",
+      "industry": "Energy",
+      "description": "Exxon Mobil Corporation, an American multinational oil and gas corporation.",
+      "headquarters": "Irving, Texas, USA",
+      "services": ["Oil and gas exploration", "Refining", "Supply chain logistics"]
+    },
+    {
+      "company": "Huawei Technologies",
+      "industry": "Technology",
+      "description": "Huawei Technologies Co., Ltd., a Chinese multinational technology company specializing in telecommunications equipment and consumer electronics.",
+      "headquarters": "Shenzhen, China",
+      "services": ["Telecommunications", "Consumer electronics", "Supply chain management"]
+    },
+    {
+      "company": "Mercedes-Benz",
+      "industry": "Automotive",
+      "description": "Mercedes-Benz, a German global automobile marque and a division of Daimler AG.",
+      "headquarters": "Stuttgart, Germany",
+      "services": ["Automobile manufacturing", "Luxury vehicles", "Supply chain logistics"]
+    },
+    {
+      "company": "Oracle",
+      "industry": "Technology",
+      "description": "Oracle Corporation, an American multinational computer technology corporation.",
+      "headquarters": "Redwood City, California, USA",
+      "services": ["Database software", "Cloud services", "Supply chain management"]
+    },
+    {
+      "company": "Target",
+      "industry": "Retail",
+      "description": "Target Corporation, an American retail corporation.",
+      "headquarters": "Minneapolis, Minnesota, USA",
+      "services": ["Retail operations", "Supply chain optimization", "E-commerce"]
+    },
+    {
+      "company": "Nestlé Waters",
+      "industry": "Beverages",
+      "description": "Nestlé Waters, a division of Nestlé specializing in bottled water.",
+      "headquarters": "Paris, France",
+      "services": ["Bottled water production", "Distribution", "Sustainability initiatives"]
+    },
+    {
+      "company": "Mitsubishi Electric",
+      "industry": "Technology",
+      "description": "Mitsubishi Electric Corporation, a Japanese multinational electronics and electrical equipment manufacturing company.",
+      "headquarters": "Tokyo, Japan",
+      "services": ["Electronics manufacturing", "Industrial automation", "Supply chain solutions"]
+    },
+    {
+      "company": "Gap Inc.",
+      "industry": "Apparel",
+      "description": "Gap Inc., an American worldwide clothing and accessories retailer.",
+      "headquarters": "San Francisco, California, USA",
+      "services": ["Apparel retail", "Supply chain management", "Fashion"]
+    },
+    {
+      "company": "Johnson Controls",
+      "industry": "Building Efficiency",
+      "description": "Johnson Controls International plc, an American Irish-domiciled multinational conglomerate producing automotive parts and HVAC equipment.",
+      "headquarters": "Cork, Ireland",
+      "services": ["Building management", "HVAC systems", "Energy solutions"]
+    },
+    {
+      "company": "Lockheed Martin",
+      "industry": "Aerospace & Defense",
+      "description": "Lockheed Martin Corporation, an American aerospace, defense, arms, security, and advanced technologies company.",
+      "headquarters": "Bethesda, Maryland, USA",
+      "services": ["Aircraft manufacturing", "Defense systems", "Supply chain management"]
+    },
+    {
+      "company": "Maersk Oil",
+      "industry": "Oil & Gas",
+      "description": "Maersk Oil, a subsidiary of A.P. Moller - Maersk, focused on exploration, production, and oil and gas field development.",
+      "headquarters": "Copenhagen, Denmark",
+      "services": ["Oil and gas exploration", "Field development", "Logistics"]
+    },
+    {
+      "company": "Cargill",
+      "industry": "Agriculture & Food",
+      "description": "Cargill, Incorporated, an American privately held global corporation specializing in food and agricultural commodities.",
+      "headquarters": "Minnetonka, Minnesota, USA",
+      "services": ["Agricultural trading", "Food production", "Supply chain management"]
+    },
+    {
+      "company": "BMW Group",
+      "industry": "Automotive",
+      "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, a German multinational company which produces luxury vehicles and motorcycles.",
+      "headquarters": "Munich, Germany",
+      "services": ["Automobile manufacturing", "Luxury vehicles", "Supply chain logistics"]
+    },
+    {
+      "company": "McDonald's",
+      "industry": "Food & Beverage",
+      "description": "McDonald's Corporation, an American fast food company.",
+      "headquarters": "Chicago, Illinois, USA",
+      "services": ["Fast food", "Restaurant operations", "Supply chain management"]
+    },
+    {
+      "company": "Bosch",
+      "industry": "Technology",
+      "description": "Robert Bosch GmbH, a German multinational engineering and technology company.",
+      "headquarters": "Stuttgart, Germany",
+      "services": ["Automotive technology", "Home appliances", "Supply chain solutions"]
+    },
+    {
+      "company": "SAP",
+      "industry": "Technology",
+      "description": "SAP SE, a German multinational software corporation.",
+      "headquarters": "Walldorf, Germany",
+      "services": ["Enterprise software", "Cloud computing", "Supply chain management"]
+    },
+    {
+      "company": "CVS Health",
+      "industry": "Healthcare & Retail",
+      "description": "CVS Health Corporation, an American healthcare company and pharmacy retailer.",
+      "headquarters": "Woonsocket, Rhode Island, USA",
+      "services": ["Pharmacy services", "Healthcare products", "Supply chain optimization"]
+    },
+    {
+      "company": "Coca-Cola Enterprises",
+      "industry": "Beverages",
+      "description": "Coca-Cola Enterprises, a former British multinational bottling company and a subsidiary of The Coca-Cola Company.",
+      "headquarters": "London, United Kingdom",
+      "services": ["Beverage bottling", "Distribution", "Supply chain management"]
+    },
+    {
+      "company": "Lufthansa Cargo",
+      "industry": "Aviation & Logistics",
+      "description": "Lufthansa Cargo AG, a German cargo airline and a wholly owned subsidiary of Lufthansa.",
+      "headquarters": "Frankfurt, Germany",
+      "services": ["Air cargo transportation", "Logistics services", "Supply chain solutions"]
+    },
+    {
+      "company": "Sony Pictures Entertainment",
+      "industry": "Entertainment",
+      "description": "Sony Pictures Entertainment Inc., an American entertainment company.",
+      "headquarters": "Culver City, California, USA",
+      "services": ["Film production", "Television production", "Distribution"]
+    },
+    {
+      "company": "Wipro Limited",
+      "industry": "Information Technology",
+      "description": "Wipro Limited, an Indian multinational corporation providing information technology, consulting, and business process services.",
+      "headquarters": "Bangalore, India",
+      "services": ["IT consulting", "Outsourcing services", "Supply chain management"]
+    },
+    {
+      "company": "Maersk Drilling",
+      "industry": "Oil & Gas",
+      "description": "Maersk Drilling, a Danish offshore drilling contractor.",
+      "headquarters": "Lyngby, Denmark",
+      "services": ["Offshore drilling", "Oil exploration", "Logistics"]
+    },
+    {
+      "company": "Kuehne + Nagel",
+      "industry": "Logistics",
+      "description": "Kuehne + Nagel International AG, a global logistics company based in Switzerland.",
+      "headquarters": "Schindellegi, Switzerland",
+      "services": ["Freight forwarding", "Supply chain solutions", "Customs brokerage"]
+    },
+    {
+      "company": "Novartis",
+      "industry": "Pharmaceuticals",
+      "description": "Novartis International AG, a Swiss multinational pharmaceutical company.",
+      "headquarters": "Basel, Switzerland",
+      "services": ["Pharmaceuticals", "Biotechnology", "Supply chain management"]
+    },
+    {
+      "company": "Tiffany & Co.",
+      "industry": "Luxury Goods",
+      "description": "Tiffany & Co., an American luxury jewelry and specialty retailer.",
+      "headquarters": "New York City, New York, USA",
+      "services": ["Jewelry retail", "Supply chain management", "Luxury goods"]
+    },
+    {
+      "company": "AstraZeneca",
+      "industry": "Pharmaceuticals",
+      "description": "AstraZeneca plc, a British-Swedish multinational pharmaceutical and biopharmaceutical company.",
+      "headquarters": "Cambridge, United Kingdom",
+      "services": ["Pharmaceuticals", "Biotechnology", "Supply chain optimization"]
+    },
+    {
+      "company": "Pernod Ricard",
+      "industry": "Beverages",
+      "description": "Pernod Ricard SA, a French multinational corporation specializing in alcoholic beverages.",
+      "headquarters": "Paris, France",
+      "services": ["Alcoholic beverages", "Distribution", "Supply chain management"]
+    },
+    {
+      "company": "Schindler Group",
+      "industry": "Manufacturing",
+      "description": "Schindler Group, a Swiss multinational company specializing in elevators, escalators, and moving walkways.",
+      "headquarters": "Ebikon, Switzerland",
+      "services": ["Elevator manufacturing", "Building transportation systems", "Supply chain solutions"]
+    },
+    {
+      "company": "FedEx",
+      "industry": "Logistics",
+      "description": "FedEx Corporation, an American multinational delivery services company.",
+      "headquarters": "Memphis, Tennessee, USA",
+      "services": ["Express shipping", "Logistics solutions", "Supply chain management"]
+    },
+    {
+      "company": "Procter & Gamble",
+      "industry": "Consumer Goods",
+      "description": "Procter & Gamble Company, an American multinational consumer goods corporation.",
+      "headquarters": "Cincinnati, Ohio, USA",
+      "services": ["Consumer products", "Supply chain optimization", "Household goods"]
+    },
+    {
+      "company": "Amazon",
+      "industry": "E-commerce & Technology",
+      "description": "Amazon.com, Inc., an American multinational technology company.",
+      "headquarters": "Seattle, Washington, USA",
+      "services": ["E-commerce platform", "Cloud computing", "Logistics and delivery"]
+    },
+    {
+      "company": "Gilead Sciences",
+      "industry": "Biotechnology & Pharmaceuticals",
+      "description": "Gilead Sciences, Inc., an American biotechnology company.",
+      "headquarters": "Foster City, California, USA",
+      "services": ["Biopharmaceuticals", "Research and development", "Supply chain management"]
+    },
+    {
+      "company": "General Motors",
+      "industry": "Automotive",
+      "description": "General Motors Company, an American multinational corporation.",
+      "headquarters": "Detroit, Michigan, USA",
+      "services": ["Automobile manufacturing", "Electric vehicles", "Supply chain logistics"]
+    },
+    {
+      "company": "Nokia",
+      "industry": "Telecommunications",
+      "description": "Nokia Corporation, a Finnish multinational telecommunications, information technology, and consumer electronics company.",
+      "headquarters": "Espoo, Finland",
+      "services": ["Telecommunications equipment", "Network solutions", "Supply chain management"]
+    },
+    {
+      "company": "L'Oréal",
+      "industry": "Cosmetics & Beauty",
+      "description": "L'Oréal S.A., a French multinational cosmetics and beauty company.",
+      "headquarters": "Clichy, France",
+      "services": ["Cosmetics manufacturing", "Beauty products", "Supply chain optimization"]
+    },
+    {
+      "company": "Ford Motor Company",
+      "industry": "Automotive",
+      "description": "Ford Motor Company, an American multinational automaker.",
+      "headquarters": "Dearborn, Michigan, USA",
+      "services": ["Automobile manufacturing", "Supply chain management", "Electric vehicles"]
+    },
+    {
+      "company": "Caterpillar Inc.",
+      "industry": "Manufacturing & Construction",
+      "description": "Caterpillar Inc., an American corporation that designs, manufactures, markets, and sells machinery, engines, and financial products.",
+      "headquarters": "Deerfield, Illinois, USA",
+      "services": ["Construction equipment", "Mining equipment", "Supply chain solutions"]
+    },
+    {
+      "company": "Estée Lauder Companies",
+      "industry": "Cosmetics & Beauty",
+      "description": "The Estée Lauder Companies Inc., an American multinational manufacturer and marketer of prestige skincare, makeup, fragrance, and hair care products.",
+      "headquarters": "New York City, New York, USA",
+      "services": ["Cosmetics manufacturing", "Beauty products", "Supply chain management"]
+    }
+]
