@@ -1,0 +1,482 @@
+[
+    {
+      "topic": "Cognitive Psychology",
+      "description": "The study of mental processes such as perception, attention, memory, problem-solving, and language use.",
+      "subfields": ["Memory", "Attention", "Problem Solving", "Language Processing"],
+      "prominent_figures": ["Jean Piaget", "Ulric Neisser", "George A. Miller"]
+    },
+    {
+      "topic": "Developmental Psychology",
+      "description": "The study of how people grow, develop, and change throughout their lifespan, including physical, cognitive, and social development.",
+      "subfields": ["Child Development", "Adolescent Development", "Adult Development", "Aging"],
+      "prominent_figures": ["Jean Piaget", "Erik Erikson", "Lev Vygotsky"]
+    },
+    {
+      "topic": "Social Psychology",
+      "description": "The study of how people's thoughts, feelings, and behaviors are influenced by the presence of others.",
+      "subfields": ["Social Influence", "Group Behavior", "Prejudice and Discrimination", "Interpersonal Relationships"],
+      "prominent_figures": ["Stanley Milgram", "Kurt Lewin", "Elliot Aronson"]
+    },
+    {
+      "topic": "Clinical Psychology",
+      "description": "The study and treatment of mental illness, abnormal behavior, and psychiatric disorders.",
+      "subfields": ["Psychotherapy", "Assessment and Diagnosis", "Psychopathology", "Counseling"],
+      "prominent_figures": ["Sigmund Freud", "Carl Rogers", "Albert Ellis"]
+    },
+    {
+      "topic": "Health Psychology",
+      "description": "The study of psychological factors that affect health and illness, and the development of interventions to promote well-being.",
+      "subfields": ["Stress and Coping", "Health Behavior Change", "Chronic Illness Management", "Quality of Life"],
+      "prominent_figures": ["Aaron Antonovsky", "Shelley E. Taylor", "Kenneth E. Freedland"]
+    },
+    {
+      "topic": "Forensic Psychology",
+      "description": "The application of psychological principles and techniques to the legal system, including criminal investigations, court proceedings, and correctional settings.",
+      "subfields": ["Criminal Profiling", "Eyewitness Testimony", "Mental Competency Evaluations", "Risk Assessment"],
+      "prominent_figures": ["Hugo Münsterberg", "William Marston", "David Canter"]
+    },
+    {
+      "topic": "Neuropsychology",
+      "description": "The study of the relationship between brain function and behavior, often focusing on patients with brain injuries or neurological disorders.",
+      "subfields": ["Neuroimaging", "Cognitive Neuroscience", "Brain Mapping", "Brain Plasticity"],
+      "prominent_figures": ["Brenda Milner", "Oliver Sacks", "Antonio Damasio"]
+    },
+    {
+      "topic": "Industrial-Organizational Psychology",
+      "description": "The application of psychological concepts and methods to workplaces and organizations, including employee behavior, leadership, and organizational development.",
+      "subfields": ["Job Satisfaction", "Employee Training and Development", "Organizational Culture", "Workplace Diversity"],
+      "prominent_figures": ["Frederick Winslow Taylor", "Kurt Lewin", "Edwin A. Fleishman"]
+    },
+    {
+      "topic": "Educational Psychology",
+      "description": "The study of how people learn and the effectiveness of educational interventions and strategies.",
+      "subfields": ["Learning Theories", "Instructional Design", "Assessment and Testing", "Motivation"],
+      "prominent_figures": ["Jean Piaget", "Lev Vygotsky", "Jerome Bruner"]
+    },
+    {
+      "topic": "Positive Psychology",
+      "description": "The study of human strengths, well-being, and optimal functioning, focusing on topics such as happiness, resilience, and personal growth.",
+      "subfields": ["Gratitude", "Flow", "Character Strengths", "Positive Relationships"],
+      "prominent_figures": ["Martin Seligman", "Mihaly Csikszentmihalyi", "Barbara Fredrickson"]
+    },
+    {
+      "topic": "Personality Psychology",
+      "description": "The study of individual differences in behavior, traits, and characteristics that make each person unique.",
+      "subfields": ["Trait Theories", "Psychodynamic Theories", "Behavioral Genetics", "Personality Assessment"],
+      "prominent_figures": ["Sigmund Freud", "Carl Jung", "Hans Eysenck"]
+    },
+    {
+      "topic": "Behavioral Psychology",
+      "description": "The study of observable behaviors and the environmental factors that influence behavior.",
+      "subfields": ["Classical Conditioning", "Operant Conditioning", "Behavior Modification", "Behavioral Therapy"],
+      "prominent_figures": ["Ivan Pavlov", "B.F. Skinner", "Albert Bandura"]
+    },
+    {
+      "topic": "Emotion Psychology",
+      "description": "The study of emotions, including their physiological basis, expression, and influence on behavior.",
+      "subfields": ["Emotion Regulation", "Affective Neuroscience", "Emotion and Memory", "Cultural Influences on Emotions"],
+      "prominent_figures": ["Paul Ekman", "Richard Lazarus", "Lisa Feldman Barrett"]
+    },
+    {
+      "topic": "Counseling Psychology",
+      "description": "The application of psychological principles to help individuals cope with stress, improve their well-being, and resolve personal issues.",
+      "subfields": ["Cognitive-Behavioral Therapy", "Person-Centered Therapy", "Group Counseling", "Career Counseling"],
+      "prominent_figures": ["Carl Rogers", "Albert Ellis", "Virginia Satir"]
+    },
+    {
+      "topic": "Cross-Cultural Psychology",
+      "description": "The study of how cultural factors influence human behavior, cognition, and emotion.",
+      "subfields": ["Cultural Dimensions", "Acculturation", "Cultural Psychology", "Multiculturalism"],
+      "prominent_figures": ["Harry Triandis", "Geert Hofstede", "Shinobu Kitayama"]
+    },
+    {
+      "topic": "Experimental Psychology",
+      "description": "The scientific study of behavior and mental processes, often conducted in controlled laboratory settings.",
+      "subfields": ["Experimental Design", "Data Analysis", "Psychophysiology", "Perception and Cognition"],
+      "prominent_figures": ["Wilhelm Wundt", "Edward Titchener", "William James"]
+    },
+    {
+      "topic": "Health Psychology",
+      "description": "The study of psychological and behavioral factors that influence physical health and illness.",
+      "subfields": ["Stress and Health", "Health Behavior Change", "Psychosomatic Disorders", "Quality of Life"],
+      "prominent_figures": ["Aaron Antonovsky", "Shelley E. Taylor", "Kenneth E. Freedland"]
+    },
+    {
+      "topic": "Sport Psychology",
+      "description": "The study of how psychological factors influence sports performance, exercise, and physical activity.",
+      "subfields": ["Motivation in Sports", "Performance Enhancement", "Team Dynamics", "Injury Rehabilitation"],
+      "prominent_figures": ["Coleman Griffith", "Albert Bandura", "Bruce Ogilvie"]
+    },
+    {
+      "topic": "Educational Psychology",
+      "description": "The study of how people learn and the application of psychological principles to improve teaching and learning.",
+      "subfields": ["Learning Theories", "Instructional Design", "Assessment and Testing", "Motivation"],
+      "prominent_figures": ["Jean Piaget", "Lev Vygotsky", "Jerome Bruner"]
+    },
+    {
+      "topic": "Environmental Psychology",
+      "description": "The study of how the physical environment influences human behavior and well-being.",
+      "subfields": ["Urban Psychology", "Environmental Perception", "Sustainable Behavior", "Restorative Environments"],
+      "prominent_figures": ["Roger Ulrich", "Rachel Kaplan", "Stephen Kaplan"]
+    },
+    {
+      "topic": "Evolutionary Psychology",
+      "description": "The study of how evolutionary principles and processes influence human behavior and cognition.",
+      "subfields": ["Mating Strategies", "Parental Investment", "Evolutionary Psychiatry", "Adaptationism"],
+      "prominent_figures": ["David Buss", "Steven Pinker", "Leda Cosmides"]
+    },
+    {
+      "topic": "Industrial-Organizational Psychology",
+      "description": "The application of psychological theories and methods to workplace settings, including employee selection, performance evaluation, and organizational behavior.",
+      "subfields": ["Job Satisfaction", "Leadership Development", "Workplace Diversity", "Employee Training"],
+      "prominent_figures": ["Frederick Herzberg", "Elton Mayo", "Edwin A. Fleishman"]
+    },
+    {
+      "topic": "Psychophysiology",
+      "description": "The study of the physiological basis of psychological processes, such as brain activity, hormonal responses, and autonomic nervous system functions.",
+      "subfields": ["Electroencephalography (EEG)", "Heart Rate Variability", "Galvanic Skin Response", "Biofeedback"],
+      "prominent_figures": ["Wilder Penfield", "Paul Ekman", "Richard Davidson"]
+    },
+    {
+      "topic": "Consumer Psychology",
+      "description": "The study of how individuals and groups select, purchase, use, and dispose of goods and services.",
+      "subfields": ["Brand Loyalty", "Consumer Decision Making", "Advertising Effects", "Consumer Behavior Analysis"],
+      "prominent_figures": ["Daniel Kahneman", "Richard Thaler", "Herbert Simon"]
+    },
+    {
+      "topic": "Human Factors Psychology",
+      "description": "The study of how humans interact with products, equipment, and environments, with the goal of optimizing usability and safety.",
+      "subfields": ["Human-Computer Interaction", "Ergonomics", "User Experience Design", "Usability Testing"],
+      "prominent_figures": ["Donald Norman", "John M. Flach", "Jared M. Spool"]
+    },
+    {
+      "topic": "Community Psychology",
+      "description": "The study of how individuals interact with their social environments and the promotion of well-being at a community level.",
+      "subfields": ["Prevention Programs", "Community Development", "Social Justice", "Community Mental Health"],
+      "prominent_figures": ["Seymour B. Sarason", "James Kelly", "Isaac Prilleltensky"]
+    },
+    {
+      "topic": "Health Neuropsychology",
+      "description": "The intersection of health psychology and neuropsychology, focusing on how brain function affects health-related behaviors and outcomes.",
+      "subfields": ["Neurocognitive Rehabilitation", "Neuropsychological Assessment", "Brain-Behavior Relationships", "Neuroplasticity"],
+      "prominent_figures": ["Antonio Damasio", "Elkhonon Goldberg", "Brenda Milner"]
+    },
+    {
+      "topic": "Media Psychology",
+      "description": "The study of how media and technology influence human behavior, cognition, and emotions.",
+      "subfields": ["Social Media Effects", "Media Violence", "Advertising Psychology", "Online Behavior"],
+      "prominent_figures": ["Marshall McLuhan", "Sherry Turkle", "B.J. Fogg"]
+    },
+    {
+      "topic": "Psychology of Religion",
+      "description": "The study of how religious beliefs, practices, and experiences influence human behavior, cognition, and emotions.",
+      "subfields": ["Religious Coping", "Spiritual Development", "Religious Fundamentalism", "Religion and Mental Health"],
+      "prominent_figures": ["William James", "Carl Gustav Jung", "Kenneth Pargament"]
+    },
+    {
+      "topic": "Quantitative Psychology",
+      "description": "The development and application of mathematical and statistical methods to psychological research.",
+      "subfields": ["Psychometrics", "Statistical Modeling", "Experimental Design", "Measurement Theory"],
+      "prominent_figures": ["Raymond B. Cattell", "David J. Bartholomew", "Lee J. Cronbach"]
+    },
+    {
+      "topic": "Psychology of Creativity",
+      "description": "The study of the cognitive processes and personality traits that contribute to creative thinking and problem-solving.",
+      "subfields": ["Divergent Thinking", "Creative Personality", "Creative Process Models", "Creativity Assessment"],
+      "prominent_figures": ["Mihaly Csikszentmihalyi", "Teresa Amabile", "Robert J. Sternberg"]
+    },
+    {
+      "topic": "Traffic Psychology",
+      "description": "The study of human behavior and cognition as it relates to driving, road safety, and traffic flow.",
+      "subfields": ["Driver Behavior", "Road Rage", "Traffic Congestion", "Driving Simulator Studies"],
+      "prominent_figures": ["Leon James", "Peter Hancock", "Donald Fisher"]
+    },
+    {
+      "topic": "Psychology of Music",
+      "description": "The study of how music affects human behavior, cognition, emotions, and well-being.",
+      "subfields": ["Music Perception", "Music and Memory", "Emotional Responses to Music", "Music Therapy"],
+      "prominent_figures": ["Oliver Sacks", "Diana Deutsch", "Daniel Levitin"]
+    },
+    {
+      "topic": "Psychology of Aging",
+      "description": "The study of psychological changes and adaptations that occur as individuals grow older.",
+      "subfields": ["Cognitive Aging", "Aging and Memory", "Social Aspects of Aging", "Healthy Aging"],
+      "prominent_figures": ["Margaret Gatz", "Paul B. Baltes", "Laura L. Carstensen"]
+    },
+    {
+      "topic": "Environmental Psychology",
+      "description": "The study of how the physical environment influences human behavior, emotions, and well-being.",
+      "subfields": ["Environmental Perception", "Urban Planning", "Restorative Environments", "Sustainable Behavior"],
+      "prominent_figures": ["Rachel Kaplan", "Stephen Kaplan", "Roger Ulrich"]
+    },
+    {
+      "topic": "Psychology of Leadership",
+      "description": "The study of the psychological traits and behaviors of effective leaders, as well as leadership development.",
+      "subfields": ["Transformational Leadership", "Leadership Styles", "Team Dynamics", "Leadership Assessment"],
+      "prominent_figures": ["Warren Bennis", "Daniel Goleman", "Bernard Bass"]
+    },
+    {
+      "topic": "Sports and Exercise Psychology",
+      "description": "The study of how psychological factors influence sports performance, exercise adherence, and physical activity.",
+      "subfields": ["Athletic Performance", "Motivation in Sports", "Exercise Addiction", "Sports Psychology Interventions"],
+      "prominent_figures": ["Bruce Ogilvie", "Robert Weinberg", "Coleman Griffith"]
+    },
+    {
+      "topic": "Human-Computer Interaction (HCI)",
+      "description": "The study of how people interact with computers and design principles to improve user experience.",
+      "subfields": ["Usability Testing", "User Interface Design", "Cognitive Walkthroughs", "Interaction Design"],
+      "prominent_figures": ["Donald Norman", "Ben Shneiderman", "Jakob Nielsen"]
+    },
+    {
+      "topic": "Psychology of Terrorism",
+      "description": "The study of the psychological factors that drive individuals to engage in terrorist activities and the impact of terrorism on society.",
+      "subfields": ["Radicalization", "Terrorist Recruitment", "Counterterrorism Strategies", "Post-Traumatic Stress"],
+      "prominent_figures": ["John Horgan", "Jessica Stern", "Jerrold Post"]
+    },
+    {
+      "topic": "Psychology of Happiness",
+      "description": "The study of factors that contribute to subjective well-being, life satisfaction, and positive emotions.",
+      "subfields": ["Positive Psychology", "Gratitude", "Mindfulness", "Happiness Interventions"],
+      "prominent_figures": ["Martin Seligman", "Sonja Lyubomirsky", "Ed Diener"]
+    },
+    {
+      "topic": "Psychology of Motivation",
+      "description": "The study of why people behave in certain ways and the factors that influence their behavior.",
+      "subfields": ["Intrinsic Motivation", "Extrinsic Motivation", "Achievement Motivation", "Self-Determination Theory"],
+      "prominent_figures": ["Abraham Maslow", "B.F. Skinner", "Edward L. Deci"]
+    },
+    {
+      "topic": "Psychology of Sleep",
+      "description": "The study of sleep patterns, sleep disorders, and the impact of sleep on cognitive functions and mental health.",
+      "subfields": ["REM Sleep", "Sleep Disorders", "Dream Analysis", "Sleep Hygiene"],
+      "prominent_figures": ["William Dement", "Allan Hobson", "Nancy L. Kerr"]
+    },
+    {
+      "topic": "Psychology of Addiction",
+      "description": "The study of substance use disorders, behavioral addictions, and the psychological mechanisms behind addiction.",
+      "subfields": ["Substance Abuse", "Gambling Addiction", "Treatment Approaches", "Relapse Prevention"],
+      "prominent_figures": ["Sigmund Freud", "William James", "Alan Marlatt"]
+    },
+    {
+      "topic": "Environmental Psychology",
+      "description": "The study of how the physical environment affects human behavior and well-being.",
+      "subfields": ["Urban Design", "Natural Environments", "Environmental Stressors", "Sustainability"],
+      "prominent_figures": ["Rachel Kaplan", "Stephen Kaplan", "Roger Ulrich"]
+    },
+    {
+      "topic": "Psychology of Trauma",
+      "description": "The study of psychological responses to traumatic events, including PTSD, coping mechanisms, and resilience.",
+      "subfields": ["Trauma Recovery", "Trauma-Informed Care", "Resilience Factors", "Vicarious Trauma"],
+      "prominent_figures": ["Judith Herman", "Bessel van der Kolk", "Robert Jay Lifton"]
+    },
+    {
+      "topic": "Psychology of Gender",
+      "description": "The study of how gender identity, roles, and expectations influence behavior, cognition, and mental health.",
+      "subfields": ["Gender Identity Development", "Gender Stereotypes", "Gender Dysphoria", "Feminist Psychology"],
+      "prominent_figures": ["Carol Gilligan", "Sandra Bem", "Judith Butler"]
+    },
+    {
+      "topic": "Psychology of Emotion Regulation",
+      "description": "The study of how individuals manage and regulate their emotions, including strategies and implications for well-being.",
+      "subfields": ["Emotion Regulation Strategies", "Emotion Regulation and Mental Health", "Mindfulness", "Cognitive Reappraisal"],
+      "prominent_figures": ["James J. Gross", "Richard J. Davidson", "Lisa Feldman Barrett"]
+    },
+    {
+      "topic": "Psychology of Decision Making",
+      "description": "The study of how individuals make choices and decisions, including biases, heuristics, and rationality.",
+      "subfields": ["Prospect Theory", "Risk Perception", "Behavioral Economics", "Decision-Making Models"],
+      "prominent_figures": ["Daniel Kahneman", "Amos Tversky", "Herbert Simon"]
+    },
+    {
+      "topic": "Psychology of Learning and Memory",
+      "description": "The study of how individuals acquire, retain, and retrieve information, including cognitive processes and strategies.",
+      "subfields": ["Encoding", "Storage", "Retrieval", "Forgetting"],
+      "prominent_figures": ["Hermann Ebbinghaus", "Elizabeth Loftus", "Daniel Schacter"]
+    },
+    {
+      "topic": "Psychology of Personality Disorders",
+      "description": "The study of maladaptive patterns of behavior, cognition, and inner experience that deviate from cultural norms.",
+      "subfields": ["Borderline Personality Disorder", "Narcissistic Personality Disorder", "Antisocial Personality Disorder", "Schizoid Personality Disorder"],
+      "prominent_figures": ["Theodore Millon", "Otto Kernberg", "Marsha Linehan"]
+    },
+    {
+      "topic": "Positive Psychology",
+      "description": "The study of factors that contribute to human flourishing, well-being, and optimal functioning.",
+      "subfields": ["Gratitude", "Happiness", "Resilience", "Mindfulness"],
+      "prominent_figures": ["Martin Seligman", "Mihaly Csikszentmihalyi", "Barbara Fredrickson"]
+    },
+    {
+      "topic": "Psychology of Shame and Guilt",
+      "description": "The study of self-conscious emotions, their impact on behavior, and therapeutic approaches.",
+      "subfields": ["Shame Resilience", "Guilt Culture", "Shame-Based Trauma", "Shame-Free Parenting"],
+      "prominent_figures": ["Brené Brown", "June Tangney", "Helen Block Lewis"]
+    },
+    {
+      "topic": "Psychology of Attachment",
+      "description": "The study of the emotional bonds formed between individuals, particularly in early childhood.",
+      "subfields": ["Secure Attachment", "Anxious Attachment", "Avoidant Attachment", "Attachment Theory"],
+      "prominent_figures": ["John Bowlby", "Mary Ainsworth", "Mary Main"]
+    },
+    {
+      "topic": "Psychology of Loneliness",
+      "description": "The study of the subjective feeling of social isolation and its impact on mental and physical health.",
+      "subfields": ["Chronic Loneliness", "Social Connection", "Loneliness Interventions", "Loneliness and Aging"],
+      "prominent_figures": ["John Cacioppo", "Louise Hawkley", "Ami Klin"]
+    },
+    {
+      "topic": "Psychology of Resilience",
+      "description": "The study of how individuals adapt and recover from adversity, trauma, or significant stress.",
+      "subfields": ["Resilience Factors", "Resilience Training", "Post-Traumatic Growth", "Coping Mechanisms"],
+      "prominent_figures": ["Ann Masten", "George Bonanno", "Norman Garmezy"]
+    },
+    {
+      "topic": "Psychology of Human Sexuality",
+      "description": "The study of sexual behavior, attraction, orientation, and the psychological aspects of sexual health.",
+      "subfields": ["Sexual Identity", "Sexual Dysfunction", "Sexual Orientation", "Sexual Therapy"],
+      "prominent_figures": ["Alfred Kinsey", "Masters and Johnson", "Virginia Johnson"]
+    },
+    {
+      "topic": "Psychology of Body Image",
+      "description": "The study of how individuals perceive and feel about their physical appearance, body dissatisfaction, and eating disorders.",
+      "subfields": ["Body Dysmorphic Disorder", "Media Influence", "Body Positivity", "Intuitive Eating"],
+      "prominent_figures": ["Thomas F. Cash", "Naomi Wolf", "Caroline Heldman"]
+    },
+    {
+      "topic": "Psychology of Humor",
+      "description": "The study of the cognitive and emotional aspects of humor, laughter, and its impact on well-being.",
+      "subfields": ["Humor Styles", "Therapeutic Humor", "Humor in Relationships", "Humor and Stress"],
+      "prominent_figures": ["Sigmund Freud", "Paul E. McGhee", "Robert Provine"]
+    },
+    {
+      "topic": "Psychology of Parenting",
+      "description": "The study of the influence of parenting styles, practices, and dynamics on child development and behavior.",
+      "subfields": ["Authoritative Parenting", "Attachment Parenting", "Parenting Stress", "Parenting Interventions"],
+      "prominent_figures": ["Diana Baumrind", "Mary Ainsworth", "Albert Bandura"]
+    },
+    {
+      "topic": "Psychology of Forgiveness",
+      "description": "The study of the psychological processes involved in forgiving others, letting go of resentment, and reconciliation.",
+      "subfields": ["Forgiveness Therapy", "Forgiveness and Health", "Cultural Differences", "Forgiveness Education"],
+      "prominent_figures": ["Robert Enright", "Everett Worthington Jr.", "Fred Luskin"]
+    },
+    {
+      "topic": "Psychology of Trust",
+      "description": "The study of how individuals develop trust in others, the impact of trust on relationships, and factors that influence trustworthiness.",
+      "subfields": ["Trust Building", "Trust in Institutions", "Trust and Risk", "Betrayal Trauma"],
+      "prominent_figures": ["Robert F. Baumeister", "John Gottman", "Roderick Kramer"]
+    },
+    {
+      "topic": "Cross-Cultural Psychology",
+      "description": "The study of how cultural factors influence human behavior, cognition, and emotions.",
+      "subfields": ["Cultural Differences", "Acculturation", "Cultural Values", "Intercultural Communication"],
+      "prominent_figures": ["Geert Hofstede", "Harry Triandis", "Shinobu Kitayama"]
+    },
+    {
+      "topic": "Psychology of Prejudice and Discrimination",
+      "description": "The study of biased attitudes and behaviors toward individuals or groups based on characteristics such as race, gender, or ethnicity.",
+      "subfields": ["Implicit Bias", "Stereotype Threat", "Microaggressions", "Prejudice Reduction Strategies"],
+      "prominent_figures": ["Gordon Allport", "Jane Elliott", "Mahzarin Banaji"]
+    },
+    {
+      "topic": "Psychology of Body Language",
+      "description": "The study of nonverbal communication through gestures, facial expressions, and body movements.",
+      "subfields": ["Facial Expressions", "Posture Analysis", "Nonverbal Cues", "Lie Detection"],
+      "prominent_figures": ["Paul Ekman", "Joe Navarro", "Desmond Morris"]
+    },
+    {
+      "topic": "Psychology of Fame and Celebrity",
+      "description": "The study of the psychological effects of fame on individuals, fans, and society as a whole.",
+      "subfields": ["Celebrity Worship", "Media Influence", "Identity Formation", "Celebrity Endorsements"],
+      "prominent_figures": ["Susan Sontag", "P. David Marshall", "Giles Lipovetsky"]
+    },
+    {
+      "topic": "Psychology of Environmental Conservation",
+      "description": "The study of psychological factors that influence attitudes and behaviors towards environmental conservation and sustainability.",
+      "subfields": ["Pro-Environmental Behavior", "Climate Change Communication", "Green Consumerism", "Environmental Activism"],
+      "prominent_figures": ["Carolyn Kormann", "Robert Gifford", "Edward Maibach"]
+    },
+    {
+      "topic": "Psychology of Lying and Deception",
+      "description": "The study of the cognitive processes involved in deception, detecting lies, and the impact of dishonesty on relationships.",
+      "subfields": ["Deception Detection", "Lying Behaviors", "Polygraph Tests", "Trust Repair"],
+      "prominent_figures": ["Aldert Vrij", "Paul Ekman", "Timothy R. Levine"]
+    },
+    {
+      "topic": "Psychology of Rituals and Traditions",
+      "description": "The study of the psychological functions and meanings of rituals, ceremonies, and cultural traditions.",
+      "subfields": ["Ceremonial Rituals", "Religious Practices", "Cultural Traditions", "Rituals in Relationships"],
+      "prominent_figures": ["Victor Turner", "Roy Rappaport", "Catherine Bell"]
+    },
+    {
+      "topic": "Psychology of Aging and Technology",
+      "description": "The study of how older adults interact with and adopt technology, as well as the benefits and challenges of technology use in later life.",
+      "subfields": ["Digital Divide", "Technology Acceptance Model", "Elderly User Interface Design", "Online Social Support"],
+      "prominent_figures": ["Neil Charness", "Wendy A. Rogers", "Joseph F. Coughlin"]
+    },
+    {
+      "topic": "Psychology of Ritual Abuse",
+      "description": "The study of controversial claims of systematic, repeated physical, emotional, and sexual abuse in the context of ritualistic settings.",
+      "subfields": ["False Memory Syndrome", "Recovered Memories", "Controversies in Diagnosis", "Therapeutic Interventions"],
+      "prominent_figures": ["Elizabeth Loftus", "Richard Ofshe", "David Finkelhor"]
+    },
+    {
+      "topic": "Psychology of Cyberpsychology",
+      "description": "The study of the impact of digital technology on human behavior, cognition, and mental health.",
+      "subfields": ["Internet Addiction", "Online Behavior", "Social Media Influence", "Digital Well-Being"],
+      "prominent_figures": ["Sherry Turkle", "John Suler", "Mary Aiken"]
+    },
+    {
+      "topic": "Psychology of Impostor Syndrome",
+      "description": "The study of the psychological phenomenon where individuals doubt their accomplishments and have a persistent fear of being exposed as a fraud.",
+      "subfields": ["Perfectionism", "Self-Worth", "Overcoming Impostor Syndrome", "Cultural Influences"],
+      "prominent_figures": ["Pauline Clance", "Suzanne Imes", "Valerie Young"]
+    },
+    {
+      "topic": "Psychology of Pain",
+      "description": "The study of the sensory, emotional, and cognitive aspects of pain perception and management.",
+      "subfields": ["Chronic Pain", "Pain Perception", "Placebo Effect", "Pain Management Techniques"],
+      "prominent_figures": ["Ronald Melzack", "Patrick Wall", "Howard Fields"]
+    },
+    {
+      "topic": "Psychology of Conspiracy Theories",
+      "description": "The study of the psychological factors that contribute to belief in conspiracy theories and the impact on individuals and society.",
+      "subfields": ["Cognitive Biases", "Conspiracy Ideation", "Media Influence", "Debunking Misinformation"],
+      "prominent_figures": ["Karen Douglas", "Stephan Lewandowsky", "Rob Brotherton"]
+    },
+    {
+      "topic": "Psychology of Nostalgia",
+      "description": "The study of the emotional experience of longing for the past, its effects on well-being, and the role of nostalgia in coping.",
+      "subfields": ["Positive Aspects of Nostalgia", "Nostalgia in Therapy", "Nostalgic Consumption", "Nostalgia Marketing"],
+      "prominent_figures": ["Constantine Sedikides", "Tim Wildschut", "Clay Routledge"]
+    },
+    {
+      "topic": "Psychology of Social Comparison",
+      "description": "The study of how individuals evaluate themselves in relation to others, including upward and downward comparisons.",
+      "subfields": ["Self-Esteem", "Body Image Comparison", "Social Media Comparisons", "Assimilation and Contrast Effects"],
+      "prominent_figures": ["Leon Festinger", "Fritz Heider", "Susan T. Fiske"]
+    },
+    {
+      "topic": "Psychology of Placebo Effect",
+      "description": "The study of the phenomenon where individuals experience improvements in symptoms after receiving a treatment with no therapeutic effect.",
+      "subfields": ["Mechanisms of Placebo Response", "Ethical Implications", "Placebo in Clinical Trials", "Nocebo Effect"],
+      "prominent_figures": ["Henry K. Beecher", "Fabrizio Benedetti", "Ted J. Kaptchuk"]
+    },
+    {
+      "topic": "Psychology of Forensic Psychology",
+      "description": "The study of applying psychological principles and practices to the legal and criminal justice system.",
+      "subfields": ["Criminal Profiling", "Eyewitness Testimony", "Psychological Assessment in Court", "Violence Risk Assessment"],
+      "prominent_figures": ["John Monahan", "David Canter", "Amanda Perry-Kessaris"]
+    },
+    {
+      "topic": "Psychology of Medical Decision Making",
+      "description": "The study of how individuals and healthcare professionals make decisions about medical treatments, risk assessment, and patient communication.",
+      "subfields": ["Informed Consent", "Shared Decision Making", "Medical Error Prevention", "Health Literacy"],
+      "prominent_figures": ["Elwyn G. Edwards", "Paul Slovic", "Gerd Gigerenzer"]
+    },
+    {
+      "topic": "Psychology of Ritualistic Behavior",
+      "description": "The study of repetitive, ritualistic behaviors and their significance in various psychological disorders and cultural contexts.",
+      "subfields": ["Obsessive-Compulsive Disorder", "Body-Focused Repetitive Behaviors", "Religious Rituals", "Cultural Rituals"],
+      "prominent_figures": ["Steven A. Rasmussen", "John S. March", "Elna Yadin"]
+    }
+]
