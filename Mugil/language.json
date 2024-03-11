@@ -1,0 +1,562 @@
+[
+    {
+      "language": "English",
+      "family": "Indo-European",
+      "region": "United Kingdom, United States, Canada, Australia, New Zealand",
+      "speakers": "Approximately 1.5 billion",
+      "script": "Latin script"
+    },
+    {
+      "language": "Spanish",
+      "family": "Indo-European",
+      "region": "Spain, Latin America",
+      "speakers": "Approximately 460 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "family": "Sino-Tibetan",
+      "region": "China, Taiwan, Singapore",
+      "speakers": "Approximately 918 million",
+      "script": "Chinese characters"
+    },
+    {
+      "language": "Hindi",
+      "family": "Indo-European",
+      "region": "India, Fiji, Nepal",
+      "speakers": "Approximately 341 million",
+      "script": "Devanagari"
+    },
+    {
+      "language": "Arabic",
+      "family": "Afro-Asiatic",
+      "region": "Middle East, North Africa",
+      "speakers": "Approximately 310 million",
+      "script": "Arabic script"
+    },
+    {
+      "language": "French",
+      "family": "Indo-European",
+      "region": "France, Canada, Belgium, Switzerland, many African countries",
+      "speakers": "Approximately 274 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Russian",
+      "family": "Indo-European",
+      "region": "Russia, Belarus, Kazakhstan",
+      "speakers": "Approximately 258 million",
+      "script": "Cyrillic script"
+    },
+    {
+      "language": "Bengali",
+      "family": "Indo-European",
+      "region": "Bangladesh, India",
+      "speakers": "Approximately 242 million",
+      "script": "Bengali script"
+    },
+    {
+      "language": "Portuguese",
+      "family": "Indo-European",
+      "region": "Portugal, Brazil, Angola, Mozambique",
+      "speakers": "Approximately 221 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Urdu",
+      "family": "Indo-European",
+      "region": "Pakistan, India",
+      "speakers": "Approximately 230 million",
+      "script": "Perso-Arabic script"
+    },
+    {
+      "language": "Japanese",
+      "family": "Japonic",
+      "region": "Japan",
+      "speakers": "Approximately 128 million",
+      "script": "Kanji, Hiragana, Katakana"
+    },
+    {
+      "language": "German",
+      "family": "Indo-European",
+      "region": "Germany, Austria, Switzerland",
+      "speakers": "Approximately 76 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Korean",
+      "family": "Koreanic",
+      "region": "South Korea, North Korea",
+      "speakers": "Approximately 77 million",
+      "script": "Hangul"
+    },
+    {
+      "language": "Italian",
+      "family": "Indo-European",
+      "region": "Italy, Switzerland, San Marino",
+      "speakers": "Approximately 68 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Turkish",
+      "family": "Turkic",
+      "region": "Turkey",
+      "speakers": "Approximately 75 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Dutch",
+      "family": "Indo-European",
+      "region": "Netherlands, Belgium",
+      "speakers": "Approximately 24 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Polish",
+      "family": "Indo-European",
+      "region": "Poland",
+      "speakers": "Approximately 45 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "region": "Vietnam",
+      "speakers": "Approximately 76 million",
+      "script": "Latin script (Quốc ngữ)"
+    },
+    {
+      "language": "Thai",
+      "family": "Tai-Kadai",
+      "region": "Thailand",
+      "speakers": "Approximately 60 million",
+      "script": "Thai script"
+    },
+    {
+      "language": "Swedish",
+      "family": "Indo-European",
+      "region": "Sweden",
+      "speakers": "Approximately 10 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Finnish",
+      "family": "Uralic",
+      "region": "Finland",
+      "speakers": "Approximately 5.5 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Greek",
+      "family": "Indo-European",
+      "region": "Greece, Cyprus",
+      "speakers": "Approximately 13 million",
+      "script": "Greek script"
+    },
+    {
+      "language": "Czech",
+      "family": "Indo-European",
+      "region": "Czech Republic",
+      "speakers": "Approximately 11 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Hungarian",
+      "family": "Uralic",
+      "region": "Hungary",
+      "speakers": "Approximately 13 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Danish",
+      "family": "Indo-European",
+      "region": "Denmark",
+      "speakers": "Approximately 6 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Norwegian",
+      "family": "Indo-European",
+      "region": "Norway",
+      "speakers": "Approximately 5 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Indonesian",
+      "family": "Austronesian",
+      "region": "Indonesia",
+      "speakers": "Approximately 43 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Malay",
+      "family": "Austronesian",
+      "region": "Malaysia, Indonesia",
+      "speakers": "Approximately 77 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Swahili",
+      "family": "Niger-Congo",
+      "region": "East Africa",
+      "speakers": "Approximately 75 million",
+      "script": "Arabic script (Swahili script)"
+    },
+    {
+      "language": "Tagalog",
+      "family": "Austronesian",
+      "region": "Philippines",
+      "speakers": "Approximately 28 million",
+      "script": "Latin script (Filipino alphabet)"
+    },
+    {
+      "language": "Romanian",
+      "family": "Indo-European",
+      "region": "Romania, Moldova",
+      "speakers": "Approximately 24 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Slovak",
+      "family": "Indo-European",
+      "region": "Slovakia",
+      "speakers": "Approximately 5 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Bulgarian",
+      "family": "Indo-European",
+      "region": "Bulgaria",
+      "speakers": "Approximately 8 million",
+      "script": "Cyrillic script"
+    },
+    {
+      "language": "Serbian",
+      "family": "Indo-European",
+      "region": "Serbia, Bosnia and Herzegovina",
+      "speakers": "Approximately 9 million",
+      "script": "Cyrillic and Latin scripts"
+    },
+    {
+      "language": "Croatian",
+      "family": "Indo-European",
+      "region": "Croatia, Bosnia and Herzegovina",
+      "speakers": "Approximately 7 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Slovenian",
+      "family": "Indo-European",
+      "region": "Slovenia",
+      "speakers": "Approximately 2.5 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Farsi (Persian)",
+      "family": "Indo-European",
+      "region": "Iran, Afghanistan, Tajikistan",
+      "speakers": "Approximately 110 million",
+      "script": "Persian script (Arabic script)"
+    },
+    {
+      "language": "Pashto",
+      "family": "Indo-European",
+      "region": "Afghanistan, Pakistan",
+      "speakers": "Approximately 40 million",
+      "script": "Perso-Arabic script"
+    },
+    {
+      "language": "Tamil",
+      "family": "Dravidian",
+      "region": "India, Sri Lanka, Singapore",
+      "speakers": "Approximately 77 million",
+      "script": "Tamil script"
+    },
+    {
+      "language": "Telugu",
+      "family": "Dravidian",
+      "region": "India",
+      "speakers": "Approximately 74 million",
+      "script": "Telugu script"
+    },
+    {
+      "language": "Gujarati",
+      "family": "Indo-European",
+      "region": "India, Pakistan",
+      "speakers": "Approximately 55 million",
+      "script": "Gujarati script"
+    },
+    {
+      "language": "Marathi",
+      "family": "Indo-European",
+      "region": "India",
+      "speakers": "Approximately 83 million",
+      "script": "Devanagari script"
+    },
+    {
+      "language": "Punjabi",
+      "family": "Indo-European",
+      "region": "India, Pakistan",
+      "speakers": "Approximately 125 million",
+      "script": "Gurmukhi script"
+    },
+    {
+      "language": "Malayalam",
+      "family": "Dravidian",
+      "region": "India",
+      "speakers": "Approximately 38 million",
+      "script": "Malayalam script"
+    },
+    {
+      "language": "Kannada",
+      "family": "Dravidian",
+      "region": "India",
+      "speakers": "Approximately 45 million",
+      "script": "Kannada script"
+    },
+    {
+      "language": "Odia (Oriya)",
+      "family": "Indo-European",
+      "region": "India",
+      "speakers": "Approximately 40 million",
+      "script": "Odia script"
+    },
+    {
+      "language": "Assamese",
+      "family": "Indo-European",
+      "region": "India",
+      "speakers": "Approximately 17 million",
+      "script": "Assamese script"
+    },
+    {
+      "language": "Nepali",
+      "family": "Indo-European",
+      "region": "Nepal, India",
+      "speakers": "Approximately 17 million",
+      "script": "Devanagari script"
+    },
+    {
+      "language": "Sinhala",
+      "family": "Indo-European",
+      "region": "Sri Lanka",
+      "speakers": "Approximately 16 million",
+      "script": "Sinhala script"
+    },
+    {
+      "language": "Burmese",
+      "family": "Sino-Tibetan",
+      "region": "Myanmar (Burma)",
+      "speakers": "Approximately 33 million",
+      "script": "Burmese script"
+    },
+    {
+      "language": "Yoruba",
+      "family": "Niger-Congo",
+      "region": "Nigeria, Benin, Togo",
+      "speakers": "Approximately 30 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Zulu",
+      "family": "Niger-Congo",
+      "region": "South Africa",
+      "speakers": "Approximately 12 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Hausa",
+      "family": "Afro-Asiatic",
+      "region": "Nigeria, Niger",
+      "speakers": "Approximately 47 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Igbo",
+      "family": "Niger-Congo",
+      "region": "Nigeria",
+      "speakers": "Approximately 24 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Amharic",
+      "family": "Afro-Asiatic",
+      "region": "Ethiopia",
+      "speakers": "Approximately 32 million",
+      "script": "Ge'ez script"
+    },
+    {
+      "language": "Somali",
+      "family": "Afro-Asiatic",
+      "region": "Somalia, Ethiopia, Kenya, Djibouti",
+      "speakers": "Approximately 16 million",
+      "script": "Latin script, Somali alphabet"
+    },
+    {
+      "language": "Tigrinya",
+      "family": "Afro-Asiatic",
+      "region": "Eritrea, Ethiopia",
+      "speakers": "Approximately 7 million",
+      "script": "Ge'ez script"
+    },
+    {
+      "language": "Oromo",
+      "family": "Afro-Asiatic",
+      "region": "Ethiopia, Kenya",
+      "speakers": "Approximately 35 million",
+      "script": "Latin script, Ge'ez script"
+    },
+    {
+      "language": "Sesotho",
+      "family": "Niger-Congo",
+      "region": "Lesotho, South Africa",
+      "speakers": "Approximately 8 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Chichewa",
+      "family": "Niger-Congo",
+      "region": "Malawi, Zambia, Mozambique",
+      "speakers": "Approximately 15 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Bengali",
+      "family": "Indo-European",
+      "region": "Bangladesh, India",
+      "speakers": "Approximately 230 million",
+      "script": "Bengali script"
+    },
+    {
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "region": "Vietnam",
+      "speakers": "Approximately 76 million",
+      "script": "Latin script (Quốc ngữ)"
+    },
+    {
+      "language": "Thai",
+      "family": "Tai-Kadai",
+      "region": "Thailand",
+      "speakers": "Approximately 60 million",
+      "script": "Thai script"
+    },
+    {
+      "language": "Swedish",
+      "family": "Indo-European",
+      "region": "Sweden",
+      "speakers": "Approximately 10 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Greek",
+      "family": "Indo-European",
+      "region": "Greece, Cyprus",
+      "speakers": "Approximately 13 million",
+      "script": "Greek script"
+    },
+    {
+      "language": "Czech",
+      "family": "Indo-European",
+      "region": "Czech Republic",
+      "speakers": "Approximately 11 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Hungarian",
+      "family": "Uralic",
+      "region": "Hungary",
+      "speakers": "Approximately 13 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Danish",
+      "family": "Indo-European",
+      "region": "Denmark",
+      "speakers": "Approximately 6 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Norwegian",
+      "family": "Indo-European",
+      "region": "Norway",
+      "speakers": "Approximately 5 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Finnish",
+      "family": "Uralic",
+      "region": "Finland",
+      "speakers": "Approximately 5.5 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Korean",
+      "family": "Koreanic",
+      "region": "South Korea, North Korea",
+      "speakers": "Approximately 77 million",
+      "script": "Hangul"
+    },
+    {
+      "language": "Italian",
+      "family": "Indo-European",
+      "region": "Italy, Switzerland, San Marino",
+      "speakers": "Approximately 68 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Turkish",
+      "family": "Turkic",
+      "region": "Turkey",
+      "speakers": "Approximately 75 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Dutch",
+      "family": "Indo-European",
+      "region": "Netherlands, Belgium",
+      "speakers": "Approximately 24 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Polish",
+      "family": "Indo-European",
+      "region": "Poland",
+      "speakers": "Approximately 45 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Vietnamese",
+      "family": "Austroasiatic",
+      "region": "Vietnam",
+      "speakers": "Approximately 76 million",
+      "script": "Latin script (Quốc ngữ)"
+    },
+    {
+      "language": "Russian",
+      "family": "Indo-European",
+      "region": "Russia, Belarus, Kazakhstan",
+      "speakers": "Approximately 258 million",
+      "script": "Cyrillic script"
+    },
+    {
+      "language": "Romanian",
+      "family": "Indo-European",
+      "region": "Romania, Moldova",
+      "speakers": "Approximately 24 million",
+      "script": "Latin script"
+    },
+    {
+      "language": "Arabic",
+      "family": "Afro-Asiatic",
+      "region": "Middle East, North Africa",
+      "speakers": "Approximately 310 million",
+      "script": "Arabic script"
+    },
+    {
+      "language": "Bengali",
+      "family": "Indo-European",
+      "region": "Bangladesh, India",
+      "speakers": "Approximately 230 million",
+      "script": "Bengali script"
+    }
+]
