@@ -108,9 +108,7 @@
     "price": 200,
     "inventory": 25,
     "rating": 4.8
-  }
-]
-[
+  },
   {
     "id": 11,
     "brand": "Hollister",
@@ -220,9 +218,7 @@
     "price": 120,
     "inventory": 20,
     "rating": 4.6
-  }
-]
-[
+  },
   {
     "id": 21,
     "brand": "Under Armour",
@@ -332,9 +328,7 @@
     "price": 79.99,
     "inventory": 40,
     "rating": 4.5
-  }
-]
-[
+  },
   {
     "id": 31,
     "brand": "Nike",
@@ -444,9 +438,7 @@
     "price": 29.90,
     "inventory": 35,
     "rating": 4.2
-  }
-]
-[
+  },
   {
     "id": 41,
     "brand": "Forever 21",
@@ -556,9 +548,7 @@
     "price": 55,
     "inventory": 45,
     "rating": 4.4
-  }
-]
-[
+  },
   {
     "id": 51,
     "brand": "Levi's",
@@ -668,9 +658,7 @@
     "price": 25,
     "inventory": 40,
     "rating": 4.6
-  }
-]
-[
+  },
   {
     "id": 61,
     "brand": "H&M",
