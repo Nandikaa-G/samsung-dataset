@@ -1,5 +1,4 @@
-{
-  "video_games": [
+[
     {
       "title": "Cybernetic Evolution",
       "developer": "NexTech Studios",
@@ -59,11 +58,7 @@
       "developer": "Darklight Studios",
       "genre": "Horror Adventure",
       "release_year": 2013
-    }
-  ]
-}
-{
-  "video_games": [
+    },
     {
       "title": "Neon Nexus",
       "developer": "Futurist Games",
@@ -123,11 +118,7 @@
       "developer": "Mystic Forge",
       "genre": "Adventure",
       "release_year": 2014
-    }
-  ]
-}
-{
-  "video_games": [
+    },
     {
       "title": "Lunar Labyrinth",
       "developer": "Moonlight Studios",
@@ -187,11 +178,7 @@
       "developer": "Seer Studios",
       "genre": "Mystery",
       "release_year": 2015
-    }
-  ]
-}
-{
-  "video_games": [
+    },
     {
       "title": "Abyssal Ascension",
       "developer": "DeepDive Studios",
@@ -251,11 +238,7 @@
       "developer": "Star Crushers",
       "genre": "Strategy",
       "release_year": 2016
-    }
-  ]
-}
-{
-  "video_games": [
+    },
     {
       "title": "Wanderer's Quest",
       "developer": "Nomad Studios",
@@ -315,11 +298,7 @@
       "developer": "Wanderlust Creations",
       "genre": "Adventure",
       "release_year": 2017
-    }
-  ]
-}
-{
-  "video_games": [
+    },
     {
       "title": "Celestial Conquerors",
       "developer": "Starlight Studios",
@@ -379,11 +358,7 @@
       "developer": "Dreamscape Studios",
       "genre": "Adventure",
       "release_year": 2018
-    }
-  ]
-}
-{
-  "video_games": [
+    },
     {
       "title": "Titanic Titans",
       "developer": "Mythical Giants",
@@ -444,6 +419,5 @@
       "genre": "Fantasy Strategy",
       "release_year": 2019
     }
-  ]
-}
+]
 
