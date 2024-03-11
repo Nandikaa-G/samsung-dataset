@@ -1,3 +1,4 @@
+[
   {
     "id": 1,
     "name": "John Doe",
@@ -478,3 +479,4 @@
     "age": 26,
     "city": "Providence"
   }
+]
