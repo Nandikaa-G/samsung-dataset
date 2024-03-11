@@ -1,5 +1,4 @@
-{
-  "health_records": [
+[
     {
       "patient_id": "P001",
       "name": "John Doe",
@@ -17,12 +16,7 @@
       "conditions": ["Asthma"],
       "medications": [{"name": "Albuterol", "dosage": "90mcg", "frequency": "As needed"}],
       "appointments": [{"doctor": "Dr. Miller", "date": "2023-04-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P003",
       "name": "Emily White",
@@ -65,12 +59,7 @@
         {"name": "Albuterol Inhaler", "dosage": "90mcg", "frequency": "As needed"}
       ],
       "appointments": [{"doctor": "Dr. Anderson", "date": "2023-03-25"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P007",
       "name": "Olivia Clark",
@@ -106,12 +95,7 @@
       "conditions": ["Asthma"],
       "medications": [{"name": "Albuterol Inhaler", "dosage": "90mcg", "frequency": "As needed"}],
       "appointments": [{"doctor": "Dr. Mitchell", "date": "2023-04-18"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P011",
       "name": "Ethan Anderson",
@@ -150,12 +134,7 @@
       "conditions": ["Celiac Disease"],
       "medications": [{"name": "Dietary Restrictions", "dosage": "N/A", "frequency": "N/A"}],
       "appointments": [{"doctor": "Dr. Stewart", "date": "2023-04-08"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P015",
       "name": "Harper Garcia",
@@ -194,12 +173,7 @@
       "conditions": ["Hypothyroidism"],
       "medications": [{"name": "Levothyroxine", "dosage": "50mcg", "frequency": "Once daily"}],
       "appointments": [{"doctor": "Dr. Allen", "date": "2023-04-10"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P019",
       "name": "Luna Rodriguez",
@@ -244,12 +218,7 @@
         {"name": "Gabapentin", "dosage": "300mg", "frequency": "Three times daily"}
       ],
       "appointments": [{"doctor": "Dr. Davis", "date": "2023-06-10"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P023",
       "name": "Aria White",
@@ -288,12 +257,7 @@
       "conditions": ["Major Depressive Disorder"],
       "medications": [{"name": "Escitalopram", "dosage": "10mg", "frequency": "Once daily"}],
       "appointments": [{"doctor": "Dr. Turner", "date": "2023-07-25"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P027",
       "name": "Liam Turner",
@@ -329,12 +293,7 @@
       "conditions": ["Type 1 Diabetes"],
       "medications": [{"name": "Insulin", "dosage": "As prescribed", "frequency": "Multiple times daily"}],
       "appointments": [{"doctor": "Dr. Johnson", "date": "2023-09-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P031",
       "name": "Zara Wilson",
@@ -373,12 +332,7 @@
       "conditions": ["Gout"],
       "medications": [{"name": "Allopurinol", "dosage": "300mg", "frequency": "Once daily"}],
       "appointments": [{"doctor": "Dr. Johnson", "date": "2023-11-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P035",
       "name": "Nova Martinez",
@@ -417,12 +371,7 @@
         {"name": "Furosemide", "dosage": "40mg", "frequency": "Once daily"}
       ],
       "appointments": [{"doctor": "Dr. Garcia", "date": "2024-01-05"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P039",
       "name": "Elena Rodriguez",
@@ -461,12 +410,7 @@
         {"name": "Ibuprofen", "dosage": "400mg", "frequency": "As needed"}
       ],
       "appointments": [{"doctor": "Dr. Turner", "date": "2024-02-25"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P043",
       "name": "Lily Garcia",
@@ -502,12 +446,7 @@
       "conditions": ["Type 2 Diabetes"],
       "medications": [{"name": "Metformin", "dosage": "1000mg", "frequency": "Twice daily"}],
       "appointments": [{"doctor": "Dr. Johnson", "date": "2024-04-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P047",
       "name": "Emma White",
@@ -543,12 +482,7 @@
       "conditions": ["Seasonal Allergies"],
       "medications": [{"name": "Cetirizine", "dosage": "10mg", "frequency": "Once daily"}],
       "appointments": [{"doctor": "Dr. Harris", "date": "2024-06-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P051",
       "name": "Eliana Rodriguez",
@@ -587,12 +521,7 @@
         {"name": "Salmeterol", "dosage": "25mcg", "frequency": "Twice daily"}
       ],
       "appointments": [{"doctor": "Dr. Garcia", "date": "2024-08-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P055",
       "name": "Zoe Turner",
@@ -634,12 +563,7 @@
         {"name": "Furosemide", "dosage": "40mg", "frequency": "Once daily"}
       ],
       "appointments": [{"doctor": "Dr. Garcia", "date": "2024-10-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P059",
       "name": "Aiden Davis",
@@ -675,12 +599,7 @@
       "conditions": ["Anxiety Disorder"],
       "medications": [{"name": "Sertraline", "dosage": "50mg", "frequency": "Once daily"}],
       "appointments": [{"doctor": "Dr. Davis", "date": "2024-12-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P063",
       "name": "Mila Walker",
@@ -719,12 +638,7 @@
       "conditions": ["Major Depressive Disorder"],
       "medications": [{"name": "Sertraline", "dosage": "50mg", "frequency": "Once daily"}],
       "appointments": [{"doctor": "Dr. Davis", "date": "2025-02-15"}]
-    }
-    // Add more health records as needed
-  ]
-}
-{
-  "health_records": [
+    },
     {
       "patient_id": "P067",
       "name": "Liam Martinez",
@@ -761,6 +675,4 @@
       "medications": [{"name": "Insulin", "dosage": "As prescribed", "frequency": "Multiple times daily"}],
       "appointments": [{"doctor": "Dr. Johnson", "date": "2025-04-15"}]
     }
-    // Add more health records as needed
-  ]
-}
+]
