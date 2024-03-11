@@ -38,9 +38,7 @@
     "players_per_group": 4,
     "course_type": "18 Holes",
     "tournament": "The Masters"
-  }
-]
-[
+  },
   {
     "sport_id": "S006",
     "sport_name": "Cricket",
@@ -116,9 +114,7 @@
     "category": "Individual Sports",
     "event": "Artistic Floor Exercise",
     "apparatus_type": "Spring Floor"
-  }
-]
-[
+  },
   {
     "sport_id": "S016",
     "sport_name": "Martial Arts",
@@ -191,9 +187,7 @@
     "category": "Adventure Sports",
     "climbing_type": "Sport Climbing",
     "difficulty_level": "Intermediate"
-  }
-]
-[
+  },
   {
     "sport_id": "S026",
     "sport_name": "Field Hockey",
@@ -266,9 +260,7 @@
     "category": "Water Sports",
     "event": "Surf Ski Race",
     "wave_type": "Ocean Swell"
-  }
-]
-[
+  },
   {
     "sport_id": "S036",
     "sport_name": "Fencing",
@@ -340,9 +332,7 @@
     "players_per_team": 5,
     "court_type": "Indoor",
     "tournament": "Paralympic Games"
-  }
-]
-[
+  },
   {
     "sport_id": "S046",
     "sport_name": "Synchronized Swimming",
@@ -413,9 +403,7 @@
     "category": "Roller Sports",
     "players_per_team": 5,
     "rink_type": "Inline Skating Rink"
-  }
-]
-[
+  },
   {
     "sport_id": "S056",
     "sport_name": "Rhythmic Gymnastics",
