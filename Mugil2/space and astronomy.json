@@ -43,9 +43,7 @@
     "radius_km": 3389.5,
     "temperature_kelvin": 210,
     "discovery_year": null
-  }
-]
-[
+  },
   {
     "object": "Jupiter",
     "type": "Planet",
@@ -135,9 +133,7 @@
     "radius_km": null,
     "temperature_kelvin": null,
     "discovery_year": null
-  }
-]
-[
+  },
   {
     "object": "Orion Nebula",
     "type": "Nebula",
@@ -227,9 +223,7 @@
     "radius_km": null,
     "temperature_kelvin": 2.73,
     "discovery_year": 1927
-  }
-]
-[
+  },
   {
     "object": "Crab Nebula",
     "type": "Nebula",
@@ -319,9 +313,7 @@
     "radius_km": null,
     "temperature_kelvin": null,
     "discovery_year": null
-  }
-]
-[
+  },
   {
     "object": "Centaurus A",
     "type": "Galaxy",
@@ -411,9 +403,7 @@
     "radius_km": 3.5e3,
     "temperature_kelvin": null,
     "discovery_year": 1950
-  }
-]
-[
+  },
   {
     "object": "Hydra II",
     "type": "Galaxy",
@@ -503,9 +493,7 @@
     "radius_km": 1.4e3,
     "temperature_kelvin": null,
     "discovery_year": 2010
-  }
-]
-[
+  },
   {
     "object": "Columba II",
     "type": "Galaxy",
@@ -595,9 +583,7 @@
     "radius_km": 0.9e3,
     "temperature_kelvin": null,
     "discovery_year": 2006
-  }
-]
-[
+  },
   {
     "object": "Draco II",
     "type": "Galaxy",
