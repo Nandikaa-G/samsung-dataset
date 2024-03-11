@@ -1,5 +1,4 @@
-{
-  "environmental_science_data": [
+[
     {
       "observation_id": "E001",
       "date": "2023-01-15",
@@ -39,12 +38,7 @@
       "temperature": 22.0,
       "humidity": 65,
       "water_quality": "Moderate"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E006",
       "date": "2023-06-10",
@@ -84,12 +78,7 @@
       "temperature": 29.0,
       "humidity": 70,
       "water_quality": "Good"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E011",
       "date": "2023-11-10",
@@ -129,12 +118,7 @@
       "temperature": 18.0,
       "humidity": 60,
       "water_quality": "Good"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E016",
       "date": "2024-04-10",
@@ -174,12 +158,7 @@
       "temperature": 15.0,
       "humidity": 70,
       "bat_population": "Moderate"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E021",
       "date": "2024-09-10",
@@ -194,11 +173,7 @@
       "location": "Urban Air Quality Monitoring",
       "temperature": 22.5,
       "humidity": 45,
-      "air_pollutants": {
-        "pm2.5": 18,
-        "ozone": 30,
-        "nitrogen_dioxide": 12
-      }
+      "air_pollutants": 42
     },
     {
       "observation_id": "E023",
@@ -223,12 +198,7 @@
       "temperature": 12.0,
       "humidity": 50,
       "recycling_efficiency": 85
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E026",
       "date": "2025-02-10",
@@ -308,12 +278,7 @@
       "temperature": 35.0,
       "humidity": 15,
       "vegetation_recovery": "Ongoing"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E036",
       "date": "2025-12-10",
@@ -393,12 +358,7 @@
       "temperature": 15.0,
       "humidity": 60,
       "compost_quality": "Excellent"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E046",
       "date": "2026-10-10",
@@ -478,12 +438,7 @@
       "temperature": 15.0,
       "humidity": 60,
       "wetland_ecosystem_recovery": "Notable"
-    }
-    // Add more environmental science observations as needed
-  ]
-}
-{
-  "environmental_science_data": [
+    },
     {
       "observation_id": "E056",
       "date": "2027-08-10",
@@ -564,6 +519,4 @@
       "humidity": 60,
       "mangrove_growth_status": "Positive"
     }
-    // Add more environmental science observations as needed
-  ]
-}
+]
