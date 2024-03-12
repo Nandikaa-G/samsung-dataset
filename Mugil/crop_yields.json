@@ -1,0 +1,482 @@
+[
+    {
+      "crop": "Wheat",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 3.5,
+      "region": "Midwest"
+    },
+    {
+      "crop": "Corn",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 9.2,
+      "region": "Midwest"
+    },
+    {
+      "crop": "Rice",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 4.8,
+      "region": "Southeast Asia"
+    },
+    {
+      "crop": "Soybeans",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.7,
+      "region": "Midwest"
+    },
+    {
+      "crop": "Barley",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.1,
+      "region": "Europe"
+    },
+    {
+      "crop": "Potatoes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 40.5,
+      "region": "North America"
+    },
+    {
+      "crop": "Sorghum",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 4.0,
+      "region": "Midwest"
+    },
+    {
+      "crop": "Cotton",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.2,
+      "region": "Southern United States"
+    },
+    {
+      "crop": "Tomatoes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 60.8,
+      "region": "Europe"
+    },
+    {
+      "crop": "Sugarcane",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 70.2,
+      "region": "South America"
+    },
+    {
+      "crop": "Apples",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 18.3,
+      "region": "North America"
+    },
+    {
+      "crop": "Oranges",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 24.9,
+      "region": "South America"
+    },
+    {
+      "crop": "Grapes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 9.6,
+      "region": "Europe"
+    },
+    {
+      "crop": "Strawberries",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 8.2,
+      "region": "North America"
+    },
+    {
+      "crop": "Peanuts",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 3.9,
+      "region": "Southeast United States"
+    },
+    {
+      "crop": "Almonds",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.5,
+      "region": "California"
+    },
+    {
+      "crop": "Sunflower",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.8,
+      "region": "Midwest"
+    },
+    {
+      "crop": "Coffee",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 0.9,
+      "region": "South America"
+    },
+    {
+      "crop": "Tea",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.6,
+      "region": "Asia"
+    },
+    {
+      "crop": "Cocoa",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.2,
+      "region": "Africa"
+    },
+    {
+      "crop": "Avocado",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 12.7,
+      "region": "Mexico"
+    },
+    {
+      "crop": "Pineapple",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 58.4,
+      "region": "Costa Rica"
+    },
+    {
+      "crop": "Bananas",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 45.1,
+      "region": "Ecuador"
+    },
+    {
+      "crop": "Mangoes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 19.8,
+      "region": "India"
+    },
+    {
+      "crop": "Peaches",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 14.2,
+      "region": "United States"
+    },
+    {
+      "crop": "Plums",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 7.6,
+      "region": "Europe"
+    },
+    {
+      "crop": "Cherries",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 6.9,
+      "region": "United States"
+    },
+    {
+      "crop": "Lemons",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 10.3,
+      "region": "Spain"
+    },
+    {
+      "crop": "Cucumbers",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 40.5,
+      "region": "China"
+    },
+    {
+      "crop": "Carrots",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 24.9,
+      "region": "Russia"
+    },
+    {
+      "crop": "Grapes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 10.8,
+      "region": "California"
+    },
+    {
+      "crop": "Pears",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 16.3,
+      "region": "China"
+    },
+    {
+      "crop": "Blueberries",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 5.7,
+      "region": "United States"
+    },
+    {
+      "crop": "Hazelnuts",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.9,
+      "region": "Turkey"
+    },
+    {
+      "crop": "Walnuts",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.3,
+      "region": "United States"
+    },
+    {
+      "crop": "Pistachios",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.5,
+      "region": "Iran"
+    },
+    {
+      "crop": "Macadamia nuts",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.8,
+      "region": "Australia"
+    },
+    {
+      "crop": "Pecans",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.6,
+      "region": "United States"
+    },
+    {
+      "crop": "Olives",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 15.2,
+      "region": "Spain"
+    },
+    {
+      "crop": "Flaxseed",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.2,
+      "region": "Canada"
+    },
+    {
+      "crop": "Oats",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 3.9,
+      "region": "Canada"
+    },
+    {
+      "crop": "Rye",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.5,
+      "region": "Russia"
+    },
+    {
+      "crop": "Quinoa",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.1,
+      "region": "Bolivia"
+    },
+    {
+      "crop": "Amaranth",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.8,
+      "region": "India"
+    },
+    {
+      "crop": "Millet",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.5,
+      "region": "Nigeria"
+    },
+    {
+      "crop": "Sorghum",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.3,
+      "region": "United States"
+    },
+    {
+      "crop": "Buckwheat",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.6,
+      "region": "Russia"
+    },
+    {
+      "crop": "Chia",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.1,
+      "region": "Argentina"
+    },
+    {
+      "crop": "Hemp",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 0.8,
+      "region": "Canada"
+    },
+    {
+      "crop": "Sesame",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.4,
+      "region": "China"
+    },
+    {
+      "crop": "Garlic",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 12.5,
+      "region": "China"
+    },
+    {
+      "crop": "Onions",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 19.7,
+      "region": "India"
+    },
+    {
+      "crop": "Cabbage",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 24.3,
+      "region": "United States"
+    },
+    {
+      "crop": "Broccoli",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 11.8,
+      "region": "Mexico"
+    },
+    {
+      "crop": "Bell peppers",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 22.6,
+      "region": "Spain"
+    },
+    {
+      "crop": "Spinach",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 13.4,
+      "region": "United States"
+    },
+    {
+      "crop": "Zucchini",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 31.5,
+      "region": "Italy"
+    },
+    {
+      "crop": "Lettuce",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 18.9,
+      "region": "United States"
+    },
+    {
+      "crop": "Cauliflower",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 14.2,
+      "region": "India"
+    },
+    {
+      "crop": "Carrots",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 26.8,
+      "region": "China"
+    },
+    {
+      "crop": "Celery",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 28.4,
+      "region": "United States"
+    },
+    {
+      "crop": "Eggplant",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 16.7,
+      "region": "China"
+    },
+    {
+      "crop": "Cucumbers",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 34.2,
+      "region": "India"
+    },
+    {
+      "crop": "Pumpkins",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 22.1,
+      "region": "United States"
+    },
+    {
+      "crop": "Watermelons",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 60.8,
+      "region": "China"
+    },
+    {
+      "crop": "Artichokes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 9.6,
+      "region": "Italy"
+    },
+    {
+      "crop": "Asparagus",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 12.9,
+      "region": "United States"
+    },
+    {
+      "crop": "Cantaloupes",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 54.3,
+      "region": "United States"
+    },
+    {
+      "crop": "Brussels Sprouts",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 18.5,
+      "region": "Belgium"
+    },
+    {
+      "crop": "Kale",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 8.2,
+      "region": "United States"
+    },
+    {
+      "crop": "Soybeans",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.7,
+      "region": "United States"
+    },
+    {
+      "crop": "Corn",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 10.1,
+      "region": "United States"
+    },
+    {
+      "crop": "Wheat",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 3.8,
+      "region": "Russia"
+    },
+    {
+      "crop": "Rice",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 4.5,
+      "region": "India"
+    },
+    {
+      "crop": "Barley",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 3.2,
+      "region": "United States"
+    },
+    {
+      "crop": "Oats",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.6,
+      "region": "United States"
+    },
+    {
+      "crop": "Rye",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 2.3,
+      "region": "Germany"
+    },
+    {
+      "crop": "Quinoa",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.9,
+      "region": "Peru"
+    },
+    {
+      "crop": "Amaranth",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.5,
+      "region": "Mexico"
+    },
+    {
+      "crop": "Millet",
+      "year": 2019,
+      "yield_tonnes_per_hectare": 1.2,
+      "region": "Nigeria"
+    }
+]
