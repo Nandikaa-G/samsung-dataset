@@ -1,0 +1,562 @@
+[
+    {
+      "team_id": "001",
+      "team_name": "Red Dragons",
+      "sport": "Basketball",
+      "city": "New York",
+      "captain": "John Smith"
+    },
+    {
+      "team_id": "002",
+      "team_name": "Blue Sharks",
+      "sport": "Soccer",
+      "city": "Los Angeles",
+      "captain": "Emily Johnson"
+    },
+    {
+      "team_id": "003",
+      "team_name": "Green Tigers",
+      "sport": "Football",
+      "city": "Chicago",
+      "captain": "Michael Brown"
+    },
+    {
+      "team_id": "004",
+      "team_name": "Yellow Hawks",
+      "sport": "Baseball",
+      "city": "Houston",
+      "captain": "Sarah Wilson"
+    },
+    {
+      "team_id": "005",
+      "team_name": "Purple Panthers",
+      "sport": "Volleyball",
+      "city": "Miami",
+      "captain": "David Martinez"
+    },
+    {
+      "team_id": "006",
+      "team_name": "Orange Lions",
+      "sport": "Hockey",
+      "city": "Toronto",
+      "captain": "Jessica Lee"
+    },
+    {
+      "team_id": "007",
+      "team_name": "Black Bears",
+      "sport": "Rugby",
+      "city": "London",
+      "captain": "Matthew Jones"
+    },
+    {
+      "team_id": "008",
+      "team_name": "White Wolves",
+      "sport": "Tennis",
+      "city": "Paris",
+      "captain": "Sophia Martin"
+    },
+    {
+      "team_id": "009",
+      "team_name": "Silver Stallions",
+      "sport": "Golf",
+      "city": "Sydney",
+      "captain": "Ethan Thompson"
+    },
+    {
+      "team_id": "010",
+      "team_name": "Gold Eagles",
+      "sport": "Swimming",
+      "city": "Tokyo",
+      "captain": "Olivia Kim"
+    },
+    {
+      "team_id": "011",
+      "team_name": "Crimson Cheetahs",
+      "sport": "Track and Field",
+      "city": "Berlin",
+      "captain": "Maximilian Fischer"
+    },
+    {
+      "team_id": "012",
+      "team_name": "Azure Dolphins",
+      "sport": "Water Polo",
+      "city": "Barcelona",
+      "captain": "Elena Rodriguez"
+    },
+    {
+      "team_id": "013",
+      "team_name": "Emerald Eagles",
+      "sport": "Badminton",
+      "city": "Seoul",
+      "captain": "Jin Woo Park"
+    },
+    {
+      "team_id": "014",
+      "team_name": "Golden Griffins",
+      "sport": "Lacrosse",
+      "city": "Boston",
+      "captain": "Megan Anderson"
+    },
+    {
+      "team_id": "015",
+      "team_name": "Cobalt Cobras",
+      "sport": "Table Tennis",
+      "city": "Shanghai",
+      "captain": "Li Chen"
+    },
+    {
+      "team_id": "016",
+      "team_name": "Ruby Rhinos",
+      "sport": "Racquetball",
+      "city": "Mexico City",
+      "captain": "Carlos Hernandez"
+    },
+    {
+      "team_id": "017",
+      "team_name": "Sapphire Seals",
+      "sport": "Surfing",
+      "city": "Honolulu",
+      "captain": "Leilani Wong"
+    },
+    {
+      "team_id": "018",
+      "team_name": "Platinum Penguins",
+      "sport": "Ice Hockey",
+      "city": "Moscow",
+      "captain": "Nikolai Ivanov"
+    },
+    {
+      "team_id": "019",
+      "team_name": "Violet Vipers",
+      "sport": "Softball",
+      "city": "Toronto",
+      "captain": "Amanda Lewis"
+    },
+    {
+      "team_id": "020",
+      "team_name": "Aqua Arrows",
+      "sport": "Archery",
+      "city": "Rio de Janeiro",
+      "captain": "Gabriel Silva"
+    },
+    {
+      "team_id": "021",
+      "team_name": "Maroon Mavericks",
+      "sport": "Basketball",
+      "city": "Dallas",
+      "captain": "Taylor Johnson"
+    },
+    {
+      "team_id": "022",
+      "team_name": "Cerulean Cobras",
+      "sport": "Soccer",
+      "city": "Barcelona",
+      "captain": "Andres Fernandez"
+    },
+    {
+      "team_id": "023",
+      "team_name": "Jade Jaguars",
+      "sport": "Football",
+      "city": "Dallas",
+      "captain": "Isabella Rodriguez"
+    },
+    {
+      "team_id": "024",
+      "team_name": "Amber Avengers",
+      "sport": "Baseball",
+      "city": "Los Angeles",
+      "captain": "Jake Thompson"
+    },
+    {
+      "team_id": "025",
+      "team_name": "Indigo Invincibles",
+      "sport": "Volleyball",
+      "city": "Sydney",
+      "captain": "Lily Nguyen"
+    },
+    {
+      "team_id": "026",
+      "team_name": "Silver Sharks",
+      "sport": "Swimming",
+      "city": "Miami",
+      "captain": "Michael Phelps"
+    },
+    {
+      "team_id": "027",
+      "team_name": "Bronze Bears",
+      "sport": "Rugby",
+      "city": "London",
+      "captain": "Harry Jones"
+    },
+    {
+      "team_id": "028",
+      "team_name": "Copper Coyotes",
+      "sport": "Tennis",
+      "city": "Paris",
+      "captain": "Sophie Leclerc"
+    },
+    {
+      "team_id": "029",
+      "team_name": "Onyx Owls",
+      "sport": "Golf",
+      "city": "Orlando",
+      "captain": "Ryan Anderson"
+    },
+    {
+      "team_id": "030",
+      "team_name": "Scarlet Spartans",
+      "sport": "Track and Field",
+      "city": "Rome",
+      "captain": "Giulia Rossi"
+    },
+    {
+      "team_id": "031",
+      "team_name": "Golden Eagles",
+      "sport": "Basketball",
+      "city": "Chicago",
+      "captain": "Alexandra Lee"
+    },
+    {
+      "team_id": "032",
+      "team_name": "Crimson Cardinals",
+      "sport": "Soccer",
+      "city": "Paris",
+      "captain": "Lucas Dubois"
+    },
+    {
+      "team_id": "033",
+      "team_name": "Royal Ravens",
+      "sport": "Football",
+      "city": "London",
+      "captain": "Isaac Patel"
+    },
+    {
+      "team_id": "034",
+      "team_name": "Polar Bears",
+      "sport": "Ice Hockey",
+      "city": "Toronto",
+      "captain": "Emma Wilson"
+    },
+    {
+      "team_id": "035",
+      "team_name": "Thunderbolts",
+      "sport": "Track and Field",
+      "city": "Los Angeles",
+      "captain": "Brandon Davis"
+    },
+    {
+      "team_id": "036",
+      "team_name": "Fire Dragons",
+      "sport": "Rugby",
+      "city": "Sydney",
+      "captain": "Jessica Clarke"
+    },
+    {
+      "team_id": "037",
+      "team_name": "Emerald Eagles",
+      "sport": "Tennis",
+      "city": "Tokyo",
+      "captain": "Kenji Tanaka"
+    },
+    {
+      "team_id": "038",
+      "team_name": "Golden Griffins",
+      "sport": "Golf",
+      "city": "Miami",
+      "captain": "Sophia Roberts"
+    },
+    {
+      "team_id": "039",
+      "team_name": "Sapphire Stingrays",
+      "sport": "Swimming",
+      "city": "Rio de Janeiro",
+      "captain": "Diego Silva"
+    },
+    {
+      "team_id": "040",
+      "team_name": "Silver Stallions",
+      "sport": "Table Tennis",
+      "city": "Shanghai",
+      "captain": "Li Wei"
+    },
+    {
+      "team_id": "041",
+      "team_name": "Golden Bears",
+      "sport": "Basketball",
+      "city": "San Francisco",
+      "captain": "Ryan Johnson"
+    },
+    {
+      "team_id": "042",
+      "team_name": "Silver Storm",
+      "sport": "Soccer",
+      "city": "Manchester",
+      "captain": "Sophie Williams"
+    },
+    {
+      "team_id": "043",
+      "team_name": "Emerald Eagles",
+      "sport": "Football",
+      "city": "Dublin",
+      "captain": "Connor O'Malley"
+    },
+    {
+      "team_id": "044",
+      "team_name": "Crimson Dragons",
+      "sport": "Baseball",
+      "city": "Boston",
+      "captain": "Dylan Roberts"
+    },
+    {
+      "team_id": "045",
+      "team_name": "Royal Riders",
+      "sport": "Cycling",
+      "city": "Amsterdam",
+      "captain": "Lena Van der Breggen"
+    },
+    {
+      "team_id": "046",
+      "team_name": "Lunar Lions",
+      "sport": "Chess",
+      "city": "Moscow",
+      "captain": "Ivan Petrov"
+    },
+    {
+      "team_id": "047",
+      "team_name": "Cosmic Cougars",
+      "sport": "Astronomy Club",
+      "city": "Houston",
+      "captain": "Alicia Chang"
+    },
+    {
+      "team_id": "048",
+      "team_name": "Ocean Owls",
+      "sport": "Sailing",
+      "city": "Sydney",
+      "captain": "Nathan O'Neil"
+    },
+    {
+      "team_id": "049",
+      "team_name": "Fire Falcons",
+      "sport": "Firefighting",
+      "city": "Chicago",
+      "captain": "Emily Rodriguez"
+    },
+    {
+      "team_id": "050",
+      "team_name": "Diamond Dolphins",
+      "sport": "Scuba Diving",
+      "city": "Miami",
+      "captain": "Lucas Gomez"
+    },
+    {
+      "team_id": "051",
+      "team_name": "Thunder Tigers",
+      "sport": "Basketball",
+      "city": "Chicago",
+      "captain": "Sophie Anderson"
+    },
+    {
+      "team_id": "052",
+      "team_name": "Silver Sharks",
+      "sport": "Soccer",
+      "city": "Madrid",
+      "captain": "Diego Hernandez"
+    },
+    {
+      "team_id": "053",
+      "team_name": "Crimson Coyotes",
+      "sport": "Football",
+      "city": "Dallas",
+      "captain": "Olivia Thompson"
+    },
+    {
+      "team_id": "054",
+      "team_name": "Golden Eagles",
+      "sport": "Baseball",
+      "city": "New York",
+      "captain": "Ethan Williams"
+    },
+    {
+      "team_id": "055",
+      "team_name": "Azure Angels",
+      "sport": "Volleyball",
+      "city": "Los Angeles",
+      "captain": "Isabella Martinez"
+    },
+    {
+      "team_id": "056",
+      "team_name": "Emerald Enigmas",
+      "sport": "Swimming",
+      "city": "Sydney",
+      "captain": "Liam Johnson"
+    },
+    {
+      "team_id": "057",
+      "team_name": "Ruby Rhinos",
+      "sport": "Rugby",
+      "city": "London",
+      "captain": "Charlotte Lewis"
+    },
+    {
+      "team_id": "058",
+      "team_name": "Cerulean Champions",
+      "sport": "Tennis",
+      "city": "Paris",
+      "captain": "Lucas Martin"
+    },
+    {
+      "team_id": "059",
+      "team_name": "Golden Gliders",
+      "sport": "Golf",
+      "city": "Tokyo",
+      "captain": "Aiko Yamamoto"
+    },
+    {
+      "team_id": "060",
+      "team_name": "Platinum Panthers",
+      "sport": "Track and Field",
+      "city": "Rio de Janeiro",
+      "captain": "Gabriel Silva"
+    },
+    {
+      "team_id": "061",
+      "team_name": "Cobalt Crusaders",
+      "sport": "Basketball",
+      "city": "Seattle",
+      "captain": "Natalie Parker"
+    },
+    {
+      "team_id": "062",
+      "team_name": "Crimson Cavaliers",
+      "sport": "Soccer",
+      "city": "Manchester",
+      "captain": "David Wilson"
+    },
+    {
+      "team_id": "063",
+      "team_name": "Golden Giants",
+      "sport": "Football",
+      "city": "Dallas",
+      "captain": "Emma Thompson"
+    },
+    {
+      "team_id": "064",
+      "team_name": "Silver Stars",
+      "sport": "Baseball",
+      "city": "Chicago",
+      "captain": "Jacob Roberts"
+    },
+    {
+      "team_id": "065",
+      "team_name": "Emerald Eagles",
+      "sport": "Volleyball",
+      "city": "Los Angeles",
+      "captain": "Sophia Garcia"
+    },
+    {
+      "team_id": "066",
+      "team_name": "Azure Angels",
+      "sport": "Swimming",
+      "city": "Miami",
+      "captain": "Michael Anderson"
+    },
+    {
+      "team_id": "067",
+      "team_name": "Cobalt Cobras",
+      "sport": "Rugby",
+      "city": "London",
+      "captain": "Jessica Clarke"
+    },
+    {
+      "team_id": "068",
+      "team_name": "Golden Gliders",
+      "sport": "Tennis",
+      "city": "Paris",
+      "captain": "Sophie Martin"
+    },
+    {
+      "team_id": "069",
+      "team_name": "Silver Sharks",
+      "sport": "Golf",
+      "city": "Tokyo",
+      "captain": "Yuki Tanaka"
+    },
+    {
+      "team_id": "070",
+      "team_name": "Ruby Rhinos",
+      "sport": "Track and Field",
+      "city": "Rio de Janeiro",
+      "captain": "Carlos Silva"
+    },
+    {
+      "team_id": "071",
+      "team_name": "Emerald Eagles",
+      "sport": "Basketball",
+      "city": "New York",
+      "captain": "Olivia Williams"
+    },
+    {
+      "team_id": "072",
+      "team_name": "Crimson Tigers",
+      "sport": "Soccer",
+      "city": "Barcelona",
+      "captain": "Luis Hernandez"
+    },
+    {
+      "team_id": "073",
+      "team_name": "Golden Dragons",
+      "sport": "Football",
+      "city": "Dallas",
+      "captain": "Sophia Lee"
+    },
+    {
+      "team_id": "074",
+      "team_name": "Silver Storm",
+      "sport": "Baseball",
+      "city": "Chicago",
+      "captain": "Ethan Davis"
+    },
+    {
+      "team_id": "075",
+      "team_name": "Azure Angels",
+      "sport": "Volleyball",
+      "city": "Los Angeles",
+      "captain": "Isabella Rodriguez"
+    },
+    {
+      "team_id": "076",
+      "team_name": "Emerald Eagles",
+      "sport": "Swimming",
+      "city": "Sydney",
+      "captain": "Liam Johnson"
+    },
+    {
+      "team_id": "077",
+      "team_name": "Ruby Rhinos",
+      "sport": "Rugby",
+      "city": "London",
+      "captain": "Charlotte Lewis"
+    },
+    {
+      "team_id": "078",
+      "team_name": "Cerulean Champions",
+      "sport": "Tennis",
+      "city": "Paris",
+      "captain": "Lucas Martin"
+    },
+    {
+      "team_id": "079",
+      "team_name": "Golden Gliders",
+      "sport": "Golf",
+      "city": "Tokyo",
+      "captain": "Aiko Yamamoto"
+    },
+    {
+      "team_id": "080",
+      "team_name": "Platinum Panthers",
+      "sport": "Track and Field",
+      "city": "Rio de Janeiro",
+      "captain": "Gabriel Silva"
+    }
+]
