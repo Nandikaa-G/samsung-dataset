@@ -1,0 +1,482 @@
+[
+    {
+      "property_id": "001",
+      "property_type": "House",
+      "location": "123 Main St, Cityville",
+      "price": "$500,000"
+    },
+    {
+      "property_id": "002",
+      "property_type": "Apartment",
+      "location": "456 Elm St, Townsville",
+      "price": "$1,200/month"
+    },
+    {
+      "property_id": "003",
+      "property_type": "Condo",
+      "location": "789 Oak Ave, Villagetown",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "004",
+      "property_type": "Townhouse",
+      "location": "321 Pine St, Suburbia",
+      "price": "$400,000"
+    },
+    {
+      "property_id": "005",
+      "property_type": "Duplex",
+      "location": "876 Maple Ave, Countryside",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "006",
+      "property_type": "Studio",
+      "location": "543 Cedar St, Metropolis",
+      "price": "$800/month"
+    },
+    {
+      "property_id": "007",
+      "property_type": "Farmhouse",
+      "location": "234 Walnut St, Ruralville",
+      "price": "$1,000,000"
+    },
+    {
+      "property_id": "008",
+      "property_type": "Ranch",
+      "location": "987 Birch Ave, Farmland",
+      "price": "$900,000"
+    },
+    {
+      "property_id": "009",
+      "property_type": "Penthouse",
+      "location": "654 Oak St, Skyscraper City",
+      "price": "$2,000,000"
+    },
+    {
+      "property_id": "010",
+      "property_type": "Mobile Home",
+      "location": "210 Pinecone Dr, Trailer Park",
+      "price": "$50,000"
+    },
+    {
+      "property_id": "011",
+      "property_type": "Villa",
+      "location": "111 Sunflower Ln, Sunnyville",
+      "price": "$900,000"
+    },
+    {
+      "property_id": "012",
+      "property_type": "Cottage",
+      "location": "222 Rose St, Garden City",
+      "price": "$300,000"
+    },
+    {
+      "property_id": "013",
+      "property_type": "Beach House",
+      "location": "333 Oceanfront Ave, Seaside Town",
+      "price": "$1,500,000"
+    },
+    {
+      "property_id": "014",
+      "property_type": "Log Cabin",
+      "location": "444 Pinecone Trail, Forest Retreat",
+      "price": "$400,000"
+    },
+    {
+      "property_id": "015",
+      "property_type": "Mansion",
+      "location": "555 Grand Blvd, Prestige Estates",
+      "price": "$5,000,000"
+    },
+    {
+      "property_id": "016",
+      "property_type": "Townhome",
+      "location": "666 Willow Ave, Riverside",
+      "price": "$350,000"
+    },
+    {
+      "property_id": "017",
+      "property_type": "Loft",
+      "location": "777 Loftway Dr, Urban Center",
+      "price": "$750,000"
+    },
+    {
+      "property_id": "018",
+      "property_type": "Rural Retreat",
+      "location": "888 Meadow Rd, Countryside",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "019",
+      "property_type": "Mountain Chalet",
+      "location": "999 Summit View, Mountain Village",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "020",
+      "property_type": "Lakefront Cabin",
+      "location": "101 Lakeview Dr, Lakeside Retreat",
+      "price": "$450,000"
+    },
+    {
+      "property_id": "021",
+      "property_type": "Historic Mansion",
+      "location": "1122 Heritage Blvd, Historical District",
+      "price": "$3,500,000"
+    },
+    {
+      "property_id": "022",
+      "property_type": "Golf Course Home",
+      "location": "2233 Fairway Dr, Golf Community",
+      "price": "$800,000"
+    },
+    {
+      "property_id": "023",
+      "property_type": "Eco-Friendly House",
+      "location": "3344 Green Ave, Sustainable City",
+      "price": "$650,000"
+    },
+    {
+      "property_id": "024",
+      "property_type": "Lakeside Villa",
+      "location": "4455 Lakeview Terrace, Waterfront",
+      "price": "$1,200,000"
+    },
+    {
+      "property_id": "025",
+      "property_type": "Ski Chalet",
+      "location": "5566 Snowy Peak Rd, Mountain Resort",
+      "price": "$900,000"
+    },
+    {
+      "property_id": "026",
+      "property_type": "Waterfront Condo",
+      "location": "6677 Ocean Drive, Coastal Town",
+      "price": "$750,000"
+    },
+    {
+      "property_id": "027",
+      "property_type": "Luxury Penthouse",
+      "location": "7788 Skyline Tower, City Center",
+      "price": "$4,500,000"
+    },
+    {
+      "property_id": "028",
+      "property_type": "Ranch Home",
+      "location": "8899 Pasture Lane, Ranch Country",
+      "price": "$550,000"
+    },
+    {
+      "property_id": "029",
+      "property_type": "City Loft",
+      "location": "9900 Urban Way, Metropolitan Area",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "030",
+      "property_type": "Historic Brownstone",
+      "location": "10101 Brick Ave, Historic Neighborhood",
+      "price": "$1,800,000"
+    },
+    {
+      "property_id": "031",
+      "property_type": "Countryside Retreat",
+      "location": "1122 Meadow Lane, Rural Area",
+      "price": "$400,000"
+    },
+    {
+      "property_id": "032",
+      "property_type": "Oceanfront Estate",
+      "location": "2233 Coastal View Dr, Beachfront",
+      "price": "$2,500,000"
+    },
+    {
+      "property_id": "033",
+      "property_type": "Mountain Lodge",
+      "location": "3344 Summit Rd, Mountain Range",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "034",
+      "property_type": "Modern Townhouse",
+      "location": "4455 Urban Way, Cityscape",
+      "price": "$850,000"
+    },
+    {
+      "property_id": "035",
+      "property_type": "Riverfront Cottage",
+      "location": "5566 Riverside Dr, Riverbank",
+      "price": "$500,000"
+    },
+    {
+      "property_id": "036",
+      "property_type": "Historic Farmhouse",
+      "location": "6677 Heritage Farm Rd, Countryside",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "037",
+      "property_type": "Downtown Condo",
+      "location": "7788 City Plaza, Downtown",
+      "price": "$1,000,000"
+    },
+    {
+      "property_id": "038",
+      "property_type": "Coastal Bungalow",
+      "location": "8899 Beachside Ave, Coastal Town",
+      "price": "$750,000"
+    },
+    {
+      "property_id": "039",
+      "property_type": "Ski Resort Chalet",
+      "location": "9900 Slopeside Trail, Ski Village",
+      "price": "$1,200,000"
+    },
+    {
+      "property_id": "040",
+      "property_type": "Rural Retreat",
+      "location": "10101 Serenity Dr, Rural Countryside",
+      "price": "$450,000"
+    },
+    {
+      "property_id": "041",
+      "property_type": "Lakefront Retreat",
+      "location": "1122 Lakeside Blvd, Lakefront Area",
+      "price": "$650,000"
+    },
+    {
+      "property_id": "042",
+      "property_type": "Luxury Beachfront Villa",
+      "location": "2233 Seaview Dr, Beachfront Paradise",
+      "price": "$3,000,000"
+    },
+    {
+      "property_id": "043",
+      "property_type": "Garden Townhome",
+      "location": "3344 Garden Way, Green Community",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "044",
+      "property_type": "Historic Loft",
+      "location": "4455 Heritage Ave, Historic District",
+      "price": "$950,000"
+    },
+    {
+      "property_id": "045",
+      "property_type": "Riverfront Cabin",
+      "location": "5566 River Bend Rd, Riverside Haven",
+      "price": "$550,000"
+    },
+    {
+      "property_id": "046",
+      "property_type": "Luxury Penthouse Suite",
+      "location": "6677 Skyline Blvd, Highrise City",
+      "price": "$4,000,000"
+    },
+    {
+      "property_id": "047",
+      "property_type": "Mountain View Chalet",
+      "location": "7788 Mountain Peak Rd, Alpine Retreat",
+      "price": "$850,000"
+    },
+    {
+      "property_id": "048",
+      "property_type": "Lakefront Cottage",
+      "location": "8899 Lakeshore Dr, Lakeside Hideaway",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "049",
+      "property_type": "Urban Condo",
+      "location": "9900 Urban Plaza, City Living",
+      "price": "$850,000"
+    },
+    {
+      "property_id": "050",
+      "property_type": "Historic Townhouse",
+      "location": "10101 Old Town St, Historic District",
+      "price": "$1,500,000"
+    },
+    {
+      "property_id": "051",
+      "property_type": "Modern City Apartment",
+      "location": "1122 Downtown Blvd, City Center",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "052",
+      "property_type": "Waterfront Mansion",
+      "location": "2233 Bayview Terrace, Waterfront Estate",
+      "price": "$5,500,000"
+    },
+    {
+      "property_id": "053",
+      "property_type": "Country Farmhouse",
+      "location": "3344 Meadow Lane, Countryside Living",
+      "price": "$850,000"
+    },
+    {
+      "property_id": "054",
+      "property_type": "Luxury High-Rise Condo",
+      "location": "4455 Skytower Blvd, Urban Skyline",
+      "price": "$1,200,000"
+    },
+    {
+      "property_id": "055",
+      "property_type": "Ski-In/Ski-Out Chalet",
+      "location": "5566 Slopeside Rd, Ski Resort",
+      "price": "$1,800,000"
+    },
+    {
+      "property_id": "056",
+      "property_type": "Lakefront Log Cabin",
+      "location": "6677 Lakeshore Dr, Lakeside Oasis",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "057",
+      "property_type": "Downtown Studio Loft",
+      "location": "7788 Loftway St, Downtown Hub",
+      "price": "$500,000"
+    },
+    {
+      "property_id": "058",
+      "property_type": "Beachfront Bungalow",
+      "location": "8899 Seaside Ave, Coastal Living",
+      "price": "$950,000"
+    },
+    {
+      "property_id": "059",
+      "property_type": "Mountain Retreat",
+      "location": "9900 Mountain View Dr, Mountain Serenity",
+      "price": "$750,000"
+    },
+    {
+      "property_id": "060",
+      "property_type": "Historic Brownstone Townhouse",
+      "location": "10101 Brownstone St, Historic District",
+      "price": "$2,300,000"
+    },
+    {
+      "property_id": "061",
+      "property_type": "Lakeview Retreat",
+      "location": "1122 Lakefront Blvd, Lakeview Haven",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "062",
+      "property_type": "Mountain Cabin",
+      "location": "2233 Summit Rd, Mountain Getaway",
+      "price": "$400,000"
+    },
+    {
+      "property_id": "063",
+      "property_type": "Beachfront Condo",
+      "location": "3344 Beachside Ave, Coastal Condos",
+      "price": "$1,000,000"
+    },
+    {
+      "property_id": "064",
+      "property_type": "Ranch Retreat",
+      "location": "4455 Meadowview Dr, Ranch Lifestyle",
+      "price": "$750,000"
+    },
+    {
+      "property_id": "065",
+      "property_type": "City Center Penthouse",
+      "location": "5566 Downtown Plaza, City Living",
+      "price": "$3,200,000"
+    },
+    {
+      "property_id": "066",
+      "property_type": "Waterfront Cottage",
+      "location": "6677 Waterfront Rd, Coastal Hideaway",
+      "price": "$550,000"
+    },
+    {
+      "property_id": "067",
+      "property_type": "Luxury Beach House",
+      "location": "7788 Beachfront Blvd, Luxury Living",
+      "price": "$4,500,000"
+    },
+    {
+      "property_id": "068",
+      "property_type": "Ski Resort Condo",
+      "location": "8899 Ski Village Way, Alpine Condos",
+      "price": "$850,000"
+    },
+    {
+      "property_id": "069",
+      "property_type": "Urban Townhome",
+      "location": "9900 Urban Street, Metropolitan Living",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "070",
+      "property_type": "Riverside Retreat",
+      "location": "10101 River Bend Rd, Riverside Haven",
+      "price": "$500,000"
+    },
+    {
+      "property_id": "071",
+      "property_type": "Modern Urban Apartment",
+      "location": "1122 Cityscape Blvd, Urban Living",
+      "price": "$700,000"
+    },
+    {
+      "property_id": "072",
+      "property_type": "Coastal Villa",
+      "location": "2233 Oceanview Terrace, Coastal Paradise",
+      "price": "$2,200,000"
+    },
+    {
+      "property_id": "073",
+      "property_type": "Country Estate",
+      "location": "3344 Countryside Rd, Country Life",
+      "price": "$1,500,000"
+    },
+    {
+      "property_id": "074",
+      "property_type": "Luxury Waterfront Condo",
+      "location": "4455 Waterfront Plaza, Harbor Views",
+      "price": "$1,800,000"
+    },
+    {
+      "property_id": "075",
+      "property_type": "Ski Lodge",
+      "location": "5566 Snowy Ridge Rd, Ski Resort",
+      "price": "$1,200,000"
+    },
+    {
+      "property_id": "076",
+      "property_type": "Lakefront Chalet",
+      "location": "6677 Lakeside Trail, Lakeside Living",
+      "price": "$750,000"
+    },
+    {
+      "property_id": "077",
+      "property_type": "Downtown Luxury Condo",
+      "location": "7788 Luxury Plaza, Downtown Hub",
+      "price": "$1,500,000"
+    },
+    {
+      "property_id": "078",
+      "property_type": "Beachfront Retreat",
+      "location": "8899 Seashore Dr, Beachfront Bliss",
+      "price": "$1,000,000"
+    },
+    {
+      "property_id": "079",
+      "property_type": "Mountain View Cabin",
+      "location": "9900 Mountain Vista Rd, Scenic Views",
+      "price": "$600,000"
+    },
+    {
+      "property_id": "080",
+      "property_type": "Historic Mansion Estate",
+      "location": "10101 Heritage Estate Dr, Historic Elegance",
+      "price": "$3,500,000"
+    }
+]
