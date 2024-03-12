@@ -1,0 +1,482 @@
+[
+    {
+      "name": "Hilton Garden Inn",
+      "location": "New York",
+      "rating": 4.5,
+      "price_per_night": 200
+    },
+    {
+      "name": "Marriott Marquis",
+      "location": "San Francisco",
+      "rating": 4.7,
+      "price_per_night": 250
+    },
+    {
+      "name": "Sheraton Grand",
+      "location": "Los Angeles",
+      "rating": 4.3,
+      "price_per_night": 180
+    },
+    {
+      "name": "The Ritz-Carlton",
+      "location": "Miami",
+      "rating": 4.8,
+      "price_per_night": 350
+    },
+    {
+      "name": "Fairmont Pacific Rim",
+      "location": "Vancouver",
+      "rating": 4.6,
+      "price_per_night": 280
+    },
+    {
+      "name": "Waldorf Astoria",
+      "location": "Chicago",
+      "rating": 4.4,
+      "price_per_night": 220
+    },
+    {
+      "name": "InterContinental",
+      "location": "London",
+      "rating": 4.5,
+      "price_per_night": 280
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "location": "Paris",
+      "rating": 4.9,
+      "price_per_night": 400
+    },
+    {
+      "name": "Mandarin Oriental",
+      "location": "Tokyo",
+      "rating": 4.7,
+      "price_per_night": 350
+    },
+    {
+      "name": "Atlantis The Palm",
+      "location": "Dubai",
+      "rating": 4.6,
+      "price_per_night": 300
+    },
+    {
+      "name": "Renaissance Amsterdam Hotel",
+      "location": "Amsterdam",
+      "rating": 4.6,
+      "price_per_night": 180
+    },
+    {
+      "name": "Grand Hyatt Berlin",
+      "location": "Berlin",
+      "rating": 4.7,
+      "price_per_night": 220
+    },
+    {
+      "name": "Hilton Sydney",
+      "location": "Sydney",
+      "rating": 4.5,
+      "price_per_night": 250
+    },
+    {
+      "name": "Mandarin Oriental",
+      "location": "Hong Kong",
+      "rating": 4.8,
+      "price_per_night": 300
+    },
+    {
+      "name": "The Peninsula",
+      "location": "Hong Kong",
+      "rating": 4.9,
+      "price_per_night": 400
+    },
+    {
+      "name": "Hilton Tokyo",
+      "location": "Tokyo",
+      "rating": 4.3,
+      "price_per_night": 200
+    },
+    {
+      "name": "Marina Bay Sands",
+      "location": "Singapore",
+      "rating": 4.7,
+      "price_per_night": 350
+    },
+    {
+      "name": "Hotel Adlon Kempinski",
+      "location": "Berlin",
+      "rating": 4.5,
+      "price_per_night": 230
+    },
+    {
+      "name": "The Plaza Hotel",
+      "location": "New York",
+      "rating": 4.4,
+      "price_per_night": 400
+    },
+    {
+      "name": "W Barcelona",
+      "location": "Barcelona",
+      "rating": 4.6,
+      "price_per_night": 300
+    },
+    {
+      "name": "Ritz-Carlton Tokyo",
+      "location": "Tokyo",
+      "rating": 4.8,
+      "price_per_night": 380
+    },
+    {
+      "name": "Wynn Las Vegas",
+      "location": "Las Vegas",
+      "rating": 4.7,
+      "price_per_night": 320
+    },
+    {
+      "name": "The Langham Sydney",
+      "location": "Sydney",
+      "rating": 4.6,
+      "price_per_night": 290
+    },
+    {
+      "name": "Mandarin Oriental Bangkok",
+      "location": "Bangkok",
+      "rating": 4.9,
+      "price_per_night": 420
+    },
+    {
+      "name": "The Ritz-Carlton Berlin",
+      "location": "Berlin",
+      "rating": 4.5,
+      "price_per_night": 230
+    },
+    {
+      "name": "Hotel del Coronado",
+      "location": "San Diego",
+      "rating": 4.4,
+      "price_per_night": 350
+    },
+    {
+      "name": "Shangri-La Hotel Paris",
+      "location": "Paris",
+      "rating": 4.7,
+      "price_per_night": 380
+    },
+    {
+      "name": "Hotel Sacher Vienna",
+      "location": "Vienna",
+      "rating": 4.6,
+      "price_per_night": 270
+    },
+    {
+      "name": "The Westin Excelsior",
+      "location": "Rome",
+      "rating": 4.5,
+      "price_per_night": 300
+    },
+    {
+      "name": "Grand Hyatt Hong Kong",
+      "location": "Hong Kong",
+      "rating": 4.8,
+      "price_per_night": 360
+    },
+    {
+      "name": "The St. Regis Maldives Vommuli Resort",
+      "location": "Maldives",
+      "rating": 4.9,
+      "price_per_night": 1200
+    },
+    {
+      "name": "Burj Al Arab Jumeirah",
+      "location": "Dubai",
+      "rating": 4.8,
+      "price_per_night": 1500
+    },
+    {
+      "name": "Hotel Eden Rome",
+      "location": "Rome",
+      "rating": 4.7,
+      "price_per_night": 450
+    },
+    {
+      "name": "Bvlgari Resort Bali",
+      "location": "Bali",
+      "rating": 4.8,
+      "price_per_night": 800
+    },
+    {
+      "name": "The Ritz-Carlton, Kyoto",
+      "location": "Kyoto",
+      "rating": 4.7,
+      "price_per_night": 600
+    },
+    {
+      "name": "Waldorf Astoria Beverly Hills",
+      "location": "Los Angeles",
+      "rating": 4.6,
+      "price_per_night": 700
+    },
+    {
+      "name": "Hotel Hassler Roma",
+      "location": "Rome",
+      "rating": 4.5,
+      "price_per_night": 550
+    },
+    {
+      "name": "The Peninsula Manila",
+      "location": "Manila",
+      "rating": 4.6,
+      "price_per_night": 250
+    },
+    {
+      "name": "Grand Hyatt Melbourne",
+      "location": "Melbourne",
+      "rating": 4.7,
+      "price_per_night": 300
+    },
+    {
+      "name": "Hotel du Cap-Eden-Roc",
+      "location": "French Riviera",
+      "rating": 4.9,
+      "price_per_night": 1800
+    },
+    {
+      "name": "Park Hyatt Tokyo",
+      "location": "Tokyo",
+      "rating": 4.7,
+      "price_per_night": 400
+    },
+    {
+      "name": "Raffles Hotel Singapore",
+      "location": "Singapore",
+      "rating": 4.6,
+      "price_per_night": 350
+    },
+    {
+      "name": "Hotel Plaza Athénée",
+      "location": "Paris",
+      "rating": 4.5,
+      "price_per_night": 500
+    },
+    {
+      "name": "Mandarin Oriental, Barcelona",
+      "location": "Barcelona",
+      "rating": 4.8,
+      "price_per_night": 450
+    },
+    {
+      "name": "The Langham, London",
+      "location": "London",
+      "rating": 4.7,
+      "price_per_night": 350
+    },
+    {
+      "name": "The Dorchester",
+      "location": "London",
+      "rating": 4.6,
+      "price_per_night": 550
+    },
+    {
+      "name": "The St. Regis New York",
+      "location": "New York",
+      "rating": 4.8,
+      "price_per_night": 600
+    },
+    {
+      "name": "Mandarin Oriental, New York",
+      "location": "New York",
+      "rating": 4.7,
+      "price_per_night": 500
+    },
+    {
+      "name": "Wynn Macau",
+      "location": "Macau",
+      "rating": 4.5,
+      "price_per_night": 350
+    },
+    {
+      "name": "The Ritz-Carlton, Dubai",
+      "location": "Dubai",
+      "rating": 4.6,
+      "price_per_night": 400
+    },
+    {
+      "name": "Hotel Adlon Kempinski",
+      "location": "Berlin",
+      "rating": 4.5,
+      "price_per_night": 220
+    },
+    {
+      "name": "The Ritz-Carlton, Moscow",
+      "location": "Moscow",
+      "rating": 4.7,
+      "price_per_night": 400
+    },
+    {
+      "name": "The St. Regis Dubai, The Palm",
+      "location": "Dubai",
+      "rating": 4.6,
+      "price_per_night": 350
+    },
+    {
+      "name": "Hotel Bel-Air",
+      "location": "Los Angeles",
+      "rating": 4.8,
+      "price_per_night": 550
+    },
+    {
+      "name": "The Westin Sydney",
+      "location": "Sydney",
+      "rating": 4.4,
+      "price_per_night": 280
+    },
+    {
+      "name": "Hotel de Crillon, A Rosewood Hotel",
+      "location": "Paris",
+      "rating": 4.7,
+      "price_per_night": 500
+    },
+    {
+      "name": "Fairmont San Francisco",
+      "location": "San Francisco",
+      "rating": 4.5,
+      "price_per_night": 300
+    },
+    {
+      "name": "The Ritz-Carlton, Istanbul",
+      "location": "Istanbul",
+      "rating": 4.6,
+      "price_per_night": 350
+    },
+    {
+      "name": "The Peninsula Shanghai",
+      "location": "Shanghai",
+      "rating": 4.8,
+      "price_per_night": 400
+    },
+    {
+      "name": "JW Marriott Marquis Dubai",
+      "location": "Dubai",
+      "rating": 4.7,
+      "price_per_night": 380
+    },
+    {
+      "name": "Hotel Hassler Roma",
+      "location": "Rome",
+      "rating": 4.5,
+      "price_per_night": 550
+    },
+    {
+      "name": "The Ritz-Carlton, Kyoto",
+      "location": "Kyoto",
+      "rating": 4.7,
+      "price_per_night": 600
+    },
+    {
+      "name": "Mandarin Oriental, Paris",
+      "location": "Paris",
+      "rating": 4.8,
+      "price_per_night": 800
+    },
+    {
+      "name": "The Peninsula Tokyo",
+      "location": "Tokyo",
+      "rating": 4.6,
+      "price_per_night": 700
+    },
+    {
+      "name": "Shangri-La Hotel Sydney",
+      "location": "Sydney",
+      "rating": 4.7,
+      "price_per_night": 350
+    },
+    {
+      "name": "The Ritz-Carlton, Vienna",
+      "location": "Vienna",
+      "rating": 4.6,
+      "price_per_night": 270
+    },
+    {
+      "name": "Grand Hyatt Melbourne",
+      "location": "Melbourne",
+      "rating": 4.7,
+      "price_per_night": 300
+    },
+    {
+      "name": "Hotel du Cap-Eden-Roc",
+      "location": "French Riviera",
+      "rating": 4.9,
+      "price_per_night": 1800
+    },
+    {
+      "name": "Waldorf Astoria Beverly Hills",
+      "location": "Los Angeles",
+      "rating": 4.6,
+      "price_per_night": 700
+    },
+    {
+      "name": "Hotel Plaza Athénée",
+      "location": "Paris",
+      "rating": 4.5,
+      "price_per_night": 500
+    },
+    {
+      "name": "Shangri-La Hotel Tokyo",
+      "location": "Tokyo",
+      "rating": 4.8,
+      "price_per_night": 650
+    },
+    {
+      "name": "Hotel Belmond Copacabana Palace",
+      "location": "Rio de Janeiro",
+      "rating": 4.7,
+      "price_per_night": 400
+    },
+    {
+      "name": "Mandarin Oriental, Hong Kong",
+      "location": "Hong Kong",
+      "rating": 4.9,
+      "price_per_night": 700
+    },
+    {
+      "name": "Raffles Hotel Le Royal",
+      "location": "Phnom Penh",
+      "rating": 4.6,
+      "price_per_night": 250
+    },
+    {
+      "name": "W Barcelona",
+      "location": "Barcelona",
+      "rating": 4.5,
+      "price_per_night": 450
+    },
+    {
+      "name": "InterContinental Sydney",
+      "location": "Sydney",
+      "rating": 4.4,
+      "price_per_night": 350
+    },
+    {
+      "name": "Badrutt's Palace Hotel",
+      "location": "St. Moritz",
+      "rating": 4.8,
+      "price_per_night": 800
+    },
+    {
+      "name": "Atlantis Paradise Island",
+      "location": "Bahamas",
+      "rating": 4.6,
+      "price_per_night": 550
+    },
+    {
+      "name": "Mandarin Oriental, Bangkok",
+      "location": "Bangkok",
+      "rating": 4.7,
+      "price_per_night": 500
+    },
+    {
+      "name": "The Ritz-Carlton, Grand Cayman",
+      "location": "Grand Cayman",
+      "rating": 4.9,
+      "price_per_night": 900
+    }
+]
