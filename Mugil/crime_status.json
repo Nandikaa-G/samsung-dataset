@@ -1,0 +1,482 @@
+[
+    {
+      "city": "New York",
+      "population": 8336817,
+      "total_crime": 100556,
+      "murder": 319
+    },
+    {
+      "city": "Los Angeles",
+      "population": 3979576,
+      "total_crime": 85292,
+      "murder": 297
+    },
+    {
+      "city": "Chicago",
+      "population": 2705994,
+      "total_crime": 60112,
+      "murder": 795
+    },
+    {
+      "city": "Houston",
+      "population": 2320268,
+      "total_crime": 55537,
+      "murder": 299
+    },
+    {
+      "city": "Philadelphia",
+      "population": 1584064,
+      "total_crime": 49841,
+      "murder": 499
+    },
+    {
+      "city": "Phoenix",
+      "population": 1680992,
+      "total_crime": 42643,
+      "murder": 162
+    },
+    {
+      "city": "San Antonio",
+      "population": 1532233,
+      "total_crime": 41947,
+      "murder": 106
+    },
+    {
+      "city": "San Diego",
+      "population": 1419516,
+      "total_crime": 33290,
+      "murder": 50
+    },
+    {
+      "city": "Dallas",
+      "population": 1317929,
+      "total_crime": 31820,
+      "murder": 209
+    },
+    {
+      "city": "San Jose",
+      "population": 1030119,
+      "total_crime": 31459,
+      "murder": 42
+    },
+    {
+      "city": "Austin",
+      "population": 978908,
+      "total_crime": 26875,
+      "murder": 40
+    },
+    {
+      "city": "Jacksonville",
+      "population": 911507,
+      "total_crime": 27370,
+      "murder": 150
+    },
+    {
+      "city": "San Francisco",
+      "population": 881549,
+      "total_crime": 58018,
+      "murder": 41
+    },
+    {
+      "city": "Columbus",
+      "population": 900443,
+      "total_crime": 31919,
+      "murder": 154
+    },
+    {
+      "city": "Indianapolis",
+      "population": 876384,
+      "total_crime": 31515,
+      "murder": 245
+    },
+    {
+      "city": "Charlotte",
+      "population": 873018,
+      "total_crime": 26451,
+      "murder": 90
+    },
+    {
+      "city": "Seattle",
+      "population": 753675,
+      "total_crime": 40149,
+      "murder": 31
+    },
+    {
+      "city": "Denver",
+      "population": 727211,
+      "total_crime": 39208,
+      "murder": 58
+    },
+    {
+      "city": "Washington",
+      "population": 705749,
+      "total_crime": 41712,
+      "murder": 166
+    },
+    {
+      "city": "Boston",
+      "population": 692600,
+      "total_crime": 23975,
+      "murder": 49
+    },
+    {
+      "city": "Detroit",
+      "population": 670031,
+      "total_crime": 39356,
+      "murder": 278
+    },
+    {
+      "city": "Nashville",
+      "population": 669053,
+      "total_crime": 29828,
+      "murder": 105
+    },
+    {
+      "city": "Memphis",
+      "population": 651073,
+      "total_crime": 33350,
+      "murder": 301
+    },
+    {
+      "city": "Portland",
+      "population": 654741,
+      "total_crime": 23517,
+      "murder": 56
+    },
+    {
+      "city": "Oklahoma City",
+      "population": 655057,
+      "total_crime": 27874,
+      "murder": 86
+    },
+    {
+      "city": "Las Vegas",
+      "population": 651319,
+      "total_crime": 24784,
+      "murder": 100
+    },
+    {
+      "city": "Louisville",
+      "population": 620118,
+      "total_crime": 27544,
+      "murder": 115
+    },
+    {
+      "city": "Milwaukee",
+      "population": 590157,
+      "total_crime": 30142,
+      "murder": 189
+    },
+    {
+      "city": "Albuquerque",
+      "population": 564559,
+      "total_crime": 21513,
+      "murder": 75
+    },
+    {
+      "city": "Tucson",
+      "population": 548073,
+      "total_crime": 25243,
+      "murder": 50
+    },
+    {
+      "city": "Atlanta",
+      "population": 488800,
+      "total_crime": 23800,
+      "murder": 157
+    },
+    {
+      "city": "Miami",
+      "population": 471525,
+      "total_crime": 23980,
+      "murder": 85
+    },
+    {
+      "city": "Kansas City",
+      "population": 475378,
+      "total_crime": 20563,
+      "murder": 155
+    },
+    {
+      "city": "Raleigh",
+      "population": 474069,
+      "total_crime": 10274,
+      "murder": 31
+    },
+    {
+      "city": "Minneapolis",
+      "population": 429606,
+      "total_crime": 24650,
+      "murder": 84
+    },
+    {
+      "city": "New Orleans",
+      "population": 390144,
+      "total_crime": 18859,
+      "murder": 192
+    },
+    {
+      "city": "Cleveland",
+      "population": 381009,
+      "total_crime": 20290,
+      "murder": 94
+    },
+    {
+      "city": "Pittsburgh",
+      "population": 300286,
+      "total_crime": 12453,
+      "murder": 56
+    },
+    {
+      "city": "Buffalo",
+      "population": 256304,
+      "total_crime": 11213,
+      "murder": 44
+    },
+    {
+      "city": "Cincinnati",
+      "population": 303940,
+      "total_crime": 14341,
+      "murder": 88
+    },
+    {
+      "city": "St. Louis",
+      "population": 308626,
+      "total_crime": 22546,
+      "murder": 262
+    },
+    {
+      "city": "Baltimore",
+      "population": 593490,
+      "total_crime": 32076,
+      "murder": 348
+    },
+    {
+      "city": "Detroit",
+      "population": 670031,
+      "total_crime": 39356,
+      "murder": 278
+    },
+    {
+      "city": "Houston",
+      "population": 2320268,
+      "total_crime": 55537,
+      "murder": 299
+    },
+    {
+      "city": "Philadelphia",
+      "population": 1584064,
+      "total_crime": 49841,
+      "murder": 499
+    },
+    {
+      "city": "Phoenix",
+      "population": 1680992,
+      "total_crime": 42643,
+      "murder": 162
+    },
+    {
+      "city": "Indianapolis",
+      "population": 876384,
+      "total_crime": 31515,
+      "murder": 245
+    },
+    {
+      "city": "Denver",
+      "population": 727211,
+      "total_crime": 39208,
+      "murder": 58
+    },
+    {
+      "city": "San Francisco",
+      "population": 881549,
+      "total_crime": 58018,
+      "murder": 41
+    },
+    {
+      "city": "Washington",
+      "population": 705749,
+      "total_crime": 41712,
+      "murder": 166
+    },
+    {
+      "city": "Dallas",
+      "population": 1317929,
+      "total_crime": 31820,
+      "murder": 209
+    },
+    {
+      "city": "Charlotte",
+      "population": 873018,
+      "total_crime": 26451,
+      "murder": 90
+    },
+    {
+      "city": "San Antonio",
+      "population": 1532233,
+      "total_crime": 41947,
+      "murder": 106
+    },
+    {
+      "city": "Portland",
+      "population": 654741,
+      "total_crime": 23517,
+      "murder": 56
+    },
+    {
+      "city": "Minneapolis",
+      "population": 429606,
+      "total_crime": 24650,
+      "murder": 84
+    },
+    {
+      "city": "Orlando",
+      "population": 287442,
+      "total_crime": 15322,
+      "murder": 33
+    },
+    {
+      "city": "Atlanta",
+      "population": 488800,
+      "total_crime": 23800,
+      "murder": 157
+    },
+    {
+      "city": "Oakland",
+      "population": 425195,
+      "total_crime": 24398,
+      "murder": 84
+    },
+    {
+      "city": "Tampa",
+      "population": 387916,
+      "total_crime": 19907,
+      "murder": 34
+    },
+    {
+      "city": "Columbus",
+      "population": 900443,
+      "total_crime": 31919,
+      "murder": 154
+    },
+    {
+      "city": "Seattle",
+      "population": 753675,
+      "total_crime": 40149,
+      "murder": 31
+    },
+    {
+      "city": "Nashville",
+      "population": 669053,
+      "total_crime": 29828,
+      "murder": 105
+    },
+    {
+      "city": "Las Vegas",
+      "population": 651319,
+      "total_crime": 24784,
+      "murder": 100
+    },
+    {
+      "city": "Louisville",
+      "population": 620118,
+      "total_crime": 27544,
+      "murder": 115
+    },
+    {
+      "city": "Memphis",
+      "population": 651073,
+      "total_crime": 33350,
+      "murder": 301
+    },
+    {
+      "city": "Milwaukee",
+      "population": 590157,
+      "total_crime": 30142,
+      "murder": 189
+    },
+    {
+      "city": "Albuquerque",
+      "population": 564559,
+      "total_crime": 21513,
+      "murder": 75
+    },
+    {
+      "city": "Tucson",
+      "population": 548073,
+      "total_crime": 25243,
+      "murder": 50
+    },
+    {
+      "city": "Fresno",
+      "population": 528306,
+      "total_crime": 18659,
+      "murder": 56
+    },
+    {
+      "city": "Sacramento",
+      "population": 513624,
+      "total_crime": 25250,
+      "murder": 57
+    },
+    {
+      "city": "Fort Worth",
+      "population": 909585,
+      "total_crime": 31292,
+      "murder": 84
+    },
+    {
+      "city": "Kansas City",
+      "population": 475378,
+      "total_crime": 20563,
+      "murder": 155
+    },
+    {
+      "city": "Long Beach",
+      "population": 469450,
+      "total_crime": 16977,
+      "murder": 63
+    },
+    {
+      "city": "Mesa",
+      "population": 508958,
+      "total_crime": 10809,
+      "murder": 19
+    },
+    {
+      "city": "Virginia Beach",
+      "population": 449974,
+      "total_crime": 10056,
+      "murder": 21
+    },
+    {
+      "city": "Atlanta",
+      "population": 488800,
+      "total_crime": 23800,
+      "murder": 157
+    },
+    {
+      "city": "Omaha",
+      "population": 478192,
+      "total_crime": 17082,
+      "murder": 32
+    },
+    {
+      "city": "Colorado Springs",
+      "population": 478221,
+      "total_crime": 11774,
+      "murder": 30
+    },
+    {
+      "city": "Raleigh",
+      "population": 474069,
+      "total_crime": 10274,
+      "murder": 31
+    },
+    {
+      "city": "Miami",
+      "population": 471525,
+      "total_crime": 23980,
+      "murder": 85
+    }
+]
