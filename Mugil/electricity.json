@@ -1,0 +1,562 @@
+[
+    {
+      "country": "United States",
+      "year": 2021,
+      "electricity_consumption_gwh": 4399000,
+      "electricity_generation_gwh": 4631000,
+      "renewable_percentage": 20.3
+    },
+    {
+      "country": "China",
+      "year": 2021,
+      "electricity_consumption_gwh": 7784000,
+      "electricity_generation_gwh": 8199000,
+      "renewable_percentage": 27.9
+    },
+    {
+      "country": "India",
+      "year": 2021,
+      "electricity_consumption_gwh": 1548000,
+      "electricity_generation_gwh": 1742000,
+      "renewable_percentage": 22.1
+    },
+    {
+      "country": "Germany",
+      "year": 2021,
+      "electricity_consumption_gwh": 526000,
+      "electricity_generation_gwh": 570000,
+      "renewable_percentage": 47.6
+    },
+    {
+      "country": "Japan",
+      "year": 2021,
+      "electricity_consumption_gwh": 1012000,
+      "electricity_generation_gwh": 1065000,
+      "renewable_percentage": 18.2
+    },
+    {
+      "country": "Brazil",
+      "year": 2021,
+      "electricity_consumption_gwh": 591000,
+      "electricity_generation_gwh": 634000,
+      "renewable_percentage": 84.2
+    },
+    {
+      "country": "Russia",
+      "year": 2021,
+      "electricity_consumption_gwh": 1096000,
+      "electricity_generation_gwh": 1172000,
+      "renewable_percentage": 20.8
+    },
+    {
+      "country": "South Africa",
+      "year": 2021,
+      "electricity_consumption_gwh": 235000,
+      "electricity_generation_gwh": 242000,
+      "renewable_percentage": 9.8
+    },
+    {
+      "country": "Australia",
+      "year": 2021,
+      "electricity_consumption_gwh": 238000,
+      "electricity_generation_gwh": 254000,
+      "renewable_percentage": 23.7
+    },
+    {
+      "country": "France",
+      "year": 2021,
+      "electricity_consumption_gwh": 473000,
+      "electricity_generation_gwh": 497000,
+      "renewable_percentage": 25.1
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2021,
+      "electricity_consumption_gwh": 328000,
+      "electricity_generation_gwh": 333000,
+      "renewable_percentage": 43.2
+    },
+    {
+      "country": "Canada",
+      "year": 2021,
+      "electricity_consumption_gwh": 643000,
+      "electricity_generation_gwh": 687000,
+      "renewable_percentage": 66.5
+    },
+    {
+      "country": "Mexico",
+      "year": 2021,
+      "electricity_consumption_gwh": 290000,
+      "electricity_generation_gwh": 313000,
+      "renewable_percentage": 24.8
+    },
+    {
+      "country": "South Korea",
+      "year": 2021,
+      "electricity_consumption_gwh": 570000,
+      "electricity_generation_gwh": 586000,
+      "renewable_percentage": 6.9
+    },
+    {
+      "country": "Italy",
+      "year": 2021,
+      "electricity_consumption_gwh": 307000,
+      "electricity_generation_gwh": 326000,
+      "renewable_percentage": 40.1
+    },
+    {
+      "country": "Netherlands",
+      "year": 2021,
+      "electricity_consumption_gwh": 110000,
+      "electricity_generation_gwh": 122000,
+      "renewable_percentage": 30.9
+    },
+    {
+      "country": "Saudi Arabia",
+      "year": 2021,
+      "electricity_consumption_gwh": 382000,
+      "electricity_generation_gwh": 415000,
+      "renewable_percentage": 0.8
+    },
+    {
+      "country": "Spain",
+      "year": 2021,
+      "electricity_consumption_gwh": 246000,
+      "electricity_generation_gwh": 259000,
+      "renewable_percentage": 48.7
+    },
+    {
+      "country": "Turkey",
+      "year": 2021,
+      "electricity_consumption_gwh": 312000,
+      "electricity_generation_gwh": 330000,
+      "renewable_percentage": 24.5
+    },
+    {
+      "country": "Sweden",
+      "year": 2021,
+      "electricity_consumption_gwh": 137000,
+      "electricity_generation_gwh": 149000,
+      "renewable_percentage": 69.8
+    },
+    {
+      "country": "Switzerland",
+      "year": 2021,
+      "electricity_consumption_gwh": 58600,
+      "electricity_generation_gwh": 65800,
+      "renewable_percentage": 72.1
+    },
+    {
+      "country": "Norway",
+      "year": 2021,
+      "electricity_consumption_gwh": 133400,
+      "electricity_generation_gwh": 143200,
+      "renewable_percentage": 96.5
+    },
+    {
+      "country": "Denmark",
+      "year": 2021,
+      "electricity_consumption_gwh": 34100,
+      "electricity_generation_gwh": 38200,
+      "renewable_percentage": 66.7
+    },
+    {
+      "country": "Austria",
+      "year": 2021,
+      "electricity_consumption_gwh": 66900,
+      "electricity_generation_gwh": 70600,
+      "renewable_percentage": 82.5
+    },
+    {
+      "country": "Finland",
+      "year": 2021,
+      "electricity_consumption_gwh": 83000,
+      "electricity_generation_gwh": 87400,
+      "renewable_percentage": 47.9
+    },
+    {
+      "country": "Singapore",
+      "year": 2021,
+      "electricity_consumption_gwh": 50900,
+      "electricity_generation_gwh": 54600,
+      "renewable_percentage": 3.7
+    },
+    {
+      "country": "Thailand",
+      "year": 2021,
+      "electricity_consumption_gwh": 201000,
+      "electricity_generation_gwh": 211000,
+      "renewable_percentage": 12.4
+    },
+    {
+      "country": "Argentina",
+      "year": 2021,
+      "electricity_consumption_gwh": 141200,
+      "electricity_generation_gwh": 151500,
+      "renewable_percentage": 10.2
+    },
+    {
+      "country": "Egypt",
+      "year": 2021,
+      "electricity_consumption_gwh": 197000,
+      "electricity_generation_gwh": 203500,
+      "renewable_percentage": 10.9
+    },
+    {
+      "country": "Nigeria",
+      "year": 2021,
+      "electricity_consumption_gwh": 33600,
+      "electricity_generation_gwh": 37000,
+      "renewable_percentage": 5.8
+    },
+    {
+      "country": "Indonesia",
+      "year": 2021,
+      "electricity_consumption_gwh": 256000,
+      "electricity_generation_gwh": 269000,
+      "renewable_percentage": 12.8
+    },
+    {
+      "country": "Vietnam",
+      "year": 2021,
+      "electricity_consumption_gwh": 204000,
+      "electricity_generation_gwh": 213000,
+      "renewable_percentage": 23.4
+    },
+    {
+      "country": "Malaysia",
+      "year": 2021,
+      "electricity_consumption_gwh": 150000,
+      "electricity_generation_gwh": 159000,
+      "renewable_percentage": 2.6
+    },
+    {
+      "country": "Chile",
+      "year": 2021,
+      "electricity_consumption_gwh": 79400,
+      "electricity_generation_gwh": 85600,
+      "renewable_percentage": 26.8
+    },
+    {
+      "country": "Colombia",
+      "year": 2021,
+      "electricity_consumption_gwh": 71200,
+      "electricity_generation_gwh": 75800,
+      "renewable_percentage": 76.1
+    },
+    {
+      "country": "Peru",
+      "year": 2021,
+      "electricity_consumption_gwh": 47100,
+      "electricity_generation_gwh": 50200,
+      "renewable_percentage": 60.2
+    },
+    {
+      "country": "New Zealand",
+      "year": 2021,
+      "electricity_consumption_gwh": 42700,
+      "electricity_generation_gwh": 45000,
+      "renewable_percentage": 83.5
+    },
+    {
+      "country": "Greece",
+      "year": 2021,
+      "electricity_consumption_gwh": 51000,
+      "electricity_generation_gwh": 54700,
+      "renewable_percentage": 28.6
+    },
+    {
+      "country": "Czech Republic",
+      "year": 2021,
+      "electricity_consumption_gwh": 74600,
+      "electricity_generation_gwh": 78500,
+      "renewable_percentage": 23.8
+    },
+    {
+      "country": "Poland",
+      "year": 2021,
+      "electricity_consumption_gwh": 170000,
+      "electricity_generation_gwh": 181000,
+      "renewable_percentage": 19.4
+    },
+    {
+      "country": "Ireland",
+      "year": 2021,
+      "electricity_consumption_gwh": 27900,
+      "electricity_generation_gwh": 30000,
+      "renewable_percentage": 38.7
+    },
+    {
+      "country": "Belgium",
+      "year": 2021,
+      "electricity_consumption_gwh": 83700,
+      "electricity_generation_gwh": 89200,
+      "renewable_percentage": 19.9
+    },
+    {
+      "country": "Switzerland",
+      "year": 2020,
+      "electricity_consumption_gwh": 56500,
+      "electricity_generation_gwh": 62100,
+      "renewable_percentage": 70.2
+    },
+    {
+      "country": "Norway",
+      "year": 2020,
+      "electricity_consumption_gwh": 131700,
+      "electricity_generation_gwh": 141300,
+      "renewable_percentage": 95.2
+    },
+    {
+      "country": "Denmark",
+      "year": 2020,
+      "electricity_consumption_gwh": 33200,
+      "electricity_generation_gwh": 36800,
+      "renewable_percentage": 64.1
+    },
+    {
+      "country": "Austria",
+      "year": 2020,
+      "electricity_consumption_gwh": 65100,
+      "electricity_generation_gwh": 69500,
+      "renewable_percentage": 77.8
+    },
+    {
+      "country": "Finland",
+      "year": 2020,
+      "electricity_consumption_gwh": 82700,
+      "electricity_generation_gwh": 86700,
+      "renewable_percentage": 42.5
+    },
+    {
+      "country": "Singapore",
+      "year": 2020,
+      "electricity_consumption_gwh": 49200,
+      "electricity_generation_gwh": 52500,
+      "renewable_percentage": 2.9
+    },
+    {
+      "country": "Thailand",
+      "year": 2020,
+      "electricity_consumption_gwh": 196000,
+      "electricity_generation_gwh": 204000,
+      "renewable_percentage": 11.8
+    },
+    {
+      "country": "Argentina",
+      "year": 2020,
+      "electricity_consumption_gwh": 135700,
+      "electricity_generation_gwh": 143800,
+      "renewable_percentage": 8.3
+    },
+    {
+      "country": "Mexico",
+      "year": 2020,
+      "electricity_consumption_gwh": 292000,
+      "electricity_generation_gwh": 315000,
+      "renewable_percentage": 25.6
+    },
+    {
+      "country": "South Korea",
+      "year": 2020,
+      "electricity_consumption_gwh": 555000,
+      "electricity_generation_gwh": 572000,
+      "renewable_percentage": 8.5
+    },
+    {
+      "country": "Italy",
+      "year": 2020,
+      "electricity_consumption_gwh": 310000,
+      "electricity_generation_gwh": 328000,
+      "renewable_percentage": 42.8
+    },
+    {
+      "country": "Netherlands",
+      "year": 2020,
+      "electricity_consumption_gwh": 108000,
+      "electricity_generation_gwh": 120000,
+      "renewable_percentage": 28.6
+    },
+    {
+      "country": "Saudi Arabia",
+      "year": 2020,
+      "electricity_consumption_gwh": 369000,
+      "electricity_generation_gwh": 402000,
+      "renewable_percentage": 0.7
+    },
+    {
+      "country": "Spain",
+      "year": 2020,
+      "electricity_consumption_gwh": 239000,
+      "electricity_generation_gwh": 250000,
+      "renewable_percentage": 44.6
+    },
+    {
+      "country": "Turkey",
+      "year": 2020,
+      "electricity_consumption_gwh": 305000,
+      "electricity_generation_gwh": 322000,
+      "renewable_percentage": 22.8
+    },
+    {
+      "country": "Sweden",
+      "year": 2020,
+      "electricity_consumption_gwh": 138000,
+      "electricity_generation_gwh": 148000,
+      "renewable_percentage": 69.3
+    },
+    {
+      "country": "Indonesia",
+      "year": 2020,
+      "electricity_consumption_gwh": 250000,
+      "electricity_generation_gwh": 263000,
+      "renewable_percentage": 12.3
+    },
+    {
+      "country": "Vietnam",
+      "year": 2020,
+      "electricity_consumption_gwh": 197000,
+      "electricity_generation_gwh": 208000,
+      "renewable_percentage": 21.8
+    },
+    {
+      "country": "Malaysia",
+      "year": 2020,
+      "electricity_consumption_gwh": 145000,
+      "electricity_generation_gwh": 155000,
+      "renewable_percentage": 2.3
+    },
+    {
+      "country": "Chile",
+      "year": 2020,
+      "electricity_consumption_gwh": 78700,
+      "electricity_generation_gwh": 84600,
+      "renewable_percentage": 24.1
+    },
+    {
+      "country": "Colombia",
+      "year": 2020,
+      "electricity_consumption_gwh": 70600,
+      "electricity_generation_gwh": 74900,
+      "renewable_percentage": 74.5
+    },
+    {
+      "country": "Peru",
+      "year": 2020,
+      "electricity_consumption_gwh": 46800,
+      "electricity_generation_gwh": 49900,
+      "renewable_percentage": 57.8
+    },
+    {
+      "country": "New Zealand",
+      "year": 2020,
+      "electricity_consumption_gwh": 42200,
+      "electricity_generation_gwh": 44500,
+      "renewable_percentage": 82.9
+    },
+    {
+      "country": "Greece",
+      "year": 2020,
+      "electricity_consumption_gwh": 50800,
+      "electricity_generation_gwh": 54400,
+      "renewable_percentage": 30.5
+    },
+    {
+      "country": "Czech Republic",
+      "year": 2020,
+      "electricity_consumption_gwh": 74100,
+      "electricity_generation_gwh": 78200,
+      "renewable_percentage": 22.3
+    },
+    {
+      "country": "Poland",
+      "year": 2020,
+      "electricity_consumption_gwh": 168000,
+      "electricity_generation_gwh": 178000,
+      "renewable_percentage": 17.9
+    },
+    {
+      "country": "Ireland",
+      "year": 2020,
+      "electricity_consumption_gwh": 27300,
+      "electricity_generation_gwh": 29200,
+      "renewable_percentage": 35.4
+    },
+    {
+      "country": "Belgium",
+      "year": 2020,
+      "electricity_consumption_gwh": 82400,
+      "electricity_generation_gwh": 87800,
+      "renewable_percentage": 18.3
+    },
+    {
+      "country": "Switzerland",
+      "year": 2020,
+      "electricity_consumption_gwh": 55600,
+      "electricity_generation_gwh": 61500,
+      "renewable_percentage": 69.8
+    },
+    {
+      "country": "Norway",
+      "year": 2020,
+      "electricity_consumption_gwh": 131500,
+      "electricity_generation_gwh": 141000,
+      "renewable_percentage": 95.0
+    },
+    {
+      "country": "Denmark",
+      "year": 2020,
+      "electricity_consumption_gwh": 32800,
+      "electricity_generation_gwh": 36400,
+      "renewable_percentage": 63.1
+    },
+    {
+      "country": "Austria",
+      "year": 2020,
+      "electricity_consumption_gwh": 64700,
+      "electricity_generation_gwh": 69000,
+      "renewable_percentage": 76.5
+    },
+    {
+      "country": "Finland",
+      "year": 2020,
+      "electricity_consumption_gwh": 82700,
+      "electricity_generation_gwh": 86300,
+      "renewable_percentage": 40.2
+    },
+    {
+      "country": "Singapore",
+      "year": 2020,
+      "electricity_consumption_gwh": 48900,
+      "electricity_generation_gwh": 52200,
+      "renewable_percentage": 2.7
+    },
+    {
+      "country": "Thailand",
+      "year": 2020,
+      "electricity_consumption_gwh": 195000,
+      "electricity_generation_gwh": 203000,
+      "renewable_percentage": 11.6
+    },
+    {
+      "country": "Argentina",
+      "year": 2020,
+      "electricity_consumption_gwh": 134300,
+      "electricity_generation_gwh": 141700,
+      "renewable_percentage": 8.0
+    },
+    {
+      "country": "Egypt",
+      "year": 2020,
+      "electricity_consumption_gwh": 191800,
+      "electricity_generation_gwh": 197700,
+      "renewable_percentage": 8.4
+    },
+    {
+      "country": "Nigeria",
+      "year": 2020,
+      "electricity_consumption_gwh": 32600,
+      "electricity_generation_gwh": 35700,
+      "renewable_percentage": 5.6
+    }
+]
