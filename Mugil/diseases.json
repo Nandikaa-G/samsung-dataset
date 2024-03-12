@@ -1,0 +1,482 @@
+[
+    {
+      "name": "Influenza",
+      "symptoms": ["Fever", "Cough", "Sore throat", "Muscle aches"],
+      "treatment": "Antiviral medications, rest, fluids",
+      "prevention": "Flu vaccine, proper hand hygiene"
+    },
+    {
+      "name": "COVID-19",
+      "symptoms": ["Fever", "Cough", "Shortness of breath", "Loss of taste or smell"],
+      "treatment": "Supportive care, oxygen therapy, antiviral medications",
+      "prevention": "Vaccination, wearing masks, physical distancing"
+    },
+    {
+      "name": "Malaria",
+      "symptoms": ["Fever", "Chills", "Sweating", "Headaches"],
+      "treatment": "Antimalarial drugs",
+      "prevention": "Mosquito control measures, bed nets"
+    },
+    {
+      "name": "Diabetes",
+      "symptoms": ["Frequent urination", "Increased thirst", "Fatigue", "Blurred vision"],
+      "treatment": "Insulin therapy, oral medications, lifestyle changes",
+      "prevention": "Healthy diet, regular exercise, maintaining a healthy weight"
+    },
+    {
+      "name": "Heart Disease",
+      "symptoms": ["Chest pain", "Shortness of breath", "Fatigue", "Dizziness"],
+      "treatment": "Medications, lifestyle changes, surgery",
+      "prevention": "Healthy diet, regular exercise, no smoking"
+    },
+    {
+      "name": "Alzheimer's Disease",
+      "symptoms": ["Memory loss", "Confusion", "Difficulty with speech", "Mood swings"],
+      "treatment": "Medications to manage symptoms",
+      "prevention": "Healthy lifestyle, mental stimulation"
+    },
+    {
+      "name": "Stroke",
+      "symptoms": ["Sudden numbness", "Weakness", "Confusion", "Difficulty speaking"],
+      "treatment": "Clot-busting drugs, surgery, rehabilitation",
+      "prevention": "Healthy diet, regular exercise, no smoking"
+    },
+    {
+      "name": "HIV/AIDS",
+      "symptoms": ["Fever", "Fatigue", "Swollen lymph nodes", "Weight loss"],
+      "treatment": "Antiretroviral therapy",
+      "prevention": "Safe sex practices, needle exchange programs"
+    },
+    {
+      "name": "Tuberculosis (TB)",
+      "symptoms": ["Cough", "Chest pain", "Fever", "Weight loss"],
+      "treatment": "Antibiotics",
+      "prevention": "Vaccination, infection control measures"
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": ["Fatigue", "Abdominal pain", "Jaundice", "Loss of appetite"],
+      "treatment": "Antiviral medications, vaccinations",
+      "prevention": "Vaccination, safe needle practices"
+    },
+    {
+      "name": "Parkinson's Disease",
+      "symptoms": ["Tremors", "Slowed movement", "Stiff muscles", "Impaired posture"],
+      "treatment": "Medications, physical therapy, surgery",
+      "prevention": "Unknown, some evidence for regular exercise"
+    },
+    {
+      "name": "Asthma",
+      "symptoms": ["Shortness of breath", "Wheezing", "Coughing", "Chest tightness"],
+      "treatment": "Inhalers, oral medications, allergy shots",
+      "prevention": "Avoiding triggers, regular medical check-ups"
+    },
+    {
+      "name": "Osteoporosis",
+      "symptoms": ["Bone fractures", "Loss of height", "Back pain", "Stooped posture"],
+      "treatment": "Medications, calcium and vitamin D supplements, exercise",
+      "prevention": "Healthy diet rich in calcium, regular exercise"
+    },
+    {
+      "name": "Depression",
+      "symptoms": ["Persistent sadness", "Loss of interest", "Fatigue", "Difficulty sleeping"],
+      "treatment": "Therapy, medications, lifestyle changes",
+      "prevention": "Healthy lifestyle, stress management, social support"
+    },
+    {
+      "name": "Epilepsy",
+      "symptoms": ["Seizures", "Loss of consciousness", "Staring spells", "Confusion"],
+      "treatment": "Antiseizure medications, surgery, ketogenic diet",
+      "prevention": "Avoiding triggers, regular medication adherence"
+    },
+    {
+      "name": "Cancer",
+      "symptoms": ["Unexplained weight loss", "Fatigue", "Lumps", "Changes in skin"],
+      "treatment": "Surgery, chemotherapy, radiation therapy",
+      "prevention": "Avoiding tobacco, healthy diet, regular screenings"
+    },
+    {
+      "name": "Hypertension (High Blood Pressure)",
+      "symptoms": ["Headaches", "Chest pain", "Dizziness", "Shortness of breath"],
+      "treatment": "Medications, lifestyle changes, diet",
+      "prevention": "Healthy diet, regular exercise, limited alcohol"
+    },
+    {
+      "name": "Anemia",
+      "symptoms": ["Fatigue", "Weakness", "Pale skin", "Shortness of breath"],
+      "treatment": "Iron supplements, blood transfusions",
+      "prevention": "Healthy diet rich in iron, regular medical check-ups"
+    },
+    {
+      "name": "Arthritis",
+      "symptoms": ["Joint pain", "Swelling", "Stiffness", "Decreased range of motion"],
+      "treatment": "Medications, physical therapy, joint replacement",
+      "prevention": "Regular exercise, healthy weight, joint protection"
+    },
+    {
+      "name": "Gout",
+      "symptoms": ["Sudden and severe joint pain", "Swollen joints", "Redness", "Tenderness"],
+      "treatment": "Medications, lifestyle changes, diet",
+      "prevention": "Avoiding purine-rich foods, limited alcohol, hydration"
+    },
+    {
+      "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "symptoms": ["Shortness of breath", "Chronic cough", "Wheezing", "Chest tightness"],
+      "treatment": "Bronchodilators, inhaled corticosteroids, oxygen therapy",
+      "prevention": "Avoiding tobacco smoke, air pollution, respiratory infections"
+    },
+    {
+      "name": "Hepatitis C",
+      "symptoms": ["Fatigue", "Jaundice", "Abdominal pain", "Nausea"],
+      "treatment": "Antiviral medications",
+      "prevention": "Avoiding shared needles, practicing safe sex"
+    },
+    {
+      "name": "Ovarian Cancer",
+      "symptoms": ["Abdominal bloating", "Pelvic pain", "Feeling full quickly", "Changes in bowel habits"],
+      "treatment": "Surgery, chemotherapy, targeted therapy",
+      "prevention": "Birth control pills, pregnancy, tubal ligation"
+    },
+    {
+      "name": "Prostate Cancer",
+      "symptoms": ["Frequent urination", "Difficulty urinating", "Blood in urine or semen", "Erectile dysfunction"],
+      "treatment": "Surgery, radiation therapy, hormone therapy",
+      "prevention": "Healthy diet, regular exercise, avoiding tobacco"
+    },
+    {
+      "name": "Lung Cancer",
+      "symptoms": ["Persistent cough", "Chest pain", "Hoarseness", "Unexplained weight loss"],
+      "treatment": "Surgery, chemotherapy, radiation therapy",
+      "prevention": "Avoiding tobacco smoke, radon exposure, asbestos"
+    },
+    {
+      "name": "Eczema (Atopic Dermatitis)",
+      "symptoms": ["Itchy, red, inflamed skin", "Dry skin", "Rashes", "Thickened, cracked skin"],
+      "treatment": "Moisturizers, corticosteroids, antihistamines",
+      "prevention": "Avoiding triggers, using gentle skincare products"
+    },
+    {
+      "name": "Pancreatitis",
+      "symptoms": ["Upper abdominal pain", "Nausea", "Vomiting", "Fever"],
+      "treatment": "Fasting, pain medications, IV fluids",
+      "prevention": "Limiting alcohol consumption, healthy diet"
+    },
+    {
+      "name": "Celiac Disease",
+      "symptoms": ["Abdominal pain", "Diarrhea", "Bloating", "Fatigue"],
+      "treatment": "Gluten-free diet, nutritional supplements",
+      "prevention": "Avoiding gluten-containing foods"
+    },
+    {
+      "name": "Crohn's Disease",
+      "symptoms": ["Abdominal pain", "Diarrhea", "Fatigue", "Weight loss"],
+      "treatment": "Medications, surgery, dietary changes",
+      "prevention": "Unknown, possibly avoiding smoking"
+    },
+    {
+      "name": "Schizophrenia",
+      "symptoms": ["Delusions", "Hallucinations", "Disorganized thinking", "Lack of motivation"],
+      "treatment": "Antipsychotic medications, therapy",
+      "prevention": "Early detection, treatment of prodromal symptoms"
+    },
+    {
+      "name": "Ulcerative Colitis",
+      "symptoms": ["Abdominal pain", "Diarrhea", "Blood in stool", "Fatigue"],
+      "treatment": "Medications (corticosteroids, immunomodulators), surgery",
+      "prevention": "Unknown, possibly avoiding certain foods"
+    },
+    {
+      "name": "Multiple Sclerosis (MS)",
+      "symptoms": ["Fatigue", "Numbness or weakness", "Blurred vision", "Problems with coordination"],
+      "treatment": "Medications (disease-modifying therapies), physical therapy",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": ["Fatigue", "Weight gain", "Dry skin", "Cold sensitivity"],
+      "treatment": "Thyroid hormone replacement",
+      "prevention": "Unknown, possibly iodine supplements"
+    },
+    {
+      "name": "Fibromyalgia",
+      "symptoms": ["Widespread pain", "Fatigue", "Difficulty sleeping", "Cognitive difficulties"],
+      "treatment": "Medications (pain relievers, antidepressants), exercise, therapy",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Anxiety Disorders",
+      "symptoms": ["Excessive worry", "Fear", "Rapid heart rate", "Trembling"],
+      "treatment": "Therapy (cognitive-behavioral therapy), medications (antidepressants, anti-anxiety drugs)",
+      "prevention": "Stress management, healthy lifestyle"
+    },
+    {
+      "name": "Obsessive-Compulsive Disorder (OCD)",
+      "symptoms": ["Obsessions (repetitive thoughts)", "Compulsions (repetitive behaviors)", "Anxiety"],
+      "treatment": "Therapy (exposure and response prevention), medications (antidepressants)",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Psoriasis",
+      "symptoms": ["Red, inflamed patches of skin", "Silver-colored scales", "Itching", "Burning or soreness"],
+      "treatment": "Topical treatments, phototherapy, medications (biologics)",
+      "prevention": "Avoiding triggers (stress, certain medications)"
+    },
+    {
+      "name": "Osteoarthritis",
+      "symptoms": ["Joint pain", "Stiffness", "Swelling", "Decreased range of motion"],
+      "treatment": "Medications (pain relievers, corticosteroids), physical therapy, surgery",
+      "prevention": "Healthy weight, exercise, joint protection"
+    },
+    {
+      "name": "Sleep Apnea",
+      "symptoms": ["Loud snoring", "Pauses in breathing during sleep", "Excessive daytime sleepiness", "Morning headaches"],
+      "treatment": "Continuous positive airway pressure (CPAP) machine, oral appliances, surgery",
+      "prevention": "Weight loss, avoiding alcohol and sedatives before sleep"
+    },
+    {
+      "name": "Cystic Fibrosis",
+      "symptoms": ["Persistent cough with thick mucus", "Frequent lung infections", "Difficulty breathing", "Poor growth"],
+      "treatment": "Airway clearance techniques, medications (antibiotics, mucus-thinning drugs), lung transplant",
+      "prevention": "Early detection, genetic counseling"
+    },
+    {
+      "name": "Rheumatoid Arthritis",
+      "symptoms": ["Joint pain", "Swelling", "Stiffness", "Fatigue"],
+      "treatment": "Medications (disease-modifying antirheumatic drugs, biologics), physical therapy, surgery",
+      "prevention": "Unknown, possibly early treatment of symptoms"
+    },
+    {
+      "name": "Hypertension (High Blood Pressure)",
+      "symptoms": ["Headaches", "Dizziness", "Chest pain", "Irregular heartbeat"],
+      "treatment": "Medications (diuretics, ACE inhibitors, beta blockers), lifestyle changes",
+      "prevention": "Healthy diet, regular exercise, limiting alcohol"
+    },
+    {
+      "name": "Lupus",
+      "symptoms": ["Fatigue", "Joint pain", "Skin rash", "Fever"],
+      "treatment": "Medications (corticosteroids, antimalarials, immunosuppressants), lifestyle changes",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Polycystic Ovary Syndrome (PCOS)",
+      "symptoms": ["Irregular periods", "Excess hair growth", "Acne", "Weight gain"],
+      "treatment": "Lifestyle changes (diet, exercise), medications (birth control pills, metformin)",
+      "prevention": "Healthy lifestyle, maintaining a healthy weight"
+    },
+    {
+      "name": "Endometriosis",
+      "symptoms": ["Pelvic pain", "Painful periods", "Pain during intercourse", "Infertility"],
+      "treatment": "Medications (pain relievers, hormone therapy), surgery",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Gastroesophageal Reflux Disease (GERD)",
+      "symptoms": ["Heartburn", "Regurgitation", "Chest pain", "Difficulty swallowing"],
+      "treatment": "Medications (proton pump inhibitors, H2 blockers), lifestyle changes",
+      "prevention": "Avoiding trigger foods, maintaining a healthy weight"
+    },
+    {
+      "name": "Chronic Kidney Disease",
+      "symptoms": ["Fatigue", "Swelling in legs and feet", "Shortness of breath", "Nausea"],
+      "treatment": "Medications (blood pressure medications, medications to lower cholesterol), dialysis, kidney transplant",
+      "prevention": "Managing diabetes and high blood pressure, healthy diet"
+    },
+    {
+      "name": "Osteoporosis",
+      "symptoms": ["Back pain", "Bone fractures", "Loss of height", "Stooped posture"],
+      "treatment": "Medications (bisphosphonates, hormone therapy), calcium and vitamin D supplements, exercise",
+      "prevention": "Healthy diet rich in calcium and vitamin D, regular exercise"
+    },
+    {
+      "name": "Chronic Fatigue Syndrome",
+      "symptoms": ["Severe fatigue", "Muscle pain", "Memory problems", "Headaches"],
+      "treatment": "Cognitive behavioral therapy, graded exercise therapy, medications (antidepressants)",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Interstitial Cystitis (Bladder Pain Syndrome)",
+      "symptoms": ["Pelvic pain", "Frequent urination", "Painful urination", "Bladder pressure"],
+      "treatment": "Medications (pain relievers, bladder instillations), physical therapy",
+      "prevention": "Avoiding triggers (certain foods, drinks)"
+    },
+    {
+      "name": "Celiac Disease",
+      "symptoms": ["Abdominal pain", "Diarrhea", "Bloating", "Fatigue"],
+      "treatment": "Gluten-free diet, nutritional supplements",
+      "prevention": "Avoiding gluten-containing foods"
+    },
+    {
+      "name": "Amyotrophic Lateral Sclerosis (ALS)",
+      "symptoms": ["Muscle weakness", "Difficulty speaking", "Difficulty swallowing", "Muscle cramps"],
+      "treatment": "Medications (riluzole), physical therapy, respiratory support",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Ovarian Cancer",
+      "symptoms": ["Abdominal bloating", "Pelvic pain", "Feeling full quickly", "Changes in bowel habits"],
+      "treatment": "Surgery, chemotherapy, targeted therapy",
+      "prevention": "Birth control pills, pregnancy, tubal ligation"
+    },
+    {
+      "name": "Osteoarthritis",
+      "symptoms": ["Joint pain", "Stiffness", "Swelling", "Decreased range of motion"],
+      "treatment": "Medications (pain relievers, corticosteroids), physical therapy, surgery",
+      "prevention": "Healthy weight, exercise, joint protection"
+    },
+    {
+      "name": "Cystic Fibrosis",
+      "symptoms": ["Persistent cough with thick mucus", "Frequent lung infections", "Difficulty breathing", "Poor growth"],
+      "treatment": "Airway clearance techniques, medications (antibiotics, mucus-thinning drugs), lung transplant",
+      "prevention": "Early detection, genetic counseling"
+    },
+    {
+      "name": "Leukemia",
+      "symptoms": ["Fatigue", "Fever", "Easy bruising or bleeding", "Frequent infections"],
+      "treatment": "Chemotherapy, radiation therapy, stem cell transplant",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Parkinson's Disease",
+      "symptoms": ["Tremors", "Bradykinesia (slowed movement)", "Rigid muscles", "Impaired balance"],
+      "treatment": "Medications (levodopa, dopamine agonists), deep brain stimulation surgery",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Pneumonia",
+      "symptoms": ["Cough with phlegm", "Fever", "Shortness of breath", "Chest pain"],
+      "treatment": "Antibiotics, rest, fluids",
+      "prevention": "Vaccination, good hygiene practices"
+    },
+    {
+      "name": "Gout",
+      "symptoms": ["Intense joint pain", "Swelling", "Redness", "Warmth in affected joints"],
+      "treatment": "Medications (NSAIDs, colchicine), lifestyle changes (diet, weight loss)",
+      "prevention": "Avoiding trigger foods (red meat, alcohol), maintaining healthy weight"
+    },
+    {
+      "name": "Alzheimer's Disease",
+      "symptoms": ["Memory loss", "Confusion", "Difficulty with tasks", "Personality changes"],
+      "treatment": "Medications (cholinesterase inhibitors), cognitive training, support",
+      "prevention": "Regular exercise, healthy diet, mental stimulation"
+    },
+    {
+      "name": "Asthma",
+      "symptoms": ["Shortness of breath", "Chest tightness", "Wheezing", "Coughing"],
+      "treatment": "Inhaled corticosteroids, bronchodilators, allergy medications",
+      "prevention": "Avoiding triggers (dust, pollen), maintaining clean indoor air"
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": ["Fatigue", "Abdominal pain", "Jaundice", "Nausea"],
+      "treatment": "Antiviral medications, liver transplant (in severe cases)",
+      "prevention": "Vaccination, practicing safe sex, not sharing needles"
+    },
+    {
+      "name": "Melanoma",
+      "symptoms": ["Moles with irregular borders", "Changes in mole color or size", "Itching or bleeding moles", "Skin lesions"],
+      "treatment": "Surgery, chemotherapy, immunotherapy",
+      "prevention": "Sun protection (sunscreen, hats), avoiding tanning beds"
+    },
+    {
+      "name": "Epilepsy",
+      "symptoms": ["Seizures", "Temporary confusion", "Uncontrollable jerking movements", "Loss of consciousness"],
+      "treatment": "Antiseizure medications, ketogenic diet, surgery",
+      "prevention": "Avoiding seizure triggers (lack of sleep, alcohol)"
+    },
+    {
+      "name": "Rheumatic Fever",
+      "symptoms": ["Fever", "Joint pain", "Skin rash", "Shortness of breath"],
+      "treatment": "Antibiotics, anti-inflammatory medications",
+      "prevention": "Prompt treatment of strep throat infections"
+    },
+    {
+      "name": "Tuberculosis (TB)",
+      "symptoms": ["Coughing up blood", "Chest pain", "Fever", "Night sweats"],
+      "treatment": "Antibiotics (isoniazid, rifampin), isolation in severe cases",
+      "prevention": "TB vaccination, avoiding close contact with infected individuals"
+    },
+    {
+      "name": "Type 1 Diabetes",
+      "symptoms": ["Increased thirst", "Frequent urination", "Extreme hunger", "Unintended weight loss"],
+      "treatment": "Insulin therapy, blood sugar monitoring, healthy diet",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Glaucoma",
+      "symptoms": ["Blurred vision", "Severe eye pain", "Halos around lights", "Gradual vision loss"],
+      "treatment": "Eye drops (beta blockers, prostaglandins), surgery",
+      "prevention": "Regular eye exams, avoiding smoking"
+    },
+    {
+      "name": "Sickle Cell Anemia",
+      "symptoms": ["Fatigue", "Painful swelling of hands and feet", "Frequent infections", "Delayed growth"],
+      "treatment": "Pain medications, blood transfusions, hydroxyurea",
+      "prevention": "Genetic counseling, screening tests before pregnancy"
+    },
+    {
+      "name": "Pancreatitis",
+      "symptoms": ["Severe abdominal pain", "Nausea", "Vomiting", "Fever"],
+      "treatment": "Fasting, pain medications, IV fluids",
+      "prevention": "Limiting alcohol consumption, healthy diet"
+    },
+    {
+      "name": "Crohn's Disease",
+      "symptoms": ["Abdominal pain", "Diarrhea", "Weight loss", "Fatigue"],
+      "treatment": "Medications (anti-inflammatory drugs, immunosuppressants), surgery",
+      "prevention": "Unknown, possibly avoiding certain foods"
+    },
+    {
+      "name": "HIV/AIDS",
+      "symptoms": ["Fever", "Fatigue", "Swollen lymph nodes", "Rapid weight loss"],
+      "treatment": "Antiretroviral therapy (ART), opportunistic infection treatment",
+      "prevention": "Safe sex practices, needle exchange programs, pre-exposure prophylaxis (PrEP)"
+    },
+    {
+      "name": "Gallstones",
+      "symptoms": ["Abdominal pain", "Nausea", "Vomiting", "Fever"],
+      "treatment": "Lifestyle changes, medications (bile acid medications), surgery",
+      "prevention": "Maintaining a healthy weight, healthy diet"
+    },
+    {
+      "name": "Psoriasis",
+      "symptoms": ["Red patches of skin with silvery scales", "Itching or burning", "Thickened, pitted nails", "Joint pain"],
+      "treatment": "Topical treatments (corticosteroids, retinoids), phototherapy, biologics",
+      "prevention": "Avoiding triggers (stress, smoking)"
+    },
+    {
+      "name": "Hypothyroidism",
+      "symptoms": ["Fatigue", "Weight gain", "Dry skin", "Cold intolerance"],
+      "treatment": "Synthetic thyroid hormone replacement (levothyroxine)",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["Intense headache", "Nausea", "Sensitivity to light and sound", "Aura (visual disturbances)"],
+      "treatment": "Pain-relieving medications, preventive medications, lifestyle changes",
+      "prevention": "Identifying and avoiding triggers (certain foods, stress)"
+    },
+    {
+      "name": "Gastroenteritis",
+      "symptoms": ["Diarrhea", "Nausea", "Vomiting", "Abdominal cramps"],
+      "treatment": "Fluid replacement, rest, antiemetic medications",
+      "prevention": "Proper handwashing, safe food handling"
+    },
+    {
+      "name": "Multiple Sclerosis (MS)",
+      "symptoms": ["Fatigue", "Numbness or weakness", "Vision problems", "Difficulty with coordination and balance"],
+      "treatment": "Disease-modifying therapies, symptom management medications, physical therapy",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Fibromyalgia",
+      "symptoms": ["Widespread muscle pain", "Fatigue", "Sleep disturbances", "Cognitive difficulties"],
+      "treatment": "Medications (pain relievers, antidepressants), physical therapy, stress management",
+      "prevention": "Unknown"
+    },
+    {
+      "name": "Ovarian Cysts",
+      "symptoms": ["Pelvic pain", "Bloating", "Pressure on the bladder or rectum", "Irregular menstruation"],
+      "treatment": "Monitoring, medications (birth control pills), surgery (in severe cases)",
+      "prevention": "Unknown"
+    }
+]
