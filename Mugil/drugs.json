@@ -1,0 +1,482 @@
+[
+    {
+      "name": "Aspirin",
+      "type": "Analgesic",
+      "description": "Commonly used to reduce pain, fever, and inflammation",
+      "side_effects": ["Stomach upset", "Ulcers", "Bleeding"]
+    },
+    {
+      "name": "Ibuprofen",
+      "type": "Nonsteroidal Anti-inflammatory Drug (NSAID)",
+      "description": "Used to relieve pain, reduce inflammation, and lower fever",
+      "side_effects": ["Stomach pain", "Heartburn", "Rash"]
+    },
+    {
+      "name": "Acetaminophen (Paracetamol)",
+      "type": "Analgesic",
+      "description": "Commonly used to reduce pain and fever",
+      "side_effects": ["Liver damage (with high doses)", "Allergic reactions"]
+    },
+    {
+      "name": "Lisinopril",
+      "type": "Angiotensin-Converting Enzyme (ACE) Inhibitor",
+      "description": "Used to treat high blood pressure, heart failure, and to improve survival after heart attack",
+      "side_effects": ["Cough", "Dizziness", "Low blood pressure"]
+    },
+    {
+      "name": "Metformin",
+      "type": "Antidiabetic",
+      "description": "Used to treat type 2 diabetes",
+      "side_effects": ["Nausea", "Diarrhea", "Abdominal discomfort"]
+    },
+    {
+      "name": "Atorvastatin",
+      "type": "Statins",
+      "description": "Used to lower cholesterol levels and reduce the risk of heart disease",
+      "side_effects": ["Muscle pain", "Liver damage", "Memory loss"]
+    },
+    {
+      "name": "Albuterol",
+      "type": "Bronchodilator",
+      "description": "Used to treat asthma and chronic obstructive pulmonary disease (COPD)",
+      "side_effects": ["Tremors", "Nervousness", "Headache"]
+    },
+    {
+      "name": "Warfarin",
+      "type": "Anticoagulant (Blood Thinner)",
+      "description": "Used to prevent blood clots",
+      "side_effects": ["Bleeding", "Bruising", "Allergic reactions"]
+    },
+    {
+      "name": "Fluoxetine",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "description": "Used to treat depression, panic disorder, and obsessive-compulsive disorder (OCD)",
+      "side_effects": ["Nausea", "Insomnia", "Sexual dysfunction"]
+    },
+    {
+      "name": "Cetirizine",
+      "type": "Antihistamine",
+      "description": "Used to treat allergy symptoms such as sneezing, itching, and runny nose",
+      "side_effects": ["Drowsiness", "Dry mouth", "Headache"]
+    },
+    {
+      "name": "Levothyroxine",
+      "type": "Thyroid Hormone",
+      "description": "Used to treat hypothyroidism and prevent goiter",
+      "side_effects": ["Hair loss", "Weight changes", "Irritability"]
+    },
+    {
+      "name": "Omeprazole",
+      "type": "Proton Pump Inhibitor (PPI)",
+      "description": "Used to treat gastroesophageal reflux disease (GERD) and peptic ulcers",
+      "side_effects": ["Headache", "Nausea", "Diarrhea"]
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "type": "Diuretic",
+      "description": "Used to treat high blood pressure and edema",
+      "side_effects": ["Dizziness", "Electrolyte imbalance", "Muscle cramps"]
+    },
+    {
+      "name": "Atenolol",
+      "type": "Beta Blocker",
+      "description": "Used to treat high blood pressure and angina",
+      "side_effects": ["Fatigue", "Cold hands or feet", "Slow heart rate"]
+    },
+    {
+      "name": "Diazepam",
+      "type": "Benzodiazepine",
+      "description": "Used to treat anxiety, seizures, and muscle spasms",
+      "side_effects": ["Drowsiness", "Confusion", "Memory problems"]
+    },
+    {
+      "name": "Prednisone",
+      "type": "Corticosteroid",
+      "description": "Used to treat inflammatory conditions such as arthritis and asthma",
+      "side_effects": ["Weight gain", "Insomnia", "Mood changes"]
+    },
+    {
+      "name": "Morphine",
+      "type": "Opioid Analgesic",
+      "description": "Used to treat severe pain",
+      "side_effects": ["Drowsiness", "Nausea", "Constipation"]
+    },
+    {
+      "name": "Digoxin",
+      "type": "Cardiac Glycoside",
+      "description": "Used to treat heart failure and atrial fibrillation",
+      "side_effects": ["Nausea", "Vomiting", "Visual disturbances"]
+    },
+    {
+      "name": "Sildenafil",
+      "type": "Phosphodiesterase Inhibitor",
+      "description": "Used to treat erectile dysfunction and pulmonary arterial hypertension",
+      "side_effects": ["Headache", "Flushing", "Indigestion"]
+    },
+    {
+      "name": "Lorazepam",
+      "type": "Benzodiazepine",
+      "description": "Used to treat anxiety disorders and insomnia",
+      "side_effects": ["Drowsiness", "Weakness", "Blurred vision"]
+    },
+    {
+      "name": "Venlafaxine",
+      "type": "Serotonin-Norepinephrine Reuptake Inhibitor (SNRI)",
+      "description": "Used to treat depression, anxiety disorders, and panic disorder",
+      "side_effects": ["Nausea", "Insomnia", "Dry mouth"]
+    },
+    {
+      "name": "Metoprolol",
+      "type": "Beta Blocker",
+      "description": "Used to treat high blood pressure, angina, and heart failure",
+      "side_effects": ["Fatigue", "Dizziness", "Slow heart rate"]
+    },
+    {
+      "name": "Citalopram",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "description": "Used to treat depression and anxiety disorders",
+      "side_effects": ["Nausea", "Insomnia", "Weight changes"]
+    },
+    {
+      "name": "Carvedilol",
+      "type": "Beta Blocker",
+      "description": "Used to treat high blood pressure and heart failure",
+      "side_effects": ["Dizziness", "Fatigue", "Low blood pressure"]
+    },
+    {
+      "name": "Lansoprazole",
+      "type": "Proton Pump Inhibitor (PPI)",
+      "description": "Used to treat stomach ulcers and gastroesophageal reflux disease (GERD)",
+      "side_effects": ["Headache", "Nausea", "Diarrhea"]
+    },
+    {
+      "name": "Metronidazole",
+      "type": "Antibiotic",
+      "description": "Used to treat bacterial infections, including certain parasitic infections",
+      "side_effects": ["Nausea", "Headache", "Metallic taste in mouth"]
+    },
+    {
+      "name": "Tramadol",
+      "type": "Opioid Analgesic",
+      "description": "Used to treat moderate to severe pain",
+      "side_effects": ["Dizziness", "Nausea", "Constipation"]
+    },
+    {
+      "name": "Simvastatin",
+      "type": "Statins",
+      "description": "Used to lower cholesterol levels and reduce the risk of heart disease",
+      "side_effects": ["Muscle pain", "Liver damage", "Memory loss"]
+    },
+    {
+      "name": "Loratadine",
+      "type": "Antihistamine",
+      "description": "Used to treat allergy symptoms such as sneezing, itching, and runny nose",
+      "side_effects": ["Drowsiness", "Dry mouth", "Headache"]
+    },
+    {
+      "name": "Levofloxacin",
+      "type": "Fluoroquinolone Antibiotic",
+      "description": "Used to treat bacterial infections of the sinuses, skin, lungs, and urinary tract",
+      "side_effects": ["Nausea", "Diarrhea", "Headache"]
+    },
+    {
+      "name": "Esomeprazole",
+      "type": "Proton Pump Inhibitor (PPI)",
+      "description": "Used to treat gastroesophageal reflux disease (GERD) and peptic ulcers",
+      "side_effects": ["Headache", "Nausea", "Diarrhea"]
+    },
+    {
+      "name": "Metoclopramide",
+      "type": "Antiemetic",
+      "description": "Used to treat nausea and vomiting",
+      "side_effects": ["Drowsiness", "Restlessness", "Tardive dyskinesia"]
+    },
+    {
+      "name": "Warfarin",
+      "type": "Anticoagulant (Blood Thinner)",
+      "description": "Used to prevent blood clots",
+      "side_effects": ["Bleeding", "Bruising", "Allergic reactions"]
+    },
+    {
+      "name": "Diazepam",
+      "type": "Benzodiazepine",
+      "description": "Used to treat anxiety, seizures, and muscle spasms",
+      "side_effects": ["Drowsiness", "Confusion", "Memory problems"]
+    },
+    {
+      "name": "Prednisone",
+      "type": "Corticosteroid",
+      "description": "Used to treat inflammatory conditions such as arthritis and asthma",
+      "side_effects": ["Weight gain", "Insomnia", "Mood changes"]
+    },
+    {
+      "name": "Morphine",
+      "type": "Opioid Analgesic",
+      "description": "Used to treat severe pain",
+      "side_effects": ["Drowsiness", "Nausea", "Constipation"]
+    },
+    {
+      "name": "Digoxin",
+      "type": "Cardiac Glycoside",
+      "description": "Used to treat heart failure and atrial fibrillation",
+      "side_effects": ["Nausea", "Vomiting", "Visual disturbances"]
+    },
+    {
+      "name": "Sildenafil",
+      "type": "Phosphodiesterase Inhibitor",
+      "description": "Used to treat erectile dysfunction and pulmonary arterial hypertension",
+      "side_effects": ["Headache", "Flushing", "Indigestion"]
+    },
+    {
+      "name": "Lorazepam",
+      "type": "Benzodiazepine",
+      "description": "Used to treat anxiety disorders and insomnia",
+      "side_effects": ["Drowsiness", "Weakness", "Blurred vision"]
+    },
+    {
+      "name": "Clarithromycin",
+      "type": "Macrolide Antibiotic",
+      "description": "Used to treat bacterial infections such as pneumonia and bronchitis",
+      "side_effects": ["Nausea", "Diarrhea", "Abdominal pain"]
+    },
+    {
+      "name": "Amoxicillin",
+      "type": "Penicillin Antibiotic",
+      "description": "Used to treat bacterial infections such as pneumonia, bronchitis, and ear infections",
+      "side_effects": ["Nausea", "Diarrhea", "Rash"]
+    },
+    {
+      "name": "Ciprofloxacin",
+      "type": "Fluoroquinolone Antibiotic",
+      "description": "Used to treat bacterial infections such as urinary tract infections and pneumonia",
+      "side_effects": ["Nausea", "Diarrhea", "Headache"]
+    },
+    {
+      "name": "Hydrocodone",
+      "type": "Opioid Analgesic",
+      "description": "Used to treat moderate to severe pain",
+      "side_effects": ["Drowsiness", "Nausea", "Constipation"]
+    },
+    {
+      "name": "Amlodipine",
+      "type": "Calcium Channel Blocker",
+      "description": "Used to treat high blood pressure and chest pain (angina)",
+      "side_effects": ["Swelling in ankles or feet", "Dizziness", "Flushing"]
+    },
+    {
+      "name": "Metformin",
+      "type": "Antidiabetic",
+      "description": "Used to treat type 2 diabetes",
+      "side_effects": ["Nausea", "Diarrhea", "Abdominal discomfort"]
+    },
+    {
+      "name": "Naproxen",
+      "type": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "description": "Used to reduce pain, inflammation, and stiffness caused by conditions such as arthritis",
+      "side_effects": ["Stomach upset", "Heartburn", "Dizziness"]
+    },
+    {
+      "name": "Methotrexate",
+      "type": "Disease-Modifying Antirheumatic Drug (DMARD)",
+      "description": "Used to treat rheumatoid arthritis, psoriasis, and certain types of cancer",
+      "side_effects": ["Nausea", "Fatigue", "Hair loss"]
+    },
+    {
+      "name": "Fluticasone",
+      "type": "Corticosteroid (Nasal Spray)",
+      "description": "Used to treat nasal symptoms such as congestion, sneezing, and runny nose caused by allergies",
+      "side_effects": ["Nosebleeds", "Sore throat", "Headache"]
+    },
+    {
+      "name": "Duloxetine",
+      "type": "Serotonin-Norepinephrine Reuptake Inhibitor (SNRI)",
+      "description": "Used to treat depression, anxiety disorders, and chronic pain conditions such as fibromyalgia",
+      "side_effects": ["Nausea", "Fatigue", "Dry mouth"]
+    },
+    {
+      "name": "Pregabalin",
+      "type": "Anticonvulsant (also used for Neuropathic Pain and Anxiety)",
+      "description": "Used to treat seizures, neuropathic pain, and generalized anxiety disorder",
+      "side_effects": ["Dizziness", "Drowsiness", "Weight gain"]
+    },
+    {
+      "name": "Alprazolam",
+      "type": "Benzodiazepine",
+      "description": "Used to treat anxiety and panic disorders",
+      "side_effects": ["Drowsiness", "Dizziness", "Fatigue"]
+    },
+    {
+      "name": "Ezetimibe",
+      "type": "Cholesterol Absorption Inhibitor",
+      "description": "Used to lower cholesterol levels",
+      "side_effects": ["Diarrhea", "Abdominal pain", "Fatigue"]
+    },
+    {
+      "name": "Dulaglutide",
+      "type": "GLP-1 Receptor Agonist",
+      "description": "Used to treat type 2 diabetes",
+      "side_effects": ["Nausea", "Diarrhea", "Headache"]
+    },
+    {
+      "name": "Metronidazole",
+      "type": "Antibiotic",
+      "description": "Used to treat bacterial infections",
+      "side_effects": ["Nausea", "Headache", "Metallic taste in mouth"]
+    },
+    {
+      "name": "Cephalexin",
+      "type": "Cephalosporin Antibiotic",
+      "description": "Used to treat bacterial infections",
+      "side_effects": ["Nausea", "Diarrhea", "Stomach pain"]
+    },
+    {
+      "name": "Levothyroxine",
+      "type": "Thyroid Hormone",
+      "description": "Used to treat hypothyroidism",
+      "side_effects": ["Hair loss", "Weight changes", "Heart palpitations"]
+    },
+    {
+      "name": "Cetirizine",
+      "type": "Antihistamine",
+      "description": "Used to treat allergy symptoms",
+      "side_effects": ["Drowsiness", "Dry mouth", "Headache"]
+    },
+    {
+      "name": "Fluoxetine",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "description": "Used to treat depression, anxiety disorders, and bulimia",
+      "side_effects": ["Nausea", "Insomnia", "Weight changes"]
+    },
+    {
+      "name": "Spironolactone",
+      "type": "Diuretic",
+      "description": "Used to treat high blood pressure and heart failure",
+      "side_effects": ["Frequent urination", "Dizziness", "Breast tenderness"]
+    },
+    {
+      "name": "Quetiapine",
+      "type": "Atypical Antipsychotic",
+      "description": "Used to treat schizophrenia and bipolar disorder",
+      "side_effects": ["Drowsiness", "Weight gain", "Constipation"]
+    },
+    {
+      "name": "Ibuprofen",
+      "type": "Nonsteroidal Anti-Inflammatory Drug (NSAID)",
+      "description": "Used to reduce pain, inflammation, and fever",
+      "side_effects": ["Stomach upset", "Heartburn", "Dizziness"]
+    },
+    {
+      "name": "Atorvastatin",
+      "type": "Statins",
+      "description": "Used to lower cholesterol and reduce the risk of heart disease",
+      "side_effects": ["Muscle pain", "Liver damage", "Digestive problems"]
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "type": "Diuretic",
+      "description": "Used to treat high blood pressure and edema",
+      "side_effects": ["Frequent urination", "Dizziness", "Low potassium levels"]
+    },
+    {
+      "name": "Omeprazole",
+      "type": "Proton Pump Inhibitor (PPI)",
+      "description": "Used to reduce stomach acid and treat conditions like GERD and ulcers",
+      "side_effects": ["Headache", "Nausea", "Diarrhea"]
+    },
+    {
+      "name": "Losartan",
+      "type": "Angiotensin II Receptor Blocker (ARB)",
+      "description": "Used to treat high blood pressure and heart failure",
+      "side_effects": ["Dizziness", "Fatigue", "Low blood pressure"]
+    },
+    {
+      "name": "Simvastatin",
+      "type": "Statins",
+      "description": "Used to lower cholesterol and reduce the risk of heart disease",
+      "side_effects": ["Muscle pain", "Liver damage", "Memory loss"]
+    },
+    {
+      "name": "Metformin",
+      "type": "Biguanide",
+      "description": "Used to treat type 2 diabetes",
+      "side_effects": ["Nausea", "Diarrhea", "Abdominal discomfort"]
+    },
+    {
+      "name": "Prednisone",
+      "type": "Corticosteroid",
+      "description": "Used to treat inflammatory conditions like arthritis and asthma",
+      "side_effects": ["Weight gain", "Insomnia", "Mood changes"]
+    },
+    {
+      "name": "Furosemide",
+      "type": "Loop Diuretic",
+      "description": "Used to treat edema and high blood pressure",
+      "side_effects": ["Frequent urination", "Dizziness", "Low potassium levels"]
+    },
+    {
+      "name": "Citalopram",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "description": "Used to treat depression and anxiety disorders",
+      "side_effects": ["Nausea", "Insomnia", "Weight changes"]
+    },
+    {
+      "name": "Venlafaxine",
+      "type": "Serotonin-Norepinephrine Reuptake Inhibitor (SNRI)",
+      "description": "Used to treat depression, anxiety disorders, and panic disorder",
+      "side_effects": ["Nausea", "Headache", "Insomnia"]
+    },
+    {
+      "name": "Oxycodone",
+      "type": "Opioid Analgesic",
+      "description": "Used to treat moderate to severe pain",
+      "side_effects": ["Drowsiness", "Constipation", "Nausea"]
+    },
+    {
+      "name": "Risperidone",
+      "type": "Atypical Antipsychotic",
+      "description": "Used to treat schizophrenia and bipolar disorder",
+      "side_effects": ["Weight gain", "Drowsiness", "Tremors"]
+    },
+    {
+      "name": "Escitalopram",
+      "type": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+      "description": "Used to treat depression and anxiety disorders",
+      "side_effects": ["Nausea", "Insomnia", "Fatigue"]
+    },
+    {
+      "name": "Tramadol",
+      "type": "Opioid Analgesic",
+      "description": "Used to treat moderate to severe pain",
+      "side_effects": ["Nausea", "Dizziness", "Constipation"]
+    },
+    {
+      "name": "Carvedilol",
+      "type": "Beta Blocker",
+      "description": "Used to treat high blood pressure and heart failure",
+      "side_effects": ["Dizziness", "Fatigue", "Low blood pressure"]
+    },
+    {
+      "name": "Olanzapine",
+      "type": "Atypical Antipsychotic",
+      "description": "Used to treat schizophrenia and bipolar disorder",
+      "side_effects": ["Weight gain", "Drowsiness", "Dry mouth"]
+    },
+    {
+      "name": "Fluconazole",
+      "type": "Antifungal",
+      "description": "Used to treat fungal infections",
+      "side_effects": ["Nausea", "Headache", "Abdominal pain"]
+    },
+    {
+      "name": "Rosuvastatin",
+      "type": "Statins",
+      "description": "Used to lower cholesterol levels",
+      "side_effects": ["Muscle pain", "Liver problems", "Headache"]
+    },
+    {
+      "name": "Methylphenidate",
+      "type": "Central Nervous System Stimulant",
+      "description": "Used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy",
+      "side_effects": ["Loss of appetite", "Insomnia", "Nervousness"]
+    }
+]
