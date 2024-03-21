@@ -1,5 +1,4 @@
 Here is a summary of the goods dataset:
-
 Maximum Price: $799.99
 Minimum Price: $9.99
 Average Price: $76.31
