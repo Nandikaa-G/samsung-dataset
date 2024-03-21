@@ -1,15 +1,10 @@
 Average Goals Scored and Assists:
-
 Calculate the average number of goals scored and assists across all players in the dataset.
 Top 3 Players by Goals Scored:
-
 Identify the top 3 players with the highest number of goals scored.
 Top 3 Players by Assists:
-
 Identify the top 3 players with the highest number of assists.
 Distribution of Goals and Assists:
-
 Create histograms or frequency distributions to visualize the distribution of goals and assists.
 Club-wise Analysis:
-
 Analyze the performance of players in different clubs based on goals and assists.
