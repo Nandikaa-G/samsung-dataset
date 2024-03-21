@@ -1,21 +1,16 @@
 Foods and Calories Dataset Summary:
 Average and Maximum Statistics:
-
 Average Calories: Approximately 348
 Maximum Calories: Double Bacon Cheeseburger with 720 calories
 Minimum Calories: Steamed Broccoli with 45 calories
 Distribution of Categories:
-
 Diverse categories including Salad, Pasta, Pizza, Seafood, Grains, Burger, Dessert, Vegetables, Chicken, and Beverage.
 High-Calorie Foods:
-
 Double Bacon Cheeseburger is the highest-calorie food with 720 calories.
 Other high-calorie foods include BBQ Bacon Burger (650 calories) and Cheeseburger (590 calories).
 Low-Calorie Foods:
-
 Steamed Broccoli is the lowest-calorie food with 45 calories.
 Other low-calorie foods include Sauteed Spinach (50 calories) and Grilled Zucchini (65 calories).
 Category-wise Analysis:
-
 Desserts and Burgers tend to be higher in calories on average.
 Salads, Seafood, and Vegetables tend to be lower in calories on average.
