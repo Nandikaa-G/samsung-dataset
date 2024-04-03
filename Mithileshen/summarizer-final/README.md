@@ -1,4 +1,4 @@
-# SumBot
+# Summarizer
 Summarize structured JSON data into LLM produced, semantically rich paragraphs.
 
 ## Local Installation
