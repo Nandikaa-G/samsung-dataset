@@ -1,5 +1,7 @@
 # Summarizer
 Summarize structured JSON data into LLM produced, semantically rich paragraphs.
+## Demo link
+https://drive.google.com/file/d/12ZMSaPqyDALOi50yGZ728YZKsFJ0_iyP/view?usp=sharing
 
 ## Local Installation
 
